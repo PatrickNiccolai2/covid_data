@@ -11,3 +11,5 @@ Data from: https://ourworldindata.org/coronavirus and https://www.unicef.org/sup
 `vaccine_donatations.csv` has data by country for the total vaccines that country donated. It does not have donations to COVAX vs. other donations. 
 
 `vaccine_sentiment.csv` has data from surveys given to unvaccinated people on whether or not they would get vaccinated. It only has data for a limited amount of countries. 
+
+`deliveries_by_country_by_month.csv` has data on vaccine deliveries, both COVAX and non-COVAX, separated by country and by month.
