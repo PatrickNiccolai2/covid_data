@@ -1,9 +1,0 @@
-If you are booked in today for your #CovidVaccine please take it easy - DON’T rush &amp; DON’T arrive too early,  the vaccine will be there for you ❄️❄️❄️ https://t.co/y8QVZVuhsi
-
-2021-01-24 09:34:36+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='55485f68a3057620', url='https://api.twitter.com/1.1/geo/id/55485f68a3057620.json', place_type='city', name='Solihull', full_name='Solihull, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.869112, 52.381169], [-1.7058792, 52.381169], [-1.7058792, 52.513283], [-1.869112, 52.513283]]]), attributes={})
-
-1353274996815179776

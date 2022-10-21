@@ -1,9 +1,0 @@
-@bensonwkane @GalSitty @MichaelNorris61 @vtbirkenstock @NattaliaNealls @JoeBiden They can’t let Trump win so they’d rather see people die waiting for the vaccine. Do y’all pay attention?
-
-2021-01-23 23:59:13+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='9443cffd2ab322c3', url='https://api.twitter.com/1.1/geo/id/9443cffd2ab322c3.json', place_type='city', name='Westlake', full_name='Westlake, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-97.228766, 32.960349], [-97.161943, 32.960349], [-97.161943, 33.008158], [-97.228766, 33.008158]]]), attributes={})
-
-1353130196929568784

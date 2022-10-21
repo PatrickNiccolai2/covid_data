@@ -1,9 +1,0 @@
-@catchingthegos @fmwales If you knew it wasn’t a vaccine why make a reference to it as such? I’m really curious why ppl are always using a sedative as their example why the Covid vaccine is bad.
-
-2021-01-24 01:14:05+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='08a6a7a84eddcc9c', url='https://api.twitter.com/1.1/geo/id/08a6a7a84eddcc9c.json', place_type='city', name='Perth', full_name='Perth, Ontario', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-76.2825899, 44.873812], [-76.223468, 44.873812], [-76.223468, 44.924439], [-76.2825899, 44.924439]]]), attributes={})
-
-1353149039433408512

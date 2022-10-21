@@ -1,9 +1,0 @@
-I got my vaccine yesterday 🙌🏽 #vaxup #modernavaccine https://t.co/aRM5Zv9rJ4
-
-2021-01-23 23:23:05+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0172552d7a380653', url='https://api.twitter.com/1.1/geo/id/0172552d7a380653.json', place_type='city', name='Valencia West', full_name='Valencia West, AZ', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-111.16794, 32.1042672], [-111.0861188, 32.1042672], [-111.0861188, 32.155128], [-111.16794, 32.155128]]]), attributes={})
-
-1353121105205026817

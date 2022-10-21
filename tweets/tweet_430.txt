@@ -1,9 +1,0 @@
-@MattHancock @BorisJohnson flu kills our frail and elderly in their thousands every winter. You’re now killing our economy, education, healthcare, societal norms and your one trick pony advisers are basically saying the vaccines are pointless. You need to change tack.
-
-2021-01-24 09:18:50+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6f5c95da3e1c9998', url='https://api.twitter.com/1.1/geo/id/6f5c95da3e1c9998.json', place_type='city', name='Bulford', full_name='Bulford, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.7851318, 51.186259], [-1.716313, 51.186259], [-1.716313, 51.20512], [-1.7851318, 51.20512]]]), attributes={})
-
-1353271028496084993

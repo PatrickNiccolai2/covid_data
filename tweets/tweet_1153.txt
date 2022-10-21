@@ -1,9 +1,0 @@
-I love that in my country we praise the institute that create our own version of the covid vaccine with a funk music 😌 https://t.co/qn18UzMpxc
-
-2021-01-24 00:09:56+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='b87b05856ab8dbd8', url='https://api.twitter.com/1.1/geo/id/b87b05856ab8dbd8.json', place_type='city', name='Yonkers', full_name='Yonkers, NY', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-73.911271, 40.900789], [-73.810443, 40.900789], [-73.810443, 40.988346], [-73.911271, 40.988346]]]), attributes={})
-
-1353132891656630279

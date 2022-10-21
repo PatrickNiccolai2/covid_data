@@ -1,9 +1,0 @@
-Whilst we are seeing good news as far as the vaccine is concerned, the pandemic will leave behind a different and possibly equally destructive kind of virus; a #wellbeing one. #Covid19UK #mentalhealth #Entrepreneur @monzo @tomblomfield @annafmenin @letsreset1 https://t.co/O0qF7nGziu
-
-2021-01-24 10:15:36+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='02a7335f78e9edc8', url='https://api.twitter.com/1.1/geo/id/02a7335f78e9edc8.json', place_type='city', name='Perranporth', full_name='Perranporth, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-5.164122, 50.326463], [-5.1385581, 50.326463], [-5.1385581, 50.348642], [-5.164122, 50.348642]]]), attributes={})
-
-1353285315671306241

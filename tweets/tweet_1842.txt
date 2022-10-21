@@ -1,9 +1,0 @@
-UK Government: All pharmacies should to be able to play a part in the UK's Covid-19 vaccine programme - Sign the Petition! https://t.co/34w0yJXEl4 via @UKChange
-
-2021-01-23 19:18:59+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5180b1f18e18839c', url='https://api.twitter.com/1.1/geo/id/5180b1f18e18839c.json', place_type='city', name='Easingwold', full_name='Easingwold, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.20975, 54.113544], [-1.181776, 54.113544], [-1.181776, 54.1309023], [-1.20975, 54.1309023]]]), attributes={})
-
-1353059672123555843

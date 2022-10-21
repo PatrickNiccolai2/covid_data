@@ -1,9 +1,0 @@
-@JDScholten I’m in Kansas City. They’re still vaccinating health care workers. Pretty sure we’ll get the vaccine sometime in 2022.
-
-2021-01-24 05:55:54+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='e5731aae9bb5e805', url='https://api.twitter.com/1.1/geo/id/e5731aae9bb5e805.json', place_type='city', name='Gladstone', full_name='Gladstone, MO', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-94.593389, 39.1737377], [-94.529799, 39.1737377], [-94.529799, 39.235151], [-94.593389, 39.235151]]]), attributes={})
-
-1353219958646444032

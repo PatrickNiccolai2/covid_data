@@ -1,9 +1,0 @@
-@AndrewLlewelly3 @jamiepock https://t.co/iSj5qQytGR most of their concern is with Pfizer.
-
-2021-01-24 10:10:23+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='529fd82bde294211', url='https://api.twitter.com/1.1/geo/id/529fd82bde294211.json', place_type='city', name='Barlow', full_name='Barlow, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.0322365, 53.7463203], [-1.0117673, 53.7463203], [-1.0117673, 53.752424], [-1.0322365, 53.752424]]]), attributes={})
-
-1353284003923709952

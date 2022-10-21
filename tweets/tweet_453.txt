@@ -1,9 +1,0 @@
-@kendal0571 @VicFabris @McGeerafe @irda12 @ClareBabbs @smartymartycavy @Novavax @SynexusClinics It strikes me that as soon as cleared for use in the UK, the trial is as good as done for UK trialists, especially when offered an NHS vaccine. Who knows how long we would have to wait for a 2nd offer if we decline the 1st? Too risky imo &amp; waiting should not be encouraged
-
-2021-01-24 09:05:00+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6bc1630ac15fbcaa', url='https://api.twitter.com/1.1/geo/id/6bc1630ac15fbcaa.json', place_type='city', name='West Bromwich', full_name='West Bromwich, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.0971002, 52.460709], [-1.921566, 52.460709], [-1.921566, 52.569037], [-2.0971002, 52.569037]]]), attributes={})
-
-1353267546875695104

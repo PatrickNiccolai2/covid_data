@@ -1,9 +1,0 @@
-I have to beg the question, if the vaccine isn't effective til after the 2nd dose what is the point of millions of people being semi-vaccinated? And if you wait too long to give the 2nd dose will it be as effective? If not, millions will think they are safe when they're not 😥
-
-2021-01-23 20:55:16+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7eb11aafbb332b32', url='https://api.twitter.com/1.1/geo/id/7eb11aafbb332b32.json', place_type='city', name='Belton', full_name='Belton, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.342012, 52.7789375], [-1.334309, 52.7789375], [-1.334309, 52.7848646], [-1.342012, 52.7848646]]]), attributes={})
-
-1353083905084182528

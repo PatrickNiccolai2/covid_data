@@ -1,9 +1,0 @@
-@annie61smith4 @atrupar @PamelaBrownCNN Hopefully we can celebrate in lesson soon, when we all get our vaccines! Fingers crossed! 🥂
-
-2021-01-24 02:19:46+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3d533362cdab8107', url='https://api.twitter.com/1.1/geo/id/3d533362cdab8107.json', place_type='city', name='Irvine', full_name='Irvine, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-117.86894, 33.606077], [-117.695781, 33.606077], [-117.695781, 33.773387], [-117.86894, 33.773387]]]), attributes={})
-
-1353165566165479425

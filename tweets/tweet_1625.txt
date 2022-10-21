@@ -1,9 +1,0 @@
-Just so we know who we’re talking about here: “Rep. Steve Stivers, a Republican from Ohio, suggested checks go to people who’ve received the coronavirus vaccine.”  Give him some oxygen so his brain will function again. 🤦‍♂️ https://t.co/DOMpMjjPcw
-
-2021-01-23 20:47:33+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1c69a67ad480e1b1', url='https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json', place_type='city', name='Houston', full_name='Houston, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-95.823268, 29.522325], [-95.069705, 29.522325], [-95.069705, 30.1546646], [-95.823268, 30.1546646]]]), attributes={})
-
-1353081961036849153

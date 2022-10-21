@@ -1,9 +1,0 @@
-Is it a rule that before you get the Covid vaccine you have to agree to post it on social media afterwards??? jesus man
-
-2021-01-24 02:03:57+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='733af4734cdc6d4a', url='https://api.twitter.com/1.1/geo/id/733af4734cdc6d4a.json', place_type='city', name='Holyhead', full_name='Holyhead, Wales', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-4.664253, 53.297177], [-4.614824, 53.297177], [-4.614824, 53.318999], [-4.664253, 53.318999]]]), attributes={})
-
-1353161588086345729

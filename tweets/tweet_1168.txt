@@ -1,9 +1,0 @@
-This is disgusting and another shameful decision by Tories 😡 The two nurses who cared for @BorisJohnson and who he couldn’t thank enough are not entitled to the vaccine! #COVIDVaccination #BorisHasFailedTheNation https://t.co/qco8wVPlq2
-
-2021-01-24 00:03:39+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='18a29a7785e79ccb', url='https://api.twitter.com/1.1/geo/id/18a29a7785e79ccb.json', place_type='city', name='Hadley', full_name='Hadley, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.5114812, 52.6876148], [-2.462159, 52.6876148], [-2.462159, 52.7200635], [-2.5114812, 52.7200635]]]), attributes={})
-
-1353131314212446208

@@ -1,9 +1,0 @@
-🇧🇷 Dra. Margareth Dalcolmo, médica e pesquisadora da @fiocruz, é uma das primeiras pessoas do país a receber dose da vacina Oxford/AstraZeneca contra a #Covid19 https://t.co/3pLt7QLyfR
-
-2021-01-23 20:40:02+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='68e019afec7d0ba5', url='https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json', place_type='city', name='Sao Paulo', full_name='Sao Paulo, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-46.826039, -24.008814], [-46.365052, -24.008814], [-46.365052, -23.356792], [-46.826039, -23.356792]]]), attributes={})
-
-1353080069758062597

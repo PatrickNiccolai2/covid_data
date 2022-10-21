@@ -1,9 +1,0 @@
-@Magoo302 @delawareonline @JohnCarneyDE @jwstarkey @WDEL @acherry13 @LarryForDel @KyleEvansGay @SarahEMcBride Not yet. We don't have clinics scheduled beyond this weekend. We have to wait for more vaccine from the federal government to arrive.
-
-2021-01-24 03:24:50+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='92291a71f0bfba69', url='https://api.twitter.com/1.1/geo/id/92291a71f0bfba69.json', place_type='city', name='Bear', full_name='Bear, DE', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-75.716794, 39.599414], [-75.6457506, 39.599414], [-75.6457506, 39.638355], [-75.716794, 39.638355]]]), attributes={})
-
-1353181943354036224

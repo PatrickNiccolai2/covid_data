@@ -1,9 +1,0 @@
-was gonna finish my season on football manager last night but had a bottle of red wine listening to the vaccines instead ... what a sad little life
-
-2021-01-24 12:42:46+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1dfd202acdd8c730', url='https://api.twitter.com/1.1/geo/id/1dfd202acdd8c730.json', place_type='city', name='Scunthorpe', full_name='Scunthorpe, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.6933614, 53.5534827], [-0.590508, 53.5534827], [-0.590508, 53.6262938], [-0.6933614, 53.6262938]]]), attributes={})
-
-1353322349903437824

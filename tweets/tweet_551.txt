@@ -1,9 +1,0 @@
-Took the 1st dose of #Covaxin ...not a single side effect or uneasiness felt...#COVID19Vaccine being administered in India are absolutely safe...don't hesitate, just go for it...let's defeat #Covid_19 https://t.co/Mg4GPMSifW
-
-2021-01-24 08:13:38+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='404494447ad0eb09', url='https://api.twitter.com/1.1/geo/id/404494447ad0eb09.json', place_type='city', name='Bhubaneshwar', full_name='Bhubaneshwar, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[85.624118, 20.064307], [86.082706, 20.064307], [86.082706, 20.43391], [85.624118, 20.43391]]]), attributes={})
-
-1353254622152990721

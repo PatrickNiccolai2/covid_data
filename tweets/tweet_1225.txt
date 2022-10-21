@@ -1,9 +1,0 @@
-@RaxKingIsDead This hits me at just the right place although it was always malts. B&amp;W is the only type of chocolate milkshake worth anything. I’m blessed he is still around and got his vaccine.
-
-2021-01-23 23:39:17+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='dea1eac2d7ef8878', url='https://api.twitter.com/1.1/geo/id/dea1eac2d7ef8878.json', place_type='admin', name='Maryland', full_name='Maryland, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-79.487651, 37.886607], [-74.986286, 37.886607], [-74.986286, 39.723622], [-79.487651, 39.723622]]]), attributes={})
-
-1353125178868457472

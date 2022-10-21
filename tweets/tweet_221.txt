@@ -1,9 +1,0 @@
-Vaughan Gething on the TV. Mum suddenly informs me that she had the vaccine yesterday. I beat my head against the nearest wall, then go into the garden and eat worms. https://t.co/u8kpqpHfXS
-
-2021-01-24 11:11:25+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='33f9e8492b37cdb1', url='https://api.twitter.com/1.1/geo/id/33f9e8492b37cdb1.json', place_type='city', name='Carmarthen', full_name='Carmarthen, Wales', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-4.338607, 51.841424], [-4.277656, 51.841424], [-4.277656, 51.875884], [-4.338607, 51.875884]]]), attributes={})
-
-1353299359962705920

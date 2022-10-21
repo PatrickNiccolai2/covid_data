@@ -1,9 +1,0 @@
-@PaulMIL87122911 @problem_we @LynneYorkshire @BorisJohnson Apparently only 11000 flu deaths instead of the normal 30K-50K,that tells you all you need to know 🤔
-
-2021-01-24 11:47:48+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4caac408027bf2e3', url='https://api.twitter.com/1.1/geo/id/4caac408027bf2e3.json', place_type='city', name='Lincoln', full_name='Lincoln, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.5993999, 53.186267], [-0.49538, 53.186267], [-0.49538, 53.2551753], [-0.5993999, 53.2551753]]]), attributes={})
-
-1353308516392513536

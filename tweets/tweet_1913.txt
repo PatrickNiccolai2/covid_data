@@ -1,9 +1,0 @@
-@midlifemix @ArthBychan @bongbrummie What happens when you get a new patient who has had an organ transplant- because of the immuno suppressant medication they are on, they can’t have the vaccine.
-
-2021-01-23 18:57:57+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='28679b23ed15b380', url='https://api.twitter.com/1.1/geo/id/28679b23ed15b380.json', place_type='city', name='Belfast', full_name='Belfast, Northern Ireland', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-6.0361161, 54.543241], [-5.8207101, 54.543241], [-5.8207101, 54.6484968], [-6.0361161, 54.6484968]]]), attributes={})
-
-1353054381629976578

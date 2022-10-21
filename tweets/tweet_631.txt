@@ -1,9 +1,0 @@
-@phlogga Award should wait until we get the best vaccines. The state CHOs did the heavy lifting and could get a resilience award for not listening to bad federal advice.
-
-2021-01-24 06:57:24+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01864a8a64df9dc4', url='https://api.twitter.com/1.1/geo/id/01864a8a64df9dc4.json', place_type='city', name='Melbourne', full_name='Melbourne, Victoria', country_code='AU', country='Australia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[144.593741856, -38.433859306], [145.512528832, -38.433859306], [145.512528832, -37.5112737225], [144.593741856, -37.5112737225]]]), attributes={})
-
-1353235436924112896

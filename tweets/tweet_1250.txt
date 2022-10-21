@@ -1,9 +1,0 @@
-@aricj @shandro @jkenney how about this idea Ty , Don .. Like European countries who also  have “setbacks  “ in vaccine supply due to Pfizer shutdown have Alberta buy the Russian vaccine.. think it over .. yea I thought so ..   #COVID19AB #Alberta #VaccineStrategy @DonBraid
-
-2021-01-23 23:28:48+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6a6d896ba1cb5dc4', url='https://api.twitter.com/1.1/geo/id/6a6d896ba1cb5dc4.json', place_type='city', name='Edmonton', full_name='Edmonton, Alberta', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-113.71368, 53.395531], [-113.271555, 53.395531], [-113.271555, 53.7161084], [-113.71368, 53.7161084]]]), attributes={})
-
-1353122540898508800

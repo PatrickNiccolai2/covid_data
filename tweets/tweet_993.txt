@@ -1,9 +1,0 @@
-Why y’all be so mad people don’t want to take the vaccine?
-
-2021-01-24 01:51:32+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0c7c2d7e86f51e3b', url='https://api.twitter.com/1.1/geo/id/0c7c2d7e86f51e3b.json', place_type='city', name='Parma Heights', full_name='Parma Heights, OH', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-81.784858, 41.37066], [-81.744462, 41.37066], [-81.744462, 41.405017], [-81.784858, 41.405017]]]), attributes={})
-
-1353158462583283712

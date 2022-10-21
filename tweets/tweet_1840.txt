@@ -1,9 +1,0 @@
-@tomcoates @mikeindustries My wife has been teaching full-time since September in New Jersey in person. I guess a lot of places are still closed. If she is considered “essential,” to be there in person, I think it’s fair to get them on the list for vaccines.
-
-2021-01-23 19:21:30+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='26f7e7c6999f79a7', url='https://api.twitter.com/1.1/geo/id/26f7e7c6999f79a7.json', place_type='city', name='Haddonfield', full_name='Haddonfield, NJ', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-75.051452, 39.873035], [-75.016426, 39.873035], [-75.016426, 39.916621], [-75.051452, 39.916621]]]), attributes={})
-
-1353060308663767042

@@ -1,9 +1,0 @@
-@Based_Jedi Your prisoners will get the vaccine before your law-abiding elderly, that’s  how #MA is rolling.
-
-2021-01-24 10:05:33+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='fbe7a12a76a49216', url='https://api.twitter.com/1.1/geo/id/fbe7a12a76a49216.json', place_type='city', name='Marlborough', full_name='Marlborough, MA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-71.625705, 42.3109818], [-71.475702, 42.3109818], [-71.475702, 42.380659], [-71.625705, 42.380659]]]), attributes={})
-
-1353282785943937025

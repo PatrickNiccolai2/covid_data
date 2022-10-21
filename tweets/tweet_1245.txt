@@ -1,9 +1,0 @@
-@DailyCaller You expected Trump to, let's all go back an read what' was said, now after we have a vaccine we can change its Trajectory.
-
-2021-01-23 23:33:03+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='c309c6a6f85110cd', url='https://api.twitter.com/1.1/geo/id/c309c6a6f85110cd.json', place_type='city', name='Clinton', full_name='Clinton, MI', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-82.9732981, 42.539309], [-82.855854, 42.539309], [-82.855854, 42.630481], [-82.9732981, 42.630481]]]), attributes={})
-
-1353123612618874881

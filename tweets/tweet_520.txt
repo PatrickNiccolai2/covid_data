@@ -1,9 +1,0 @@
-@leballotvl @MmakgoshiLinda The way you responded its not what juju always emphasises..dont give land to djs what will they do with land ..here the guy is talking amid the pandemic when we are relying on foreign countries to do vaccines then we buy ..why not us venturing into it hence we have specialists?
-
-2021-01-24 08:28:49+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='520c2f1889369cd6', url='https://api.twitter.com/1.1/geo/id/520c2f1889369cd6.json', place_type='city', name='Etwatwa', full_name='Etwatwa, South Africa', country_code='ZA', country='South Africa', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[28.4206798, -26.1363757], [28.4963169, -26.1363757], [28.4963169, -26.0821279], [28.4206798, -26.0821279]]]), attributes={})
-
-1353258440685191176

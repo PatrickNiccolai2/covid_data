@@ -1,9 +1,0 @@
-First dose of the vaccine down!
-
-2021-01-23 22:06:58+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='11dca7bc7614f000', url='https://api.twitter.com/1.1/geo/id/11dca7bc7614f000.json', place_type='poi', name="Brigham and Women's Hospital", full_name="Brigham and Women's Hospital", country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-71.10712088186774, 42.33599207260953], [-71.10712088186774, 42.33599207260953], [-71.10712088186774, 42.33599207260953], [-71.10712088186774, 42.33599207260953]]]), attributes={})
-
-1353101946224312326

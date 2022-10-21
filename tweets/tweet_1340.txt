@@ -1,9 +1,0 @@
-Excited, nervous, &amp; hopeful: the look on ppls faces today as they queued up for COVID19 vaccine shots. Outstanding set up: THX TO OHSU @OHSUNews, Red Cross Cascades @RedCrossCasc, PDX Airport @flypdx! @POTUS @OregonGovBrown @dkafoury #volunteercarflagger https://t.co/9LFvllApkr
-
-2021-01-23 22:57:28+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='07d9ed1e7e081000', url='https://api.twitter.com/1.1/geo/id/07d9ed1e7e081000.json', place_type='poi', name='PDX Airport Red Lot', full_name='PDX Airport Red Lot', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.55600929260254, 45.57827364780363], [-122.55600929260254, 45.57827364780363], [-122.55600929260254, 45.57827364780363], [-122.55600929260254, 45.57827364780363]]]), attributes={})
-
-1353114658203287552

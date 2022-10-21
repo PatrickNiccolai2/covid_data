@@ -1,9 +1,0 @@
-@A_Research_Guru @mikesatz I think that’s exactly the plan President Biden is pushing to states: “Mr. Biden is encouraging states to offer vaccines to anyone 65 years and older, as well as front-line workers such as teachers, first responders and grocery-store employees.” https://t.co/v4cgfdTWG3
-
-2021-01-24 03:53:52+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='737fcb9daae404ac', url='https://api.twitter.com/1.1/geo/id/737fcb9daae404ac.json', place_type='city', name='Boise', full_name='Boise, ID', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-116.374494, 43.510172], [-116.101508, 43.510172], [-116.101508, 43.685894], [-116.374494, 43.685894]]]), attributes={})
-
-1353189247243587586

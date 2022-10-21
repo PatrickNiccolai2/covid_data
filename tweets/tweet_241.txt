@@ -1,9 +1,0 @@
-@IvoVegter People get the flu vaccine every year to enrich pharmaceutical companies and still get the flu. A vaccine won't make COVID-19 go away.
-
-2021-01-24 11:04:09+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0e587c59401d0a27', url='https://api.twitter.com/1.1/geo/id/0e587c59401d0a27.json', place_type='city', name='Pretoria', full_name='Pretoria, South Africa', country_code='ZA', country='South Africa', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[27.9483035, -25.9157727], [28.4198285, -25.9157727], [28.4198285, -25.5894376], [27.9483035, -25.5894376]]]), attributes={})
-
-1353297533104250880

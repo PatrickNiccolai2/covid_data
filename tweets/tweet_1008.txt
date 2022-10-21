@@ -1,9 +1,0 @@
-@RonSarkar @dj7102 I have an appointment  for a vaccine  on Tues. As a good old girl raised on farms in Tennessee, you would think I'm immune to most anything.
-
-2021-01-24 01:43:26+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4ec01c9dbc693497', url='https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json', place_type='admin', name='Florida', full_name='Florida, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-87.634643, 24.396308], [-79.974307, 24.396308], [-79.974307, 31.001056], [-87.634643, 31.001056]]]), attributes={})
-
-1353156424302473216

@@ -1,9 +1,0 @@
-I knew there would be problems when the state gave the vaccines for the pharmacies to dispense. I think there is some gatekeeping going on with these pharmacies and clinics. https://t.co/dpc5kevA4W
-
-2021-01-24 04:58:15+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='300bcc6e23a88361', url='https://api.twitter.com/1.1/geo/id/300bcc6e23a88361.json', place_type='city', name='Seattle', full_name='Seattle, WA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.436232, 47.4953154], [-122.2249728, 47.4953154], [-122.2249728, 47.734319], [-122.436232, 47.734319]]]), attributes={})
-
-1353205451651862529

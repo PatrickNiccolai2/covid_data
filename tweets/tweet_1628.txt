@@ -1,9 +1,0 @@
-@gr33nbot @emanon144 Unreal. I know autism is on the rise. The experts have blamed it on so many different things from vaccines to older men’s sperm. I would think that they’d prioritize and pin the cause down.
-
-2021-01-23 20:46:37+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3f7a925ec706ea48', url='https://api.twitter.com/1.1/geo/id/3f7a925ec706ea48.json', place_type='city', name='Lakeland', full_name='Lakeland, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-82.042715, 27.968692], [-81.902695, 27.968692], [-81.902695, 28.13051], [-82.042715, 28.13051]]]), attributes={})
-
-1353081726902394880

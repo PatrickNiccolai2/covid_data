@@ -1,9 +1,0 @@
-@Lisa_McNally1 Great to hear your mum has got the vaccine!!
-
-2021-01-24 10:28:46+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='52e6f17df9e90c0a', url='https://api.twitter.com/1.1/geo/id/52e6f17df9e90c0a.json', place_type='city', name='Kingswood', full_name='Kingswood, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.5319095, 51.425885], [-2.453106, 51.425885], [-2.453106, 51.5057553], [-2.5319095, 51.5057553]]]), attributes={})
-
-1353288627137220608

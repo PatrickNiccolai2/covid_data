@@ -1,9 +1,0 @@
-@Chrissy1b I had an injection against flu years ago where I nearly died  and I am also painfully allergic to mouth medicines and any vaccine HAS to involve injecting a small amount of the disease it is trying to prevent into you?? - Nah I will take my chance
-
-2021-01-23 23:04:10+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1e9723ba6d4baed9', url='https://api.twitter.com/1.1/geo/id/1e9723ba6d4baed9.json', place_type='city', name='Ryton', full_name='Ryton, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.7987451, 54.949243], [-1.726482, 54.949243], [-1.726482, 54.9779831], [-1.7987451, 54.9779831]]]), attributes={})
-
-1353116344389144576

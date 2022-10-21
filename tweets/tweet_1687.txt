@@ -1,9 +1,0 @@
-.@CDCgov @MDAndersonNews @TNDeptofHealth. @tmprowell posted nursing homes staff not required to be vaccinated have much higher pt death rates. Strong indication at home #caregivers for at risk pts need to be moved up on the vaccine rollouts. #Cancer #CovidVaccine #Tennessee https://t.co/3XWdcKO5Wy
-
-2021-01-23 20:25:21+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='64ab889e24887e12', url='https://api.twitter.com/1.1/geo/id/64ab889e24887e12.json', place_type='city', name='Collierville', full_name='Collierville, TN', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-89.7444626, 35.006217], [-89.640889, 35.006217], [-89.640889, 35.110826], [-89.7444626, 35.110826]]]), attributes={})
-
-1353076376505487362

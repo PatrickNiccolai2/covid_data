@@ -1,9 +1,0 @@
-Ken Branagh To Play Boris Johnson In Michael Winterbottom COVID Drama 'This Sceptred Isle' For Sky Atlantic https://t.co/upjQJEgxdv via @geektown
-
-2021-01-23 19:01:30+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='544762ebf7fda780', url='https://api.twitter.com/1.1/geo/id/544762ebf7fda780.json', place_type='city', name='Islington', full_name='Islington, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.1420579, 51.5185518], [-0.076305, 51.5185518], [-0.076305, 51.575301], [-0.1420579, 51.575301]]]), attributes={})
-
-1353055272743235585

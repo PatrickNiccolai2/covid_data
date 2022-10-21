@@ -1,9 +1,0 @@
-@LearnThinkVote @Torbeasy @WhiteHouse Exactly. I am not even gonna try and see if I can get a vaccine until mid March. If I can get it earlier, I will take it.
-
-2021-01-23 23:06:28+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='43d2418301bf1a49', url='https://api.twitter.com/1.1/geo/id/43d2418301bf1a49.json', place_type='admin', name='Mississippi', full_name='Mississippi, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-91.655009, 30.146096], [-88.097889, 30.146096], [-88.097889, 34.995968], [-91.655009, 34.995968]]]), attributes={})
-
-1353116921382711297

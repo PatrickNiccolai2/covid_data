@@ -1,9 +1,0 @@
-@TheDA_UK @MattHancock @cajardineMP @NHSMillion @doctor_oxford @sbattrawden @PeterStefanovi2 @Grumpybraindoc @DancingTheMind If they don’t have an NHS NUMBER then  give them the info to get one pronto - rush it through - not hard is it ?.. truly understand there needs to be a paper trail for all vaccines  just why don’t they have an nhs no ? As an employer you should check this for their welfare
-
-2021-01-23 21:28:51+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6b3c65dcd61dbec3', url='https://api.twitter.com/1.1/geo/id/6b3c65dcd61dbec3.json', place_type='city', name='Whitley Bay', full_name='Whitley Bay, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.498746, 54.988178], [-1.417312, 54.988178], [-1.417312, 55.0678405], [-1.498746, 55.0678405]]]), attributes={})
-
-1353092357592375299

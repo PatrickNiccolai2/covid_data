@@ -1,9 +1,0 @@
-Just got the vaccine !💕
-
-2021-01-23 19:50:31+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0562e9e53cddf6ec', url='https://api.twitter.com/1.1/geo/id/0562e9e53cddf6ec.json', place_type='city', name='Santa Ana', full_name='Santa Ana, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-117.944051, 33.691774], [-117.830826, 33.691774], [-117.830826, 33.78821], [-117.944051, 33.78821]]]), attributes={})
-
-1353067608841416708

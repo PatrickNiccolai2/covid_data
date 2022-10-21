@@ -1,9 +1,0 @@
-@MetroBunnyMtl Like better than the vaccines we have now ?
-
-2021-01-24 03:13:49+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00d4391131ccb535', url='https://api.twitter.com/1.1/geo/id/00d4391131ccb535.json', place_type='admin', name='Shaanxi', full_name="Shaanxi, People's Republic of China", country_code='CN', country="People's Republic of China", contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[105.710541, 31.703049], [111.233872, 31.703049], [111.233872, 39.58194], [105.710541, 39.58194]]]), attributes={})
-
-1353179168091987968

@@ -1,9 +1,0 @@
-Vaccine distribution isn’t happening fast enough https://t.co/0Vk6hKDsjA
-
-2021-01-24 07:00:13+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='bc3a38d3d5999b4b', url='https://api.twitter.com/1.1/geo/id/bc3a38d3d5999b4b.json', place_type='admin', name='Washington', full_name='Washington, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-124.848975, 45.543542], [-116.915989, 45.543542], [-116.915989, 49.0025023], [-124.848975, 49.0025023]]]), attributes={})
-
-1353236145023246336

@@ -1,9 +1,0 @@
-Vaccine dose #1! Thank you @BaltCitySchools #CovidVaccine https://t.co/DXDonG3xZN
-
-2021-01-23 19:29:52+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0ed567bb3394c001', url='https://api.twitter.com/1.1/geo/id/0ed567bb3394c001.json', place_type='poi', name='Johns Hopkins Outpatient Center', full_name='Johns Hopkins Outpatient Center', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-76.59457291840268, 39.29669324491403], [-76.59457291840268, 39.29669324491403], [-76.59457291840268, 39.29669324491403], [-76.59457291840268, 39.29669324491403]]]), attributes={})
-
-1353062413008998400

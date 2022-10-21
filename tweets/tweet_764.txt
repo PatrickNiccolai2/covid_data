@@ -1,9 +1,0 @@
-@DannyVenable4 Administering vaccines is a job.
-
-2021-01-24 04:36:29+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4320ab56929ffcdb', url='https://api.twitter.com/1.1/geo/id/4320ab56929ffcdb.json', place_type='city', name='Plainfield', full_name='Plainfield, IL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-88.293691, 41.566483], [-88.1524329, 41.566483], [-88.1524329, 41.681434], [-88.293691, 41.681434]]]), attributes={})
-
-1353199974809534466

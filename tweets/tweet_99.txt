@@ -1,9 +1,0 @@
-If Stephen Donnelly vaccines us all by the end of summer I’ll personally see to it that there’s never a trampoline in this country again.
-
-2021-01-24 12:26:52+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='cbd95de037c865b4', url='https://api.twitter.com/1.1/geo/id/cbd95de037c865b4.json', place_type='city', name='Kildare', full_name='Kildare, Ireland', country_code='IE', country='Ireland', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-7.1683614, 52.8577783], [-6.4623047, 52.8577783], [-6.4623047, 53.4518349], [-7.1683614, 53.4518349]]]), attributes={})
-
-1353318350382837760

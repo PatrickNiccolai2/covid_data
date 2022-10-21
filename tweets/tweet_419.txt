@@ -1,9 +1,0 @@
-UK Government: All pharmacies should to be able to play a part in the UK's Covid-19 vaccine programme - Sign the Petition! https://t.co/H91g9SRqsH via @UKChange
-
-2021-01-24 09:23:53+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0c4f58af36a910a6', url='https://api.twitter.com/1.1/geo/id/0c4f58af36a910a6.json', place_type='city', name='York', full_name='York, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.147268, 53.9280019], [-1.0233813, 53.9280019], [-1.0233813, 54.004411], [-1.147268, 54.004411]]]), attributes={})
-
-1353272300855033856

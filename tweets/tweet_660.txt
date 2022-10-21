@@ -1,9 +1,0 @@
-Fighting Stigma : Supplies of both the AstraZeneca and Pfizer vaccines are lower than hoped for, causing concern ...: The Republic of Ireland said it may have to slow its vaccine rollout as a result of the shortage. Micheal Martin, the Irish prime… https://t.co/1jvVng7oiP
-
-2021-01-24 06:29:02+00:00
-
-{'type': 'Point', 'coordinates': [-73.47935661, 45.6677507]}
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='62b78f4b441b9a2f', url='https://api.twitter.com/1.1/geo/id/62b78f4b441b9a2f.json', place_type='city', name='Varennes', full_name='Varennes, Québec', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-73.487336, 45.610005], [-73.323658, 45.610005], [-73.323658, 45.748945], [-73.487336, 45.748945]]]), attributes={})
-
-1353228295437881344

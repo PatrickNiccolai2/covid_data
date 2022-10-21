@@ -1,9 +1,0 @@
-Gostaria que o Ministério da Saúde informasse a população, se estão em andamento gestões, discussões, esforços para trazer também as vacinas Pfizer e Moderna, ou nem começaram as negociações. Franca c/ quase 400 mil hab. está em lockdown, em desespero. O povo quer ser informado.
-
-2021-01-24 00:09:43+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='c0be183e7fd89ad4', url='https://api.twitter.com/1.1/geo/id/c0be183e7fd89ad4.json', place_type='city', name='Ituverava', full_name='Ituverava, Brasil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-48.038827, -20.481409], [-47.614735, -20.481409], [-47.614735, -20.155477], [-48.038827, -20.155477]]]), attributes={})
-
-1353132838388903936

@@ -1,9 +1,0 @@
-Here to cover the vaccine site launch... but wow, @SokaUniv has a gorgeous campus! https://t.co/TN3OA6sc4T
-
-2021-01-23 23:26:37+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='07d9e3bc11087000', url='https://api.twitter.com/1.1/geo/id/07d9e3bc11087000.json', place_type='poi', name='Soka University', full_name='Soka University', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-117.73375510108394, 33.55681353897629], [-117.73375510108394, 33.55681353897629], [-117.73375510108394, 33.55681353897629], [-117.73375510108394, 33.55681353897629]]]), attributes={})
-
-1353121991620923393

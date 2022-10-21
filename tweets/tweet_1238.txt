@@ -1,9 +1,0 @@
-@Scottf929 @SokaUniv Thanks! I am... people are leaving here so happy since they are getting their vaccine.
-
-2021-01-23 23:35:35+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='f9838a67f87a80ed', url='https://api.twitter.com/1.1/geo/id/f9838a67f87a80ed.json', place_type='city', name='Aliso Viejo', full_name='Aliso Viejo, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-117.75971, 33.512428], [-117.700301, 33.512428], [-117.700301, 33.609056], [-117.75971, 33.609056]]]), attributes={})
-
-1353124248227729411

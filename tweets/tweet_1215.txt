@@ -1,9 +1,0 @@
-@VickieZisman @mcfunny @The_Seeadler @carlsmythe @HupperichWerner @BoastIra @FLermyte @barryjohnreid21 @FrankDElia7 @JaiKanta22 @JaneEOpie @HPVSideEffects @HaircutSpock @dad_liams @rainmc @GeoffSchuler @PaulVCooper1 @BeckyJohnson222 @chaoticsx2 @MacBaird13 @ChrisJohnsonMD @Gardeniagal4 @RCPrentice @Monstercoyliar @StopVaxxedLies @CiteretV @MaggieC_95 @David_5705 @organicdot @KayVonPaul @ThatBackwoodsB @ianfmusgrave @KatLaRue7 @RisetteMD @VileThePro @MonstaTofu @Kathmarval @Jojofool1 @jkellyca @PJMoore1958 @MikePeterson_TH @_mamadeb @100Dianne @krebiozen @Shared_facts @ilzheven @HatgiNeal @bob_hound @CobraElDiablo @Clues Yes. Pandemics are bad in multiple ways. Including disrupting supply chains. The problem is the pandemic, not the efforts to stop it. The faster it’s stopped, the smaller the effects.
-
-2021-01-23 23:43:38+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='30344aecffe6a491', url='https://api.twitter.com/1.1/geo/id/30344aecffe6a491.json', place_type='city', name='Fremont', full_name='Fremont, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.069956, 37.454962], [-121.889098, 37.454962], [-121.889098, 37.592327], [-122.069956, 37.592327]]]), attributes={})
-
-1353126274181390336

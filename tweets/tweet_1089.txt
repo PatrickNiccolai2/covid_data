@@ -1,9 +1,0 @@
-This is an incredible model for vaccine distribution transparency! any other localities able to generate this level of granularity, and how hard would it be for other state/local govts to replicate? https://t.co/l2TbPVwjAO
-
-2021-01-24 00:43:30+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='319ee7b36c9149da', url='https://api.twitter.com/1.1/geo/id/319ee7b36c9149da.json', place_type='city', name='Arlington', full_name='Arlington, VA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-77.172219, 38.827378], [-77.031779, 38.827378], [-77.031779, 38.934311], [-77.172219, 38.934311]]]), attributes={})
-
-1353141340645847040

@@ -1,9 +1,0 @@
-@errolbsk @Kgomo389 Well you agree with me, he is accountable for PPE theft , disappearance of 500billion stimulus , relaxing lockdown right in the middle of the pandemic to please his Stellenbosch friends and late purchase of vaccine.He is weak as leader, he must go! Period
-
-2021-01-24 10:42:01+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='88cf231591416b11', url='https://api.twitter.com/1.1/geo/id/88cf231591416b11.json', place_type='city', name='Mdantsane', full_name='Mdantsane, South Africa', country_code='ZA', country='South Africa', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[27.6375413, -33.0043221], [27.790976, -33.0043221], [27.790976, -32.9156233], [27.6375413, -32.9156233]]]), attributes={})
-
-1353291961759883264

@@ -1,9 +1,0 @@
-UK Government: All pharmacies should to be able to play a part in the UK's Covid-19 vaccine programme - Sign the Petition! https://t.co/dfgMz2i4Ss via @UKChange
-
-2021-01-24 09:55:16+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='20e8993daa6a6ccd', url='https://api.twitter.com/1.1/geo/id/20e8993daa6a6ccd.json', place_type='city', name='Cudworth', full_name='Cudworth, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.427346, 53.562326], [-1.401353, 53.562326], [-1.401353, 53.5887517], [-1.427346, 53.5887517]]]), attributes={})
-
-1353280199237005312

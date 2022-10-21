@@ -1,9 +1,0 @@
-If the #Bermuda government said that we could have a totally normal BHW and Cup Match in 2021 if 70% get the vaccine, some minds would change. https://t.co/IDqs1VWjM0
-
-2021-01-24 00:50:32+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='360981d61a4350f3', url='https://api.twitter.com/1.1/geo/id/360981d61a4350f3.json', place_type='country', name='Bermuda', full_name='Bermuda', country_code='BM', country='Bermuda', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-64.88734, 32.24704], [-64.64728, 32.24704], [-64.64728, 32.39119], [-64.88734, 32.39119]]]), attributes={})
-
-1353143111120257026

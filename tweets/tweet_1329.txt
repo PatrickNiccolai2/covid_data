@@ -1,9 +1,0 @@
-All i’m saying is other countries didn’t need a vaccine to be covid free.
-
-2021-01-23 23:03:07+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4d1d90faa5484b1c', url='https://api.twitter.com/1.1/geo/id/4d1d90faa5484b1c.json', place_type='city', name='Huntington Park', full_name='Huntington Park, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-118.2390351, 33.961583], [-118.1890537, 33.961583], [-118.1890537, 33.9962678], [-118.2390351, 33.9962678]]]), attributes={})
-
-1353116079866843136

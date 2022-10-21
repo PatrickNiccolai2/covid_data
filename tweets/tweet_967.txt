@@ -1,9 +1,0 @@
-@rapplerdotcom Tama Lang Naman. Sinovac dead virus platform is the safest of all.
-
-2021-01-24 02:09:07+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00e2dea30fde6f9c', url='https://api.twitter.com/1.1/geo/id/00e2dea30fde6f9c.json', place_type='city', name='Santa Maria', full_name='Santa Maria, Central Luzon', country_code='PH', country='Republic of the Philippines', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[120.9442723, 14.7905926], [121.0305089, 14.7905926], [121.0305089, 14.9118144], [120.9442723, 14.9118144]]]), attributes={})
-
-1353162885271228416

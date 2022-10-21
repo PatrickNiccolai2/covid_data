@@ -1,9 +1,0 @@
-Inept government again. We are on  3rd national lockdown these vunerable kids not in school &amp; the public have to get involved again along with feeding the country. Piss poor Job of this  pandemic upto now. Track and trace billions spent and doesn't work. Vaccines the next fuck up https://t.co/3ggibj0wJv
-
-2021-01-24 11:42:54+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='282652abfa70c570', url='https://api.twitter.com/1.1/geo/id/282652abfa70c570.json', place_type='city', name='Bury', full_name='Bury, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.364483, 53.535082], [-2.2450333, 53.535082], [-2.2450333, 53.6263139], [-2.364483, 53.6263139]]]), attributes={})
-
-1353307282981978112

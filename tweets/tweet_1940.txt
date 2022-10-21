@@ -1,9 +1,0 @@
-@AmitShah "No politics on public health".. then what was "free vaccine" scheme offered by your @narendramodi in some states before elections??  Donation? Biscuit? https://t.co/LMGwTCTqa4
-
-2021-01-23 18:50:43+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='03b7ea94ef68e9d7', url='https://api.twitter.com/1.1/geo/id/03b7ea94ef68e9d7.json', place_type='city', name='Mylapore Tiruvallike', full_name='Mylapore Tiruvallike, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[80.2348852, 12.970918], [80.288726, 12.970918], [80.288726, 13.0778711], [80.2348852, 13.0778711]]]), attributes={})
-
-1353052561784205312

@@ -1,9 +1,0 @@
-‘’The Government is responsible for the virus’s spread’’ @BorisJohnson https://t.co/dWQlVGVJlX
-
-2021-01-24 09:38:55+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='13dd0eca94d322f1', url='https://api.twitter.com/1.1/geo/id/13dd0eca94d322f1.json', place_type='city', name='Basildon', full_name='Basildon, East', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[0.3836341, 51.5463777], [0.530637, 51.5463777], [0.530637, 51.594472], [0.3836341, 51.594472]]]), attributes={})
-
-1353276081793601538

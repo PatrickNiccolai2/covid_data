@@ -1,9 +1,0 @@
-Was selected to receive the #COVID19 #PfizerVaccine today at work! Our Tier 1A staff have been vaccinated so the rest of our staff will be randomly selected at the end of each day to ensure no dose goes unused! Thank you @PublicHealthMDC 🤗💉🦠 #Thankful #ThisIsPublicHealth https://t.co/tjjvesXHIe
-
-2021-01-24 02:30:31+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7dc5c6d3bfb10ccc', url='https://api.twitter.com/1.1/geo/id/7dc5c6d3bfb10ccc.json', place_type='admin', name='Wisconsin', full_name='Wisconsin, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-92.889433, 42.491921], [-86.24955, 42.491921], [-86.24955, 47.309715], [-92.889433, 47.309715]]]), attributes={})
-
-1353168272707956738

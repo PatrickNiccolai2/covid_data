@@ -1,9 +1,0 @@
-@AnnetteVitelli3 I have no idea , am questioning the same thing that the U.K. has gifted the Pfizer vaccine to the island , but in U.K. we are giving half dose which the doctors and Pfizer r saying is not right and may not be effective! Shouldn’t charity begin at home?
-
-2021-01-24 09:02:29+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='189817caf6977373', url='https://api.twitter.com/1.1/geo/id/189817caf6977373.json', place_type='city', name='Taunton', full_name='Taunton, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.148037, 50.98599], [-3.0601283, 50.98599], [-3.0601283, 51.040527], [-3.148037, 51.040527]]]), attributes={})
-
-1353266914827579393

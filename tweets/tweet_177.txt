@@ -1,9 +1,0 @@
-A tracker can fit into someone but that's not the issue the issue is power supply how is a covid 19 vaccine tracker the size of a nano particle going to be able to run perpetually unless it charges itself somehow from the body heat but then how can it reach 5g with no antenna
-
-2021-01-24 11:46:53+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='53e060d6652640f4', url='https://api.twitter.com/1.1/geo/id/53e060d6652640f4.json', place_type='city', name='Gothenburg', full_name='Gothenburg, Sweden', country_code='SE', country='Sweden', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[11.226313, 57.496298], [12.2417273, 57.496298], [12.2417273, 57.8659142], [11.226313, 57.8659142]]]), attributes={})
-
-1353308288818032642

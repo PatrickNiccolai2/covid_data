@@ -1,9 +1,0 @@
-@otterlivefree @kouroshgz @baldie98004 @TheEdgePHX @kelliwardaz @AZGOP The entire state of Washington leans left. I’m in Oklahoma and we have plenty@of the anti vaccine here. There’s all sorts of qanon posts about vaccines that go round.
-
-2021-01-24 00:04:50+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='d0287cda13b8d994', url='https://api.twitter.com/1.1/geo/id/d0287cda13b8d994.json', place_type='city', name='Stillwater', full_name='Stillwater, OK', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-97.1449244, 36.0792851], [-97.0154851, 36.0792851], [-97.0154851, 36.1800927], [-97.1449244, 36.1800927]]]), attributes={})
-
-1353131609420132353

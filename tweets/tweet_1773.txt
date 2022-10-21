@@ -1,9 +1,0 @@
-We wait a year to lockdown the borders and they still can’t it it right. @BorisJohnson https://t.co/fwrUURG4gP
-
-2021-01-23 19:42:09+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01c7de39d50eab15', url='https://api.twitter.com/1.1/geo/id/01c7de39d50eab15.json', place_type='city', name='Romford', full_name='Romford, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[0.140821, 51.500544], [0.280358, 51.500544], [0.280358, 51.62063], [0.140821, 51.62063]]]), attributes={})
-
-1353065502914932736

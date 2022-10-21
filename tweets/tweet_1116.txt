@@ -1,9 +1,0 @@
-@ANJEL71442187 @DrTomFrieden What if I don’t want the vaccine?
-
-2021-01-24 00:29:33+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2da132a7bfebfc0c', url='https://api.twitter.com/1.1/geo/id/2da132a7bfebfc0c.json', place_type='city', name='Montebello', full_name='Montebello, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-118.144082, 33.974263], [-118.0707974, 33.974263], [-118.0707974, 34.04611], [-118.144082, 34.04611]]]), attributes={})
-
-1353137831422480384

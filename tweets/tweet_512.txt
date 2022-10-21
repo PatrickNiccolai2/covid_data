@@ -1,9 +1,0 @@
-@JulietG48512342 It is thought. Some homes are seeing staff refuse the vaccine. I'm pro vaccination, but it's a whole new world on lots of fronts.
-
-2021-01-24 08:33:44+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='151b9e91272233d1', url='https://api.twitter.com/1.1/geo/id/151b9e91272233d1.json', place_type='city', name='Liverpool', full_name='Liverpool, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.008791, 53.36489], [-2.822063, 53.36489], [-2.822063, 53.474867], [-3.008791, 53.474867]]]), attributes={})
-
-1353259679183499264

@@ -1,9 +1,0 @@
-🚨 BREAKING NEWS - San Diego County expands vaccinations to include people 65+. I just checked the website and there are appointment slots open at the site near PETCO Park 📌Visit https://t.co/jtgGjV6sUj to find availability. @CBS8 https://t.co/Mj0eDdSczO #CovidVaccine #COVID19
-
-2021-01-24 00:53:54+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='a592bd6ceb1319f7', url='https://api.twitter.com/1.1/geo/id/a592bd6ceb1319f7.json', place_type='city', name='San Diego', full_name='San Diego, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-117.282538, 32.53962], [-116.9274403, 32.53962], [-116.9274403, 33.0804044], [-117.282538, 33.0804044]]]), attributes={})
-
-1353143957169926149

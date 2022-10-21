@@ -1,9 +1,0 @@
-657,820 vaccines have been administered, 106,274 for long-term care facilities. The 7-day rolling average for vaccines administered is 26,666 doses.
-
-2021-01-23 18:50:33+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='ce1765e3abafe93e', url='https://api.twitter.com/1.1/geo/id/ce1765e3abafe93e.json', place_type='city', name='Springfield', full_name='Springfield, IL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-89.7731855, 39.673272], [-89.546193, 39.673272], [-89.546193, 39.87542], [-89.7731855, 39.87542]]]), attributes={})
-
-1353052519417737216

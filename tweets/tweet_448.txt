@@ -1,9 +1,0 @@
-Could COVID-19 vaccine become a pre-requisite for travel? https://t.co/p8EOftUrX9 via @getawaymagazine
-
-2021-01-24 09:10:06+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='8b9ec16fdc0d7e55', url='https://api.twitter.com/1.1/geo/id/8b9ec16fdc0d7e55.json', place_type='city', name='Cape Town', full_name='Cape Town, South Africa', country_code='ZA', country='South Africa', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[18.3180332, -34.35839], [18.6600898, -34.35839], [18.6600898, -33.8849254], [18.3180332, -33.8849254]]]), attributes={})
-
-1353268830462738433

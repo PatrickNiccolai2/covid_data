@@ -1,9 +1,0 @@
-@johnf3574 @JackPosobiec Yeah a vaccine!  Also testing testing testing the Dems number one issue.
-
-2021-01-24 02:05:04+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6dd590c61801b09c', url='https://api.twitter.com/1.1/geo/id/6dd590c61801b09c.json', place_type='city', name='Friendswood', full_name='Friendswood, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-95.233093, 29.460644], [-95.145844, 29.460644], [-95.145844, 29.563312], [-95.233093, 29.563312]]]), attributes={})
-
-1353161868228104192

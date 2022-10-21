@@ -1,9 +1,0 @@
-@mattblaze I hereby authorize you to name the covid vaccine the Fauci Ouchie. There. Now it's official.😁
-
-2021-01-23 22:36:56+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='20a70247c3cbdd23', url='https://api.twitter.com/1.1/geo/id/20a70247c3cbdd23.json', place_type='city', name='South Bend', full_name='South Bend, IN', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-86.385306, 41.598756], [-86.19642, 41.598756], [-86.19642, 41.760555], [-86.385306, 41.760555]]]), attributes={})
-
-1353109490758004736

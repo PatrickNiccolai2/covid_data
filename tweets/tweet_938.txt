@@ -1,9 +1,0 @@
-@AhooksHooks @JeremyHreben Because he can still transmit the vaccine to others despite not having it harm him so until we get to some level of herd immunity we should be wearing a mask. Also people should still avoid moving around like nothings going. If have you go out wear mask.
-
-2021-01-24 00:53:59+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='22c613c36f32f0d1', url='https://api.twitter.com/1.1/geo/id/22c613c36f32f0d1.json', place_type='city', name='State College', full_name='State College, PA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-77.917295, 40.749326], [-77.798924, 40.749326], [-77.798924, 40.817749], [-77.917295, 40.817749]]]), attributes={})
-
-1353143979051634688

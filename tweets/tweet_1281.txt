@@ -1,9 +1,0 @@
-@JennaEllisEsq We can save lives, but yes, it's going to take a few months to get enough vaccine pushed out to change the trajectory. You're an attorney, words shouldn't be so damned hard for you.
-
-2021-01-23 23:16:38+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='095534ad3107e0e6', url='https://api.twitter.com/1.1/geo/id/095534ad3107e0e6.json', place_type='city', name='Louisville', full_name='Louisville, KY', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-85.847503, 38.108678], [-85.597188, 38.108678], [-85.597188, 38.282432], [-85.847503, 38.282432]]]), attributes={})
-
-1353119481070022656

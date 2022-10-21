@@ -1,9 +1,0 @@
-Thank you @fredhutch today I received my first vaccine shot. This is a gift. https://t.co/cqUz7C4fy0
-
-2021-01-23 19:18:57+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='07d9d21439c82002', url='https://api.twitter.com/1.1/geo/id/07d9d21439c82002.json', place_type='poi', name='Fred Hutchinson Cancer Research Center', full_name='Fred Hutchinson Cancer Research Center', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.3312473268498, 47.62625440086691], [-122.3312473268498, 47.62625440086691], [-122.3312473268498, 47.62625440086691], [-122.3312473268498, 47.62625440086691]]]), attributes={})
-
-1353059664255094786

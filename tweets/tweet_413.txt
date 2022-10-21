@@ -1,9 +1,0 @@
-(2/2) I considered delaying this, but wanted to get it done sooner rather than later. As someone clinically extremely vulnerable to Covid-19, and not having had my vaccine yet, the hospital dealt with the procedure incredibly. Thank you to the NHS again! ❤🌈 https://t.co/X6MT9g5kJ9
-
-2021-01-24 09:27:05+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7530c791a7afaffa', url='https://api.twitter.com/1.1/geo/id/7530c791a7afaffa.json', place_type='city', name='Kingswood', full_name='Kingswood, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.373351, 51.621085], [-2.36259, 51.621085], [-2.36259, 51.628286], [-2.373351, 51.628286]]]), attributes={})
-
-1353273107113537536

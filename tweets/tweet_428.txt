@@ -1,9 +1,0 @@
-@snpout7 Lets blame the English. Perhaps the buget for vaccines is being squirreled away for #indyref2
-
-2021-01-24 09:19:35+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='064b670c43d8d701', url='https://api.twitter.com/1.1/geo/id/064b670c43d8d701.json', place_type='city', name='Grimsby', full_name='Grimsby, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.147596, 53.52505], [-0.0093573, 53.52505], [-0.0093573, 53.587884], [-0.147596, 53.587884]]]), attributes={})
-
-1353271218862960640

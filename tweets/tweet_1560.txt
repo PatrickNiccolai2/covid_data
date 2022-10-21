@@ -1,9 +1,0 @@
-@Kamva_TS @NHI_a_Must @eNCA Some people just comment for the sake of commenting. Nothing on twitter should be taken too serious. Atleast the DA is making a move. National Government (ANC) Ate the vaccine money now they wanna hike the working classes taxes to pay for vaccines. Just imagine !!
-
-2021-01-23 21:17:06+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6444d281acdd5f98', url='https://api.twitter.com/1.1/geo/id/6444d281acdd5f98.json', place_type='city', name='Blue Downs', full_name='Blue Downs, South Africa', country_code='ZA', country='South Africa', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[18.6247796, -34.0124945], [18.7273138, -34.0124945], [18.7273138, -33.9480826], [18.6247796, -33.9480826]]]), attributes={})
-
-1353089399169413128

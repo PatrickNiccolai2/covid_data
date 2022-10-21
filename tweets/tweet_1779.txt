@@ -1,9 +1,0 @@
-Well done to Staffordshire Fire and Rescue Service staff who helped staff from Longton Hall Surgery, Blurton, by clearing snow and ice so they could continue giving COVID vaccine to patients. https://t.co/GGQw8Mftbu
-
-2021-01-23 19:39:02+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5c6453db6560163a', url='https://api.twitter.com/1.1/geo/id/5c6453db6560163a.json', place_type='city', name='Stoke-on-Trent', full_name='Stoke-on-Trent, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.226804, 52.9489413], [-2.081221, 52.9489413], [-2.081221, 53.089852], [-2.226804, 53.089852]]]), attributes={})
-
-1353064719330889729

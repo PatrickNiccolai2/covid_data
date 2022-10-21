@@ -1,9 +1,0 @@
-@MichealMartinTD as a matter of interest has any cabinet members received the vaccine?
-
-2021-01-23 21:15:33+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='78e9729ff12a648e', url='https://api.twitter.com/1.1/geo/id/78e9729ff12a648e.json', place_type='admin', name='Northern Ireland', full_name='Northern Ireland, United Kingdom', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-8.19417899950185, 54.0227179827604], [-5.43284099988887, 54.0227179827604], [-5.43284099988887, 55.3116860009633], [-8.19417899950185, 55.3116860009633]]]), attributes={})
-
-1353089006611869696

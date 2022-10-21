@@ -1,9 +1,0 @@
-@Walgreens I just had to help 3 elderly people sign up on line to get a Covid 19 vaccine because none of them understood how to go online to sign up. This is a major fail on your part. They should be able to go into any Walgreens and get an appointment. #ridiculous #CovidVaccine
-
-2021-01-24 02:23:41+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7f7d58e5229c6b6c', url='https://api.twitter.com/1.1/geo/id/7f7d58e5229c6b6c.json', place_type='admin', name='Tennessee', full_name='Tennessee, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-90.310298, 34.982924], [-81.646901, 34.982924], [-81.646901, 36.678119], [-90.310298, 36.678119]]]), attributes={})
-
-1353166551973769217

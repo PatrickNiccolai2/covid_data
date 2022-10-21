@@ -1,9 +1,0 @@
-Vancouver couple charged after chartering plane to Yukon and getting COVID-19 vaccine, say officials https://t.co/hDocHAK9N6
-
-2021-01-23 23:55:27+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5147516179fa9c13', url='https://api.twitter.com/1.1/geo/id/5147516179fa9c13.json', place_type='city', name='Burnaby', full_name='Burnaby, British Columbia', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-123.024209, 49.180153], [-122.892479, 49.180153], [-122.892479, 49.299154], [-123.024209, 49.299154]]]), attributes={})
-
-1353129249805242369

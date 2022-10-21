@@ -1,9 +1,0 @@
-@fdzreena True. Even with vaccine is expected to be available by end of Q1, but is going to take at least a year to cover more than half of the population.
-
-2021-01-24 06:46:55+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='d8dc5fa767ba87b2', url='https://api.twitter.com/1.1/geo/id/d8dc5fa767ba87b2.json', place_type='city', name='Mukim 10 (Bkt. Relau)', full_name='Mukim 10 (Bkt. Relau), Pulau Pinang', country_code='MY', country='Malaysia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[100.2314527, 5.3005911], [100.277367, 5.3005911], [100.277367, 5.3505253], [100.2314527, 5.3505253]]]), attributes={})
-
-1353232797335339008

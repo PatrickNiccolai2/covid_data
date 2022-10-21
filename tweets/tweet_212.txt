@@ -1,9 +1,0 @@
-The palliative care doctor and author on a year of Covid in UK hospitals and her hopes for the vaccine @LisaOKelly https://t.co/uOZWoBCkQb
-
-2021-01-24 11:17:14+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5c43cbdfce4d3247', url='https://api.twitter.com/1.1/geo/id/5c43cbdfce4d3247.json', place_type='city', name='Mississauga', full_name='Mississauga, Ontario', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-79.810142, 43.373074], [-79.422004, 43.373074], [-79.422004, 43.737414], [-79.810142, 43.737414]]]), attributes={})
-
-1353300824953413633

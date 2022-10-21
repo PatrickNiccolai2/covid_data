@@ -1,9 +1,0 @@
-@KieranBurke93 @RElcidate @DamienPearce4 Man said, he’s waiting for people who took the vaccine to have kids then he’ll decide 🤣😩😭 #CoronavirusVaccine
-
-2021-01-23 22:49:27+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='457b4814b4240d87', url='https://api.twitter.com/1.1/geo/id/457b4814b4240d87.json', place_type='city', name='London', full_name='London, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.187894, 51.483718], [-0.109978, 51.483718], [-0.109978, 51.5164655], [-0.187894, 51.5164655]]]), attributes={})
-
-1353112637891112962

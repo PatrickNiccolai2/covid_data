@@ -1,9 +1,0 @@
-@Feliskthecat @erinotoole The Harper government, however, drastically cut funding to research councils, which in turn gave out fewer and smaller grants to support graduate students and post-graduate fellows with heads full of knowledge and a drive to discover vaccines.
-
-2021-01-23 21:20:10+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4939b600461c30a4', url='https://api.twitter.com/1.1/geo/id/4939b600461c30a4.json', place_type='city', name='Hamilton', full_name='Hamilton, Ontario', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.248423, 43.050553], [-79.578618, 43.050553], [-79.578618, 43.470838], [-80.248423, 43.470838]]]), attributes={})
-
-1353090169566539783

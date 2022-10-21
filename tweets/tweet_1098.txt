@@ -1,9 +1,0 @@
-@EllieHill And now it’s going to take forever to get to them. Basically half of Billings’ population is in 1B and there’s no consistent supply of vaccine.
-
-2021-01-24 00:38:38+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='662aa8db4557a744', url='https://api.twitter.com/1.1/geo/id/662aa8db4557a744.json', place_type='city', name='Billings', full_name='Billings, MT', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-108.6928791, 45.723722], [-108.432965, 45.723722], [-108.432965, 45.8711694], [-108.6928791, 45.8711694]]]), attributes={})
-
-1353140115133001728

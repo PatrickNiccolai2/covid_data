@@ -1,9 +1,0 @@
-@SusanWa68718922 @Dublove76 The vaccine worries me too.
-
-2021-01-24 09:13:45+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6597d0b3ef3d678b', url='https://api.twitter.com/1.1/geo/id/6597d0b3ef3d678b.json', place_type='city', name='Brandon', full_name='Brandon, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[0.5972878, 52.4353243], [0.6455806, 52.4353243], [0.6455806, 52.4576543], [0.5972878, 52.4576543]]]), attributes={})
-
-1353269750110035968

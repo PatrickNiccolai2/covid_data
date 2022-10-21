@@ -1,9 +1,0 @@
-Sat waiting in the car at Leeds Utds ground at Elland rd as the Mrs goes for her vaccine.All I could think is this ground is so shit &amp; needs a revamp 🤣
-
-2021-01-24 10:09:00+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6863fd050de21120', url='https://api.twitter.com/1.1/geo/id/6863fd050de21120.json', place_type='city', name='Leeds', full_name='Leeds, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.706057, 53.7363694], [-1.424923, 53.7363694], [-1.424923, 53.867543], [-1.706057, 53.867543]]]), attributes={})
-
-1353283655771303936

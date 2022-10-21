@@ -1,9 +1,0 @@
-Watching this while deep in @CDCgov &amp; (legit) research on the COVID vaccine. It’s untested on autoimmune patients as far as I can tell, so I’m waiting to see what details emerge with more time. In the meantime, I’mma need you all to move your 🍑🍑 🍑 and get herd immunity. 🤦🏻‍♀️🤦🏻‍♀️🤦🏻‍♀️ https://t.co/5sKap7GiIk
-
-2021-01-24 01:33:01+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01a9a39529b27f36', url='https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json', place_type='city', name='Manhattan', full_name='Manhattan, NY', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-74.026675, 40.683935], [-73.910408, 40.683935], [-73.910408, 40.877483], [-74.026675, 40.877483]]]), attributes={})
-
-1353153801574895616

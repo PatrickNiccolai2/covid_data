@@ -1,9 +1,0 @@
-@NBSaphierMD @Kodak is poised to stand up production to speed  the new vaccines to market. If the Biden Administration fails to take advantage of this Iconic American Business to get more vaccine to the American People they will have failed to do everything they can.
-
-2021-01-24 03:57:28+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='077e6b03695c28ee', url='https://api.twitter.com/1.1/geo/id/077e6b03695c28ee.json', place_type='city', name='Falls Church', full_name='Falls Church, VA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-77.19419, 38.8722664], [-77.149803, 38.8722664], [-77.149803, 38.8962963], [-77.19419, 38.8962963]]]), attributes={})
-
-1353190152496099330

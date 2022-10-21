@@ -1,9 +1,0 @@
-@maxbart99 @LisaMistry4 @IngrahamAngle @DailyCaller They really are get out in the country and look around to see all the sick people. They say the hospital are full yet we don't know we're not allowed on the covid wing really not anywhere there they want you. I be dam if I'm taking the vaccine.
-
-2021-01-24 05:18:06+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5746369a6d2df74c', url='https://api.twitter.com/1.1/geo/id/5746369a6d2df74c.json', place_type='city', name='Laurinburg', full_name='Laurinburg, NC', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-79.54214, 34.703163], [-79.427342, 34.703163], [-79.427342, 34.805532], [-79.54214, 34.805532]]]), attributes={})
-
-1353210446854156288

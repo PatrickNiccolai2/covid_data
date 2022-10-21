@@ -1,9 +1,0 @@
-@RichardLan24 @Peston Nonsense, you get about 80 to 90% protection from the first dose (after 2q days) and probably no I'll effects even if you do pick up the virus after that date. Also most vaccines work better if you extend the time between first and second dose.
-
-2021-01-23 20:19:52+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3554d7fe9a8821f9', url='https://api.twitter.com/1.1/geo/id/3554d7fe9a8821f9.json', place_type='city', name='Epsom', full_name='Epsom, South East', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.3047576, 51.308464], [-0.217073, 51.308464], [-0.217073, 51.381086], [-0.3047576, 51.381086]]]), attributes={})
-
-1353074996709445633

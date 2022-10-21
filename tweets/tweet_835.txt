@@ -1,9 +1,0 @@
-Who is more important,  those who prescribe it or those that found a vaccine and produced it. It definitely isn't the BMC. https://t.co/3AZSAzaCLY
-
-2021-01-24 03:39:47+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01c7de39d50eab15', url='https://api.twitter.com/1.1/geo/id/01c7de39d50eab15.json', place_type='city', name='Romford', full_name='Romford, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[0.140821, 51.500544], [0.280358, 51.500544], [0.280358, 51.62063], [0.140821, 51.62063]]]), attributes={})
-
-1353185703723737089

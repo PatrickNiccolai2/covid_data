@@ -1,9 +1,0 @@
-@JustineHeneghan @EleanorSfarmerE @Darragh_OL @DonnellyStephen @FergalBowers @IrishPharmacy @LeoVaradkar By all accounts supplies is of the essence But if the vaccines is there, get into arms ASAP https://t.co/yNC2WGB9In
-
-2021-01-23 21:03:17+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='d0ff7642885aa817', url='https://api.twitter.com/1.1/geo/id/d0ff7642885aa817.json', place_type='city', name='Roscommon', full_name='Roscommon, Ireland', country_code='IE', country='Ireland', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-8.8236495, 53.2704738], [-7.8760906, 53.2704738], [-7.8760906, 54.1245794], [-8.8236495, 54.1245794]]]), attributes={})
-
-1353085922720546816

@@ -1,9 +1,0 @@
-@mtgreenee @JoeBiden BILLIONAIRE, World's 2nd richest man cuts in line to prevent at risk American families from getting vaccine. Spends billions $$$ sending drugs to Africa.
-
-2021-01-24 03:07:51+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6ba08e404aed471f', url='https://api.twitter.com/1.1/geo/id/6ba08e404aed471f.json', place_type='city', name='Riverside', full_name='Riverside, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-117.523867, 33.85216], [-117.271365, 33.85216], [-117.271365, 34.019484], [-117.523867, 34.019484]]]), attributes={})
-
-1353177668980768769

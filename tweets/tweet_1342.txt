@@ -1,9 +1,0 @@
-@ArkansasCovid Seriously. Where’s information on how to get the vaccine?? My mothers 82 an is on lists but no word.  I would love to have a target time to get mine.  With all the anti mask an deniers I’ll take my ASAP
-
-2021-01-23 22:56:51+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='248b860c847eee13', url='https://api.twitter.com/1.1/geo/id/248b860c847eee13.json', place_type='city', name='Sherwood', full_name='Sherwood, AR', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-92.247306, 34.7995898], [-92.1609078, 34.7995898], [-92.1609078, 34.883685], [-92.247306, 34.883685]]]), attributes={})
-
-1353114503408463873

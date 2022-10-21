@@ -1,9 +1,0 @@
-@Telegraph The twelve week wait is wrong. In delaying the second vaccine dose, the first one is wasted as it will have lost its efficacy.
-
-2021-01-24 11:42:57+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2d8b55ed7afbee5f', url='https://api.twitter.com/1.1/geo/id/2d8b55ed7afbee5f.json', place_type='city', name='Guildford', full_name='Guildford, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.6195056, 51.205293], [-0.520729, 51.205293], [-0.520729, 51.267548], [-0.6195056, 51.267548]]]), attributes={})
-
-1353307298312171523

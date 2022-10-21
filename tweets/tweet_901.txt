@@ -1,9 +1,0 @@
-Okay so I got my covid vaccine does that mean I can get spit in again?
-
-2021-01-24 02:47:18+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4b25aded08900fd8', url='https://api.twitter.com/1.1/geo/id/4b25aded08900fd8.json', place_type='city', name='Reno', full_name='Reno, NV', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-119.953849, 39.350749], [-119.700515, 39.350749], [-119.700515, 39.674123], [-119.953849, 39.674123]]]), attributes={})
-
-1353172495264698368

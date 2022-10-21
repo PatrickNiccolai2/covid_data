@@ -1,9 +1,0 @@
-Get the vaccine or don’t but pls stfu and leave the opposite party alone. Y’all mad controlling thinking people gotta live just like you.
-
-2021-01-24 03:19:33+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3b77caf94bfc81fe', url='https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json', place_type='city', name='Los Angeles', full_name='Los Angeles, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-118.668404, 33.704538], [-118.155409, 33.704538], [-118.155409, 34.337041], [-118.668404, 34.337041]]]), attributes={})
-
-1353180612782288896

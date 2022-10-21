@@ -1,9 +1,0 @@
-@roysmithpolice @MPSHackney @metpoliceuk Completely agree re vaccine - it’s distressing to see met police handling known COVID-19 persons without wearing appropriate PPE. Do you have enough? Spitting/shouting aerosol generating directly at officers!
-
-2021-01-24 10:22:49+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='08be9e4ebe3d037d', url='https://api.twitter.com/1.1/geo/id/08be9e4ebe3d037d.json', place_type='city', name='Poplar', full_name='Poplar, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.080028, 51.48432], [0.009989, 51.48432], [0.009989, 51.545341], [-0.080028, 51.545341]]]), attributes={})
-
-1353287129527365633

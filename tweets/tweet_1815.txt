@@ -1,9 +1,0 @@
-second covid vaccine kicking my ass today 🤩
-
-2021-01-23 19:29:34+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00c393e916477863', url='https://api.twitter.com/1.1/geo/id/00c393e916477863.json', place_type='city', name='Scott Township', full_name='Scott Township, PA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.133676, 40.361017], [-80.051052, 40.361017], [-80.051052, 40.416175], [-80.133676, 40.416175]]]), attributes={})
-
-1353062338350305281

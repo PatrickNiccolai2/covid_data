@@ -1,9 +1,0 @@
-Self-claimed vaccine experts, don’t get d jab if you don’t want. Don’t stress yourself explaining pros n cons &amp; people being used as lab-rats. You probably don’t even know how d vaccines works, so plz leave it2 d experts. You don’t have to stick ur d*** in every hole you see!!
-
-2021-01-24 11:06:00+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1b676cd4b8a8684a', url='https://api.twitter.com/1.1/geo/id/1b676cd4b8a8684a.json', place_type='city', name='Southampton', full_name='Southampton, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.476463, 50.883056], [-1.3164712, 50.883056], [-1.3164712, 50.959599], [-1.476463, 50.959599]]]), attributes={})
-
-1353297998932025344

@@ -1,9 +1,0 @@
-@KathyManningNC Please get involved in what is going on with vaccines in NC and what happened to triad hospitals with the canceling of appointments to divert vaccine to Charlotte. Thank you
-
-2021-01-23 22:05:33+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='a6c257c61f294ec1', url='https://api.twitter.com/1.1/geo/id/a6c257c61f294ec1.json', place_type='city', name='Greensboro', full_name='Greensboro, NC', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.0295184, 35.962623], [-79.6852086, 35.962623], [-79.6852086, 36.218171], [-80.0295184, 36.218171]]]), attributes={})
-
-1353101591688196096

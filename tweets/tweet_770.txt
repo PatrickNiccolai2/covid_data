@@ -1,9 +1,0 @@
-Yes. Science is telling you to get the vaccine. But I'm going to wait until March. If they're no zombies and all the guinea pigs didn't suffer side effects, I'll get mine in March. Science is becoming a religion. If science told you it's healthy to jump off a cliff, would you?
-
-2021-01-24 04:34:33+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='84229b03659050aa', url='https://api.twitter.com/1.1/geo/id/84229b03659050aa.json', place_type='city', name='Virginia Beach', full_name='Virginia Beach, VA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-76.22808, 36.672684], [-75.9118121, 36.672684], [-75.9118121, 36.932399], [-76.22808, 36.932399]]]), attributes={})
-
-1353199487309770752

@@ -1,9 +1,0 @@
-@BWallArthur Mum had the Pfizer vaccine last night. Very happy to have received it. No ill effects and she's observing lockdown protocols as she says "having the vaccine doesn't give you licence to go out there willy-nilly".
-
-2021-01-24 10:47:39+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2bb2139f958a95b4', url='https://api.twitter.com/1.1/geo/id/2bb2139f958a95b4.json', place_type='city', name='Tonbridge', full_name='Tonbridge, South East', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[0.245025, 51.1803086], [0.310677, 51.1803086], [0.310677, 51.2286878], [0.245025, 51.2286878]]]), attributes={})
-
-1353293381670219777

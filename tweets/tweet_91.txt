@@ -1,9 +1,0 @@
-@ProfJDChalmers According to Government published data, 12 week interval much better for AZ vaccine (numbers small, needs follow-up?) https://t.co/Ns71ng3vMl
-
-2021-01-24 12:30:43+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4d5ff44302ed6dd3', url='https://api.twitter.com/1.1/geo/id/4d5ff44302ed6dd3.json', place_type='city', name='Monifieth', full_name='Monifieth, Scotland', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.845778, 56.4740716], [-2.8035914, 56.4740716], [-2.8035914, 56.491564], [-2.845778, 56.491564]]]), attributes={})
-
-1353319317883006976

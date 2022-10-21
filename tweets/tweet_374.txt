@@ -1,9 +1,0 @@
-Up early doors, just over 9km there and back and now the proud owner of a vaccine card! https://t.co/eJc93Dmcpr
-
-2021-01-24 09:47:51+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0fc343df7114c000', url='https://api.twitter.com/1.1/geo/id/0fc343df7114c000.json', place_type='poi', name='Elland Road', full_name='Elland Road', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.5721821784973145, 53.77775745600849], [-1.5721821784973145, 53.77775745600849], [-1.5721821784973145, 53.77775745600849], [-1.5721821784973145, 53.77775745600849]]]), attributes={})
-
-1353278329265250304

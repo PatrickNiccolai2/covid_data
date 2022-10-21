@@ -1,9 +1,0 @@
-Why r Repubs giving Biden a hard time about asst. he wants to give Americans? Is it only Dems waiting in food lines &amp; want vaccines? Only Dems w/no jobs need UE benefits? This isnt for Dems only! ITS 4 ALL AMERICANS, WE NEED HELP BAD!  Europe has no food or healthcare lines! Why?
-
-2021-01-23 20:50:03+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='d6539f049c4d05e8', url='https://api.twitter.com/1.1/geo/id/d6539f049c4d05e8.json', place_type='city', name='Lowell', full_name='Lowell, MA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-71.382444, 42.605989], [-71.271272, 42.605989], [-71.271272, 42.666507], [-71.382444, 42.666507]]]), attributes={})
-
-1353082589389664256

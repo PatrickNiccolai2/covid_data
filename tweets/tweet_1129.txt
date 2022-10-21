@@ -1,9 +1,0 @@
-Community leaders asked to help tackle ‘vaccine hesitancy’ among minorities… https://t.co/K22gFiNRAf via @eveningexpress
-
-2021-01-24 00:22:09+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7ae9e2f2ff7a87cd', url='https://api.twitter.com/1.1/geo/id/7ae9e2f2ff7a87cd.json', place_type='city', name='Edinburgh', full_name='Edinburgh, Scotland', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.3285119, 55.894729], [-3.077505, 55.894729], [-3.077505, 55.991662], [-3.3285119, 55.991662]]]), attributes={})
-
-1353135968702889984

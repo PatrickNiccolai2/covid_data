@@ -1,9 +1,0 @@
-First dose of Moderna COVID - 19 vaccine! https://t.co/4fZ1lBlUkk
-
-2021-01-23 19:36:58+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='07d9eca11b484001', url='https://api.twitter.com/1.1/geo/id/07d9eca11b484001.json', place_type='poi', name='Dartmouth-Hitchcock Medical Center', full_name='Dartmouth-Hitchcock Medical Center', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-72.27341946254455, 43.67577115769653], [-72.27341946254455, 43.67577115769653], [-72.27341946254455, 43.67577115769653], [-72.27341946254455, 43.67577115769653]]]), attributes={})
-
-1353064197605580803

@@ -1,9 +1,0 @@
-@Helenhs I may as well be in Greece, Missouri has no information or vaccine.
-
-2021-01-24 03:43:36+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2526edd24c06e60c', url='https://api.twitter.com/1.1/geo/id/2526edd24c06e60c.json', place_type='admin', name='Missouri', full_name='Missouri, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-95.774704, 35.995476], [-89.098843, 35.995476], [-89.098843, 40.613641], [-95.774704, 40.613641]]]), attributes={})
-
-1353186663384702976

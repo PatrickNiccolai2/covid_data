@@ -1,9 +1,0 @@
-@10DowningStreet Something doesn't smell right. 12 weeks between vaccine is to long. How many exactly of 70m do you count as vulnerable. And if you worried about supplies, we have three vaccines. Come clean! What the hell is going on? @BBCNews
-
-2021-01-23 23:10:28+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3c6b13ac2f931ead', url='https://api.twitter.com/1.1/geo/id/3c6b13ac2f931ead.json', place_type='city', name='Marlow', full_name='Marlow, South East', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.8117117, 51.5631491], [-0.7561578, 51.5631491], [-0.7561578, 51.6002484], [-0.8117117, 51.6002484]]]), attributes={})
-
-1353117930263867393

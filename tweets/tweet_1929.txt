@@ -1,9 +1,0 @@
-Is Covid protection being compromised by the delay in the second vaccination, diverting supply of vaccine to first vaccinations just so Johnson can claim the target was achieved.
-
-2021-01-23 18:52:30+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='248a5a6920dbfce1', url='https://api.twitter.com/1.1/geo/id/248a5a6920dbfce1.json', place_type='city', name='Ireby', full_name='Ireby, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.186832, 54.7374496], [-3.1823595, 54.7374496], [-3.1823595, 54.7428927], [-3.186832, 54.7428927]]]), attributes={})
-
-1353053007684935685

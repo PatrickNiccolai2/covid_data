@@ -1,9 +1,0 @@
-Day 4 after dose 2 of the covid vaccine and I still feel like shit
-
-2021-01-24 12:01:25+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01ea63d31d2a506d', url='https://api.twitter.com/1.1/geo/id/01ea63d31d2a506d.json', place_type='city', name='Brighton', full_name='Brighton, CO', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-104.89098, 39.899695], [-104.735073, 39.899695], [-104.735073, 40.024017], [-104.89098, 40.024017]]]), attributes={})
-
-1353311942664851462

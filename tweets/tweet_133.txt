@@ -1,9 +1,0 @@
-@PaulJHorton1 Yes everything I'm reading says you should still have the vaccine as no increased risks.  I'm also on a low dose of levothyroxine and thyroid is under control.
-
-2021-01-24 12:08:03+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='a01c2be8c5283147', url='https://api.twitter.com/1.1/geo/id/a01c2be8c5283147.json', place_type='city', name='Arona', full_name='Arona, Spain', country_code='ES', country='Spain', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-16.7373796, 27.9980541], [-16.6364424, 27.9980541], [-16.6364424, 28.1194904], [-16.7373796, 28.1194904]]]), attributes={})
-
-1353313614321639426

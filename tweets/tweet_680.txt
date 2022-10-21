@@ -1,9 +1,0 @@
-@BurnabyAntonia Yes thank you @BurnabyAntonia. I’ll send you more details due to word limits, but this shows once vaccines are available, essential workers in specific workplaces/industries may be included later in Phase 3. We are following public health’s expertise on these tough decisions. 🙏 https://t.co/tiSEakgJpM
-
-2021-01-24 06:08:44+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5147516179fa9c13', url='https://api.twitter.com/1.1/geo/id/5147516179fa9c13.json', place_type='city', name='Burnaby', full_name='Burnaby, British Columbia', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-123.024209, 49.180153], [-122.892479, 49.180153], [-122.892479, 49.299154], [-123.024209, 49.299154]]]), attributes={})
-
-1353223186909827074

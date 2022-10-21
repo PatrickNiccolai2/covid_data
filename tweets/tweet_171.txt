@@ -1,9 +1,0 @@
-@BorisJohnson @MattHancock @WayneDavid_MP Why does the .Gov advice re Vacine say 21 days apart when your saying 12 weeks. #confused.  Also am I right in thinking that if it goes against the manufacturer guidelines it then becomes an unlicensed medicine? https://t.co/TYjyT85VQP
-
-2021-01-24 11:49:57+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2fbecaad4fd6b148', url='https://api.twitter.com/1.1/geo/id/2fbecaad4fd6b148.json', place_type='city', name='Higher Penwortham', full_name='Higher Penwortham, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.755316, 53.7152153], [-2.690196, 53.7152153], [-2.690196, 53.758024], [-2.755316, 53.758024]]]), attributes={})
-
-1353309058829328384

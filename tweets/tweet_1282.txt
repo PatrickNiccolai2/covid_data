@@ -1,9 +1,0 @@
-@thomasm54378162 Absolutely, it’ll take time. There’s so much to clean-up. Yes, I’ll get the vaccine when it’s available to me. There’s many people who need it before me, so I’m happy to wait.
-
-2021-01-23 23:16:36+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01e4b0c84959d430', url='https://api.twitter.com/1.1/geo/id/01e4b0c84959d430.json', place_type='city', name='Canberra', full_name='Canberra, Australian Capital Territory', country_code='AU', country='Australia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[148.9959216, -35.480260417], [149.263643456, -35.480260417], [149.263643456, -35.147699163], [148.9959216, -35.147699163]]]), attributes={})
-
-1353119470273716224

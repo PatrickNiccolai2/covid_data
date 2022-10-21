@@ -1,9 +1,0 @@
-Well said @CharlesWalkerMP mental health in this country is at breaking point when will the prime minister stand up and realise there's another pandemic on our hands 😡😡 @BorisJohnson https://t.co/05qC3T7Zho
-
-2021-01-24 09:34:25+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6bbcd311fdb99c3b', url='https://api.twitter.com/1.1/geo/id/6bbcd311fdb99c3b.json', place_type='city', name='Runcorn', full_name='Runcorn, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.761929, 53.305809], [-2.670996, 53.305809], [-2.670996, 53.350151], [-2.761929, 53.350151]]]), attributes={})
-
-1353274948551372805

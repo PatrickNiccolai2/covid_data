@@ -1,9 +1,0 @@
-Young Hollywood #WeinsteinDemocrats crowd out inner city residents for #COVID19 vaccines... https://t.co/LCKJEssauT
-
-2021-01-24 00:54:27+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00610f4d3a382ec1', url='https://api.twitter.com/1.1/geo/id/00610f4d3a382ec1.json', place_type='city', name='Escondido', full_name='Escondido, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-117.146102, 33.0577819], [-116.998535, 33.0577819], [-116.998535, 33.182936], [-117.146102, 33.182936]]]), attributes={})
-
-1353144096026632192

@@ -1,9 +1,0 @@
-@thisisslater The gov created chaos when they chose private hospitals to plan for and administer the vaccine instead of counties who have trained and planned for this scenario for decades.  Thats like putting in Bigelow and Chyna when you have the Undertaker and Hulk Hogan.
-
-2021-01-23 22:47:16+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='41f575b7eebcd4b7', url='https://api.twitter.com/1.1/geo/id/41f575b7eebcd4b7.json', place_type='city', name='Utica', full_name='Utica, NY', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-75.295291, 43.050251], [-75.158681, 43.050251], [-75.158681, 43.189108], [-75.295291, 43.189108]]]), attributes={})
-
-1353112088345014280

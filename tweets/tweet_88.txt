@@ -1,9 +1,0 @@
-Mainstream media lied telling Americans that TRUMP was doing bad job with viruses yet @JoeBiden  HAS DONE NOTHING different than the TRUMP PLAN, he thinks making mask mandatory is better than a vaccine, NO MASKS DO NOT WORK , each state has proven that , in fact us who don’t wear https://t.co/yL9t9Y5nUL
-
-2021-01-24 12:31:17+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2d83c71ce16cd187', url='https://api.twitter.com/1.1/geo/id/2d83c71ce16cd187.json', place_type='admin', name='West Virginia', full_name='West Virginia, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-82.644739, 37.201483], [-77.7189303, 37.201483], [-77.7189303, 40.638802], [-82.644739, 40.638802]]]), attributes={})
-
-1353319462397566976

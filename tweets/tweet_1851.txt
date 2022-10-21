@@ -1,9 +1,0 @@
-CureVac and Novavax vaccines against Covid-19 will begin Phase 3 in Mexico https://t.co/c2USf54Us4 #entrepreneur #business #news
-
-2021-01-23 19:16:02+00:00
-
-{'type': 'Point', 'coordinates': [-75.60755991, 45.50737331]}
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='127021a2772dbff7', url='https://api.twitter.com/1.1/geo/id/127021a2772dbff7.json', place_type='city', name='Gatineau', full_name='Gatineau, Québec', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-75.908759, 45.366368], [-75.3413168, 45.366368], [-75.3413168, 45.599121], [-75.908759, 45.599121]]]), attributes={})
-
-1353058930209906691

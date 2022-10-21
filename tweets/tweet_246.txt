@@ -1,9 +1,0 @@
-Cases naik dan naik jadi alasan untuk setiap orang perlu vaccine 🥱
-
-2021-01-24 10:56:02+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='96cff30292d71c41', url='https://api.twitter.com/1.1/geo/id/96cff30292d71c41.json', place_type='admin', name='Johor Bahru', full_name='Johor Bahru, Johor', country_code='MY', country='Malaysia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[103.5363541, 1.3416253], [104.0161667, 1.3416253], [104.0161667, 1.673503], [103.5363541, 1.673503]]]), attributes={})
-
-1353295491778269184

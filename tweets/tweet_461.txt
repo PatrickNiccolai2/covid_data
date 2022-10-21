@@ -1,9 +1,0 @@
-Interesting Hattie Mancock preaches the if you two grannies better to give both the first jab, then one the 2 jabs, then why does Stanley Johnson get 2 jabs?  When he been shown not to follow the rules on wearing masks, and breaking lockdown and travel rules!
-
-2021-01-24 09:00:11+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='50f2d0272381533f', url='https://api.twitter.com/1.1/geo/id/50f2d0272381533f.json', place_type='admin', name='East Midlands', full_name='East Midlands, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.03410488116464, 51.9772264213839], [0.357994000542651, 51.9772264213839], [0.357994000542651, 53.6163564980205], [-2.03410488116464, 53.6163564980205]]]), attributes={})
-
-1353266335023771649

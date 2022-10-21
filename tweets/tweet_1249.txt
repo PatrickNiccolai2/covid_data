@@ -1,9 +1,0 @@
-How good is to see the vaccine against corona virus  that have already started in @portovelho @rondonia .  #coronavirus #vaccines # https://t.co/EdhiO14xB9
-
-2021-01-23 23:28:52+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='206c436ce43a43a3', url='https://api.twitter.com/1.1/geo/id/206c436ce43a43a3.json', place_type='city', name='Madrid', full_name='Madrid, Spain', country_code='ES', country='Spain', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.8890049, 40.3120713], [-3.5180102, 40.3120713], [-3.5180102, 40.6435181], [-3.8890049, 40.6435181]]]), attributes={})
-
-1353122560179888131

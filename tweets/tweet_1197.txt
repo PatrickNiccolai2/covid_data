@@ -1,9 +1,0 @@
-@Lancegooden How many more days do I have to wait until I receive my Covid-19 vaccine?
-
-2021-01-23 23:49:26+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='07ff830817b8e718', url='https://api.twitter.com/1.1/geo/id/07ff830817b8e718.json', place_type='city', name='Mesquite', full_name='Mesquite, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-96.683671, 32.700664], [-96.520614, 32.700664], [-96.520614, 32.8492108], [-96.683671, 32.8492108]]]), attributes={})
-
-1353127733199572997

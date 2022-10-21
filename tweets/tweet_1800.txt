@@ -1,9 +1,0 @@
-¿A Pfizer no le interesará quedarse con nuestro Antel Arena a cambio de dosis? #Covid_19
-
-2021-01-23 19:32:59+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01d487de3c4e0807', url='https://api.twitter.com/1.1/geo/id/01d487de3c4e0807.json', place_type='admin', name='Maldonado', full_name='Maldonado, Uruguay', country_code='UY', country='Uruguay', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-55.4833278, -34.973751], [-54.462574, -34.973751], [-54.462574, -33.940979], [-55.4833278, -33.940979]]]), attributes={})
-
-1353063195762548742

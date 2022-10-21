@@ -1,9 +1,0 @@
-2nd vaccine shot DONE ❤️ Folks, get your vaccine shots. Going to protect you. Better to suffer some side effects now than get the virus and suffer more 👍. The pandas came along for company 😊❤️ https://t.co/ffL1dt1vhm
-
-2021-01-23 23:12:11+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='07d9c93d8a487003', url='https://api.twitter.com/1.1/geo/id/07d9c93d8a487003.json', place_type='poi', name='UW Medical Center', full_name='UW Medical Center', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.30864524841309, 47.650038279683], [-122.30864524841309, 47.650038279683], [-122.30864524841309, 47.650038279683], [-122.30864524841309, 47.650038279683]]]), attributes={})
-
-1353118360045826050

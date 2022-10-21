@@ -1,9 +1,0 @@
-This is messed up. I’m waiting for @JoeBiden to fix this. I know it’s gonna take some time but at the very least @CDCgov should be publicizing distribution guidelines for the local DPH so vaccines aren’t wasted. https://t.co/2W6bVp4sY6
-
-2021-01-23 21:43:03+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='013b5456649606dc', url='https://api.twitter.com/1.1/geo/id/013b5456649606dc.json', place_type='city', name='Wellington City', full_name='Wellington City, New Zealand', country_code='NZ', country='New Zealand', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[174.613267, -41.362455], [174.89541, -41.362455], [174.89541, -41.14354], [174.613267, -41.14354]]]), attributes={})
-
-1353095929021128705

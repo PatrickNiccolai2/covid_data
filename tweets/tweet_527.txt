@@ -1,9 +1,0 @@
-@FransBouma @ashic @Waescher To do what!? You follow existing protocol and give people their second shot. Which means fewer people are vaccinated with first shot but it does not change number of vaccine doses overall. And for additional trials you only need couple of hundreds.
-
-2021-01-24 08:24:06+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5eefdd08491a1c89', url='https://api.twitter.com/1.1/geo/id/5eefdd08491a1c89.json', place_type='city', name='Leipzig', full_name='Leipzig, Germany', country_code='DE', country='Germany', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[12.229826, 51.2380243], [12.543579, 51.2380243], [12.543579, 51.445007], [12.229826, 51.445007]]]), attributes={})
-
-1353257253802037248

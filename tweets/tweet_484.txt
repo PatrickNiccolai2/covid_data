@@ -1,9 +1,0 @@
-@MattHancock Why @MattHancock?... the vaccine is effective if issued correctly according to the producers of the drug and the W.H.O.
-
-2021-01-24 08:53:38+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0c06d51c1d4ea4de', url='https://api.twitter.com/1.1/geo/id/0c06d51c1d4ea4de.json', place_type='city', name='Burnhill Green', full_name='Burnhill Green, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.3170833, 52.602253], [-2.310022, 52.602253], [-2.310022, 52.6046734], [-2.3170833, 52.6046734]]]), attributes={})
-
-1353264687455105026

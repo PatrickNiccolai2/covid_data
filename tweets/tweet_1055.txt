@@ -1,9 +1,0 @@
-United Airlines might require its employees to take the vaccine. https://t.co/458zGQWvl3
-
-2021-01-24 01:06:18+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6d3998663bfdad9b', url='https://api.twitter.com/1.1/geo/id/6d3998663bfdad9b.json', place_type='city', name='Kawasaki City Kawasaki Ward', full_name='Kawasaki City Kawasaki Ward, Kanagawa', country_code='JP', country='Japan', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[139.692850002737, 35.4686279977105], [139.795386719108, 35.4686279977105], [139.795386719108, 35.541793000081], [139.692850002737, 35.541793000081]]]), attributes={})
-
-1353147080378699776

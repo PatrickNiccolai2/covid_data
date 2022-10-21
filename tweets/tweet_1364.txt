@@ -1,9 +1,0 @@
-qz Reino Unido | Boris Johnson: “Hay indicios de que la nueva variante de coronavirus esté asociada a mayor mortalidad” | COVID-19 | variante británica | MUNDO | EL COMERCIO PERÚ https://t.co/ApUkMOuBLB, -asociada-a-mayor-mortalidad-covid-19-variante-britanica-noticiaZfgi/
-
-2021-01-23 22:45:14+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='07d9dcf34c883001', url='https://api.twitter.com/1.1/geo/id/07d9dcf34c883001.json', place_type='poi', name='Movistar Showroom', full_name='Movistar Showroom', country_code='PE', country='Peru', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-76.6027307510376, -12.761349821230706], [-76.6027307510376, -12.761349821230706], [-76.6027307510376, -12.761349821230706], [-76.6027307510376, -12.761349821230706]]]), attributes={})
-
-1353111576958685190

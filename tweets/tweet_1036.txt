@@ -1,9 +1,0 @@
-has anyone gotten the covid vaccine??
-
-2021-01-24 01:19:27+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='e21c8e4914eef2b3', url='https://api.twitter.com/1.1/geo/id/e21c8e4914eef2b3.json', place_type='admin', name='Colorado', full_name='Colorado, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-109.060257, 36.992427], [-102.041524, 36.992427], [-102.041524, 41.003445], [-109.060257, 41.003445]]]), attributes={})
-
-1353150387922956289

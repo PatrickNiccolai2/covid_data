@@ -1,9 +1,0 @@
-You do not get it!  Coronavirus lives on your fingers, things you touch and on your clothes. Vaccine does not address those!  https://t.co/TjzKcNMtkk
-
-2021-01-24 08:10:54+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='85ec017be8926e26', url='https://api.twitter.com/1.1/geo/id/85ec017be8926e26.json', place_type='city', name='Urbandale', full_name='Urbandale, IA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-93.814689, 41.614643], [-93.697511, 41.614643], [-93.697511, 41.658733], [-93.814689, 41.658733]]]), attributes={})
-
-1353253934022987776

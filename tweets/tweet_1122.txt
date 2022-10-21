@@ -1,9 +1,0 @@
-This is bad. Although official cause of death hasn’t been determined, it will discourage some from getting the vaccine. https://t.co/lkPXuCuv9E
-
-2021-01-24 00:26:49+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='d950fc7dc2cd14f9', url='https://api.twitter.com/1.1/geo/id/d950fc7dc2cd14f9.json', place_type='city', name='Orangevale', full_name='Orangevale, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-121.262498, 38.637436], [-121.1875214, 38.637436], [-121.1875214, 38.718208], [-121.262498, 38.718208]]]), attributes={})
-
-1353137143892201472

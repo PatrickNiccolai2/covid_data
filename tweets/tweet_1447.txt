@@ -1,9 +1,0 @@
-@stryeyz @auggiecat1 @ICANdecide A surprising # of kids have mitochondrial dysfunction, and they’re not checked for this beforehand. Why is this so complicated for so many to understand? Like so many other meds, vaccines are not one-size-fits-all.
-
-2021-01-23 22:09:36+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='85347dffcfcb9858', url='https://api.twitter.com/1.1/geo/id/85347dffcfcb9858.json', place_type='city', name='Narberth', full_name='Narberth, PA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-75.273052, 40.000523], [-75.252354, 40.000523], [-75.252354, 40.013494], [-75.273052, 40.013494]]]), attributes={})
-
-1353102610555920384

@@ -1,9 +1,0 @@
-Support for current government strategy on vaccine interval by experts. https://t.co/zra3nSMXTt
-
-2021-01-24 07:38:17+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7bd9298983681ec3', url='https://api.twitter.com/1.1/geo/id/7bd9298983681ec3.json', place_type='city', name='Sunderland', full_name='Sunderland, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.41661, 54.858852], [-1.354122, 54.858852], [-1.354122, 54.939633], [-1.41661, 54.939633]]]), attributes={})
-
-1353245723442245638

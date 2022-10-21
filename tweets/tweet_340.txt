@@ -1,9 +1,0 @@
-@SapiensWell @DrDomPimenta Most viruses possess genes encoding proteins that interfere with the immune responses made towards them. In contrast vaccines are designed to maximise immunity.
-
-2021-01-24 10:02:05+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4efd6fc8c50fae33', url='https://api.twitter.com/1.1/geo/id/4efd6fc8c50fae33.json', place_type='admin', name='Yorkshire and The Humber', full_name='Yorkshire and The Humber, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.56475248726412, 53.3015341502953], [0.149787002205902, 53.3015341502953], [0.149787002205902, 54.5621550270294], [-2.56475248726412, 54.5621550270294]]]), attributes={})
-
-1353281911871983617

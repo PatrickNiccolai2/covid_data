@@ -1,9 +1,0 @@
-@MaryLynnRajskub Damnit Chloe we are running out of time! We need that vaccine!
-
-2021-01-23 19:06:38+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6b0a8b209277338a', url='https://api.twitter.com/1.1/geo/id/6b0a8b209277338a.json', place_type='city', name='Oxford', full_name='Oxford, MA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-71.911448, 42.079868], [-71.84776, 42.079868], [-71.84776, 42.191996], [-71.911448, 42.191996]]]), attributes={})
-
-1353056565331456000

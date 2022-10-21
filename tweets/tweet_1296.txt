@@ -1,9 +1,0 @@
-Excited to be on a COVID-19 Vaccine panel with these great experts. 6pm cst January 25th zoom. https://t.co/ftvNOtcGLb https://t.co/IwWbp04rxe
-
-2021-01-23 23:12:17+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='dd3b100831dd1763', url='https://api.twitter.com/1.1/geo/id/dd3b100831dd1763.json', place_type='city', name='New Orleans', full_name='New Orleans, LA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-90.137908, 29.889574], [-89.884108, 29.889574], [-89.884108, 30.075628], [-90.137908, 30.075628]]]), attributes={})
-
-1353118385387827200

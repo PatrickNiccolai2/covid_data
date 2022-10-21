@@ -1,9 +1,0 @@
-@olgalwalters @nadeem_safina @naheed4edi @yvonnecoghill1 @jagtarbasi @ArfanSamina @ogrady_joe @Tara_Hewitt @sheniravjismith @windlejac @AHamiedNHS @AbdulRazaq_PH @riddell_marcus Some really useful insight into the disproportionate impact and vaccine hesitancy in BAME communities. https://t.co/6KKfwU71kt
-
-2021-01-24 12:34:13+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='315b740b108481f6', url='https://api.twitter.com/1.1/geo/id/315b740b108481f6.json', place_type='city', name='Manchester', full_name='Manchester, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.319934, 53.343623], [-2.147026, 53.343623], [-2.147026, 53.5702824], [-2.319934, 53.5702824]]]), attributes={})
-
-1353320200045793280

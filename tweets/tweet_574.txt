@@ -1,9 +1,0 @@
-The bidding war for covid vaccines, in which poor nations are being left behind, makes me sad. Seems the human species hasn’t learn much as a result of the pandemic
-
-2021-01-24 07:58:10+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0188b0e77c2228b8', url='https://api.twitter.com/1.1/geo/id/0188b0e77c2228b8.json', place_type='city', name='Blue Mountains', full_name='Blue Mountains, New South Wales', country_code='AU', country='Australia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[150.260824992, -33.7716123495], [150.491901984, -33.7716123495], [150.491901984, -33.683162092], [150.260824992, -33.683162092]]]), attributes={})
-
-1353250727661948930

@@ -1,9 +1,0 @@
-Taking part in @Novavax vaccine trial. Felt nothing after 1st shot on 12/28 but 24 hrs after 2nd shot on Thursday had 100° fever. All better today. Phase 3 trial goal has been 30k, but given vax availability now, they might have a tough time reaching that. https://t.co/PrbVASOtoX
-
-2021-01-23 19:54:29+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='e898916fab5ef970', url='https://api.twitter.com/1.1/geo/id/e898916fab5ef970.json', place_type='city', name='Druid Hills', full_name='Druid Hills, GA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-84.3488546, 33.764565], [-84.30578, 33.764565], [-84.30578, 33.805572], [-84.3488546, 33.805572]]]), attributes={})
-
-1353068609547890689

@@ -1,9 +1,0 @@
-@KCoulter729 Dude I'm scared as hell to take that experimental vaccine. Not taking it...ever unless the government makes me for travel.
-
-2021-01-23 23:46:37+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01bf53405e9dcccc', url='https://api.twitter.com/1.1/geo/id/01bf53405e9dcccc.json', place_type='city', name='White Lake', full_name='White Lake, MI', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-83.56663, 42.611103], [-83.441773, 42.611103], [-83.441773, 42.699954], [-83.56663, 42.699954]]]), attributes={})
-
-1353127024387362816

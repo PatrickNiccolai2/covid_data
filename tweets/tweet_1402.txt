@@ -1,9 +1,0 @@
-@Wamagaisa Some had the vaccine already. They care less about Sadza eaters
-
-2021-01-23 22:27:26+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='17cd88de6c977e69', url='https://api.twitter.com/1.1/geo/id/17cd88de6c977e69.json', place_type='city', name='Canterbury', full_name='Canterbury, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[1.043809, 51.2532603], [1.136462, 51.2532603], [1.136462, 51.3002514], [1.043809, 51.3002514]]]), attributes={})
-
-1353107097148338177

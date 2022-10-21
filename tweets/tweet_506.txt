@@ -1,9 +1,0 @@
-@3stangtyry Well 2 thing will happen. Either more people will get sick and die or this was a hoax from the begining which means this was nothing but another form of FLU with no vaccine. Im a firm believer that this was deliberately brought in to the US and not reported until it was too late
-
-2021-01-24 08:39:01+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1cacd95a1b3c5221', url='https://api.twitter.com/1.1/geo/id/1cacd95a1b3c5221.json', place_type='city', name='Chicopee', full_name='Chicopee, MA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-72.626984, 42.124341], [-72.513489, 42.124341], [-72.513489, 42.2183538], [-72.626984, 42.2183538]]]), attributes={})
-
-1353261007603441665

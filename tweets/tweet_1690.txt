@@ -1,9 +1,0 @@
-#👏 #ThumbsUp for a #Michigan # #marijuana #dispensary! Get a free #joint with your #COVID19Vaccines 👏 https://t.co/g2nlSKXOgA
-
-2021-01-23 20:24:15+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7f9d880e17eef768', url='https://api.twitter.com/1.1/geo/id/7f9d880e17eef768.json', place_type='city', name='Upper Grand Lagoon', full_name='Upper Grand Lagoon, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-85.792713, 30.135163], [-85.709571, 30.135163], [-85.709571, 30.217462], [-85.792713, 30.217462]]]), attributes={})
-
-1353076099345838080

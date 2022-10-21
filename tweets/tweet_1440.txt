@@ -1,9 +1,0 @@
-@RomanP11 @ATabarrok I know a lot of people who are nervous about the speed of the creation, but they don't understand how long scientists have  been researching targeting cancer this way and researching SARS &amp; MERS in case they need vaccines for them again.
-
-2021-01-23 22:12:15+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='017c61516504550e', url='https://api.twitter.com/1.1/geo/id/017c61516504550e.json', place_type='city', name='Dandridge', full_name='Dandridge, TN', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-83.494266, 35.983804], [-83.380219, 35.983804], [-83.380219, 36.043257], [-83.494266, 36.043257]]]), attributes={})
-
-1353103275663499270

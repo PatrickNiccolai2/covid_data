@@ -1,9 +1,0 @@
-Y’all I really miss dancing. As soon as I get the vaccine the first thing I’m doing is finding a place to get my groove on 🕺🏻 https://t.co/Ly4ATBvqbs
-
-2021-01-23 23:13:15+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='c0b8e8dc81930292', url='https://api.twitter.com/1.1/geo/id/c0b8e8dc81930292.json', place_type='city', name='Baltimore', full_name='Baltimore, MD', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-76.7115205, 39.197211], [-76.529443, 39.197211], [-76.529443, 39.372215], [-76.7115205, 39.372215]]]), attributes={})
-
-1353118627768229889

@@ -1,9 +1,0 @@
-@JoeHirst5 @lawrielee Oh look at me with vaccine! Christ im looking at June / July!!😆
-
-2021-01-23 19:44:21+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5d9b9e12fb8d9864', url='https://api.twitter.com/1.1/geo/id/5d9b9e12fb8d9864.json', place_type='city', name='Drighlington', full_name='Drighlington, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.675421, 53.747569], [-1.6442627, 53.747569], [-1.6442627, 53.7632716], [-1.675421, 53.7632716]]]), attributes={})
-
-1353066059448762368

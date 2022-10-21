@@ -1,9 +1,0 @@
-@Mateuszx00 @BryanMo88320272 @LeonydusJohnson @disclosetv Covid deaths aren’t special lol okay that’s why crematoriums in California have to get exceptions to keep cremating because they’re polluting the air with more than double as many dead bodies than any given year, gtfoh
-
-2021-01-24 01:17:05+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='ac88a4f17a51c7fc', url='https://api.twitter.com/1.1/geo/id/ac88a4f17a51c7fc.json', place_type='city', name='Portland', full_name='Portland, OR', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.7900653, 45.421863], [-122.471751, 45.421863], [-122.471751, 45.6509405], [-122.7900653, 45.6509405]]]), attributes={})
-
-1353149792575086592

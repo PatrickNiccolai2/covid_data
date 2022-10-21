@@ -1,9 +1,0 @@
-Got our first dose of the Pfizer Covid-19 vaccine today. Next dose on February 13th. Should be good to go by February 27th. https://t.co/QJFKY4lepy
-
-2021-01-24 02:07:54+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4aea239b6a146e77', url='https://api.twitter.com/1.1/geo/id/4aea239b6a146e77.json', place_type='city', name='San Juan Capistrano', full_name='San Juan Capistrano, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-117.6865529, 33.466555], [-117.611591, 33.466555], [-117.611591, 33.54673], [-117.6865529, 33.54673]]]), attributes={})
-
-1353162582564065280

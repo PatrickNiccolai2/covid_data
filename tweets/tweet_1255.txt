@@ -1,9 +1,0 @@
-Well done @NorthumbriaNHS having thawed the Pfizer, looking like end of day we would have a few left over, we put the word out ..and the people came. Not one vaccine wasted. @Conservatives don't divert our supply and negate our monumental efforts.@BorisJohnson we had fun!
-
-2021-01-23 23:26:56+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4c9617680dec8914', url='https://api.twitter.com/1.1/geo/id/4c9617680dec8914.json', place_type='city', name='Newburn', full_name='Newburn, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.7807386, 54.9694396], [-1.668453, 54.9694396], [-1.668453, 55.008114], [-1.7807386, 55.008114]]]), attributes={})
-
-1353122072181035009

@@ -1,9 +1,0 @@
-Δεν  είμαστε  ευχαριστημένοι με τίποτα  πάντως   τα  θύματα  απέδω και πέρα αν υπάρξουν  θα είναι από μας τους νεότερους εκεί  να μας  δω τι θα λεμε ;#ερμου #COVIDIOTS #vaccine #λύκεια
-
-2021-01-23 22:15:45+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00279a5763b04e35', url='https://api.twitter.com/1.1/geo/id/00279a5763b04e35.json', place_type='admin', name='Attiki', full_name='Attiki, Greece', country_code='GR', country='Greece', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[22.8905274, 35.8224754], [24.1165237, 35.8224754], [24.1165237, 38.3409863], [22.8905274, 38.3409863]]]), attributes={})
-
-1353104157125828610

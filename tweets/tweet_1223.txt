@@ -1,9 +1,0 @@
-@ceci_neo @flandivar Con la hepatitis pasa lo mismo... si estás vacunado no vas a saber si el anti ag de sup es de la vacuna o si te enfermaste.. lo distinguís solo con el Ag.. ojo no es que soy fan de Sputnik ni nada de eso, es lo q hay y me di porque entro todo el tiempo a los covid y antes q nada.
-
-2021-01-23 23:40:03+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0177894212b08f73', url='https://api.twitter.com/1.1/geo/id/0177894212b08f73.json', place_type='city', name='La Plata', full_name='La Plata, Argentina', country_code='AR', country='Argentina', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-58.160874, -35.031373], [-57.865169, -35.031373], [-57.865169, -34.841264], [-58.160874, -34.841264]]]), attributes={})
-
-1353125374662684678

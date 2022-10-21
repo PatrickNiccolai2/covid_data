@@ -1,9 +1,0 @@
-Right...... If the vaccine "stops you from being seriously ill and dying" ..... Why worry about transmission?
-
-2021-01-24 09:31:57+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='07d9e53836483001', url='https://api.twitter.com/1.1/geo/id/07d9e53836483001.json', place_type='poi', name='Old Kilpatrick Hills', full_name='Old Kilpatrick Hills', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-4.47701924511435, 55.94109781274191], [-4.47701924511435, 55.94109781274191], [-4.47701924511435, 55.94109781274191], [-4.47701924511435, 55.94109781274191]]]), attributes={})
-
-1353274328209633282

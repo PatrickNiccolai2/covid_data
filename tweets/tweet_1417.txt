@@ -1,9 +1,0 @@
-IOC and WHO pledge to help NOCs with vaccine access prior to Tokyo 2020 https://t.co/t2sNIxdboX
-
-2021-01-23 22:21:09+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01e215db7136a37e', url='https://api.twitter.com/1.1/geo/id/01e215db7136a37e.json', place_type='city', name='Nairobi', full_name='Nairobi, Kenya', country_code='KE', country='Kenya', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[36.6645733, -1.3890532], [37.0626672, -1.3890532], [37.0626672, -1.1606735], [36.6645733, -1.1606735]]]), attributes={})
-
-1353105515392495623

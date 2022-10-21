@@ -1,9 +1,0 @@
-Worked a 9 hour shift at the hospital, then helped with planning a covid vaccine clinic for hours just to come back to my neighbors hosting a rager for one of their bdays — the greed &amp; absolute lack of empathy or concern for others is almost as loud as their corny drinking songs.
-
-2021-01-24 05:04:18+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='946ccd22e1c9cda1', url='https://api.twitter.com/1.1/geo/id/946ccd22e1c9cda1.json', place_type='city', name='Pittsburgh', full_name='Pittsburgh, PA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.095586, 40.3615796], [-79.8657933, 40.3615796], [-79.8657933, 40.501198], [-80.095586, 40.501198]]]), attributes={})
-
-1353206972674433030

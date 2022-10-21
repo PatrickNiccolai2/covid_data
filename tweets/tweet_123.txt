@@ -1,9 +1,0 @@
-On B2B @GregDurocher chats @SharonBalMD re: @pfizer delay &amp; vaccine rollout.  Plus Michael Polzl of @CushWakeWR looks at how COVID has impacted real estate. @CowanInsurance rep talks about putting finance plans into action. Tune to @570NEWS today at noon for all things business. https://t.co/hRf5mxeosI
-
-2021-01-24 12:15:06+00:00
-
-{'type': 'Point', 'coordinates': [-80.3324405, 43.4102577]}
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='353c22ab906632de', url='https://api.twitter.com/1.1/geo/id/353c22ab906632de.json', place_type='city', name='Cambridge', full_name='Cambridge, Ontario', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.413946, 43.332161], [-80.251265, 43.332161], [-80.251265, 43.4720567], [-80.413946, 43.4720567]]]), attributes={})
-
-1353315388625457154

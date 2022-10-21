@@ -1,9 +1,0 @@
-This seems like a good collection of resources for covering vaccines being used in the West, but doesn’t have anything specific on the vaccines developed in Russia, China, or the Global South, which will be how most of the world will be vaccinated https://t.co/y3nzopvhZ4
-
-2021-01-24 02:29:50+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6d73a696edc5306f', url='https://api.twitter.com/1.1/geo/id/6d73a696edc5306f.json', place_type='country', name='Kazakhstan', full_name='Kazakhstan', country_code='KZ', country='Kazakhstan', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[46.4925433, 40.9363327], [87.3152134, 40.9363327], [87.3152134, 55.4425719], [46.4925433, 55.4425719]]]), attributes={})
-
-1353168102096297985

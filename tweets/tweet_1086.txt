@@ -1,9 +1,0 @@
-@EGlaguna I didn’t mean @bridgettebjorlo Tweet was bad. I meant the news from Placer County Sheriff was bad news. People are going to hear that someone died after getting the vaccine and will not want to get it now.
-
-2021-01-24 00:44:15+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='d950fc7dc2cd14f9', url='https://api.twitter.com/1.1/geo/id/d950fc7dc2cd14f9.json', place_type='city', name='Orangevale', full_name='Orangevale, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-121.262498, 38.637436], [-121.1875214, 38.637436], [-121.1875214, 38.718208], [-121.262498, 38.718208]]]), attributes={})
-
-1353141528848289792

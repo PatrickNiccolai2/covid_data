@@ -1,9 +1,0 @@
-@rachelhannaford @Hwy41 @JoeConchaTV This coming from the same person who laughed at Trump when he promised a vaccine by the new year...?
-
-2021-01-23 19:47:54+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='9807c5c5f7a2c6ce', url='https://api.twitter.com/1.1/geo/id/9807c5c5f7a2c6ce.json', place_type='admin', name='Minnesota', full_name='Minnesota, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-97.239256, 43.499362], [-89.483385, 43.499362], [-89.483385, 49.384359], [-97.239256, 49.384359]]]), attributes={})
-
-1353066952520945667

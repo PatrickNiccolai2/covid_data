@@ -1,9 +1,0 @@
-@HumblesMack @C567Dave @TorreySmithWR No one said it was a cure. You are putting out misinformation. A vaccine to either help you from getting the virus or at least keeping the symptoms down. No different than the flu vaccine.
-
-2021-01-23 22:28:59+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01fea1ed0b8cdbb6', url='https://api.twitter.com/1.1/geo/id/01fea1ed0b8cdbb6.json', place_type='city', name='Morehead City', full_name='Morehead City, NC', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-76.90017, 34.705977], [-76.6700321, 34.705977], [-76.6700321, 34.762852], [-76.90017, 34.762852]]]), attributes={})
-
-1353107489311641602

@@ -1,9 +1,0 @@
-24 hours after the first #moderna #vaccine and I feel like my normal self. No muscle soreness, fatigue, etc. The injection site is no longer sore. I hope the second injection goes as smooth!
-
-2021-01-23 19:42:40+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='019e22a02a5e2553', url='https://api.twitter.com/1.1/geo/id/019e22a02a5e2553.json', place_type='city', name='Gulfport', full_name='Gulfport, MS', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-89.137059, 30.3517736], [-89.001207, 30.3517736], [-89.001207, 30.5002804], [-89.137059, 30.5002804]]]), attributes={})
-
-1353065635375276039

@@ -1,9 +1,0 @@
-@CFOBlacksell @KCOMstadium_ @NHSHullCCG Great to see you leading from the front and fantastic to hear volunteers from @HumbersideFire supporting the #Covid_19 vaccine centre. Yet again Fire and Rescue step up to assist their community
-
-2021-01-24 08:11:19+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6e448eb1a4fa1aa5', url='https://api.twitter.com/1.1/geo/id/6e448eb1a4fa1aa5.json', place_type='city', name='Herstmonceux', full_name='Herstmonceux, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[0.314973, 50.885365], [0.328378, 50.885365], [0.328378, 50.892519], [0.314973, 50.892519]]]), attributes={})
-
-1353254037672648705

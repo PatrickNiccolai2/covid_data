@@ -1,9 +1,0 @@
-@stevefroom @joannaccherry @theSNP Ignorance is bliss. You do know the scots gov took advice from medical experts on how best to roll out the vaccine?  Don't you? Fuckin idiot
-
-2021-01-23 18:53:44+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='653f4b96b22e623a', url='https://api.twitter.com/1.1/geo/id/653f4b96b22e623a.json', place_type='city', name='Condorrat', full_name='Condorrat, Scotland', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-4.0579354, 55.9243628], [-4.009829, 55.9243628], [-4.009829, 55.940983], [-4.0579354, 55.940983]]]), attributes={})
-
-1353053319682531329

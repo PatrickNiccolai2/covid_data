@@ -1,9 +1,0 @@
-@CTULocal1 Get the vaccine for all of them. They go home to parents,families. Just get enough vaccine and they will gladly go back.
-
-2021-01-23 21:52:33+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1d9a5370a355ab0c', url='https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json', place_type='city', name='Chicago', full_name='Chicago, IL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-87.940033, 41.644102], [-87.523993, 41.644102], [-87.523993, 42.0230669], [-87.940033, 42.0230669]]]), attributes={})
-
-1353098321058004993

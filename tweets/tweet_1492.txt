@@ -1,9 +1,0 @@
-@FrancescoLari @robinthemint @afneil I'm not saying that giving the vaccines 12 weeks apart is a good idea. But it is simply wrong to say that you haven't been vaccinated after the first dose, and I don't think that is what the BMA are saying.
-
-2021-01-23 21:45:26+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3bc1b6cfd27ef7f6', url='https://api.twitter.com/1.1/geo/id/3bc1b6cfd27ef7f6.json', place_type='admin', name='East', full_name='East, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.745779800818049, 51.4482221321091], [1.76893599950184, 51.4482221321091], [1.76893599950184, 52.9926789576249], [-0.745779800818049, 52.9926789576249]]]), attributes={})
-
-1353096528076939264

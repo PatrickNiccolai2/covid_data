@@ -1,9 +1,0 @@
-...supremacists reduced the fight against the virus to the vaccine. And even there they have shown their incompetence in the faulty rollout. These “Freedumbers” keep denying the effectiveness of wearing masks, keeping a safe distance and washing their hands regularly. All...
-
-2021-01-23 22:19:45+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7707ad9771781687', url='https://api.twitter.com/1.1/geo/id/7707ad9771781687.json', place_type='city', name='The Hammocks', full_name='The Hammocks, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.498527, 25.65479], [-80.4158778, 25.65479], [-80.4158778, 25.6886916], [-80.498527, 25.6886916]]]), attributes={})
-
-1353105163318386694

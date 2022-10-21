@@ -1,9 +1,0 @@
-Britain delivers another 480,000 Covid-19 vaccines in a day. Just a shame they are not all the jcvi priority groups. Still millions of the vulnerable not contacted. DM propaganda.  https://t.co/Leo3V0wxu4 @MailOnline
-
-2021-01-24 03:10:02+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='60160252aeb7e3e5', url='https://api.twitter.com/1.1/geo/id/60160252aeb7e3e5.json', place_type='admin', name='West Midlands', full_name='West Midlands, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.23560072135158, 51.8259029271059], [-1.17213601934124, 51.8259029271059], [-1.17213601934124, 53.2262100153425], [-3.23560072135158, 53.2262100153425]]]), attributes={})
-
-1353178216228392961

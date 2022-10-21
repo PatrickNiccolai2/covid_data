@@ -1,9 +1,0 @@
-@SkyNews This is the chance for GREAT BRITAIN to finish off the EU for good by offering any country in the EU that leaves the Oxford vaccine for FREE ie:Poland leaves first and we give them the Oxford vaccine for FREE, the EU is finished ...!
-
-2021-01-24 09:43:32+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1aca7d8a9c3faae1', url='https://api.twitter.com/1.1/geo/id/1aca7d8a9c3faae1.json', place_type='city', name='Blackpool', full_name='Blackpool, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.0569682, 53.80665], [-3.00721, 53.80665], [-3.00721, 53.8757277], [-3.0569682, 53.8757277]]]), attributes={})
-
-1353277245947846659

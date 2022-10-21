@@ -1,9 +1,0 @@
-@BorisJohnson Boris ramp these vaccines up again please. Fantastic job so far but they need to go 24/7. All us volunteers will help further.
-
-2021-01-23 19:25:12+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2c44e3f2181987ec', url='https://api.twitter.com/1.1/geo/id/2c44e3f2181987ec.json', place_type='city', name='Dartford', full_name='Dartford, South East', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[0.150383, 51.414106], [0.262875, 51.414106], [0.262875, 51.466343], [0.150383, 51.466343]]]), attributes={})
-
-1353061238830288899

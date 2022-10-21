@@ -1,9 +1,0 @@
-Yhuuuuh hai When are we getting the vaccine Bathong? I miss the streets 🔥🔥🔥  #LockdownHouseParty https://t.co/3zip52ZzWb
-
-2021-01-23 20:37:02+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='178a87b8e2eaa375', url='https://api.twitter.com/1.1/geo/id/178a87b8e2eaa375.json', place_type='city', name='Sandton', full_name='Sandton, South Africa', country_code='ZA', country='South Africa', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[27.9829939, -26.1362658], [28.1382322, -26.1362658], [28.1382322, -25.9811502], [27.9829939, -25.9811502]]]), attributes={})
-
-1353079316612059137

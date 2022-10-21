@@ -1,9 +1,0 @@
-In line for my vaccine shot, and the line is super long. Apparently, I should have come an hour before my appointment. https://t.co/Ksax9EmqxX
-
-2021-01-23 19:30:33+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='61f1d75eb5064808', url='https://api.twitter.com/1.1/geo/id/61f1d75eb5064808.json', place_type='city', name='San Leandro', full_name='San Leandro, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.202424, 37.667637], [-122.122164, 37.667637], [-122.122164, 37.74245], [-122.202424, 37.74245]]]), attributes={})
-
-1353062583616458759

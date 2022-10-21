@@ -1,9 +1,0 @@
-Gov. Andrew Cuomo Urges Eligible New Yorkers To Get #Vaccine @CBSNewYork @NYGovCuomo @NYGovCuomo Link To Story In Comment. https://t.co/GS6xAx2GLk
-
-2021-01-24 03:57:17+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6b9934dd0b5d176b', url='https://api.twitter.com/1.1/geo/id/6b9934dd0b5d176b.json', place_type='neighborhood', name='Crown Heights', full_name='Crown Heights, Brooklyn', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-73.957898, 40.663907], [-73.938636, 40.663907], [-73.938636, 40.679135], [-73.957898, 40.679135]]]), attributes={})
-
-1353190109324189696

@@ -1,9 +1,0 @@
-@IanMaher7 @LizBell99 @BorisJohnson @MattHancock The assumption from many is that people will be rushing out to catch the virus to get £500. I guarantee these are the same people who don’t think there’s anything suspect about the billions given in contracts to friends and family!
-
-2021-01-23 19:35:42+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='360fb6791d689787', url='https://api.twitter.com/1.1/geo/id/360fb6791d689787.json', place_type='city', name='Ilkley', full_name='Ilkley, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.848444, 53.917768], [-1.791126, 53.917768], [-1.791126, 53.936338], [-1.848444, 53.936338]]]), attributes={})
-
-1353063879492812803

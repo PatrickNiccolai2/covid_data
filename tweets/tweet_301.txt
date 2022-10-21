@@ -1,9 +1,0 @@
-So @BorisJohnson can u explain loopholes ?? Close friend working for airline flew to Barbados full with pax that booked a house viewing ( seemingly allowed) to tell my friend on arrival they’d cancel. So people going on hols under false pretence. #travelban  #Covid19
-
-2021-01-24 10:20:30+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7f55e839e1715da2', url='https://api.twitter.com/1.1/geo/id/7f55e839e1715da2.json', place_type='city', name='Camberwell', full_name='Camberwell, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.1114755, 51.4194247], [-0.0297308, 51.4194247], [-0.0297308, 51.509947], [-0.1114755, 51.509947]]]), attributes={})
-
-1353286547370610689

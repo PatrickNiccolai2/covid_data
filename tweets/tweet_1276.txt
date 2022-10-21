@@ -1,9 +1,0 @@
-Yep!! Lots of details about vaccine missteps here! https://t.co/T5ODhVOaw2 https://t.co/LAJR5x8RZz
-
-2021-01-23 23:18:30+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2740624a2d391c5c', url='https://api.twitter.com/1.1/geo/id/2740624a2d391c5c.json', place_type='city', name='Guelph', full_name='Guelph, Ontario', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.326879, 43.473802], [-80.153377, 43.473802], [-80.153377, 43.594596], [-80.326879, 43.594596]]]), attributes={})
-
-1353119951989710850

@@ -1,9 +1,0 @@
-@Acyn @DevinNunes, have one of your staff go on a thing called Google, they'll understand,  and search news for "California Vaccines" and then they can read you hundreds of stories. https://t.co/zq8lZThLpa
-
-2021-01-24 03:01:26+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='20ba6fb3b1ee82da', url='https://api.twitter.com/1.1/geo/id/20ba6fb3b1ee82da.json', place_type='city', name='Orange', full_name='Orange, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-117.904717, 33.77319], [-117.743381, 33.77319], [-117.743381, 33.847128], [-117.904717, 33.847128]]]), attributes={})
-
-1353176053993385984

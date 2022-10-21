@@ -1,9 +1,0 @@
-@morgan313 @MiaFarrow I know I was ten or younger and was born in 1945. Because they bussed us to the High School Gymnasium and lined up and given sugar cubes with the vaccine
-
-2021-01-23 21:37:34+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='e06ed4324b139bf2', url='https://api.twitter.com/1.1/geo/id/e06ed4324b139bf2.json', place_type='city', name='Cedar Rapids', full_name='Cedar Rapids, IA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-91.7745785, 41.886245], [-91.59113, 41.886245], [-91.59113, 42.0668109], [-91.7745785, 42.0668109]]]), attributes={})
-
-1353094547874713600

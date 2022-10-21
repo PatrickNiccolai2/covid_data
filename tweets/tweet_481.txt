@@ -1,9 +1,0 @@
-MP #ToryCorruption defends receiving vaccine after volunteering at centre https://t.co/1MHySzLq6z
-
-2021-01-24 08:54:34+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7ce922cb67c4e2c3', url='https://api.twitter.com/1.1/geo/id/7ce922cb67c4e2c3.json', place_type='city', name='Hugh Town', full_name='Hugh Town, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-6.3229286, 49.9123841], [-6.3064514, 49.9123841], [-6.3064514, 49.9168984], [-6.3229286, 49.9168984]]]), attributes={})
-
-1353264922679980032

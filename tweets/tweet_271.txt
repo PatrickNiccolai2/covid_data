@@ -1,9 +1,0 @@
-@SteveBakerHW @MattHancock @Telegraph Why would they fund 8 passport vaccine schemes and not role it out.not like wankcock tells lies though ayyy
-
-2021-01-24 10:35:30+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0c9d5c1980d8049a', url='https://api.twitter.com/1.1/geo/id/0c9d5c1980d8049a.json', place_type='city', name='Brimington', full_name='Brimington, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.414919, 53.2391048], [-1.3721522, 53.2391048], [-1.3721522, 53.2710981], [-1.414919, 53.2710981]]]), attributes={})
-
-1353290321963192320

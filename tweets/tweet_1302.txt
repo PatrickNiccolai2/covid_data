@@ -1,9 +1,0 @@
-Covid-19: le Premier ministre Jean Castex annonce qu'un million de personnes ont été vaccinées en France https://t.co/tbRTwcdMlC via @RFI #CovidVaccine #France
-
-2021-01-23 23:10:22+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='04ba472d56551ba1', url='https://api.twitter.com/1.1/geo/id/04ba472d56551ba1.json', place_type='country', name='Burkina Faso', full_name='Burkina Faso', country_code='BF', country='Burkina Faso', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-5.5129593, 9.4011086], [2.4059987, 9.4011086], [2.4059987, 15.0881332], [-5.5129593, 15.0881332]]]), attributes={})
-
-1353117902115893248

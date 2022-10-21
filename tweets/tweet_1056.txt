@@ -1,9 +1,0 @@
-@MaxCRoser @dtwyman Also educate people about their benefits, so they are more likely to get inoculated. There is a lot of skepticism and people are afraid of the vaccine.
-
-2021-01-24 01:05:41+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='76d195c1204e61b2', url='https://api.twitter.com/1.1/geo/id/76d195c1204e61b2.json', place_type='city', name='Valrico', full_name='Valrico, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-82.2529691, 27.872693], [-82.1838196, 27.872693], [-82.1838196, 27.9906673], [-82.2529691, 27.9906673]]]), attributes={})
-
-1353146922958249985

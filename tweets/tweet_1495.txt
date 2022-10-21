@@ -1,9 +1,0 @@
-@PortCityFutures @PortOfRotterdam @minvenw The tricky part is with the specific temperature controlled conditions of the vaccines. This require specific equipment such as envirotainers which are distributed through a network of stations.
-
-2021-01-23 21:44:04+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='879d7cfc66c9c290', url='https://api.twitter.com/1.1/geo/id/879d7cfc66c9c290.json', place_type='country', name='The Netherlands', full_name='The Netherlands', country_code='NL', country='The Netherlands', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[3.2976616, 50.750449], [7.2275448, 50.750449], [7.2275448, 53.5757042], [3.2976616, 53.5757042]]]), attributes={})
-
-1353096186266329090

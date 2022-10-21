@@ -1,9 +1,0 @@
-Yesterday, I was interviewed by @DailyMirror about some scientists advice to our Gov not to follow jab guidelines given of Pfizer. A lot of clinicians are concerned. If you don’t get the full dose, the virus may mutate &amp; be resistant to covid vaccines. Why are we at odds with USA https://t.co/PavyQ9plDh
-
-2021-01-24 11:14:35+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='53b67b1d1cc81a51', url='https://api.twitter.com/1.1/geo/id/53b67b1d1cc81a51.json', place_type='city', name='Birmingham', full_name='Birmingham, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.033651, 52.381063], [-1.74763, 52.381063], [-1.74763, 52.60687], [-2.033651, 52.60687]]]), attributes={})
-
-1353300156276469760

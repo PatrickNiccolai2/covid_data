@@ -1,9 +1,0 @@
-@NHSBuryCCG  I’ve just this sent to me via WhatsApp is this real.  There are too many vaccines at Ramsbottom Civic Centre and Bury council have opened appointments up to any Bury resident. They are going fast, Trafford are doing the same. https://t.co/DBZgohnrgC
-
-2021-01-23 19:34:55+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='282652abfa70c570', url='https://api.twitter.com/1.1/geo/id/282652abfa70c570.json', place_type='city', name='Bury', full_name='Bury, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.364483, 53.535082], [-2.2450333, 53.535082], [-2.2450333, 53.6263139], [-2.364483, 53.6263139]]]), attributes={})
-
-1353063682406719495

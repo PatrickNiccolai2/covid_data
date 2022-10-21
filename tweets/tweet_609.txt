@@ -1,9 +1,0 @@
-@AdamAfriyie So, do we follow your encouragement to relax lockdown for people who have received half a vaccine dose (still only 468k fully vaccinated) or the advice of Professor Van Tam, Deputy CMO?...ooh, that’s a tough call🤨.                          https://t.co/vZcdIKUZJ7
-
-2021-01-24 07:23:05+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='51e226ba12571f40', url='https://api.twitter.com/1.1/geo/id/51e226ba12571f40.json', place_type='city', name='Windsor', full_name='Windsor, South East', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.6629943, 51.4408179], [-0.600029, 51.4408179], [-0.600029, 51.49632], [-0.6629943, 51.49632]]]), attributes={})
-
-1353241898937409538

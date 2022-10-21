@@ -1,9 +1,0 @@
-@GoingDamnFast @Kenny_Wallace It’s not going away even with vaccine.  I don’t want a president to scare people.  It was on TV daily nonstop. My dad is 80. Daughter a teacher with a newborn. Common sense goes a long way.  You can’t legislate common sense or street smarts.
-
-2021-01-23 21:37:46+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0114bdc90b397f60', url='https://api.twitter.com/1.1/geo/id/0114bdc90b397f60.json', place_type='city', name='Marcy', full_name='Marcy, NY', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-75.320428, 43.110827], [-75.219211, 43.110827], [-75.219211, 43.179219], [-75.320428, 43.179219]]]), attributes={})
-
-1353094598546108418

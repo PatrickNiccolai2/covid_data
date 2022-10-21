@@ -1,9 +1,0 @@
-Really so how or when have u ever seen a vaccine 💉 that takes 10/12 years to be available for the public or anyone in less then a year ever in your or my life . An tell who said it must be a priority?? Oh was it Joe’s idea or maybe he yelled it up from basement to his wife 2help https://t.co/4P7dYlEV5o
-
-2021-01-24 01:39:04+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0df743dc77b8dc10', url='https://api.twitter.com/1.1/geo/id/0df743dc77b8dc10.json', place_type='city', name='Waldwick', full_name='Waldwick, NJ', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-74.151358, 41.005296], [-74.093772, 41.005296], [-74.093772, 41.022454], [-74.151358, 41.022454]]]), attributes={})
-
-1353155322848940032

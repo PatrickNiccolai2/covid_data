@@ -1,9 +1,0 @@
-@FirenzeMike @NBCNightlyNews Awwww my parents looks so cute. Love them so much and really hope to get them the vaccine soon so I can hug them again. ✌🏻😍
-
-2021-01-24 01:17:46+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='b4a0e9082dcc8436', url='https://api.twitter.com/1.1/geo/id/b4a0e9082dcc8436.json', place_type='city', name='Delray Beach', full_name='Delray Beach, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.1309396, 26.420813], [-80.05542, 26.420813], [-80.05542, 26.491482], [-80.1309396, 26.491482]]]), attributes={})
-
-1353149966437535744

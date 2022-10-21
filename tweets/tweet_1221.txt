@@ -1,9 +1,0 @@
-It really took just 2 days to "create the vaccine"!? 🤯 https://t.co/3sUmwLuLPu
-
-2021-01-23 23:41:10+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='09ba692cbddfc92c', url='https://api.twitter.com/1.1/geo/id/09ba692cbddfc92c.json', place_type='city', name='Hammersmith', full_name='Hammersmith, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.254563, 51.463873], [-0.177653, 51.463873], [-0.177653, 51.532901], [-0.254563, 51.532901]]]), attributes={})
-
-1353125655387508736

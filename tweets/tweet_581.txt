@@ -1,9 +1,0 @@
-Possibly was one of few to take the vaccine shots last year itself https://t.co/rCfK06jssd
-
-2021-01-24 07:49:48+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4c6bf2b7c14c8f88', url='https://api.twitter.com/1.1/geo/id/4c6bf2b7c14c8f88.json', place_type='admin', name='Maharashtra', full_name='Maharashtra, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[72.64293, 15.606794], [80.899558, 15.606794], [80.899558, 22.029028], [72.64293, 22.029028]]]), attributes={})
-
-1353248622628851712

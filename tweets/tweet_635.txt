@@ -1,9 +1,0 @@
-@oliver_meth @DrZweliMkhize @ProfAbdoolKarim @CyrilRamaphosa I'm sure there must be a system in place. Too much at stake for them to have vaccines arrive in an few days and not be prepared for what's to follow. Let's wait and see. Stay safe. We're all concerned but must remain calm 🙏
-
-2021-01-24 06:50:06+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='c884a1b7e3a91f5e', url='https://api.twitter.com/1.1/geo/id/c884a1b7e3a91f5e.json', place_type='city', name='Umhlanga', full_name='Umhlanga, South Africa', country_code='ZA', country='South Africa', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[31.0346564, -29.7608195], [31.0944587, -29.7608195], [31.0944587, -29.7082913], [31.0346564, -29.7082913]]]), attributes={})
-
-1353233597076037638

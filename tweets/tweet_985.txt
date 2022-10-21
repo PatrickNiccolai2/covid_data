@@ -1,9 +1,0 @@
-@JackPosobiec Especially on President Trump and Covid. Trump offered hope over Covid. He moved heaven and earth to get a vaccine made for us. Biden is aready negative with "it has to run it's course". No hope.....
-
-2021-01-24 01:58:50+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00992ce1527fa172', url='https://api.twitter.com/1.1/geo/id/00992ce1527fa172.json', place_type='city', name='Grace', full_name='Grace, WA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.2539523, 47.7761412], [-122.131686, 47.7761412], [-122.131686, 47.84989], [-122.2539523, 47.84989]]]), attributes={})
-
-1353160300141273088

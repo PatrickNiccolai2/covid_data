@@ -1,9 +1,0 @@
-Ducked off somewhere with a  Baddie, we ain’t popping out til they find a Vaccine
-
-2021-01-23 22:26:56+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='11a2c1d62d4084d1', url='https://api.twitter.com/1.1/geo/id/11a2c1d62d4084d1.json', place_type='city', name='Macon', full_name='Macon, GA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-83.786106, 32.7528097], [-83.522053, 32.7528097], [-83.522053, 32.944825], [-83.786106, 32.944825]]]), attributes={})
-
-1353106972300750849

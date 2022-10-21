@@ -1,9 +1,0 @@
-@ChamBreezey Whoa!! I have one of those too claiming that the vaccine has a microchip in it and refuses to mask up. When asked where I’m getting my info I said the Health Dept. She said “Oh those dictators?? It”ll be a cold day in hell before they stick me!
-
-2021-01-24 04:32:35+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3f0085ad1a49fff2', url='https://api.twitter.com/1.1/geo/id/3f0085ad1a49fff2.json', place_type='city', name='Kennedy Township', full_name='Kennedy Township, PA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.126487, 40.451466], [-80.074896, 40.451466], [-80.074896, 40.503114], [-80.126487, 40.503114]]]), attributes={})
-
-1353198991169773568

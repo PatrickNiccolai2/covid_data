@@ -1,9 +1,0 @@
-Florida Governor Ron DeSantis (known to Floridians as #DeathSantis) is making a corrupt mess of the COVID vaccine https://t.co/T8YKo6IOzv via @PalmerReport
-
-2021-01-24 01:56:01+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4ec01c9dbc693497', url='https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json', place_type='admin', name='Florida', full_name='Florida, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-87.634643, 24.396308], [-79.974307, 24.396308], [-79.974307, 31.001056], [-87.634643, 31.001056]]]), attributes={})
-
-1353159591803154432

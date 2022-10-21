@@ -1,9 +1,0 @@
-@EllaWang522 @BrandonStraka Here’s the thing though. Had trunk not sat on it for 5 months at the start of 2020 he’d have had the vaccines out by September. Three men the before any other country.  But he lied Said it was a hoax. Said America couldn’t get it. He expedited the roll out to save his ass
-
-2021-01-24 06:53:20+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='771cc930c7344732', url='https://api.twitter.com/1.1/geo/id/771cc930c7344732.json', place_type='city', name='Chorley', full_name='Chorley, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.659992, 53.6298227], [-2.608159, 53.6298227], [-2.608159, 53.673185], [-2.659992, 53.673185]]]), attributes={})
-
-1353234413501501440

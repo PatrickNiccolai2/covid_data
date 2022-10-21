@@ -1,9 +1,0 @@
-@PasDeDeuxBetty Really. Good on him. Difficult times and critical workforce. Hope his doing ok and hoping to get the vaccine soon 😬🤷‍♂️👍
-
-2021-01-24 11:09:00+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7b7101cc1c6f8f88', url='https://api.twitter.com/1.1/geo/id/7b7101cc1c6f8f88.json', place_type='city', name='Basingstoke', full_name='Basingstoke, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.1498002, 51.2226126], [-1.039377, 51.2226126], [-1.039377, 51.3030391], [-1.1498002, 51.3030391]]]), attributes={})
-
-1353298752187092994

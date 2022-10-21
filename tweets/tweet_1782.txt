@@ -1,9 +1,0 @@
-#grateful my sweet mama finally received her vaccine today. ❤️ https://t.co/fcG9RWTUFM
-
-2021-01-23 19:38:03+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='698f8f017e150149', url='https://api.twitter.com/1.1/geo/id/698f8f017e150149.json', place_type='city', name='Kings Grant', full_name='Kings Grant, NC', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-77.891489, 34.2491665], [-77.832479, 34.2491665], [-77.832479, 34.289228], [-77.891489, 34.289228]]]), attributes={})
-
-1353064471283994634

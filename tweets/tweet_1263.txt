@@ -1,9 +1,0 @@
-I want Johnson to resign over Covid - especially over his shockingly slow reaction to the new variant, where he allowed cranky Tory backbenchers and weirdo libertarian pundits to hamstring public health. But this vaccine article is shamefully stupid partisan tripe @DailyMirror https://t.co/umhobtE6y4
-
-2021-01-23 23:20:35+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1c37515518593fe3', url='https://api.twitter.com/1.1/geo/id/1c37515518593fe3.json', place_type='city', name='Richmond', full_name='Richmond, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.39216, 51.391383], [-0.221832, 51.391383], [-0.221832, 51.489646], [-0.39216, 51.489646]]]), attributes={})
-
-1353120476260917253

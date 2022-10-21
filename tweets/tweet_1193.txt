@@ -1,9 +1,0 @@
-If you get that vaccine you stupid asf cuz it wasnt even approved by the FDA yet😂😂😂 the government forced it on yall dumbass‼️🙇🏽‍♂️
-
-2021-01-23 23:52:19+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='253e07b9636d0061', url='https://api.twitter.com/1.1/geo/id/253e07b9636d0061.json', place_type='city', name='Hallandale Beach', full_name='Hallandale Beach, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.2070465, 25.9728518], [-80.11721, 25.9728518], [-80.11721, 25.997497], [-80.2070465, 25.997497]]]), attributes={})
-
-1353128460177330182

@@ -1,9 +1,0 @@
-How were you able to get the vaccine when there are people over age of 65 waiting for it ? https://t.co/ylGlZmd5mv
-
-2021-01-24 00:24:43+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='d89569e1c7f0c216', url='https://api.twitter.com/1.1/geo/id/d89569e1c7f0c216.json', place_type='city', name='Pinehurst', full_name='Pinehurst, NC', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-79.520509, 35.160156], [-79.421773, 35.160156], [-79.421773, 35.23152], [-79.520509, 35.23152]]]), attributes={})
-
-1353136612553748480

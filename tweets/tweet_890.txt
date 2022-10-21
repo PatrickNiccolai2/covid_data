@@ -1,9 +1,0 @@
-My great uncle said, “they’re giving the vaccine to all the drunk people”. Guess I could fit in that category?😂🤔😷
-
-2021-01-24 02:54:09+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0046bfef79c8e224', url='https://api.twitter.com/1.1/geo/id/0046bfef79c8e224.json', place_type='city', name='Rio Rancho', full_name='Rio Rancho, NM', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-106.7576226, 35.217658], [-106.566425, 35.217658], [-106.566425, 35.3747081], [-106.7576226, 35.3747081]]]), attributes={})
-
-1353174220570644483

@@ -1,9 +1,0 @@
-la Sputnik V, pero el gobierno tiene prurito no sea que inoculen el virus del comunismo junto a la vacuna. Son una manga de mentirosos y mediocres. Además ellos serán los primeros en vacunarse.
-
-2021-01-23 19:03:33+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='009b71fa17159ccc', url='https://api.twitter.com/1.1/geo/id/009b71fa17159ccc.json', place_type='admin', name='Canelones', full_name='Canelones, Uruguay', country_code='UY', country='Uruguay', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-56.494047, -34.88039], [-55.3932154, -34.88039], [-55.3932154, -34.207474], [-56.494047, -34.207474]]]), attributes={})
-
-1353055791654129664

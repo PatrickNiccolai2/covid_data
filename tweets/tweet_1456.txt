@@ -1,9 +1,0 @@
-Remember when @BorisJohnson recovered from #covid and his second call was to Trump, promising to align U.K. and USA responses? From results to date, seems they really did. Get the distinct impression Biden is hoping for better than that. https://t.co/SZWzVUq2NL
-
-2021-01-23 22:03:40+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='06168d1feda43857', url='https://api.twitter.com/1.1/geo/id/06168d1feda43857.json', place_type='admin', name='South East', full_name='South East, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.95729593780907, 50.5746064789388], [1.45178800018019, 50.5746064789388], [1.45178800018019, 52.1962850088601], [-1.95729593780907, 52.1962850088601]]]), attributes={})
-
-1353101118511976450

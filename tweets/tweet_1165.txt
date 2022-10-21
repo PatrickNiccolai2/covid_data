@@ -1,9 +1,0 @@
-@JulieOwenMoylan @RuthBadleyPR Recommended timeframe for the OxfordAZ vaccine is 4-12 weeks
-
-2021-01-24 00:04:23+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6d3561394ffa8f4a', url='https://api.twitter.com/1.1/geo/id/6d3561394ffa8f4a.json', place_type='city', name='Trowbridge', full_name='Trowbridge, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.2353965, 51.301601], [-2.1714025, 51.301601], [-2.1714025, 51.347199], [-2.2353965, 51.347199]]]), attributes={})
-
-1353131495486074881

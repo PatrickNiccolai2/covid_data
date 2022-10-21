@@ -1,9 +1,0 @@
-@LeaveEUOfficial Hope they stick the vaccine in his prick
-
-2021-01-24 09:15:49+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='06168d1feda43857', url='https://api.twitter.com/1.1/geo/id/06168d1feda43857.json', place_type='admin', name='South East', full_name='South East, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.95729593780907, 50.5746064789388], [1.45178800018019, 50.5746064789388], [1.45178800018019, 52.1962850088601], [-1.95729593780907, 52.1962850088601]]]), attributes={})
-
-1353270269012570112

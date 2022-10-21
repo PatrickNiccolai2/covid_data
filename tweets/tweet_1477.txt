@@ -1,9 +1,0 @@
-@GovMurphy  so I am already worried I won’t be getting my second dose of the Pfizer vaccine. Left a super vaccination center with no second appointment a d told to make one online! There are now appointments available for me or my wife 21 days after our first dose. Fix this!
-
-2021-01-23 21:54:04+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00ca6959663f6d44', url='https://api.twitter.com/1.1/geo/id/00ca6959663f6d44.json', place_type='city', name='North Bergen', full_name='North Bergen, NJ', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-74.057043, 40.757384], [-73.991972, 40.757384], [-73.991972, 40.823639], [-74.057043, 40.823639]]]), attributes={})
-
-1353098701917609994

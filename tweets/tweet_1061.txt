@@ -1,9 +1,0 @@
-@ToddTVG @TVG @PegasusWorldCup @GulfstreamPark Got me through my second vaccine fever watching all day- thank you
-
-2021-01-24 01:02:34+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='16132bcda10ee53c', url='https://api.twitter.com/1.1/geo/id/16132bcda10ee53c.json', place_type='city', name='Newburgh', full_name='Newburgh, IN', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-87.450986, 37.9354579], [-87.355032, 37.9354579], [-87.355032, 37.9804766], [-87.450986, 37.9804766]]]), attributes={})
-
-1353146140108214272

@@ -1,9 +1,0 @@
-@DickieNuggz @theregoeshappy @barstoolcarl @CaptainCons Hope that gets fixed. It will take a lot more than the vaccine though. The WHO says some of the new variants aren’t reacting the same to the vaccine. So it might not end this new normal.
-
-2021-01-24 00:23:05+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='a3df7faf80ceea6b', url='https://api.twitter.com/1.1/geo/id/a3df7faf80ceea6b.json', place_type='city', name='Midland', full_name='Midland, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-102.229316, 31.923379], [-101.979938, 31.923379], [-101.979938, 32.0652206], [-102.229316, 32.0652206]]]), attributes={})
-
-1353136204078837760

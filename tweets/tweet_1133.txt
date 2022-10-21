@@ -1,9 +1,0 @@
-@CourseCharted @poetixtrip @LiveaMemory @tangoandrakija @DonNadeau @snapshotsmade @NYCapricorn @LindaPeters64 @leisurelambie @LisaRivera2207 @SonjaSwissLife I can’t wait! I feel like I’m WILLING the vaccine companies to make more &amp; distribute more ASAP! https://t.co/PB2XJMjCRM
-
-2021-01-24 00:20:27+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00f0bcb04c0518a1', url='https://api.twitter.com/1.1/geo/id/00f0bcb04c0518a1.json', place_type='city', name='Baxter', full_name='Baxter, MN', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-94.312073, 46.31474], [-94.2230101, 46.31474], [-94.2230101, 46.3758737], [-94.312073, 46.3758737]]]), attributes={})
-
-1353135540313485318

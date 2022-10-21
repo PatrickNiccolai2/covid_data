@@ -1,9 +1,0 @@
-@kantei_vaccine そう、信じたくないけど怖い。でも結局大きな波には逆らえなくてワクチン接種して。そしてその後。そのワクチンを打った人の方が重症化する変異種、新たなウイルス、私達のDNAの変異が来たら。。。人口コントロール/人類コントロール信じたくないけどもしかしたらって思う。人間万事塞翁が馬。
-
-2021-01-24 02:36:41+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0073b76548e5984f', url='https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json', place_type='city', name='Sydney', full_name='Sydney, New South Wales', country_code='AU', country='Australia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[150.520928608, -34.1183470085], [151.343020992, -34.1183470085], [151.343020992, -33.578140996], [150.520928608, -33.578140996]]]), attributes={})
-
-1353169823090450432

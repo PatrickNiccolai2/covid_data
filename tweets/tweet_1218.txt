@@ -1,9 +1,0 @@
-1,012 covid vaccines administered in Seymour Texas today. Rural can do this  - just send us the shots!
-
-2021-01-23 23:42:23+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5c937363480a2c19', url='https://api.twitter.com/1.1/geo/id/5c937363480a2c19.json', place_type='city', name='Cedar Park', full_name='Cedar Park, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-97.8816996, 30.4555355], [-97.74559, 30.4555355], [-97.74559, 30.556381], [-97.8816996, 30.556381]]]), attributes={})
-
-1353125960737042433

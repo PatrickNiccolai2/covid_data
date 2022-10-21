@@ -1,9 +1,0 @@
-.@LondonBreed keeps claiming that the problem is supply of vaccines. This report makes me seriously doubt that claim. California stop far distributed only 38% of its allocated vaccines. What gives? https://t.co/kWPzt3PYQa
-
-2021-01-23 19:11:18+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5a110d312052166f', url='https://api.twitter.com/1.1/geo/id/5a110d312052166f.json', place_type='city', name='San Francisco', full_name='San Francisco, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.514926, 37.708075], [-122.357031, 37.708075], [-122.357031, 37.833238], [-122.514926, 37.833238]]]), attributes={})
-
-1353057740885639168

@@ -1,9 +1,0 @@
-@EmergMedDr @SkyNews I was given the measles vaccine in 1964 as part of the research program- thanks to my mum for being forward thinking at the time 😊 I was followed up over the years and never had any ill effects or had measles. Vaccines do save lives and stop disease spread 💙
-
-2021-01-23 22:45:07+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='43b1412ecc8d79ea', url='https://api.twitter.com/1.1/geo/id/43b1412ecc8d79ea.json', place_type='city', name='Old Wives Lees', full_name='Old Wives Lees, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[0.9623734, 51.2501453], [0.9795907, 51.2501453], [0.9795907, 51.2597327], [0.9623734, 51.2597327]]]), attributes={})
-
-1353111549951565825

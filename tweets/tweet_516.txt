@@ -1,9 +1,0 @@
-@BlazinBruce @RoddyQC @DuncanGraham70 Aye, we’re good. Back in NL which is good except for the fact that Is thought it’d be easier to get back to Scotland from here than NY! Curfew started last night so that’s another new experience. Distance learning going ok - can’t complain. Vaccine rollout very slow here though.
-
-2021-01-24 08:31:58+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='8cb67e5457853086', url='https://api.twitter.com/1.1/geo/id/8cb67e5457853086.json', place_type='city', name='The Hague', full_name='The Hague, The Netherlands', country_code='NL', country='The Netherlands', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[4.1903465, 52.0148713], [4.4224441, 52.0148713], [4.4224441, 52.1388646], [4.1903465, 52.1388646]]]), attributes={})
-
-1353259232611737602

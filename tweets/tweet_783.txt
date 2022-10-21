@@ -1,9 +1,0 @@
-@wxyzalicia Nowhere. I got my first dose of the Pfizer vaccine yesterday. Mask up, stay safe and carry-out!
-
-2021-01-24 04:19:58+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='de16101e925021ad', url='https://api.twitter.com/1.1/geo/id/de16101e925021ad.json', place_type='city', name='Hazel Park', full_name='Hazel Park, MI', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-83.113945, 42.446835], [-83.0834367, 42.446835], [-83.0834367, 42.476564], [-83.113945, 42.476564]]]), attributes={})
-
-1353195817805504513

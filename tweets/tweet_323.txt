@@ -1,9 +1,0 @@
-@itvnews We will definitely be a long way off if he doesn’t administer the vaccine as prescribed (3 weeks). How come he knows better than the WHO and medical profession?
-
-2021-01-24 10:09:23+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='690a291d9c0af8d9', url='https://api.twitter.com/1.1/geo/id/690a291d9c0af8d9.json', place_type='city', name='Willenhall', full_name='Willenhall, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.077804, 52.5818964], [-1.9607994, 52.5818964], [-1.9607994, 52.637127], [-2.077804, 52.637127]]]), attributes={})
-
-1353283750449315840

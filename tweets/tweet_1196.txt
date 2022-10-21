@@ -1,9 +1,0 @@
-@boz1156 And little Israel deals with its veritable existence and outflanks the world in the vaccine department, ad well as others.
-
-2021-01-23 23:50:07+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0633ab4aa27b0bf7', url='https://api.twitter.com/1.1/geo/id/0633ab4aa27b0bf7.json', place_type='city', name='Waltham', full_name='Waltham, MA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-71.289902, 42.352885], [-71.194241, 42.352885], [-71.194241, 42.436021], [-71.289902, 42.436021]]]), attributes={})
-
-1353127908047511555

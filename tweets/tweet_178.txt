@@ -1,9 +1,0 @@
-#vaccine #Covid_19 #COVID19 #COVID19Vaccination #COVIDVaccination https://t.co/rIWVNdzcZp
-
-2021-01-24 11:46:35+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='12b6c0ae50cc25db', url='https://api.twitter.com/1.1/geo/id/12b6c0ae50cc25db.json', place_type='city', name='Yadgir', full_name='Yadgir, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[77.12378, 16.740951], [77.151959, 16.740951], [77.151959, 16.77612], [77.12378, 16.77612]]]), attributes={})
-
-1353308213144248320

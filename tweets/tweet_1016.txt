@@ -1,9 +1,0 @@
-@BirthedOnTracks @SilverS63923602 @CNN Amendments? They got a plan with a viable solution. Multitasking on vaccine, business help and provide for the people. Yeah, they’ll miss something but we’ve waited for 12 months. Also, people’s situation is much worse going into 2021 vs going into 2020.
-
-2021-01-24 01:36:12+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='835f1b2948575c51', url='https://api.twitter.com/1.1/geo/id/835f1b2948575c51.json', place_type='city', name='Topeka', full_name='Topeka, KS', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-95.809606, 38.971524], [-95.571859, 38.971524], [-95.571859, 39.103634], [-95.809606, 39.103634]]]), attributes={})
-
-1353154603957805056

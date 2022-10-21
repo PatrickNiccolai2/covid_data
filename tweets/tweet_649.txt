@@ -1,9 +1,0 @@
-I get my second dose of the vaccine in a couple of days and thats just so unbelievably sexy to me &lt;3
-
-2021-01-24 06:37:59+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='a121bc3ed630a35e', url='https://api.twitter.com/1.1/geo/id/a121bc3ed630a35e.json', place_type='city', name='Kettering', full_name='Kettering, OH', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-84.218859, 39.654418], [-84.088199, 39.654418], [-84.088199, 39.736536], [-84.218859, 39.736536]]]), attributes={})
-
-1353230550132285445

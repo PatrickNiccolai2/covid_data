@@ -1,9 +1,0 @@
-Great job @WatfordFC offering facilities to @WHHTVolunteer @NHSuk for #volunteers to be #vaccinated 7 days a week from 730am! To 730pm #imgettingminenow #vaccine #Covid19UK #COVIDVaccination #welldone #WatfordFC @ThePulseHR @HospRadioinfo https://t.co/AY4E32mcwU
-
-2021-01-24 07:13:47+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4f854c83732cf4f5', url='https://api.twitter.com/1.1/geo/id/4f854c83732cf4f5.json', place_type='city', name='Watford', full_name='Watford, East', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.4444586, 51.6322356], [-0.340092, 51.6322356], [-0.340092, 51.703921], [-0.4444586, 51.703921]]]), attributes={})
-
-1353239560818483200

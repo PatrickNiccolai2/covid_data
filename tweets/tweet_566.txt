@@ -1,9 +1,0 @@
-#vaccination staff shortages @BorisJohnson it's time for you to train &amp; recruit those  young unemployed British social media influencers on @Instagram @YouTube @Facebook @InfluencerLtd #socialmedia  NHs is under staffed @MattHancock @CMO_England @NHSEngland #Covid_19 #vaccine https://t.co/lCvZWoN2Dt
-
-2021-01-24 08:03:07+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3eb2c704fe8a50cb', url='https://api.twitter.com/1.1/geo/id/3eb2c704fe8a50cb.json', place_type='city', name='City of London', full_name='City of London, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.112442, 51.5068], [-0.0733794, 51.5068], [-0.0733794, 51.522161], [-0.112442, 51.522161]]]), attributes={})
-
-1353251972216975365

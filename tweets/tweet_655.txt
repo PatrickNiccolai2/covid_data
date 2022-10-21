@@ -1,9 +1,0 @@
-My parents both got their first dose of the vaccine today and after surviving COVID last November I’m so happy they won’t have to deal with it https://t.co/MyKyc4d97M
-
-2021-01-24 06:33:05+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7a863bb88e5bb33c', url='https://api.twitter.com/1.1/geo/id/7a863bb88e5bb33c.json', place_type='city', name='Anchorage', full_name='Anchorage, AK', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-150.0352589, 61.043884], [-149.48233, 61.043884], [-149.48233, 61.426201], [-150.0352589, 61.426201]]]), attributes={})
-
-1353229317602373633

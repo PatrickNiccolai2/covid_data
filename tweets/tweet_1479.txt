@@ -1,9 +1,0 @@
-Please how about Pasco @GovRonDeSantis  - 125,000 of our residents are 65 and older. Our health department doing the best they can - we need more local locations. My seniors having tough  time getting their vaccine. Any help is much appreciated. Thanks! https://t.co/sC83Ii1FM0
-
-2021-01-23 21:52:57+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='36f6e625182fae8b', url='https://api.twitter.com/1.1/geo/id/36f6e625182fae8b.json', place_type='city', name="Land O' Lakes", full_name="Land O' Lakes, FL", country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-82.524994, 28.171069], [-82.369327, 28.171069], [-82.369327, 28.267173], [-82.524994, 28.267173]]]), attributes={})
-
-1353098419548680193

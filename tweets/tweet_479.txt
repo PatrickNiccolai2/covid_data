@@ -1,9 +1,0 @@
-@Jicol @NHKWORLD_News What your didn’t say : The World Health Organization said Friday that it still recommends the use of the Pfizer-BioNTech Covid-19 shot  with an expert panel it convened finding no evidence implicating it in the deaths of elderly people, .....
-
-2021-01-24 08:54:38+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='300bcc6e23a88361', url='https://api.twitter.com/1.1/geo/id/300bcc6e23a88361.json', place_type='city', name='Seattle', full_name='Seattle, WA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.436232, 47.4953154], [-122.2249728, 47.4953154], [-122.2249728, 47.734319], [-122.436232, 47.734319]]]), attributes={})
-
-1353264940832886786

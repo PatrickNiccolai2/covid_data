@@ -1,9 +1,0 @@
-@yadavakhilesh Tumhe kya dikkat hai naam badalne mein Aakhir Itna kyon mirchi lag rahi hai jab desh ke vaccine aur vaigyaniko per bharosa nahi hai to desh ke hit mein kaun sa Achcha kam kahoge15 sal aapki party ki sarkar thi yadav bhaiyon ko bevkuf bana ke rakhe the sabhi samajhdar ho gaye hain https://t.co/MZch2fhPlf
-
-2021-01-23 19:12:34+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5dbd0cff60d628af', url='https://api.twitter.com/1.1/geo/id/5dbd0cff60d628af.json', place_type='city', name='Ludhiana', full_name='Ludhiana, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[75.633677, 30.56898], [76.152149, 30.56898], [76.152149, 31.01921], [75.633677, 31.01921]]]), attributes={})
-
-1353058057945632773

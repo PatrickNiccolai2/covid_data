@@ -1,9 +1,0 @@
-VACCINE FOR NOTHING!
-
-2021-01-23 20:32:44+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='b65a2e65a8705b1e', url='https://api.twitter.com/1.1/geo/id/b65a2e65a8705b1e.json', place_type='city', name='Corbera de Llobregat', full_name='Corbera de Llobregat, España', country_code='ES', country='Spain', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[1.8811326, 41.4043937], [1.9901047, 41.4043937], [1.9901047, 41.4438716], [1.8811326, 41.4438716]]]), attributes={})
-
-1353078234733109248

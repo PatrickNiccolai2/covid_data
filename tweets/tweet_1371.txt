@@ -1,9 +1,0 @@
-If y’all 1) watched his entire press conference 2) bothered to learn the science behind vaccination and 3) realized the fact that this admin is going in with ZERO preparation from the previous admin with regards to vaccine rollout you’d realize how fucking stupid you sound https://t.co/1aNEK6KF1D
-
-2021-01-23 22:41:01+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3a22597bb94d08bd', url='https://api.twitter.com/1.1/geo/id/3a22597bb94d08bd.json', place_type='city', name='Tuscaloosa', full_name='Tuscaloosa, AL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-87.626729, 33.098411], [-87.440084, 33.098411], [-87.440084, 33.29479], [-87.626729, 33.29479]]]), attributes={})
-
-1353110516651216896

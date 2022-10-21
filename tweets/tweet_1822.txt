@@ -1,9 +1,0 @@
-Got my first shot of vaccine yesterday. Kudos to Denton County Public Health Department. Organized and efficient with many volunteers including firefighters. Hundreds of cars and it literally took 10 minutes. A masterful job. Thank you Denton County, Texas. 💙
-
-2021-01-23 19:26:51+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='e0060cda70f5f341', url='https://api.twitter.com/1.1/geo/id/e0060cda70f5f341.json', place_type='admin', name='Texas', full_name='Texas, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-106.645646, 25.837092], [-93.508131, 25.837092], [-93.508131, 36.500695], [-106.645646, 36.500695]]]), attributes={})
-
-1353061652040585217

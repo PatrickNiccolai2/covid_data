@@ -1,9 +1,0 @@
-@slhudson1 I was told ibuprofen may affect the vaccine.
-
-2021-01-24 02:42:34+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2a26b33fc1346425', url='https://api.twitter.com/1.1/geo/id/2a26b33fc1346425.json', place_type='city', name='Tuba City', full_name='Tuba City, AZ', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-111.267427, 36.104579], [-111.211497, 36.104579], [-111.211497, 36.154006], [-111.267427, 36.154006]]]), attributes={})
-
-1353171306833915905

@@ -1,9 +1,0 @@
-@MollyJongFast Florida is no better. Here, you have to sign up to get vaccine at a supermarket chain, which appears  to be eternally booked up. One of my Senators is Rick Scott, so there is experience at killing off the elderly there.
-
-2021-01-23 19:21:38+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='018244f41aa15ac3', url='https://api.twitter.com/1.1/geo/id/018244f41aa15ac3.json', place_type='city', name='Port Orange', full_name='Port Orange, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-81.078928, 29.027688], [-80.967617, 29.027688], [-80.967617, 29.156983], [-81.078928, 29.156983]]]), attributes={})
-
-1353060340905304064

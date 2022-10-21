@@ -1,9 +1,0 @@
-@ChuckCallesto Not everyone is offered the vaccine and don't don't have enough to go around,  so kindly blow it out your ass
-
-2021-01-24 07:11:51+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0180d52e7d92734f', url='https://api.twitter.com/1.1/geo/id/0180d52e7d92734f.json', place_type='city', name='De Pere', full_name='De Pere, WI', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-88.183146, 44.393313], [-88.000825, 44.393313], [-88.000825, 44.466126], [-88.183146, 44.466126]]]), attributes={})
-
-1353239072475672577

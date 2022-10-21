@@ -1,9 +1,0 @@
-Tweedeling dreigt tussen gevaccineerden en rest van bevolking: "Als 20 procent gevaccineerd is en de zomer opnieuw gevangenis wordt, vrees ik dat we het kot gaan afbreken” https://t.co/6fyfeMgft1
-
-2021-01-24 11:07:24+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='ea55d999844c2199', url='https://api.twitter.com/1.1/geo/id/ea55d999844c2199.json', place_type='city', name='Wetteren', full_name='Wetteren, België', country_code='BE', country='Belgium', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[3.8206293, 50.9514648], [3.9228932, 50.9514648], [3.9228932, 51.0283903], [3.8206293, 51.0283903]]]), attributes={})
-
-1353298349412245505

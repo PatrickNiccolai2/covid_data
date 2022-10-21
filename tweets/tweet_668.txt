@@ -1,9 +1,0 @@
-It's 1 a.m. and my phone rings, with a  number I didn't recognize. Didn't get to the phone in time. I pull up the voice mail, and it's a 3-minute complaint from a reader about the difficulty of registering for a #vaccine.  Can't blame him. 🤷🏿‍♂️
-
-2021-01-24 06:16:00+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='9979d3480f2d1e45', url='https://api.twitter.com/1.1/geo/id/9979d3480f2d1e45.json', place_type='city', name='Palm Bay', full_name='Palm Bay, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.737408, 27.910056], [-80.566228, 27.910056], [-80.566228, 28.063838], [-80.737408, 28.063838]]]), attributes={})
-
-1353225015278395393

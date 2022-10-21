@@ -1,9 +1,0 @@
-Vaccine ek confused katha https://t.co/HfQlIBgqKC
-
-2021-01-24 03:34:14+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5db3a8824a6d3205', url='https://api.twitter.com/1.1/geo/id/5db3a8824a6d3205.json', place_type='city', name='Perambur Purasavakam', full_name='Perambur Purasavakam, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[80.1934237, 13.080055], [80.2724855, 13.080055], [80.2724855, 13.1293472], [80.1934237, 13.1293472]]]), attributes={})
-
-1353184306907111424

@@ -1,9 +1,0 @@
-@LloydCymru @northwaleslive Deny them access to the vaccine. Twpsod.
-
-2021-01-23 20:16:32+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0c115a890f8e8c19', url='https://api.twitter.com/1.1/geo/id/0c115a890f8e8c19.json', place_type='city', name='Llanrwst', full_name='Llanrwst, Wales', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.8044095, 53.1303688], [-3.7822217, 53.1303688], [-3.7822217, 53.1475236], [-3.8044095, 53.1475236]]]), attributes={})
-
-1353074157739597835

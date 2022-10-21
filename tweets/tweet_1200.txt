@@ -1,9 +1,0 @@
-@MaxaMilou @DeborahMeaden Did t the German agains t EU regulations try and buy vaccines last sept Oct bypassing normal routes just saying they’re  disobeying the rules , wow who’d have thought
-
-2021-01-23 23:49:12+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3455d7166dccdac5', url='https://api.twitter.com/1.1/geo/id/3455d7166dccdac5.json', place_type='city', name='West Molesey', full_name='West Molesey, South East', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.481469, 51.339482], [-0.342575, 51.339482], [-0.342575, 51.412008], [-0.481469, 51.412008]]]), attributes={})
-
-1353127677855735808

@@ -1,9 +1,0 @@
-Imagine oral vaccines for COVID, distributed by Amazon.  All-done in a week.  LFG
-
-2021-01-24 00:39:48+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6a7c76947f5d29c5', url='https://api.twitter.com/1.1/geo/id/6a7c76947f5d29c5.json', place_type='city', name='South Beach', full_name='South Beach, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.353604, 27.557099], [-80.32125, 27.557099], [-80.32125, 27.622139], [-80.353604, 27.622139]]]), attributes={})
-
-1353140408306589696

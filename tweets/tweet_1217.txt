@@ -1,9 +1,0 @@
-@Patriots I was a subject in the vaccine trial, wrote and ran a trial for severe COVID, done shifts on the @The_BMC COVID service and I’m signed up to give vaccines at Gillette.    Hook me up pretty please. https://t.co/Kal6wYgOHl
-
-2021-01-23 23:43:02+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00905e2e648b2eb0', url='https://api.twitter.com/1.1/geo/id/00905e2e648b2eb0.json', place_type='city', name='Hingham', full_name='Hingham, MA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-70.9317552, 42.1573784], [-70.841438, 42.1573784], [-70.841438, 42.274719], [-70.9317552, 42.274719]]]), attributes={})
-
-1353126124247789569

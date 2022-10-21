@@ -1,9 +1,0 @@
-@SpencerJCox @UtahCoronavirus Keep it going. Love this positive trend with vaccines.
-
-2021-01-24 01:33:10+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='fb9549afa6f81fa6', url='https://api.twitter.com/1.1/geo/id/fb9549afa6f81fa6.json', place_type='city', name='Sandy', full_name='Sandy, UT', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-111.9216582, 40.528084], [-111.800273, 40.528084], [-111.800273, 40.6168271], [-111.9216582, 40.6168271]]]), attributes={})
-
-1353153841986822144

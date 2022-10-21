@@ -1,9 +1,0 @@
-@Jesus99 @ElPasoTXGov @umcelpaso El Paso historically has very high rates of vaccine compliance. I wouldn’t project national survey data to a local population, especially one that is 82% Latino.
-
-2021-01-23 23:54:21+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6a0a3474d8c5113c', url='https://api.twitter.com/1.1/geo/id/6a0a3474d8c5113c.json', place_type='city', name='El Paso', full_name='El Paso, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-106.634874, 31.6206683], [-106.199987, 31.6206683], [-106.199987, 31.966068], [-106.634874, 31.966068]]]), attributes={})
-
-1353128973891481601

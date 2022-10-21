@@ -1,9 +1,0 @@
-Prominent Cardiologist tests +ve despite receiving first dose of vaccine. In the short term, COVID vaccination is not a panacea. It’s still out there and is not going away anytime soon. Stay safe people... #bbcbh #LBC #CovidUK https://t.co/YM69OXMRt4
-
-2021-01-24 07:46:41+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='431fe87ebf8a9e21', url='https://api.twitter.com/1.1/geo/id/431fe87ebf8a9e21.json', place_type='city', name='Brentwood', full_name='Brentwood, East', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[0.252097, 51.597898], [0.364782, 51.597898], [0.364782, 51.6455708], [0.252097, 51.6455708]]]), attributes={})
-
-1353247839682441216

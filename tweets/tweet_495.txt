@@ -1,9 +1,0 @@
-@leballotvl @MmakgoshiLinda We have professionals in the medical field that are useless and doing nothing about getting and manufacturing an african vaccine to help our own yet you bring in you stupidity tp change the narrative..learn to remain relevent..its not foolishness to keep quiet if you dont know
-
-2021-01-24 08:46:13+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='520c2f1889369cd6', url='https://api.twitter.com/1.1/geo/id/520c2f1889369cd6.json', place_type='city', name='Etwatwa', full_name='Etwatwa, South Africa', country_code='ZA', country='South Africa', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[28.4206798, -26.1363757], [28.4963169, -26.1363757], [28.4963169, -26.0821279], [28.4206798, -26.0821279]]]), attributes={})
-
-1353262821522485248

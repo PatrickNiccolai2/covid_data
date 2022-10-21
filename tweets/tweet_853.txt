@@ -1,9 +1,0 @@
-Placebo are NOT totally harmless. The worst side effect is NO EFFECT  for the disease it is meant to prevent. Eg. Developing covid for a covid vaccine trial. Thus, background risk
-
-2021-01-24 03:25:43+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='004f3727016f9b5c', url='https://api.twitter.com/1.1/geo/id/004f3727016f9b5c.json', place_type='city', name='Paranaque City', full_name='Paranaque City, National Capital Region', country_code='PH', country='Republic of the Philippines', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[120.9741053, 14.4333272], [121.0475014, 14.4333272], [121.0475014, 14.5335013], [120.9741053, 14.5335013]]]), attributes={})
-
-1353182162539827201

@@ -1,9 +1,0 @@
-Not sure if it’s true, but I saw somewhere that a drama series for tv is being made starring Kenneth Branagh as Boris Johnson, about the Covid pandemic. Am I alone in thinking this is inappropriate? Covid is still there, and getting worse; will BJ be shown as a hero? Too soon.
-
-2021-01-23 21:23:12+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1a989c2c4ed199a1', url='https://api.twitter.com/1.1/geo/id/1a989c2c4ed199a1.json', place_type='city', name='Alway', full_name='Alway, Wales', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.968967, 51.5831946], [-2.940406, 51.5831946], [-2.940406, 51.595522], [-2.968967, 51.595522]]]), attributes={})
-
-1353090933047369730

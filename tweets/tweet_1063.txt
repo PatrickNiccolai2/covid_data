@@ -1,9 +1,0 @@
-Might just buy a bunch of black market vaccines and give em to people I don’t like https://t.co/RFENNF8TWj
-
-2021-01-24 01:00:59+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='07b9307419f9363f', url='https://api.twitter.com/1.1/geo/id/07b9307419f9363f.json', place_type='city', name='Livonia', full_name='Livonia, MI', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-83.433894, 42.3524527], [-83.312805, 42.3524527], [-83.312805, 42.442178], [-83.433894, 42.442178]]]), attributes={})
-
-1353145742223945728

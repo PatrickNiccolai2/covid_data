@@ -1,9 +1,0 @@
-@EllieDaisy11 @joannaBevan9 @SpillerOfTea @10DowningStreet Boris Johnson’s father has had both a couple of weeks ago and he’s constantly broken lockdown or not worn masks when he should.
-
-2021-01-24 11:15:27+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1c13c0e8dcfa95a3', url='https://api.twitter.com/1.1/geo/id/1c13c0e8dcfa95a3.json', place_type='city', name='Mansfield', full_name='Mansfield, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.247455, 53.1186668], [-1.125273, 53.1186668], [-1.125273, 53.1786801], [-1.247455, 53.1786801]]]), attributes={})
-
-1353300376968159233

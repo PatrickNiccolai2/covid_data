@@ -1,9 +1,0 @@
-@mohapuae Wait and see iam coming February one covid life vaccine is coming
-
-2021-01-24 11:49:01+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5d01806d080d1e50', url='https://api.twitter.com/1.1/geo/id/5d01806d080d1e50.json', place_type='admin', name='Kerala', full_name='Kerala, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[74.860575, 8.291304], [77.412687, 8.291304], [77.412687, 12.79508], [74.860575, 12.79508]]]), attributes={})
-
-1353308822199181312

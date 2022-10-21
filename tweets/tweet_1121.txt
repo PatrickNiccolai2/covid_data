@@ -1,9 +1,0 @@
-@AsaHutchinson respectfully Govenor, why aren’t high-risk individuals allowed to get the vaccine? Will we be able to soon. #CovidVaccine
-
-2021-01-24 00:26:53+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='45a45eb8e30e7b14', url='https://api.twitter.com/1.1/geo/id/45a45eb8e30e7b14.json', place_type='city', name='Little Rock', full_name='Little Rock, AR', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-92.5215951, 34.6259499], [-92.1630491, 34.6259499], [-92.1630491, 34.8178224], [-92.5215951, 34.8178224]]]), attributes={})
-
-1353137161055432704

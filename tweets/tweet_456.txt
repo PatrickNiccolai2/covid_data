@@ -1,9 +1,0 @@
-@scope @bbcouch @SkyNews @sheryllmurray #Covid_19 @dotunadebayo @LBCNews @BorisJohnson @DominicRaab @sheryllmurray #disabledinlockdown #coronavirusuk @RevitaliseNow  #disabilitydiscrimination https://t.co/jXE97Y1bbH
-
-2021-01-24 09:04:32+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6ac4aa98e7d9fa05', url='https://api.twitter.com/1.1/geo/id/6ac4aa98e7d9fa05.json', place_type='city', name='Torpoint', full_name='Torpoint, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-4.2307197, 50.368142], [-4.192996, 50.368142], [-4.192996, 50.3803], [-4.2307197, 50.3803]]]), attributes={})
-
-1353267428420153350

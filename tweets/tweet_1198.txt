@@ -1,9 +1,0 @@
-@billritter7 Big pharma did not take federal funding while developing the vaccine.  They accepted payment once it was ready for use.  No leader can distribute what has not been produced.
-
-2021-01-23 23:49:23+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00c2360e291d2087', url='https://api.twitter.com/1.1/geo/id/00c2360e291d2087.json', place_type='city', name='Orange Lake', full_name='Orange Lake, NY', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-74.131938, 41.505883], [-74.0734856, 41.505883], [-74.0734856, 41.6093741], [-74.131938, 41.6093741]]]), attributes={})
-
-1353127721996582913

@@ -1,9 +1,0 @@
-I finally got my parents appointments for the Vaccine. It’s like a weight has been lifted. 🙏
-
-2021-01-23 20:11:41+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5a700e3c73cbf9b9', url='https://api.twitter.com/1.1/geo/id/5a700e3c73cbf9b9.json', place_type='city', name='Wayne', full_name='Wayne, NJ', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-74.289406, 40.88257], [-74.195413, 40.88257], [-74.195413, 41.014136], [-74.289406, 41.014136]]]), attributes={})
-
-1353072936802865157

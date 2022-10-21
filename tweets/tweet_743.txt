@@ -1,9 +1,0 @@
-@nspector4 Many of my colleagues were vaccinated during Hanukah, have already had their second shot and are well on their way to full immunity... hoping the embassy sends vaccines to its university in China! I have fingers crossed to have the vaccine before I return in June.
-
-2021-01-24 04:59:00+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7f26a3e661069882', url='https://api.twitter.com/1.1/geo/id/7f26a3e661069882.json', place_type='city', name='Saint John', full_name='Saint John, New Brunswick', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-66.240899, 44.863279], [-65.839204, 44.863279], [-65.839204, 45.377488], [-66.240899, 45.377488]]]), attributes={})
-
-1353205638734733318

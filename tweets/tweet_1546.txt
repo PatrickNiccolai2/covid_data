@@ -1,9 +1,0 @@
-@AamerAnwar @BorisJohnson @NHSMillion Would this not break your heart! These people are losing their health and their minds dealing with a pandemic that is out of control due to your incompetence and neglect!
-
-2021-01-23 21:22:00+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1e2ce26b24a406e7', url='https://api.twitter.com/1.1/geo/id/1e2ce26b24a406e7.json', place_type='city', name='Bishopbriggs', full_name='Bishopbriggs, Scotland', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-4.2433675, 55.896], [-4.193495, 55.896], [-4.193495, 55.9235544], [-4.2433675, 55.9235544]]]), attributes={})
-
-1353090633280462848

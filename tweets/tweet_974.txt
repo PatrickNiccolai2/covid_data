@@ -1,9 +1,0 @@
-My mom received her first dose of the Pfizer vaccine this morning. I wasn’t sure how to schedule her second dose and a friend said to log back into VAMS so I did. There was the record of her first dose and it said she was eligible for a second dose after 2/8. The vaccination
-
-2021-01-24 02:05:21+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7b179e1b1fdd80d0', url='https://api.twitter.com/1.1/geo/id/7b179e1b1fdd80d0.json', place_type='city', name='Concord', full_name='Concord, NH', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-71.622585, 43.159703], [-71.462538, 43.159703], [-71.462538, 43.295436], [-71.622585, 43.295436]]]), attributes={})
-
-1353161937253789704

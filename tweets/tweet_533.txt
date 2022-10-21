@@ -1,9 +1,0 @@
-We can bet Morriscum &amp; his family will get their vaccines immediately! They dont care about the rest of us peasants, we're expendable ! https://t.co/4b8W1G8vn1
-
-2021-01-24 08:20:36+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00c2279406373bd3', url='https://api.twitter.com/1.1/geo/id/00c2279406373bd3.json', place_type='city', name='Rushworth', full_name='Rushworth, Victoria', country_code='AU', country='Australia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[144.994895616, -36.593232627], [145.033333376, -36.593232627], [145.033333376, -36.570915189], [144.994895616, -36.570915189]]]), attributes={})
-
-1353256374084374529

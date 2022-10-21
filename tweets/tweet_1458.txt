@@ -1,9 +1,0 @@
-We’re extending the time between the first and second dose of the vaccine doesn’t as the Government claims mean more people get the vaccine. It means we haven’t got enough vaccines
-
-2021-01-23 22:03:33+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0cbfb5dccb8131b8', url='https://api.twitter.com/1.1/geo/id/0cbfb5dccb8131b8.json', place_type='admin', name='North West', full_name='North West, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.64063699761414, 52.9471313094526], [-1.90962598338825, 52.9471313094526], [-1.90962598338825, 55.1888787527094], [-3.64063699761414, 55.1888787527094]]]), attributes={})
-
-1353101088271032321

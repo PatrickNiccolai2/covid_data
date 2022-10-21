@@ -1,9 +1,0 @@
-And holding back vaccines is not dangerous? Start acknowledging your own accountability for this travesty you call the Welsh roll out 🤬 https://t.co/SWAsloZp9C
-
-2021-01-23 22:47:33+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6438e7c0ca38774f', url='https://api.twitter.com/1.1/geo/id/6438e7c0ca38774f.json', place_type='city', name='Caerphilly', full_name='Caerphilly, Wales', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.252887, 51.5627758], [-3.196499, 51.5627758], [-3.196499, 51.5949983], [-3.252887, 51.5949983]]]), attributes={})
-
-1353112160793190405

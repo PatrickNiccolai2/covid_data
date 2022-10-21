@@ -1,9 +1,0 @@
-If it doesn’t stop you from getting Covid nor from infecting others, is it a vaccine?
-
-2021-01-24 11:09:50+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00a291477ce4030f', url='https://api.twitter.com/1.1/geo/id/00a291477ce4030f.json', place_type='city', name='Old Town', full_name='Old Town, ME', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-68.685737, 44.902967], [-68.631595, 44.902967], [-68.631595, 44.944735], [-68.685737, 44.944735]]]), attributes={})
-
-1353298963537997824

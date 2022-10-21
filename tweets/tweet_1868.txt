@@ -1,9 +1,0 @@
-I dreamt I received the covid vaccine and I woke up sad
-
-2021-01-23 19:08:36+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='d563cf7307e4ba95', url='https://api.twitter.com/1.1/geo/id/d563cf7307e4ba95.json', place_type='city', name='Alhambra', full_name='Alhambra, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-118.1651189, 34.05998], [-118.108233, 34.05998], [-118.108233, 34.111213], [-118.1651189, 34.111213]]]), attributes={})
-
-1353057062465359872

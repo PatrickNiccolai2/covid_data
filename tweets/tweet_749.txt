@@ -1,9 +1,0 @@
-I don’t care which vaccine I get, I just want the one that makes me do this https://t.co/gvPvCuX2DR
-
-2021-01-24 04:52:45+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='008a3a896caae197', url='https://api.twitter.com/1.1/geo/id/008a3a896caae197.json', place_type='city', name='Temescal Valley', full_name='Temescal Valley, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-117.534018, 33.708126], [-117.397837, 33.708126], [-117.397837, 33.814923], [-117.534018, 33.814923]]]), attributes={})
-
-1353204066319429632

@@ -1,9 +1,0 @@
-This was a significant concern of mine while deciding if I should get the Moderna vaccine. I chose to get it because it was best for me, my family, and the job I have. I am glad I had no adverse reaction and the soreness lasted just a day. https://t.co/nBcGXyTQYy
-
-2021-01-24 06:30:09+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='029dd1f28dbd3d26', url='https://api.twitter.com/1.1/geo/id/029dd1f28dbd3d26.json', place_type='city', name='Richmond', full_name='Richmond, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.420497, 37.895308], [-122.3043308, 37.895308], [-122.3043308, 38.002378], [-122.420497, 38.002378]]]), attributes={})
-
-1353228576477204480

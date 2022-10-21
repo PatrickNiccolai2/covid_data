@@ -1,9 +1,0 @@
-AstraZeneca reduces its COVID-19 vaccine deliveries to the EU by 60% in the first quarter of 2021  https://t.co/QyGQCO0JNU
-
-2021-01-24 00:40:19+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='bfc35dcc7e63252a', url='https://api.twitter.com/1.1/geo/id/bfc35dcc7e63252a.json', place_type='city', name='Cuauhtémoc', full_name='Cuauhtémoc, Distrito Federal', country_code='MX', country='Mexico', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-99.1843501, 19.3998346], [-99.122382, 19.3998346], [-99.122382, 19.4658366], [-99.1843501, 19.4658366]]]), attributes={})
-
-1353140538631835648

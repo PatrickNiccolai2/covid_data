@@ -1,9 +1,0 @@
-Did not receive an email from Othena about my 2nd dose vaccine appointment BUT I check the app and they made and confirmed the appointment for us. Super happy! Wondering why I didn’t get an email though
-
-2021-01-24 02:22:03+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0562e9e53cddf6ec', url='https://api.twitter.com/1.1/geo/id/0562e9e53cddf6ec.json', place_type='city', name='Santa Ana', full_name='Santa Ana, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-117.944051, 33.691774], [-117.830826, 33.691774], [-117.830826, 33.78821], [-117.944051, 33.78821]]]), attributes={})
-
-1353166142076899333

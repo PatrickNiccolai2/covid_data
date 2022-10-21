@@ -1,9 +1,0 @@
-@JimMartin2011 Chickenpox causes it. It’s very painful. I’m glad you never got it. I think everyone over a certain age should get the vaccine. I forget the age cutoff but glad you’re getting yours. 👍🏻
-
-2021-01-24 03:26:46+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01cf4b9b2ecb033c', url='https://api.twitter.com/1.1/geo/id/01cf4b9b2ecb033c.json', place_type='city', name='Evans City', full_name='Evans City, PA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.07181, 40.745103], [-80.034695, 40.745103], [-80.034695, 40.775288], [-80.07181, 40.775288]]]), attributes={})
-
-1353182430379827200

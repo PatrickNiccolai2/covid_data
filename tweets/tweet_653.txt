@@ -1,9 +1,0 @@
-My guess, the vaccine might just be ineffective https://t.co/fPeojiL24z
-
-2021-01-24 06:34:56+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='009e2ab435d6d6de', url='https://api.twitter.com/1.1/geo/id/009e2ab435d6d6de.json', place_type='city', name='Ruiru', full_name='Ruiru, Kenya', country_code='KE', country='Kenya', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[36.8815837, -1.2298783], [37.0823672, -1.2298783], [37.0823672, -1.1262708], [36.8815837, -1.1262708]]]), attributes={})
-
-1353229780716404736

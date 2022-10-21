@@ -1,9 +1,0 @@
-@mptonyjohnson @RF_Jenkins @CliveMyrieBBC @PhilipIngMBE @NHSBartsHealth C 100k have died from Covid, either in hospital or home. Covid caused their deaths. And no the numbers of doctor certified Covid deaths, as reported by the Office of National Statistics, are not false. Any more than the numbers of cancer patients or strokes. Why would they be?
-
-2021-01-23 22:25:28+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='72a66a1f6783dbe6', url='https://api.twitter.com/1.1/geo/id/72a66a1f6783dbe6.json', place_type='city', name='Downham', full_name='Downham, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.3301093, 53.8915934], [-2.3250322, 53.8915934], [-2.3250322, 53.8955457], [-2.3301093, 53.8955457]]]), attributes={})
-
-1353106603046744065

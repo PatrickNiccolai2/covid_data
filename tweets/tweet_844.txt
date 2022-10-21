@@ -1,9 +1,0 @@
-@tricia_starks Also interesting that the piece states the Russian government plans to have the vaccination done by June, which I cannot believe will happen. It’s a lot of people to vaccinate, even leaving aside the issue of vaccine-hesitancy
-
-2021-01-24 03:33:16+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6d73a696edc5306f', url='https://api.twitter.com/1.1/geo/id/6d73a696edc5306f.json', place_type='country', name='Kazakhstan', full_name='Kazakhstan', country_code='KZ', country='Kazakhstan', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[46.4925433, 40.9363327], [87.3152134, 40.9363327], [87.3152134, 55.4425719], [46.4925433, 55.4425719]]]), attributes={})
-
-1353184065378246656

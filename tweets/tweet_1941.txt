@@ -1,9 +1,0 @@
-VACCINES: 1,112,725 doses have been delivered to providers across Illinois. 524,050 doses were also allocated to the federal government's Pharmacy Partnership Program for long-term care facilities. Statewide total: 1,636,775 doses.
-
-2021-01-23 18:47:53+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='ce1765e3abafe93e', url='https://api.twitter.com/1.1/geo/id/ce1765e3abafe93e.json', place_type='city', name='Springfield', full_name='Springfield, IL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-89.7731855, 39.673272], [-89.546193, 39.673272], [-89.546193, 39.87542], [-89.7731855, 39.87542]]]), attributes={})
-
-1353051846718476290

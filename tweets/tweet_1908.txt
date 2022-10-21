@@ -1,9 +1,0 @@
-Gravitas Plus: India sets an example with Vaccine Maitri https://t.co/hILpdoJFa4 via @YouTube
-
-2021-01-23 18:59:18+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='69ac35a51e92c734', url='https://api.twitter.com/1.1/geo/id/69ac35a51e92c734.json', place_type='city', name='Louvain', full_name='Louvain, Belgium', country_code='BE', country='Belgium', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[4.6403954, 50.824111], [4.7703783, 50.824111], [4.7703783, 50.9439807], [4.6403954, 50.9439807]]]), attributes={})
-
-1353054718248046596

@@ -1,9 +1,0 @@
-i just don’t know what to do except keep doing what i’m doing as someone new to the area who needs her job who is not yet eligible for the vaccine. and so i’m stressed and terrified about the time i have to spend in the classroom. i’m
-
-2021-01-24 10:22:42+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5293452c4298bcdd', url='https://api.twitter.com/1.1/geo/id/5293452c4298bcdd.json', place_type='city', name='Saks', full_name='Saks, AL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-85.882561, 33.677402], [-85.820883, 33.677402], [-85.820883, 33.751072], [-85.882561, 33.751072]]]), attributes={})
-
-1353287101681426432

@@ -1,9 +1,0 @@
-The vaccine was designed to be taken with a 3 week space between jabs, tested this way, proven by medical researchers to work this way. @BorisJohnson and the #Tories are not scientists. They are willfully endangering our lives. https://t.co/evcoQYGF5Y
-
-2021-01-23 22:17:38+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5b89026838905744', url='https://api.twitter.com/1.1/geo/id/5b89026838905744.json', place_type='city', name='Margate', full_name='Margate, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[1.276074, 51.365799], [1.439771, 51.365799], [1.439771, 51.393166], [1.276074, 51.393166]]]), attributes={})
-
-1353104631686176768

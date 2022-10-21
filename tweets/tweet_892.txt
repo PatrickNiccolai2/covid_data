@@ -1,9 +1,0 @@
-I hear vaccine information from @nbcbayarea @kron4news and local Fox News. Maybe Devin doesn’t have cable like a lot of folks and has lost touch with his community https://t.co/hJhFVQjmJd
-
-2021-01-24 02:53:42+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='8bf7208ef12384e5', url='https://api.twitter.com/1.1/geo/id/8bf7208ef12384e5.json', place_type='city', name='Sonoma', full_name='Sonoma, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.481872, 38.273743], [-122.442108, 38.273743], [-122.442108, 38.307552], [-122.481872, 38.307552]]]), attributes={})
-
-1353174107815219200

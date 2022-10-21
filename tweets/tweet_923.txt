@@ -1,9 +1,0 @@
-Anybody who's been a first year teacher, and gone through the joy of catching every cold and flu bug the kids bring to school, knows that the idea of reopening schools before there's a vaccine is ridiculous. https://t.co/rHOy9PSFHJ
-
-2021-01-24 02:36:16+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='99700cd6fc455c13', url='https://api.twitter.com/1.1/geo/id/99700cd6fc455c13.json', place_type='city', name='Hammond', full_name='Hammond, IN', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-87.525341, 41.566265], [-87.432288, 41.566265], [-87.432288, 41.710116], [-87.525341, 41.710116]]]), attributes={})
-
-1353169721592586242

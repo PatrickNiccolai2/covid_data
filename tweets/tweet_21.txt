@@ -1,9 +1,0 @@
-@ErinAstrosFan Yes he is telling the truth just because some numbers have come down don't mean they won't go back up.....and vaccine should be helping...the thing that would help end this faster is if people would just do what they need to do and quit making it about trump or biden
-
-2021-01-24 13:11:23+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6e315e1f96e0450a', url='https://api.twitter.com/1.1/geo/id/6e315e1f96e0450a.json', place_type='city', name='Arlington', full_name='Arlington, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-97.233811, 32.586565], [-97.037464, 32.586565], [-97.037464, 32.817135], [-97.233811, 32.817135]]]), attributes={})
-
-1353329553264017409

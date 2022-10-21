@@ -1,9 +1,0 @@
-Nick’s had his first dose of vaccine this weekend. I’m so happy! All praise to the staff at the vaccination centre who made it quick and easy. All shame on the man overheard saying he’d only have a vaccine if it was the Oxford one. Bump him to the back of the queue then, I say! https://t.co/haePhKB8oj
-
-2021-01-24 08:28:15+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='60160252aeb7e3e5', url='https://api.twitter.com/1.1/geo/id/60160252aeb7e3e5.json', place_type='admin', name='West Midlands', full_name='West Midlands, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.23560072135158, 51.8259029271059], [-1.17213601934124, 51.8259029271059], [-1.17213601934124, 53.2262100153425], [-3.23560072135158, 53.2262100153425]]]), attributes={})
-
-1353258297437155329

@@ -1,9 +1,0 @@
-@TedNesi @ashishkjha Maybe he's not on the same page re: the teacher/vaccine prioritization issue?
-
-2021-01-24 00:24:53+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='d1871b0189c27a21', url='https://api.twitter.com/1.1/geo/id/d1871b0189c27a21.json', place_type='city', name='Warwick', full_name='Warwick, RI', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-71.518925, 41.629501], [-71.354415, 41.629501], [-71.354415, 41.76838], [-71.518925, 41.76838]]]), attributes={})
-
-1353136656442925058

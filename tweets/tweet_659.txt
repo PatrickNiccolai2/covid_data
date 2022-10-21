@@ -1,9 +1,0 @@
-How come bus drivers, cabbies and food chain workers aren’t even mentioned when they speak of key workers getting the vaccine. These people deal with thousands of strangers per week? 🤷🏻‍♀️
-
-2021-01-24 06:29:30+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='65b23b0045f450f6', url='https://api.twitter.com/1.1/geo/id/65b23b0045f450f6.json', place_type='city', name='Kingston upon Thames', full_name='Kingston upon Thames, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.3229167, 51.3428601], [-0.234011, 51.3428601], [-0.234011, 51.437266], [-0.3229167, 51.437266]]]), attributes={})
-
-1353228414501715969

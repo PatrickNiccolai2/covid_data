@@ -1,9 +1,0 @@
-@NikolinMar @ElinMeranda @KuronenJarmo @MartinScheininF @MikaelNiku @MarkkuPeltonen @riikka_kevo @pirijanne @Timotmie @1000histoires @anttipirttimaki @hi2_lo @apuakoronaan @logan2_jj @TeeHool1 @merja_rantala @MattiMuukkonen @unique_anonym @MarkkuTanni @Tqwerty123a @AdamJKucharski @WHO @ECDC_EU @STM_Uutiset @THLorg @BorisJohnson @nytimes @jukka235 Jos jostain asiasta maailmassa on tieteellinen konsensus, se on että zero covid on mahdoton.
-
-2021-01-24 12:32:01+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='18fbe2b24166fee7', url='https://api.twitter.com/1.1/geo/id/18fbe2b24166fee7.json', place_type='city', name='Reimerswaal', full_name='Reimerswaal, Nederland', country_code='NL', country='The Netherlands', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[3.9355203, 51.3491775], [4.2795292, 51.3491775], [4.2795292, 51.5380668], [3.9355203, 51.5380668]]]), attributes={})
-
-1353319645546213376

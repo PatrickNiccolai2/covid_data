@@ -1,9 +1,0 @@
-@Quarry_Rock I think that’s what the powers want. No marriage, no procreation, free abortion, sex dolls, vaccines, social distancing and fear of touch, porn...all an effort for population control.
-
-2021-01-24 03:53:38+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='76c1bb41d3de7ff1', url='https://api.twitter.com/1.1/geo/id/76c1bb41d3de7ff1.json', place_type='city', name='Huntsville', full_name='Huntsville, AL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-86.7858813, 34.5784264], [-86.4369414, 34.5784264], [-86.4369414, 34.833627], [-86.7858813, 34.833627]]]), attributes={})
-
-1353189189685280770

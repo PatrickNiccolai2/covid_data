@@ -1,9 +1,0 @@
-“Anti vaxxers” and those who think this whole pandemic is some trippy conspiracy theory I can’t help but laugh at use all 🤣🤣🤣🤣🤣🤣 thick
-
-2021-01-23 19:06:29+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2dc53e413a6cbcd8', url='https://api.twitter.com/1.1/geo/id/2dc53e413a6cbcd8.json', place_type='city', name='Middlesbrough', full_name='Middlesbrough, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.278461, 54.5282785], [-1.166542, 54.5282785], [-1.166542, 54.59055], [-1.278461, 54.59055]]]), attributes={})
-
-1353056528857657345

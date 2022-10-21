@@ -1,9 +1,0 @@
-My BF just scheduled the first dose covid vaccine. I’m so jealous.
-
-2021-01-24 04:18:29+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='9c628d39e924afc1', url='https://api.twitter.com/1.1/geo/id/9c628d39e924afc1.json', place_type='city', name='Hammond', full_name='Hammond, LA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-90.553822, 30.422787], [-90.404939, 30.422787], [-90.404939, 30.54132], [-90.553822, 30.54132]]]), attributes={})
-
-1353195442285273089

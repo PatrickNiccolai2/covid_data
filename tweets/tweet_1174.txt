@@ -1,9 +1,0 @@
-Thawed vaccine would just go to waste otherwise. Let’s be smart and make full use of every resource available. Every extra person protected counts. https://t.co/gfPLKpFWP0
-
-2021-01-24 00:01:21+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='fbd6d2f5a4e4a15e', url='https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json', place_type='admin', name='California', full_name='California, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-124.482003, 32.528832], [-114.131212, 32.528832], [-114.131212, 42.009519], [-124.482003, 42.009519]]]), attributes={})
-
-1353130731677995008

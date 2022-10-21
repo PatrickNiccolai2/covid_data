@@ -1,9 +1,0 @@
-That bile might as well be the vaccine.. https://t.co/car6VozPXF
-
-2021-01-23 19:16:43+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3df4e3a5f8fa480a', url='https://api.twitter.com/1.1/geo/id/3df4e3a5f8fa480a.json', place_type='country', name='Namibia', full_name='Namibia', country_code='NA', country='Namibia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[11.6016274, -28.9693898], [25.2626757, -28.9693898], [25.2626757, -16.9634466], [11.6016274, -16.9634466]]]), attributes={})
-
-1353059104864886785

@@ -1,9 +1,0 @@
-@TraceyM0802 Which vaccine did you get? And I hope you feel better tomorrow.
-
-2021-01-24 01:29:24+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00992ce1527fa172', url='https://api.twitter.com/1.1/geo/id/00992ce1527fa172.json', place_type='city', name='Grace', full_name='Grace, WA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.2539523, 47.7761412], [-122.131686, 47.7761412], [-122.131686, 47.84989], [-122.2539523, 47.84989]]]), attributes={})
-
-1353152891880579072

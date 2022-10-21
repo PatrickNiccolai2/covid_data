@@ -1,9 +1,0 @@
-@MikeSwadling @BorisJohnson   you keep us imprisoned and put uk citizens in quarantine,  i will kill myself and it will be your fault
-
-2021-01-23 23:25:49+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='758461cd66db17e0', url='https://api.twitter.com/1.1/geo/id/758461cd66db17e0.json', place_type='city', name='Sutton', full_name='Sutton, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.245869, 51.330352], [-0.117306, 51.330352], [-0.117306, 51.3934428], [-0.245869, 51.3934428]]]), attributes={})
-
-1353121791816970240

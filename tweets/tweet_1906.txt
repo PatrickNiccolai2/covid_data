@@ -1,9 +1,0 @@
-@KwikWarren Waiting for vaccine #2 then I AM off to Los Angeles double masked up to see my daughters and grandson. It's been over a year since I've seen them. 😷🙏😷
-
-2021-01-23 18:59:55+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01c77c227d4ab0d5', url='https://api.twitter.com/1.1/geo/id/01c77c227d4ab0d5.json', place_type='city', name='North Las Vegas', full_name='North Las Vegas, NV', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-115.212251, 36.184836], [-115.054495, 36.184836], [-115.054495, 36.313413], [-115.212251, 36.313413]]]), attributes={})
-
-1353054876469628928

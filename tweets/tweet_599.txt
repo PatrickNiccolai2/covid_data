@@ -1,9 +1,0 @@
-44, natural health, why should we be denied travel (without quarantine)? @BorisJohnson @MattHancock @DominicRaab @Jeremy_Hunt @CMO_England @uksciencechief @CharlesWalkerMP @SteveBakerHW @GMB @Daily_Express @Telegraph @HouseofCommons @DesmondSwayne @IATA @WTTC @ETC_Corporate https://t.co/fcMuleVgSC
-
-2021-01-24 07:37:03+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='758461cd66db17e0', url='https://api.twitter.com/1.1/geo/id/758461cd66db17e0.json', place_type='city', name='Sutton', full_name='Sutton, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.245869, 51.330352], [-0.117306, 51.330352], [-0.117306, 51.3934428], [-0.245869, 51.3934428]]]), attributes={})
-
-1353245415974596608

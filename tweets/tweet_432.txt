@@ -1,9 +1,0 @@
-#Marr Perhaps when Covid better Johnson and Gove can do an open top bus parade through Glasgow and Belfast to gain support for the union.
-
-2021-01-24 09:17:52+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5173c9bed1b8dfb5', url='https://api.twitter.com/1.1/geo/id/5173c9bed1b8dfb5.json', place_type='city', name='Whitehill', full_name='Whitehill, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.883926, 51.097691], [-0.8536275, 51.097691], [-0.8536275, 51.111729], [-0.883926, 51.111729]]]), attributes={})
-
-1353270785692073984

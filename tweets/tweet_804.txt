@@ -1,9 +1,0 @@
-@GalSitty @MichaelNorris61 @vtbirkenstock @NattaliaNealls @JoeBiden Well funny thing is this.  When asked he was too incompetent and flustered to answer.  The other sides plan.. well who knows.  But there was a vaccine in 9 months.. pretty unheard of.. just hope it works
-
-2021-01-24 03:59:09+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='ebd427773b31cb21', url='https://api.twitter.com/1.1/geo/id/ebd427773b31cb21.json', place_type='city', name='Pittsburg', full_name='Pittsburg, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-121.987421, 37.989865], [-121.8332676, 37.989865], [-121.8332676, 38.043639], [-121.987421, 38.043639]]]), attributes={})
-
-1353190576162660352

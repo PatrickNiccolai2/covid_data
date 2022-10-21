@@ -1,9 +1,0 @@
-@Albert_CHPM Is the vaccine not working?
-
-2021-01-24 06:14:56+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='10f7d01a8956a001', url='https://api.twitter.com/1.1/geo/id/10f7d01a8956a001.json', place_type='poi', name='皇牌冰室', full_name='皇牌冰室', country_code='HK', country='Hong Kong', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[114.129704, 22.504484], [114.129704, 22.504484], [114.129704, 22.504484], [114.129704, 22.504484]]]), attributes={})
-
-1353224747153117184

@@ -1,9 +1,0 @@
-I'd love to know why @Bren4Bassetlaw received a vaccine after half a day volunteering? The thousands of school staff, who have put their lives on the line every single day of this pandemic, are still waiting. @MattHancock ?
-
-2021-01-23 21:00:47+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='31d801bc812e1356', url='https://api.twitter.com/1.1/geo/id/31d801bc812e1356.json', place_type='city', name='Beeston', full_name='Beeston, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.272419, 52.8998504], [-1.187896, 52.8998504], [-1.187896, 52.949038], [-1.272419, 52.949038]]]), attributes={})
-
-1353085293843406850

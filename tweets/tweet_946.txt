@@ -1,9 +1,0 @@
-Now happening | Fr. Erwin Torres educating parishoners about vaccine. Inserting this in his homily.
-
-2021-01-24 02:23:34+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01b763b150004405', url='https://api.twitter.com/1.1/geo/id/01b763b150004405.json', place_type='city', name='Davao City', full_name='Davao City, Davao Region', country_code='PH', country='Republic of the Philippines', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[125.2148204, 6.9590062], [125.6717025, 6.9590062], [125.6717025, 7.6761592], [125.2148204, 7.6761592]]]), attributes={})
-
-1353166522131210240

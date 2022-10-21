@@ -1,9 +1,0 @@
-@Daxa_PJA Got the Pfizer, well organised event. Got a sore arm this a.m. but well worth it. Seems will get the 2nd jab eay April. Hope you're managing OK with lockdown. Are you working?
-
-2021-01-24 10:39:46+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='37a7a3220f8e2174', url='https://api.twitter.com/1.1/geo/id/37a7a3220f8e2174.json', place_type='city', name='Chesterfield', full_name='Chesterfield, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.484163, 53.213151], [-1.394032, 53.213151], [-1.394032, 53.28656], [-1.484163, 53.28656]]]), attributes={})
-
-1353291395222675456

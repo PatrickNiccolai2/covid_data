@@ -1,9 +1,0 @@
-@montorogrind @Danielhrs @gerdwenzel Pois é, deveria ter colocado isso tbm... não só "eu ofereci e ele não quis" como se fosse um bom samaritano! REPITO...Brasil tem mandado mal nas questões afetas ao Covid...mas essa historinha de bom samaritano pra cima de mim do CEO da Pfizer não cola.
-
-2021-01-24 10:48:46+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4ae7dc3894e7b398', url='https://api.twitter.com/1.1/geo/id/4ae7dc3894e7b398.json', place_type='city', name='Atibaia', full_name='Atibaia, Brasil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-46.715127, -23.259972], [-46.430455, -23.259972], [-46.430455, -22.9977822], [-46.715127, -22.9977822]]]), attributes={})
-
-1353293663405748224

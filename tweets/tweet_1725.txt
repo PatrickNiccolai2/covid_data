@@ -1,9 +1,0 @@
-Medical experts should clarify the following point or fact.a temperature of zero degrees Celsius is a freezing point.if covid-19 vaccine need minus seventy degrees Celsius how will sirenge extradited freezed liquid.
-
-2021-01-23 20:07:05+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='fa7821f19d329af4', url='https://api.twitter.com/1.1/geo/id/fa7821f19d329af4.json', place_type='city', name='Mahwelereng', full_name='Mahwelereng, South Africa', country_code='ZA', country='South Africa', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[28.9637165, -24.1743689], [29.0080989, -24.1743689], [29.0080989, -24.1208169], [28.9637165, -24.1208169]]]), attributes={})
-
-1353071779170852864

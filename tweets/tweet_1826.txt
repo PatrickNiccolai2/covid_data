@@ -1,9 +1,0 @@
-@PeterCarlin7 @Unlocked_UK_ @barrie_bell @Gaynor4Brexit @june_mummery @withnailjones @timling1984 @barlow850 @GoodairMark @LanceForman @BylineTV @BorisJohnson @michaelgove @DavidGHFrost @NissanUKPR Amazing isn't it. A year of Covid yet Jan 1st and its all Covids fault. Must be the new Strain, not only is it more virulent it also cocks up international trade paperwork.  Its a bastard!
-
-2021-01-23 19:25:55+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='53b67b1d1cc81a51', url='https://api.twitter.com/1.1/geo/id/53b67b1d1cc81a51.json', place_type='city', name='Birmingham', full_name='Birmingham, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.033651, 52.381063], [-1.74763, 52.381063], [-1.74763, 52.60687], [-2.033651, 52.60687]]]), attributes={})
-
-1353061417960656897

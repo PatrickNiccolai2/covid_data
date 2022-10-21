@@ -1,9 +1,0 @@
-@lilsmichelle Will give vaccine to watch.
-
-2021-01-24 05:21:43+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00180402799fed03', url='https://api.twitter.com/1.1/geo/id/00180402799fed03.json', place_type='city', name='Taipei City', full_name='Taipei City, Taiwan', country_code='TW', country='Taiwan', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[121.457132, 24.960508], [121.66582, 24.960508], [121.66582, 25.211004], [121.457132, 25.211004]]]), attributes={})
-
-1353211356183285760

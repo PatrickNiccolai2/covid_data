@@ -1,9 +1,0 @@
-@JoielAkilan @missionkaali Now the world is experiencing the Vasudeva Kudambagm of Hindus thro Vaccine Maithri and in a few years world will realise the greatness and inclusiveness of Hinduism unlike all the other religions which insist on One and only their God and who want to realise this thro Sword and
-
-2021-01-24 05:28:44+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='05cd5a6e836c2fb4', url='https://api.twitter.com/1.1/geo/id/05cd5a6e836c2fb4.json', place_type='city', name='Kumbakonam', full_name='Kumbakonam, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[79.2793258, 10.8719873], [79.4566989, 10.8719873], [79.4566989, 11.1001476], [79.2793258, 11.1001476]]]), attributes={})
-
-1353213124275367939

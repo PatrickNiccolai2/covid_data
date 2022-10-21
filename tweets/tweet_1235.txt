@@ -1,9 +1,0 @@
-😂😂 Joe can keep that 2K and vaccine then https://t.co/DWehI1x4Oe
-
-2021-01-23 23:36:16+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='f995a9bd45d4a867', url='https://api.twitter.com/1.1/geo/id/f995a9bd45d4a867.json', place_type='city', name='Memphis', full_name='Memphis, TN', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-90.135782, 34.994192], [-89.708276, 34.994192], [-89.708276, 35.2728491], [-90.135782, 35.2728491]]]), attributes={})
-
-1353124420437635072

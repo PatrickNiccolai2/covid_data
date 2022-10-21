@@ -1,9 +1,0 @@
-I am not at high risk for COVID-19 so it will take a while before it’s my turn, but as soon as I am able I will #GetTheVaccine, whichever one is available in my region, because I know this is how we protect vulnerable populations and end the pandemic
-
-2021-01-24 12:40:39+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6d73a696edc5306f', url='https://api.twitter.com/1.1/geo/id/6d73a696edc5306f.json', place_type='country', name='Kazakhstan', full_name='Kazakhstan', country_code='KZ', country='Kazakhstan', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[46.4925433, 40.9363327], [87.3152134, 40.9363327], [87.3152134, 55.4425719], [46.4925433, 55.4425719]]]), attributes={})
-
-1353321818128576512

@@ -1,9 +1,0 @@
-Los países bálticos exigen que la UE distribuya la vacuna AstraZeneca antes de la autorización https://t.co/MexUOnAHJ6 vía @foreignerfi
-
-2021-01-23 19:39:17+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='8fe2e9b7b1ed6389', url='https://api.twitter.com/1.1/geo/id/8fe2e9b7b1ed6389.json', place_type='city', name='Espoo', full_name='Espoo, Suomi', country_code='FI', country='Finland', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[24.499764, 60.00307], [24.850506, 60.00307], [24.850506, 60.363616], [24.499764, 60.363616]]]), attributes={})
-
-1353064783763787776

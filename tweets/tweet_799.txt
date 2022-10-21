@@ -1,9 +1,0 @@
-Definitely feeling the vaccine tonight.  Feel like crap. Doubling up on Tylenol and Ibuprofen.
-
-2021-01-24 04:04:59+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='44fafdc06c719c62', url='https://api.twitter.com/1.1/geo/id/44fafdc06c719c62.json', place_type='city', name='Republic', full_name='Republic, MO', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-93.507092, 37.096369], [-93.420182, 37.096369], [-93.420182, 37.155321], [-93.507092, 37.155321]]]), attributes={})
-
-1353192047591763969

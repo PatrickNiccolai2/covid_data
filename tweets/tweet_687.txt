@@ -1,9 +1,0 @@
-Great news: 10 cases of anaphylaxis after 4,041,396 first doses of Moderna COVID-19 vaccine (2.5 cases per million doses administered). In nine cases, onset occurred within 15 minutes of vaccination. No anaphylaxis-related deaths were reported. https://t.co/V66x2cuHo7 via @CDCgov
-
-2021-01-24 06:02:14+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='e4a0d228eb6be76b', url='https://api.twitter.com/1.1/geo/id/e4a0d228eb6be76b.json', place_type='city', name='Philadelphia', full_name='Philadelphia, PA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-75.280284, 39.871811], [-74.955712, 39.871811], [-74.955712, 40.13792], [-75.280284, 40.13792]]]), attributes={})
-
-1353221552473571328

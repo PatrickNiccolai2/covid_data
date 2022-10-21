@@ -1,9 +1,0 @@
-Everybody posting they lil vaccine card 😂 count your days 🥴
-
-2021-01-23 21:52:30+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='ab2f2fac83aa388d', url='https://api.twitter.com/1.1/geo/id/ab2f2fac83aa388d.json', place_type='city', name='Oakland', full_name='Oakland, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.34266, 37.699279], [-122.114711, 37.699279], [-122.114711, 37.8847092], [-122.34266, 37.8847092]]]), attributes={})
-
-1353098309120913408

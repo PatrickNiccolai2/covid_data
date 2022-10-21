@@ -1,9 +1,0 @@
-We will be handing out these #IGotTheShot stickers at the @SSCityCenter as soon as @NYGovCuomo sends Saratoga County more doses. Send the vaccine here vs our locals having to travel to Utica, Potsdam and Plattsburgh. https://t.co/KZwCs7adFV
-
-2021-01-23 19:02:52+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='d606af411edd5297', url='https://api.twitter.com/1.1/geo/id/d606af411edd5297.json', place_type='city', name='Saratoga Springs', full_name='Saratoga Springs, NY', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-73.848875, 43.020588], [-73.684637, 43.020588], [-73.684637, 43.11327], [-73.848875, 43.11327]]]), attributes={})
-
-1353055618127417344

@@ -1,9 +1,0 @@
-I want to be back down south soon, maybe when I get the vaccine! @ Moalboal, Cebu https://t.co/38oD2bECiE
-
-2021-01-24 09:56:04+00:00
-
-{'type': 'Point', 'coordinates': [123.39291, 9.93767]}
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='000fd7734e6ea0d5', url='https://api.twitter.com/1.1/geo/id/000fd7734e6ea0d5.json', place_type='city', name='Moalboal', full_name='Moalboal, Central Visayas', country_code='PH', country='Republic of the Philippines', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[123.364307, 9.886971], [123.4869983, 9.886971], [123.4869983, 9.9987027], [123.364307, 9.9987027]]]), attributes={})
-
-1353280397338169349

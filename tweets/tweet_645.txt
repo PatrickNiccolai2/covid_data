@@ -1,9 +1,0 @@
-More vaccines are coming and viruses will always be here. They’ll never be at completely zero cases in the world. Can’t lock ourselves in houses forever. I’m glad the south is almost back to normal. https://t.co/9VBIgr0Lan
-
-2021-01-24 06:40:20+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='a1839e9c3b5abff6', url='https://api.twitter.com/1.1/geo/id/a1839e9c3b5abff6.json', place_type='city', name='Sunrise Manor', full_name='Sunrise Manor, NV', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-115.116116, 36.1075816], [-115.006139, 36.1075816], [-115.006139, 36.2619262], [-115.116116, 36.2619262]]]), attributes={})
-
-1353231139406630912

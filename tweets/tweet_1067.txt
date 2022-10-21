@@ -1,9 +1,0 @@
-Vaccines for school staff and bus drivers strategies needed https://t.co/jY3u5Lwrm9
-
-2021-01-24 00:59:26+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='394907ce2b6be580', url='https://api.twitter.com/1.1/geo/id/394907ce2b6be580.json', place_type='city', name='Southbridge', full_name='Southbridge, MA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-72.06848, 42.053389], [-71.995693, 42.053389], [-71.995693, 42.116521], [-72.06848, 42.116521]]]), attributes={})
-
-1353145349515390976

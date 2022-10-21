@@ -1,9 +1,0 @@
-#Listen #vaccine #SaveLives https://t.co/sWoAVhuwyF
-
-2021-01-23 21:02:44+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='20ce43807b0a891e', url='https://api.twitter.com/1.1/geo/id/20ce43807b0a891e.json', place_type='city', name='Llanelli', full_name='Llanelli, Wales', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-4.1952232, 51.665338], [-4.0863, 51.665338], [-4.0863, 51.708405], [-4.1952232, 51.708405]]]), attributes={})
-
-1353085781234081799

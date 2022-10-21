@@ -1,9 +1,0 @@
-It’s finally happening, and what a better way! Members supporting members, vaccination style!!! #BACCStrong @BedfordAFC @baccma #COVID19 #vaccine #IGotMyShot #vaccineswork #HDPT #AFCUrgentCare #community #hope #humanity ❤️AFC HDPT💚 https://t.co/5upGvkmW8c
-
-2021-01-23 21:27:22+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0b85a738fdd53000', url='https://api.twitter.com/1.1/geo/id/0b85a738fdd53000.json', place_type='poi', name='Afc Bedford', full_name='Afc Bedford', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-71.27475, 42.491196], [-71.27475, 42.491196], [-71.27475, 42.491196], [-71.27475, 42.491196]]]), attributes={})
-
-1353091982017654784

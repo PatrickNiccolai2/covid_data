@@ -1,9 +1,0 @@
-Thanks to all those who developed the #COVID19 vaccine!! Got my first dose today. And to all the frontline workers who are taking care of us. #determined2help. @UarkBME @UofA_Engr @UArkansas #uarkbmeg https://t.co/E70wb83Lyk
-
-2021-01-23 20:36:23+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='07d9db9b8d888000', url='https://api.twitter.com/1.1/geo/id/07d9db9b8d888000.json', place_type='poi', name='Donald W Reynolds Razorback Stadium', full_name='Donald W Reynolds Razorback Stadium', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-94.17879581451416, 36.067850785167344], [-94.17879581451416, 36.067850785167344], [-94.17879581451416, 36.067850785167344], [-94.17879581451416, 36.067850785167344]]]), attributes={})
-
-1353079150127558658

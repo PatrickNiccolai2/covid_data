@@ -1,9 +1,0 @@
-@MattHancock Interesting comparisons with Europe on the vaccine are trotted out all the time - but such comparisons on relative death tolls showing us as the worst are not valid comparisons 🧐
-
-2021-01-24 09:47:50+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='616ba1df27270916', url='https://api.twitter.com/1.1/geo/id/616ba1df27270916.json', place_type='city', name='Oxford', full_name='Oxford, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.289608, 51.7122668], [-1.1772587, 51.7122668], [-1.1772587, 51.796305], [-1.289608, 51.796305]]]), attributes={})
-
-1353278327705006083

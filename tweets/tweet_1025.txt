@@ -1,9 +1,0 @@
-@EndlessForms For what is worth, if offered a vaccine, take it! The vaccination roll out seems very random and you might not get another chance in many months https://t.co/e40b4qWbAh
-
-2021-01-24 01:29:30+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00d5c62473ba713e', url='https://api.twitter.com/1.1/geo/id/00d5c62473ba713e.json', place_type='city', name='Beechwood', full_name='Beechwood, MI', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-86.212713, 42.77232], [-86.090609, 42.77232], [-86.090609, 42.855558], [-86.212713, 42.855558]]]), attributes={})
-
-1353152916144738304

@@ -1,9 +1,0 @@
-Yesterday got my first dose of the COVID19 vaccine 🙌 #covidvacccine #moderna #grateful #hopeforthefuture #overthispandemic #essentialworker #dogood @ Reading, Pennsylvania https://t.co/KTJEzvqCjk
-
-2021-01-23 21:57:29+00:00
-
-{'type': 'Point', 'coordinates': [-75.9275, 40.335324]}
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3e94c70e7a8a35d3', url='https://api.twitter.com/1.1/geo/id/3e94c70e7a8a35d3.json', place_type='city', name='Reading', full_name='Reading, PA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-75.95954, 40.29676], [-75.890503, 40.29676], [-75.890503, 40.371477], [-75.95954, 40.371477]]]), attributes={})
-
-1353099561129148416

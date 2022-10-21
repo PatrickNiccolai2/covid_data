@@ -1,9 +1,0 @@
-@Samfr This feels like two battles - one to beat Covid and one to make us safer. Only one is really important - the other is mainly vanity. If Covid becomes less potent than flu due to the vaccine we simply don’t need this argument about immunity...
-
-2021-01-23 23:30:24+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0b3e04beba7e6589', url='https://api.twitter.com/1.1/geo/id/0b3e04beba7e6589.json', place_type='city', name='Horbury', full_name='Horbury, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.605402, 53.651942], [-1.535821, 53.651942], [-1.535821, 53.670851], [-1.605402, 53.670851]]]), attributes={})
-
-1353122943254097921

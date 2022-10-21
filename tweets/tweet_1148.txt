@@ -1,9 +1,0 @@
-This is exactly the reason I caution against considering @amazon for any role in #COVID19 vaccine rollout. Corporations bottom line is $. Public health’s bottom line is people’s health. https://t.co/FYAIRCKRst
-
-2021-01-24 00:13:25+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3df0e3eb1e91170b', url='https://api.twitter.com/1.1/geo/id/3df0e3eb1e91170b.json', place_type='city', name='Columbus', full_name='Columbus, OH', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-83.200169, 39.832013], [-82.7713751, 39.832013], [-82.7713751, 40.157354], [-83.200169, 40.157354]]]), attributes={})
-
-1353133770208120834

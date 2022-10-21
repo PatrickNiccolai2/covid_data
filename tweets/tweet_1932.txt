@@ -1,9 +1,0 @@
-If the dose was going to go waste, and you *allegedly* knew someone vulnerable to #COVID19 who could benefit from the vaccine - what would you do? #WWYD https://t.co/K0SEMMf732
-
-2021-01-23 18:52:07+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7e0b3752623e1d72', url='https://api.twitter.com/1.1/geo/id/7e0b3752623e1d72.json', place_type='country', name='Ivory Coast', full_name='Ivory Coast', country_code='CI', country='Ivory Coast', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-8.6012434, 4.3616546], [-2.4966316, 4.3616546], [-2.4966316, 10.7382464], [-8.6012434, 10.7382464]]]), attributes={})
-
-1353052912637894656

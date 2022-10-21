@@ -1,9 +1,0 @@
-I’ve had my first vaccine jab. It gives me hope of liberation... but not yet https://t.co/KagZHmgA19
-
-2021-01-24 11:52:39+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01864a8a64df9dc4', url='https://api.twitter.com/1.1/geo/id/01864a8a64df9dc4.json', place_type='city', name='Melbourne', full_name='Melbourne, Victoria', country_code='AU', country='Australia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[144.593741856, -38.433859306], [145.512528832, -38.433859306], [145.512528832, -37.5112737225], [144.593741856, -37.5112737225]]]), attributes={})
-
-1353309738772045825

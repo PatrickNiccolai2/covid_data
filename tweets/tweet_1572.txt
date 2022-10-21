@@ -1,9 +1,0 @@
-Comment expliquer les chiffres si bas de la @NouvelleZelande ? @Covid_infoFR @ars_grand_est @olivierveran @Pfizer_France @TF1LeJT @EmmanuelMacron https://t.co/r0wCxaGBd7
-
-2021-01-23 21:10:05+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5725afab3c0cbf54', url='https://api.twitter.com/1.1/geo/id/5725afab3c0cbf54.json', place_type='city', name='Havange', full_name='Havange, France', country_code='FR', country='France', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[5.9748909, 49.3692246], [6.0235473, 49.3692246], [6.0235473, 49.4077686], [5.9748909, 49.4077686]]]), attributes={})
-
-1353087630959923200

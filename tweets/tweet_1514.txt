@@ -1,9 +1,0 @@
-OCFA Paramedic Duke Vasquez administers a dose of the Pfizer Covid-19 vaccine to Roger and Marion Palley, in the 65+ age priority group, on the first day of the county's new super POD at Soka University in Aliso Viejo Saturday. Officials estimate 3,000+ vaccinations per day here. https://t.co/xAGBMuKgSD
-
-2021-01-23 21:35:34+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='f9838a67f87a80ed', url='https://api.twitter.com/1.1/geo/id/f9838a67f87a80ed.json', place_type='city', name='Aliso Viejo', full_name='Aliso Viejo, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-117.75971, 33.512428], [-117.700301, 33.512428], [-117.700301, 33.609056], [-117.75971, 33.609056]]]), attributes={})
-
-1353094045921210368

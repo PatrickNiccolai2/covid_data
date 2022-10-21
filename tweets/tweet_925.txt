@@ -1,9 +1,0 @@
-@HamOntFan @jamiewestndp Correct!  We were never getting any vaccine manufactured in USA. Trump legislated that they were to be used in USA exclusively until all Americans vaccinated. Why do you think Canada’s vaccine was sourced in Europe?
-
-2021-01-24 02:35:52+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7dca00c1fa8d8e16', url='https://api.twitter.com/1.1/geo/id/7dca00c1fa8d8e16.json', place_type='city', name='Chisholm', full_name='Chisholm, Ontario', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-79.318593, 46.000951], [-79.093639, 46.000951], [-79.093639, 46.194446], [-79.318593, 46.194446]]]), attributes={})
-
-1353169617506676736

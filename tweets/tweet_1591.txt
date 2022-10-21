@@ -1,9 +1,0 @@
-Feeling lucky! Just had my first COVID vaccine shot and feeling good about it. My wife is ahead of me  receiving her second shot today. The Meek family is proud to be proactive in the fight of hopefully kicking this God awful curse in the ass!! https://t.co/IQ8LPKgSZ8
-
-2021-01-23 21:00:28+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='92220986b9dfd67d', url='https://api.twitter.com/1.1/geo/id/92220986b9dfd67d.json', place_type='city', name='Birmingham', full_name='Birmingham, AL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-86.967333, 33.405025], [-86.620501, 33.405025], [-86.620501, 33.67945], [-86.967333, 33.67945]]]), attributes={})
-
-1353085212645875715

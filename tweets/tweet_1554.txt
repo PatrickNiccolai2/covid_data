@@ -1,9 +1,0 @@
-@NewCoNedward Of course. But if it means we get to go back to games, see the end of season? I’ve put so much stuff in my body over the years, Covid vaccine is only going to do good, no harm 😂😂😂 I hear you, but this means so much. Fear no foe. 💙
-
-2021-01-23 21:18:59+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='49d9269c0a7667cb', url='https://api.twitter.com/1.1/geo/id/49d9269c0a7667cb.json', place_type='city', name='Gillingham', full_name='Gillingham, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[0.526794, 51.3345696], [0.6381132, 51.3345696], [0.6381132, 51.407739], [0.526794, 51.407739]]]), attributes={})
-
-1353089872890880002

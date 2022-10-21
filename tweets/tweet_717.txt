@@ -1,9 +1,0 @@
-kamala baby disperse these vaccines i gotta be on campus in the fall let’s get a roll on it
-
-2021-01-24 05:27:00+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2127a214d4606ccf', url='https://api.twitter.com/1.1/geo/id/2127a214d4606ccf.json', place_type='city', name='Penn Hills', full_name='Penn Hills, PA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-79.890005, 40.4361556], [-79.777669, 40.4361556], [-79.777669, 40.5183908], [-79.890005, 40.5183908]]]), attributes={})
-
-1353212687291985922

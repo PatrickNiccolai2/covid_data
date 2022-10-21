@@ -1,9 +1,0 @@
-I’m at @DoubleTree #sheffield completing training to become a #volunteervaccinator with @stjohnambulance, lunch kindly provided to us by @pizzahut - thank you! #stjohnpeople #Sheffieldissuper #vaccine #vaccination https://t.co/TvCfGLV3E7
-
-2021-01-24 13:09:56+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='07e9c7d1954fff64', url='https://api.twitter.com/1.1/geo/id/07e9c7d1954fff64.json', place_type='city', name='Sheffield', full_name='Sheffield, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.573648, 53.309898], [-1.325576, 53.309898], [-1.325576, 53.4564311], [-1.573648, 53.4564311]]]), attributes={})
-
-1353329188799995904

@@ -1,9 +1,0 @@
-Best #seachanty ever #COVID #Covid_19 #CovidVaccine #coronavirus #SaturdayMorning #SaturdayVibes #SaturdaySurvival @IrmaRaste https://t.co/1EmWVCyHMP
-
-2021-01-23 18:57:29+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='609518f5a0992392', url='https://api.twitter.com/1.1/geo/id/609518f5a0992392.json', place_type='city', name='Swampscott', full_name='Swampscott, MA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-70.933843, 42.460588], [-70.878811, 42.460588], [-70.878811, 42.490466], [-70.933843, 42.490466]]]), attributes={})
-
-1353054261970612224

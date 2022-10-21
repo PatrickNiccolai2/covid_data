@@ -1,9 +1,0 @@
-In UK there are 91k over 50 teachers. Prioritize them in vaccine queue next week, give 2 dose during HT and reopen after that. Spread other age bands more progressively over one months. Not to reopen until end of Apr is terrible political decision at huge social &amp; economic costs https://t.co/u7Im7TT8dY
-
-2021-01-23 23:34:37+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='42d0cf7d49d27c95', url='https://api.twitter.com/1.1/geo/id/42d0cf7d49d27c95.json', place_type='city', name='Hillingdon', full_name='Hillingdon, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.5086841, 51.4551164], [-0.3760375, 51.4551164], [-0.3760375, 51.619006], [-0.5086841, 51.619006]]]), attributes={})
-
-1353124006287855617

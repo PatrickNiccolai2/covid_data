@@ -1,9 +1,0 @@
-@PriscillaEvan18 @CooleyJscooley He got his first vaccine at the VA last week, had surgery this week &amp; scheduled for his second dose next week.  My group is next up (so NO I have not been able to get my vaccine yet) I have always been patient.  I am an information junkie &amp; there is news about the vaccines 2/3
-
-2021-01-23 21:38:33+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01c77c227d4ab0d5', url='https://api.twitter.com/1.1/geo/id/01c77c227d4ab0d5.json', place_type='city', name='North Las Vegas', full_name='North Las Vegas, NV', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-115.212251, 36.184836], [-115.054495, 36.184836], [-115.054495, 36.313413], [-115.212251, 36.313413]]]), attributes={})
-
-1353094795195895808

@@ -1,9 +1,0 @@
-Ain’t it great to be rich? I’m 72 with COpD and can’t get an appointment anywhere for a vaccine. But you just jump in Bill. https://t.co/aYXSc3DSNa
-
-2021-01-24 02:53:36+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='44d207663001f00b', url='https://api.twitter.com/1.1/geo/id/44d207663001f00b.json', place_type='city', name='Mesa', full_name='Mesa, AZ', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-111.894548, 33.306275], [-111.5805834, 33.306275], [-111.5805834, 33.505234], [-111.894548, 33.505234]]]), attributes={})
-
-1353174081810518017

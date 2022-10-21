@@ -1,9 +1,0 @@
-Day after my first #Covid_19 #vaccine...not feeling my best, but I’m grateful to have gotten it. I’m achy!
-
-2021-01-24 04:15:31+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='798522f39f66d411', url='https://api.twitter.com/1.1/geo/id/798522f39f66d411.json', place_type='city', name='Missouri City', full_name='Missouri City, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-95.586805, 29.506247], [-95.4310452, 29.506247], [-95.4310452, 29.642322], [-95.586805, 29.642322]]]), attributes={})
-
-1353194696881938433

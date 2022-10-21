@@ -1,9 +1,0 @@
-Dr @MoetiTshidi apporte un éclairage sur le déploiement des vaccins de #COVID19 en Afrique à travers le mécanisme #COVAX. Un 1er lot de 30 millions de doses devrait commencer à arriver d'ici mars. @OMSRDCONGO @Internews @MinSanteRDC @RTLFrance https://t.co/hQ200QWr4l
-
-2021-01-24 04:41:48+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='17cd9eb8e2c0152c', url='https://api.twitter.com/1.1/geo/id/17cd9eb8e2c0152c.json', place_type='country', name='Democratic Republic of Congo', full_name='Democratic Republic of Congo', country_code='CD', country='Democratic Republic of Congo', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[12.2013992, -13.4587898], [31.3062178, -13.4587898], [31.3062178, 5.3920348], [12.2013992, 5.3920348]]]), attributes={})
-
-1353201309298659328

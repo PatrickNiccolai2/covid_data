@@ -1,9 +1,0 @@
-@ofri_larnney @Angelaisback2 Which vaccine?
-
-2021-01-23 23:00:31+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3a39f348d4d697fb', url='https://api.twitter.com/1.1/geo/id/3a39f348d4d697fb.json', place_type='city', name='Hastings', full_name='Hastings, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[0.507898, 50.844534], [0.623748, 50.844534], [0.623748, 50.8990508], [0.507898, 50.8990508]]]), attributes={})
-
-1353115425450684417

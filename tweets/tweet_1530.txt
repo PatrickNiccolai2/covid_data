@@ -1,9 +1,0 @@
-All being well I should be getting my vaccine 5th Feb. I hate needles but I CANNOT WAIT.
-
-2021-01-23 21:28:36+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0f89532a9ed672a6', url='https://api.twitter.com/1.1/geo/id/0f89532a9ed672a6.json', place_type='city', name='Richmond', full_name='Richmond, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.7583263, 54.3968598], [-1.711299, 54.3968598], [-1.711299, 54.413838], [-1.7583263, 54.413838]]]), attributes={})
-
-1353092294317060096

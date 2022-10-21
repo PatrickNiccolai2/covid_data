@@ -1,9 +1,0 @@
-@NeilDavoDavies1 @ExasperatedTory It's possibly worse. In the US, they're already talking about their problems with the new 'British strain', which is obviously damaging. Imagine if our actions allowed the virus to sidestep the vaccines, negating worldwide effectiveness 😱
-
-2021-01-24 11:07:48+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='232223929377e264', url='https://api.twitter.com/1.1/geo/id/232223929377e264.json', place_type='city', name='Ulverston', full_name='Ulverston, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.1055149, 54.1775098], [-3.0533857, 54.1775098], [-3.0533857, 54.2032036], [-3.1055149, 54.2032036]]]), attributes={})
-
-1353298449521901573

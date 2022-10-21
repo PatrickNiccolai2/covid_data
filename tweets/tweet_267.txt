@@ -1,9 +1,0 @@
-@David_Simons_UK I wonder if the first vaccine dose plus infection could have immunized you? 🤔
-
-2021-01-24 10:37:56+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01983bef79d0f0cf', url='https://api.twitter.com/1.1/geo/id/01983bef79d0f0cf.json', place_type='admin', name='Lusaka', full_name='Lusaka, Zambia', country_code='ZM', country='Zambia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[27.7691065, -15.9703669], [30.4215583, -15.9703669], [30.4215583, -14.6431502], [27.7691065, -14.6431502]]]), attributes={})
-
-1353290935065571329

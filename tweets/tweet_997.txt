@@ -1,9 +1,0 @@
-@bitchwtffffff the vaccines
-
-2021-01-24 01:48:46+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='d56c7add83faa208', url='https://api.twitter.com/1.1/geo/id/d56c7add83faa208.json', place_type='city', name='Erechim', full_name='Erechim, Brasil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-52.3436987, -27.7902274], [-52.1480427, -27.7902274], [-52.1480427, -27.4826467], [-52.3436987, -27.4826467]]]), attributes={})
-
-1353157764739182592

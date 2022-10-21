@@ -1,9 +1,0 @@
-@PricelessOpin @UHMBT @aaroncumminsNHS @SueSmithDN @Russell_CCS @UHMBT_OccHealth @MiliDoshi7 @SBDNuk @Pfizer_UK @gerrymurray1956 @ShahnazAsghar @LynHadwin @JaneKenny7 @lynn_dack @2soprano @knowles_theresa @KOHCltd I can still contract the Virus but at a lower dose or not as infected as if I hadn't had the Vaccine. Just the Vaccine has worked to help give me some antibodies rather than none at all🤔🙂
-
-2021-01-23 22:41:00+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='232223929377e264', url='https://api.twitter.com/1.1/geo/id/232223929377e264.json', place_type='city', name='Ulverston', full_name='Ulverston, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.1055149, 54.1775098], [-3.0533857, 54.1775098], [-3.0533857, 54.2032036], [-3.1055149, 54.2032036]]]), attributes={})
-
-1353110512964403200

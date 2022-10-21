@@ -1,9 +1,0 @@
-@Doris09732931 @MsFrauG @DrPhillipLee @DavidCeiriog People love simple arguments, like 'Govt hopeless and dishonest at everything' or 'Vaccine only worthwhile with 2 doses at exact recommended interval'. Real life is fuzzier and more complicated.
-
-2021-01-23 19:15:53+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1c4cd8e4ae3a1959', url='https://api.twitter.com/1.1/geo/id/1c4cd8e4ae3a1959.json', place_type='city', name='Poole', full_name='Poole, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.013326, 50.682612], [-1.891233, 50.682612], [-1.891233, 50.774097], [-2.013326, 50.774097]]]), attributes={})
-
-1353058895556567044

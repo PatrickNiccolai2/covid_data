@@ -1,9 +1,0 @@
-Thank you, @NASDBlueEagles, for acquiring 50 vaccines for staff. I hope you get more for all who want it. Great group of heroes working here! ♥️ #HealthcareHeroes #Moderna #feelingblessed #MaskUp https://t.co/52hKPYBlji
-
-2021-01-23 19:53:57+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='52771dd13e8fac58', url='https://api.twitter.com/1.1/geo/id/52771dd13e8fac58.json', place_type='city', name='Stockertown', full_name='Stockertown, PA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-75.276398, 40.747002], [-75.249438, 40.747002], [-75.249438, 40.764688], [-75.276398, 40.764688]]]), attributes={})
-
-1353068472356413440

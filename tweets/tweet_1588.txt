@@ -1,9 +1,0 @@
-@simpsonhanson @Gr3Te4rights @Ukgo64 Hanging in there wearing my mask. I got my vaccine the other day so I’m doing ok. How are you doing?
-
-2021-01-23 21:00:55+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='bc7f3267d2efaf40', url='https://api.twitter.com/1.1/geo/id/bc7f3267d2efaf40.json', place_type='city', name='Richardson', full_name='Richardson, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-96.769003, 32.923164], [-96.612871, 32.923164], [-96.612871, 33.005805], [-96.769003, 33.005805]]]), attributes={})
-
-1353085326210822148

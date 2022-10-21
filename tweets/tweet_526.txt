@@ -1,9 +1,0 @@
-UK has now vaccinated 8%. &amp; is accelerating rollout whilst EU has only managed 1.7% &amp; (unlike UK and USA) has not yet even approved the AZ vaccine. Incredible! This is a stark illustration of how UK with benefit of Brexit can innovate &amp; go faster by not being tethered to Brussels https://t.co/lF4j4PAcfq
-
-2021-01-24 08:26:36+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='460c5314e8a33c64', url='https://api.twitter.com/1.1/geo/id/460c5314e8a33c64.json', place_type='city', name='Wandsworth', full_name='Wandsworth, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.259465, 51.417277], [-0.127974, 51.417277], [-0.127974, 51.486036], [-0.259465, 51.486036]]]), attributes={})
-
-1353257885648744449

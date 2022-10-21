@@ -1,9 +1,0 @@
-“Without India, there won’t be enough vaccines to save the world” https://t.co/kCxM1vagNU
-
-2021-01-24 08:12:36+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='15da7e066a16b221', url='https://api.twitter.com/1.1/geo/id/15da7e066a16b221.json', place_type='city', name='Jalpaiguri', full_name='Jalpaiguri, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[88.396966, 26.262374], [89.128685, 26.262374], [89.128685, 26.996049], [88.396966, 26.996049]]]), attributes={})
-
-1353254361611210752

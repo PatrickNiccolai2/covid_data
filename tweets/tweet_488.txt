@@ -1,9 +1,0 @@
-So basically people, the vaccine is useless.
-
-2021-01-24 08:49:32+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='14de51725dfd9486', url='https://api.twitter.com/1.1/geo/id/14de51725dfd9486.json', place_type='city', name='Hinckley', full_name='Hinckley, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.416046, 52.516077], [-1.336229, 52.516077], [-1.336229, 52.5623416], [-1.416046, 52.5623416]]]), attributes={})
-
-1353263657262735360

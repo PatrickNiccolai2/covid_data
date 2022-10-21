@@ -1,9 +1,0 @@
-The ppl who are scared of the vaccine are the same ppl who were snorting sugar off coffee tables in Starbucks in middle school
-
-2021-01-23 20:53:48+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6045d4aebc672078', url='https://api.twitter.com/1.1/geo/id/6045d4aebc672078.json', place_type='city', name='Pullman', full_name='Pullman, WA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-117.2132149, 46.70823], [-117.095324, 46.70823], [-117.095324, 46.7534141], [-117.2132149, 46.7534141]]]), attributes={})
-
-1353083534496342021

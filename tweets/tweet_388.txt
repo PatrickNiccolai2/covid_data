@@ -1,9 +1,0 @@
-@LaurieSmith_ Don’t worry too much it affects everyone different you might be okay. Most that have had the vaccine in my family haven’t felt anything but we’ve all just recovered from covid and we’re really quite poorly off it. Still feeling it now 2/3 weeks later xx
-
-2021-01-24 09:39:59+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='203ba4b2bcef439a', url='https://api.twitter.com/1.1/geo/id/203ba4b2bcef439a.json', place_type='city', name='Rainhill', full_name='Rainhill, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.7820535, 53.402726], [-2.747572, 53.402726], [-2.747572, 53.4253288], [-2.7820535, 53.4253288]]]), attributes={})
-
-1353276353185984513

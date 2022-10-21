@@ -1,9 +1,0 @@
-There’s no defence - who authorised this selfish act.  MP defends receiving vaccine after volunteering at centre https://t.co/foI5UHkrdu @10DowningStreet @Keir_Starmer
-
-2021-01-24 10:06:50+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5f73d127c7ccf9d9', url='https://api.twitter.com/1.1/geo/id/5f73d127c7ccf9d9.json', place_type='city', name='Croydon', full_name='Croydon, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.161749, 51.294332], [-0.023517, 51.294332], [-0.023517, 51.42353], [-0.161749, 51.42353]]]), attributes={})
-
-1353283109802942466

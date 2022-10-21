@@ -1,9 +1,0 @@
-@khan_shan91 @RT_com .. the vaccination period . WHY ? Maybe the vaccines are not as good as they thought ... as a study from Israel has reported . ( although this is a preliminary study that is hopefully wrong ) .  So yes I don’t like lockdowns .. who honestly does ? Would I remove a lockdown? ...
-
-2021-01-24 09:11:51+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='22272db2a2603259', url='https://api.twitter.com/1.1/geo/id/22272db2a2603259.json', place_type='city', name="Bishop's Stortford", full_name="Bishop's Stortford, East", country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[0.1299207, 51.8462064], [0.1895772, 51.8462064], [0.1895772, 51.886416], [0.1299207, 51.886416]]]), attributes={})
-
-1353269272307527681

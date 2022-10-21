@@ -1,9 +1,0 @@
-Dear @GovLarryHogan , please don't try to threaten my board of Education. Let us get staff vaccines and follow local community infection rates. https://t.co/wM55u5Z9oO
-
-2021-01-23 22:52:30+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='faef11a3eaa8abdb', url='https://api.twitter.com/1.1/geo/id/faef11a3eaa8abdb.json', place_type='city', name='Chesapeake Beach', full_name='Chesapeake Beach, MD', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-76.5803, 38.644972], [-76.526929, 38.644972], [-76.526929, 38.721348], [-76.5803, 38.721348]]]), attributes={})
-
-1353113406266634246

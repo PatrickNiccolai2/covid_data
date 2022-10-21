@@ -1,9 +1,0 @@
-Running fever after my second vaccine shot and this sucks
-
-2021-01-24 02:52:11+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='015d51094da3e975', url='https://api.twitter.com/1.1/geo/id/015d51094da3e975.json', place_type='city', name='Rowlett', full_name='Rowlett, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-96.597245, 32.865765], [-96.49164, 32.865765], [-96.49164, 32.982751], [-96.597245, 32.982751]]]), attributes={})
-
-1353173723264806912

@@ -1,9 +1,0 @@
-So incredibly proud of our team at @NRPublicHealth  👏🏻👏🏻👏🏻   #COVID19 #publichealth #vaccineswork #healthcareleaders @niagarahealth #teamworkmakesthedreamwork https://t.co/KLknqs2FMP
-
-2021-01-24 01:11:43+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='470e7074ff63c9ef', url='https://api.twitter.com/1.1/geo/id/470e7074ff63c9ef.json', place_type='city', name='Thorold', full_name='Thorold, Ontario', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-79.287172, 43.026135], [-79.168674, 43.026135], [-79.168674, 43.14086], [-79.287172, 43.14086]]]), attributes={})
-
-1353148442114199553

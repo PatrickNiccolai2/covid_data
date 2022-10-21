@@ -1,9 +1,0 @@
-@GovRonDeSantis Will someone tell him there are a lot of elderly in Manatee County and no vaccine is available.
-
-2021-01-24 03:26:11+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='fe2f57acdd2dad03', url='https://api.twitter.com/1.1/geo/id/fe2f57acdd2dad03.json', place_type='city', name='West Samoset', full_name='West Samoset, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-82.563372, 27.451517], [-82.546648, 27.451517], [-82.546648, 27.486605], [-82.563372, 27.486605]]]), attributes={})
-
-1353182283663028226

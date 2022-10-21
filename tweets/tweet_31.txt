@@ -1,9 +1,0 @@
-@ScreamOfficial If the Palestinians want a Corona vaccine from Israel to take care of releasing the bodies of the captive soldiers first,🇮🇱
-
-2021-01-24 13:00:50+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2edb6e240797c549', url='https://api.twitter.com/1.1/geo/id/2edb6e240797c549.json', place_type='country', name='Israel', full_name='Israel', country_code='IL', country='Israel', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[34.266924, 29.393973], [35.669933, 29.393973], [35.669933, 33.290533], [34.266924, 33.290533]]]), attributes={})
-
-1353326898290577410

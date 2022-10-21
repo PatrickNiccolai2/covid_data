@@ -1,9 +1,0 @@
-@TheLeoTerrell Wasn't that their Platform? They were going to shred President Donald J Trump,  and make the pandemic disappear! He (Trump) is Handling the vaccine all wrong, we can do a better job! Well, Mr Demented One...the balls in your court, and you've done nothing but Shred America!
-
-2021-01-23 23:10:18+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3df4f427b5a60fea', url='https://api.twitter.com/1.1/geo/id/3df4f427b5a60fea.json', place_type='city', name='San Antonio', full_name='San Antonio, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-98.778559, 29.141956], [-98.302744, 29.141956], [-98.302744, 29.693046], [-98.778559, 29.693046]]]), attributes={})
-
-1353117884902473729

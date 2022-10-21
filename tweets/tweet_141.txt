@@ -1,9 +1,0 @@
-The US, UK and EU have all ordered or optioned similar numbers of vaccines on a per capita basis — more than five doses per person. But by i.a. investing more in advance to help companies boost development and production capacity,🇬🇧 and 🇺🇸 have made a faster start. https://t.co/uhD5RT97rN https://t.co/g2kxUFhNp7
-
-2021-01-24 12:04:24+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='535f0c2de0121451', url='https://api.twitter.com/1.1/geo/id/535f0c2de0121451.json', place_type='city', name='Warsaw', full_name='Warsaw, Poland', country_code='PL', country='Poland', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[20.8525518, 52.0977088], [21.2710282, 52.0977088], [21.2710282, 52.3679617], [20.8525518, 52.3679617]]]), attributes={})
-
-1353312696633077760

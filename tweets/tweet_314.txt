@@ -1,9 +1,0 @@
-Make no mistake-this is genocide by taking advantage of Covid19 in order to wreak a med.crisis upon an destitute https://t.co/XfK2dQPXrb get vaccines into their regions they will have to overcome Israeli barriers which no doubt will be ramped up.This is medical genocide.
-
-2021-01-24 10:12:48+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7dde0febc9ef245b', url='https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json', place_type='city', name='Dublin City', full_name='Dublin City, Ireland', country_code='IE', country='Ireland', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-6.387438, 53.2987449], [-6.1078047, 53.2987449], [-6.1078047, 53.4110598], [-6.387438, 53.4110598]]]), attributes={})
-
-1353284609807704064

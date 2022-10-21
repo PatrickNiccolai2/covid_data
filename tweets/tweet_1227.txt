@@ -1,9 +1,0 @@
-The good news: got an appointment for the vaccine. The bad news: not until March 4. #NH  #CovidVaccine
-
-2021-01-23 23:38:13+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5e6cc87c609e3a59', url='https://api.twitter.com/1.1/geo/id/5e6cc87c609e3a59.json', place_type='city', name='Manchester', full_name='Manchester, NH', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-71.5127219, 42.8909187], [-71.3754393, 42.8909187], [-71.3754393, 43.0514794], [-71.5127219, 43.0514794]]]), attributes={})
-
-1353124911250878464

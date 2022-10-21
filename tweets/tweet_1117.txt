@@ -1,9 +1,0 @@
-Saugatuck Track and Field Coaching Staff after the first round of the vaccine.  @OurFitnessGoals https://t.co/EZ9G9v797C
-
-2021-01-24 00:29:06+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0149bb5b651b8968', url='https://api.twitter.com/1.1/geo/id/0149bb5b651b8968.json', place_type='city', name='Dutton', full_name='Dutton, MI', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-85.644649, 42.822221], [-85.545821, 42.822221], [-85.545821, 42.854823], [-85.644649, 42.854823]]]), attributes={})
-
-1353137716549050373

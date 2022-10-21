@@ -1,9 +1,0 @@
-@doctor_oxford @MsFrauG And what aboit the added proposed lunacy of mixing vaccine types willy-nilly?
-
-2021-01-24 03:08:52+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='534f34f689650254', url='https://api.twitter.com/1.1/geo/id/534f34f689650254.json', place_type='city', name='Droitwich', full_name='Droitwich, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.1778139, 52.245602], [-2.1340764, 52.245602], [-2.1340764, 52.284042], [-2.1778139, 52.284042]]]), attributes={})
-
-1353177923893817344

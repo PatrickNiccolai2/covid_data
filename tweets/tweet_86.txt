@@ -1,9 +1,0 @@
-@UKinSriLanka Why isn’t U.K. providing vaccines FREE for ALL BRITISH @commonwealthsec countries? You owe it to us.  The @FCDOGovUK has the name #Commonwealth in it! @AJEnglish @UKinMaldives @UKinKenya @UKinGhana @UKinZimbabwe @UKinZambia @UKinGambia @ukinsouthafrica @UKinNigeria
-
-2021-01-24 12:32:21+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='758461cd66db17e0', url='https://api.twitter.com/1.1/geo/id/758461cd66db17e0.json', place_type='city', name='Sutton', full_name='Sutton, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.245869, 51.330352], [-0.117306, 51.330352], [-0.117306, 51.3934428], [-0.245869, 51.3934428]]]), attributes={})
-
-1353319729566539777

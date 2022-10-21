@@ -1,9 +1,0 @@
-So just let it run it’s course and rely solely on the vaccine, which is being rolled out extremely slow? Of course you can’t eliminate the spread with lockdowns at this point, but you can slow the spread and that is something worth pursuing https://t.co/svz7Oe3DBM
-
-2021-01-23 21:03:06+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1ea588c12abd39d7', url='https://api.twitter.com/1.1/geo/id/1ea588c12abd39d7.json', place_type='city', name='Milan', full_name='Milan, Lombardy', country_code='IT', country='Italy', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[9.040628, 45.3867262], [9.2780451, 45.3867262], [9.2780451, 45.5359644], [9.040628, 45.5359644]]]), attributes={})
-
-1353085877069746178

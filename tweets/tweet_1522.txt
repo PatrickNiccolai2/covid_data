@@ -1,9 +1,0 @@
-@HMHNewJersey @byJenAMiller Thanks for the follow up. If the form asks for a email, it should send out a confirmation to avoid confusion. We appreciate the ability to get a vaccine!
-
-2021-01-23 21:31:26+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01a9a39529b27f36', url='https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json', place_type='city', name='Manhattan', full_name='Manhattan, NY', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-74.026675, 40.683935], [-73.910408, 40.683935], [-73.910408, 40.877483], [-74.026675, 40.877483]]]), attributes={})
-
-1353093004156874753

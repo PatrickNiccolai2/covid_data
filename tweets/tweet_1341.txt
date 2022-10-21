@@ -1,9 +1,0 @@
-@RepSteveStivers No thank you. You will not monetize my life or my pursuit of happiness and it’s arrogant to think that you thought you could. so I will get my advice from a more credible source. Instead of getting it from a proxy for #DomesticTerrorism #Covid_19Vaccine
-
-2021-01-23 22:57:26+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='60e2c37980197297', url='https://api.twitter.com/1.1/geo/id/60e2c37980197297.json', place_type='city', name='St Paul', full_name='St Paul, MN', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-93.207783, 44.8907521], [-93.003514, 44.8907521], [-93.003514, 44.992279], [-93.207783, 44.992279]]]), attributes={})
-
-1353114650238455809

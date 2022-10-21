@@ -1,9 +1,0 @@
-i hope i will never have to be this stressed to get a vaccine ever again in my lifetime LIKE PLEASE I AM BEGGING FOR IT 😭
-
-2021-01-24 05:11:32+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01330bbf19b293ef', url='https://api.twitter.com/1.1/geo/id/01330bbf19b293ef.json', place_type='city', name='Texas', full_name='Texas, MI', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-85.735625, 42.186435], [-85.64806, 42.186435], [-85.64806, 42.245328], [-85.735625, 42.245328]]]), attributes={})
-
-1353208794956910600

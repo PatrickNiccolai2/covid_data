@@ -1,9 +1,0 @@
-This is disgusting. Every member of staff who works for the #NHS should be allowed to get a vaccine no matter where they come from as they are the ones on the #FrontLine their NHS ID badge should be enough @MattHancock get this sorted 😡😡 https://t.co/5hSGlxssLb
-
-2021-01-23 19:00:53+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='151b9e91272233d1', url='https://api.twitter.com/1.1/geo/id/151b9e91272233d1.json', place_type='city', name='Liverpool', full_name='Liverpool, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.008791, 53.36489], [-2.822063, 53.36489], [-2.822063, 53.474867], [-3.008791, 53.474867]]]), attributes={})
-
-1353055117717745665

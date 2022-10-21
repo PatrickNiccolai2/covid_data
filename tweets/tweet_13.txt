@@ -1,9 +1,0 @@
-Whatever you think of the Zero covid position (I’m torn on it) but I shudder at Alan Kelly saying lack of vaccines in poorer countries means new strains will emerge there and that’s a threat without commenting on injustice in global distribution of vaccines. 1/2
-
-2021-01-24 13:15:20+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='c500c6f8494a90ac', url='https://api.twitter.com/1.1/geo/id/c500c6f8494a90ac.json', place_type='city', name='Cork', full_name='Cork, Ireland', country_code='IE', country='Ireland', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-10.2254601, 51.4192154], [-7.8411533, 51.4192154], [-7.8411533, 52.3885113], [-10.2254601, 52.3885113]]]), attributes={})
-
-1353330545338556427

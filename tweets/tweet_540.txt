@@ -1,9 +1,0 @@
-@jonrogers101 @drdavidsamadi Right!!!! And the government can say that vaccine is working!!!! It’s ridicolous and terrible what we have been through in Italy for almost one year!!!
-
-2021-01-24 08:17:04+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='78b01fa55ad4dd38', url='https://api.twitter.com/1.1/geo/id/78b01fa55ad4dd38.json', place_type='city', name='Casalecchio di Reno', full_name='Casalecchio di Reno, Emilia Romagna', country_code='IT', country='Italy', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[11.2325517, 44.4489077], [11.2968222, 44.4489077], [11.2968222, 44.494205], [11.2325517, 44.494205]]]), attributes={})
-
-1353255483096911872

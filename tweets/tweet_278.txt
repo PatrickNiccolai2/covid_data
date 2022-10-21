@@ -1,9 +1,0 @@
-@SueSuezep @Lotx Have any of these obsequious servants to the 'Great Behemoth Boris', ever listened to the scientists, an easy answer 'No' because the Tories have their heads permanently up shoved up their arses, the vaccine debacle is proof of that never thought through properly.#COVIDIOTS
-
-2021-01-24 10:30:53+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6e426041a0536dba', url='https://api.twitter.com/1.1/geo/id/6e426041a0536dba.json', place_type='city', name='Admaston', full_name='Admaston, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.550967, 52.708882], [-2.537694, 52.708882], [-2.537694, 52.716491], [-2.550967, 52.716491]]]), attributes={})
-
-1353289162519171077

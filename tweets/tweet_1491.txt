@@ -1,9 +1,0 @@
-@BorisJohnson @Keir_Starmer I see POTUS Biden has set up a bi partisan problem solving caucus ... time for one here to work through the pandemic and it’s many issues. ????
-
-2021-01-23 21:45:47+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='77a9977a0f59cbae', url='https://api.twitter.com/1.1/geo/id/77a9977a0f59cbae.json', place_type='city', name='Bridgnorth', full_name='Bridgnorth, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.4440182, 52.5221749], [-2.395422, 52.5221749], [-2.395422, 52.5454778], [-2.4440182, 52.5454778]]]), attributes={})
-
-1353096616803266563

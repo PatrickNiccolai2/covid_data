@@ -1,9 +1,0 @@
-@ZahraNomadic @Gobannimo I am more than happy to go there and try to convince them,  so far  two elders had the vaccine.
-
-2021-01-24 09:56:09+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='08be9e4ebe3d037d', url='https://api.twitter.com/1.1/geo/id/08be9e4ebe3d037d.json', place_type='city', name='Poplar', full_name='Poplar, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.080028, 51.48432], [0.009989, 51.48432], [0.009989, 51.545341], [-0.080028, 51.545341]]]), attributes={})
-
-1353280419614126081

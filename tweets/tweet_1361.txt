@@ -1,9 +1,0 @@
-@ElementalAmber @jenn_swann @haleyp @sherlyholmes @whereishayley They are also pulling seniors out of the line to get the vaccine.
-
-2021-01-23 22:45:51+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='fac230fa9cf16fd6', url='https://api.twitter.com/1.1/geo/id/fac230fa9cf16fd6.json', place_type='city', name='Ensenada', full_name='Ensenada, Baja California', country_code='MX', country='Mexico', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-118.4038571, 27.9988888], [-112.7559001, 27.9988888], [-112.7559001, 32.3140881], [-118.4038571, 32.3140881]]]), attributes={})
-
-1353111734496632832

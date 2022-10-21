@@ -1,9 +1,0 @@
-Commentary: Urgently Needed – A Racial Equity Approach to Covid-19 Vaccine Distribution - Daily Yonder https://t.co/8uOb1mCsmu
-
-2021-01-24 11:03:25+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1701e6db682eb647', url='https://api.twitter.com/1.1/geo/id/1701e6db682eb647.json', place_type='city', name='Rocky Mount', full_name='Rocky Mount, NC', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-77.907739, 35.8900994], [-77.715568, 35.8900994], [-77.715568, 36.0544527], [-77.907739, 36.0544527]]]), attributes={})
-
-1353297347825041408

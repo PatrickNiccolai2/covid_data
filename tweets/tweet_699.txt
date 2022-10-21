@@ -1,9 +1,0 @@
-@desertopus So glad you are UP soon! I am sure you will be 100% good to go other than the usual vaccine BLAHS. I felt well enough to go Birdwatching for a few hours today, but then needed a long nap after. Hot shower and a heating pad are helping tonight! Just very very tired.
-
-2021-01-24 05:50:17+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5c62ffb0f0f3479d', url='https://api.twitter.com/1.1/geo/id/5c62ffb0f0f3479d.json', place_type='city', name='Phoenix', full_name='Phoenix, AZ', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-112.3239143, 33.29026], [-111.9254391, 33.29026], [-111.9254391, 33.8154652], [-112.3239143, 33.8154652]]]), attributes={})
-
-1353218543999881216

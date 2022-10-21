@@ -1,9 +1,0 @@
-@PhamilyDoc I was trying to look back for graphic someone shared that said when the vaccine was effective day by day.  Can you share it again?
-
-2021-01-23 20:42:23+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='ed241b86b5da2a41', url='https://api.twitter.com/1.1/geo/id/ed241b86b5da2a41.json', place_type='city', name='Van Wert', full_name='Van Wert, OH', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-84.627834, 40.8428587], [-84.552539, 40.8428587], [-84.552539, 40.893959], [-84.627834, 40.893959]]]), attributes={})
-
-1353080663998664704

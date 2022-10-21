@@ -1,9 +1,0 @@
-COVID-19: How do inactivated vaccines work? https://t.co/gwkFvgzGsC via @mnt
-
-2021-01-24 00:00:31+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='d9d978b087a92583', url='https://api.twitter.com/1.1/geo/id/d9d978b087a92583.json', place_type='city', name='Belo Horizonte', full_name='Belo Horizonte, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-44.062789, -20.059816], [-43.856856, -20.059816], [-43.856856, -19.777568], [-44.062789, -19.777568]]]), attributes={})
-
-1353130522369732610

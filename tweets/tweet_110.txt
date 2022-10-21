@@ -1,9 +1,0 @@
-Missed PR opportunity for @ANC now that #JohannRupert has had his jab?   Headline, ‘South Africans begin vaccine programme’ #CoronavirusVaccine #Covid19InSA #COVID19Vaccine
-
-2021-01-24 12:18:40+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00d8d13a6f5fcedf', url='https://api.twitter.com/1.1/geo/id/00d8d13a6f5fcedf.json', place_type='city', name='Strand', full_name='Strand, South Africa', country_code='ZA', country='South Africa', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[18.8100222, -34.1709801], [18.9287187, -34.1709801], [18.9287187, -34.0904234], [18.8100222, -34.0904234]]]), attributes={})
-
-1353316285162135552

@@ -1,9 +1,0 @@
-@richardhiggsPT getting the #BioNTech Pfizer vaccine this morning 🙌🏻. Thank you #nhs for starting to vaccinate #privatephysios #withington #CoronavirusVaccine https://t.co/4uV5d8IfWW
-
-2021-01-24 11:18:57+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='315b740b108481f6', url='https://api.twitter.com/1.1/geo/id/315b740b108481f6.json', place_type='city', name='Manchester', full_name='Manchester, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.319934, 53.343623], [-2.147026, 53.343623], [-2.147026, 53.5702824], [-2.319934, 53.5702824]]]), attributes={})
-
-1353301257541345281

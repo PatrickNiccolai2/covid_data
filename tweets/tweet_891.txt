@@ -1,9 +1,0 @@
-@drharshvardhan @WHO @PMOIndia @narendramodi @BJP4India @JPNadda @WHOSEARO @DrTedros @MoHFW_INDIA @AyushmanNHA @AmitShah TO AVOID HYPER ALLERGIC REACTION WE NEED PRE VACCINATION DOSE N AFTER SOME TIME FULL DOSE OF VACCINE N AVOID POLITICAL HAZARDS.MEDICAL STORE , PATHOLOGIST,LAB ASSISTANT R WHOLESALERS HAD ALSO LOST THEIR LIVES,SO THEY R ALSO 2ND FRONT LINE CORONA WARRIORS,N SHOULD BE GIVEN VACCINE
-
-2021-01-24 02:53:48+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='537694d835939986', url='https://api.twitter.com/1.1/geo/id/537694d835939986.json', place_type='city', name='Raurkela-Panposh', full_name='Raurkela-Panposh, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[84.432643, 22.009627], [85.12124, 22.009627], [85.12124, 22.482265], [84.432643, 22.482265]]]), attributes={})
-
-1353174131940892672

@@ -1,9 +1,0 @@
-Voorzichtige maar resolute aanpak #COVID19 #vaccinatie lijkt beter - Israel en UK voorbeelden tonen dit aan - gevaccineerden letten niet meer op regels en vaccins zijn minder effectief dan PR Big Pharma beweert - vaccins zijn geen wondermiddel
-
-2021-01-24 09:49:11+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0653bb913c88c1ea', url='https://api.twitter.com/1.1/geo/id/0653bb913c88c1ea.json', place_type='city', name='Brussels', full_name='Brussels, Belgium', country_code='BE', country='Belgium', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[4.3139889, 50.7963282], [4.4369472, 50.7963282], [4.4369472, 50.9137064], [4.3139889, 50.9137064]]]), attributes={})
-
-1353278665560387584

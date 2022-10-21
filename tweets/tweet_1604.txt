@@ -1,9 +1,0 @@
-MP defends receiving vaccine after volunteering at centre https://t.co/aDAK51Pjxq
-
-2021-01-23 20:56:48+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='39882c02b18de530', url='https://api.twitter.com/1.1/geo/id/39882c02b18de530.json', place_type='city', name='Rhodesia', full_name='Rhodesia, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.158878, 53.310949], [-1.15069, 53.310949], [-1.15069, 53.316528], [-1.158878, 53.316528]]]), attributes={})
-
-1353084290783977475

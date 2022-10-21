@@ -1,9 +1,0 @@
-@narendramodi @JugnauthKumar When common people will get their vaccine? First give it to the people then you can dispatch it to any country.
-
-2021-01-24 02:46:25+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2a3a6daaec3b0848', url='https://api.twitter.com/1.1/geo/id/2a3a6daaec3b0848.json', place_type='city', name='Sholinganallur', full_name='Sholinganallur, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[80.056161, 12.850328], [80.268192, 12.850328], [80.268192, 13.028593], [80.056161, 13.028593]]]), attributes={})
-
-1353172272333213697

@@ -1,9 +1,0 @@
-@Susiecassin @SarahChampionMP @NHSRotherhamCCG My wife was one of the people who got their vaccine there today so I just wanted to say thank you to you and your team. I know you’re all exhausted but you’re literally saving lives 🙏🏻
-
-2021-01-23 19:14:51+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6046ab3dcba34a8c', url='https://api.twitter.com/1.1/geo/id/6046ab3dcba34a8c.json', place_type='city', name='Aston', full_name='Aston, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.334902, 53.351006], [-1.291502, 53.351006], [-1.291502, 53.377555], [-1.334902, 53.377555]]]), attributes={})
-
-1353058634293415936

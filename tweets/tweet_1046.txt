@@ -1,9 +1,0 @@
-@bearcatjase @WhistlingBatter @WCPO There are no share holders and the vaccine in distributed through the government.
-
-2021-01-24 01:15:21+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00c548f506b07b9e', url='https://api.twitter.com/1.1/geo/id/00c548f506b07b9e.json', place_type='city', name='Francisville', full_name='Francisville, KY', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-84.753305, 39.07942], [-84.693643, 39.07942], [-84.693643, 39.133115], [-84.753305, 39.133115]]]), attributes={})
-
-1353149355834925057

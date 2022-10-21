@@ -1,9 +1,0 @@
-Hey Oz, what is in the vaccine, do you know? https://t.co/dnkcpE3dyp
-
-2021-01-24 00:30:15+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='dd9c503d6c35364b', url='https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json', place_type='admin', name='Pennsylvania', full_name='Pennsylvania, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.519851, 39.719801], [-74.689517, 39.719801], [-74.689517, 42.516072], [-80.519851, 42.516072]]]), attributes={})
-
-1353138005373026304

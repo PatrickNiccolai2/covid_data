@@ -1,9 +1,0 @@
-If you’ve ever eatin the fish filet or McRib from McDonald’s you shouldn’t be worried about what’s in the covid vaccine
-
-2021-01-24 06:10:45+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='c484d6c5cd72beb0', url='https://api.twitter.com/1.1/geo/id/c484d6c5cd72beb0.json', place_type='city', name='Katy', full_name='Katy, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-95.87417, 29.7367727], [-95.774936, 29.7367727], [-95.774936, 29.8312188], [-95.87417, 29.8312188]]]), attributes={})
-
-1353223697935568896

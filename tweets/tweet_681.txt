@@ -1,9 +1,0 @@
-Like, the government for sure wouldn’t put millions of dollars into vaccines to kill people of color....they’d just do it and save time and money because that’s what they’ve always done and continue to do. Get vaccinated. Only exception is if you medically cannot.
-
-2021-01-24 06:08:26+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0807c31007ea6b4b', url='https://api.twitter.com/1.1/geo/id/0807c31007ea6b4b.json', place_type='city', name='Hemet', full_name='Hemet, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-117.071232, 33.685766], [-116.908609, 33.685766], [-116.908609, 33.7729906], [-117.071232, 33.7729906]]]), attributes={})
-
-1353223112410583040

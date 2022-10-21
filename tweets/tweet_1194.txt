@@ -1,9 +1,0 @@
-Poll is closed. 90% of the few hundred who took this survey said it was a no brainer getting the vaccine. I’m curious why skepticism, other interesting results too. https://t.co/HtfDp3mpiS
-
-2021-01-23 23:52:12+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='bad356f8cba08b76', url='https://api.twitter.com/1.1/geo/id/bad356f8cba08b76.json', place_type='city', name='Morgantown', full_name='Morgantown, WV', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-79.987463, 39.584088], [-79.9002117, 39.584088], [-79.9002117, 39.6745412], [-79.987463, 39.6745412]]]), attributes={})
-
-1353128430427140098

@@ -1,9 +1,0 @@
-@JohnERhino @Femi_Sorry They have a choice to either vaccinate more people or fewer people twice, the chief medical officer went for the former. Neither option perfect but with limited amount of vaccine and resources a choice had to be made
-
-2021-01-23 21:05:44+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7c9c234d2cbd0fae', url='https://api.twitter.com/1.1/geo/id/7c9c234d2cbd0fae.json', place_type='city', name='Lymington', full_name='Lymington, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.57534, 50.743174], [-1.525807, 50.743174], [-1.525807, 50.776249], [-1.57534, 50.776249]]]), attributes={})
-
-1353086537458741255

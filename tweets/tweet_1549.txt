@@ -1,9 +1,0 @@
-@SkyNews @CordeliaSkyNews Very strange throwing his arms about, fist pumping when talking , it's not normal but we ain't living in normal times , Boris Johnson was never ever the right man for this pandemic but neither was the even more pathetic Corbyn , what a awful pair of _ _ _ _ _ we was dealt in 2019
-
-2021-01-23 21:19:54+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='60160252aeb7e3e5', url='https://api.twitter.com/1.1/geo/id/60160252aeb7e3e5.json', place_type='admin', name='West Midlands', full_name='West Midlands, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.23560072135158, 51.8259029271059], [-1.17213601934124, 51.8259029271059], [-1.17213601934124, 53.2262100153425], [-3.23560072135158, 53.2262100153425]]]), attributes={})
-
-1353090101820207105

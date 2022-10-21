@@ -1,9 +1,0 @@
-@minsaude confirmou que 116 mil doses da vacina Oxford/AstraZeneca contra o coronavírus chegam ao estado na manhã deste domingo. O voo sai às 7h35 e desembarca às 9h35 no Aeroporto Salgado Filho. Quantitativo da capital, deve ser entregue a @Prefeitura_POA até segunda-feira https://t.co/8MuMz0WRAN
-
-2021-01-23 21:40:54+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='07d9cb1b27081003', url='https://api.twitter.com/1.1/geo/id/07d9cb1b27081003.json', place_type='poi', name='Secretaria Municipal de Saúde', full_name='Secretaria Municipal de Saúde', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-51.221356058066824, -30.035014841274705], [-51.221356058066824, -30.035014841274705], [-51.221356058066824, -30.035014841274705], [-51.221356058066824, -30.035014841274705]]]), attributes={})
-
-1353095387708600326

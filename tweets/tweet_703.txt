@@ -1,9 +1,0 @@
-@kayewhitehead Do we have real numbers about how many are vaccinated?  I’m tired of seeing pictures of Murphy making testing and vaccines look accessible for everyone when they’re not.
-
-2021-01-24 05:46:21+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01174c7e4ad4b08b', url='https://api.twitter.com/1.1/geo/id/01174c7e4ad4b08b.json', place_type='city', name='Jerseyville', full_name='Jerseyville, NJ', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-74.245125, 40.232435], [-74.2010535, 40.232435], [-74.2010535, 40.261223], [-74.245125, 40.261223]]]), attributes={})
-
-1353217557197697025

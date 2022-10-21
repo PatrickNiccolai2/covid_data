@@ -1,9 +1,0 @@
-For journalism bias is poison. Massive Chinese aggression? Fight against COVID-19 miracle under PM Modi despite  poor health system. India 1 of 5 countries with own vaccine with ICMR co-operation. What Seculars have done/achieved in 7 yrs?  https://t.co/BxHV9R4rca
-
-2021-01-24 04:19:45+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4ce934ba299b9a1a', url='https://api.twitter.com/1.1/geo/id/4ce934ba299b9a1a.json', place_type='city', name='Vododara', full_name='Vododara, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[73.048892, 22.088382], [73.312138, 22.088382], [73.312138, 22.465446], [73.048892, 22.465446]]]), attributes={})
-
-1353195760204963841

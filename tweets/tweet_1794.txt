@@ -1,9 +1,0 @@
-Wednesday  me and my sweetheart will get our First vaccine shot and we promised we will wear our masks until whole US is Vaccineted
-
-2021-01-23 19:35:12+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='bd5353d05d9cda8a', url='https://api.twitter.com/1.1/geo/id/bd5353d05d9cda8a.json', place_type='city', name='Strattanville', full_name='Strattanville, PA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-79.338607, 41.196906], [-79.3179209, 41.196906], [-79.3179209, 41.2070207], [-79.338607, 41.2070207]]]), attributes={})
-
-1353063752703176707

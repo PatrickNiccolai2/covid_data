@@ -1,9 +1,0 @@
-@theJeremyVine He should be given an injection alright, but not with the vaccine in it.
-
-2021-01-24 12:00:37+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='42d0cf7d49d27c95', url='https://api.twitter.com/1.1/geo/id/42d0cf7d49d27c95.json', place_type='city', name='Hillingdon', full_name='Hillingdon, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.5086841, 51.4551164], [-0.3760375, 51.4551164], [-0.3760375, 51.619006], [-0.5086841, 51.619006]]]), attributes={})
-
-1353311744144388096

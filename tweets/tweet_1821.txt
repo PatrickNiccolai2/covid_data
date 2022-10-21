@@ -1,9 +1,0 @@
-@parthaskar @DrHNaqvi @Emily_JR_Lawson @NHS_RHO Don’t get me going on this, you’d have thought that knowing that non white people are a) more likely to die of the virus and b) less likely to take the vaccine someone somewhere would be joining the dots about making these communities a priority.
-
-2021-01-23 19:26:54+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='42d0cf7d49d27c95', url='https://api.twitter.com/1.1/geo/id/42d0cf7d49d27c95.json', place_type='city', name='Hillingdon', full_name='Hillingdon, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.5086841, 51.4551164], [-0.3760375, 51.4551164], [-0.3760375, 51.619006], [-0.5086841, 51.619006]]]), attributes={})
-
-1353061665739137024

@@ -1,9 +1,0 @@
-@MichaelH4039 @fesshole Yes, but that’s the NHS sorting that. The logistics of actually getting the vaccine to surgeries is appalling
-
-2021-01-24 13:00:53+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7a998c6fcc0867eb', url='https://api.twitter.com/1.1/geo/id/7a998c6fcc0867eb.json', place_type='city', name='Halifax', full_name='Halifax, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.9355331, 53.696167], [-1.844528, 53.696167], [-1.844528, 53.762979], [-1.9355331, 53.762979]]]), attributes={})
-
-1353326911569727490

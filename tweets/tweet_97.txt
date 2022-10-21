@@ -1,9 +1,0 @@
-#massachusetts #vaccines https://t.co/d97Fv5Sd7N
-
-2021-01-24 12:27:47+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00205b7c486a3304', url='https://api.twitter.com/1.1/geo/id/00205b7c486a3304.json', place_type='city', name='Star', full_name='Star, ID', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-116.512815, 43.6809106], [-116.468462, 43.6809106], [-116.468462, 43.717526], [-116.512815, 43.717526]]]), attributes={})
-
-1353318580742365190

@@ -1,9 +1,0 @@
-Does anyone else feel that the schools are failing our children? The government is failing everyone? The schools had no plans at all for this year and the government has no plans to get this vaccine out? What have the leaders been doing?? Real people need to step up!!
-
-2021-01-24 03:40:05+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2409d5aabed47f79', url='https://api.twitter.com/1.1/geo/id/2409d5aabed47f79.json', place_type='city', name='Rochester Hills', full_name='Rochester Hills, MI', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-83.214001, 42.620953], [-83.091535, 42.620953], [-83.091535, 42.712333], [-83.214001, 42.712333]]]), attributes={})
-
-1353185781385461760

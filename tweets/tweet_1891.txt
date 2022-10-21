@@ -1,9 +1,0 @@
-@10DowningStreet @BorisJohnson "Based on what has been said, there can be no doubt that the number of deaths attributable to the lockdown policy measures alone exceeds the number of deaths prevented by the lockdown many times over.
-
-2021-01-23 19:04:08+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3ba55ee536210b59', url='https://api.twitter.com/1.1/geo/id/3ba55ee536210b59.json', place_type='city', name='Seaforth', full_name='Seaforth, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.058666, 53.438332], [-2.950246, 53.438332], [-2.950246, 53.501369], [-3.058666, 53.501369]]]), attributes={})
-
-1353055935313412096

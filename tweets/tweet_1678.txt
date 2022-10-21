@@ -1,9 +1,0 @@
-Please RT #Covid #Vaccine for #Urdu speaking communities https://t.co/HaCXidhPn2
-
-2021-01-23 20:29:40+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='56861cdf4c17a425', url='https://api.twitter.com/1.1/geo/id/56861cdf4c17a425.json', place_type='city', name='Axminster', full_name='Axminster, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.007955, 50.772715], [-2.979189, 50.772715], [-2.979189, 50.792359], [-3.007955, 50.792359]]]), attributes={})
-
-1353077463602110464

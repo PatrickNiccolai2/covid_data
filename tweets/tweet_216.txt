@@ -1,9 +1,0 @@
-@rtenews Only the UK has the critical vaccine development and manufacturing capacity in Europe...Perhaps Ireland should have done a deal with them in addition  to depending on the EU for all the supplies....
-
-2021-01-24 11:14:36+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='73a5d83329504007', url='https://api.twitter.com/1.1/geo/id/73a5d83329504007.json', place_type='city', name='Fingal', full_name='Fingal, Ireland', country_code='IE', country='Ireland', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-6.4757083, 53.3508617], [-5.9957316, 53.3508617], [-5.9957316, 53.6383337], [-6.4757083, 53.6383337]]]), attributes={})
-
-1353300160814739456

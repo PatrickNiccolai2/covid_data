@@ -1,9 +1,0 @@
-Datos interesantes de la experiencia Argentina 🇦🇷 en la vacunación contra el COVID-19 al usar la vacuna rusa Sputnik V.  https://t.co/9FFH918uZq
-
-2021-01-23 19:40:14+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='c4320f726d222937', url='https://api.twitter.com/1.1/geo/id/c4320f726d222937.json', place_type='country', name='Bolivia', full_name='Bolivia', country_code='BO', country='Bolivia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-69.6407623, -22.897682], [-57.453894, -22.897682], [-57.453894, -9.669105], [-69.6407623, -9.669105]]]), attributes={})
-
-1353065023015276544

@@ -1,9 +1,0 @@
-...necessary ingredients to defeat the pandemic. The vaccines are an integral component in the battle to defeat COVID and all its variants. As said before, the Trump administration and all its followers have done a poor job of making the vaccine available to the American people..
-
-2021-01-23 22:33:28+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7707ad9771781687', url='https://api.twitter.com/1.1/geo/id/7707ad9771781687.json', place_type='city', name='The Hammocks', full_name='The Hammocks, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.498527, 25.65479], [-80.4158778, 25.65479], [-80.4158778, 25.6886916], [-80.498527, 25.6886916]]]), attributes={})
-
-1353108616539209728

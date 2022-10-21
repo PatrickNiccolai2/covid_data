@@ -1,9 +1,0 @@
-US applauds ‘true friend’ India for gifting Covid-19 vaccine to several countries https://t.co/FOKWRvHygI
-
-2021-01-24 05:04:02+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3a6b696db46e9e1d', url='https://api.twitter.com/1.1/geo/id/3a6b696db46e9e1d.json', place_type='country', name='Bhutan', full_name='Bhutan', country_code='BT', country='Bhutan', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[88.7580276, 26.6989861], [92.124652, 26.6989861], [92.124652, 28.3237782], [88.7580276, 28.3237782]]]), attributes={})
-
-1353206906551078912

@@ -1,9 +1,0 @@
-@thornton_craig @UKCovid19Stats So the vaccines from 5 weeks ago are meaningless. Let us know when they start making a difference. Are you the person that flicks the switch?
-
-2021-01-24 01:27:25+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7f15dd80ac78ef40', url='https://api.twitter.com/1.1/geo/id/7f15dd80ac78ef40.json', place_type='city', name='Bristol', full_name='Bristol, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.659936, 51.399367], [-2.510844, 51.399367], [-2.510844, 51.516387], [-2.659936, 51.516387]]]), attributes={})
-
-1353152392414507013

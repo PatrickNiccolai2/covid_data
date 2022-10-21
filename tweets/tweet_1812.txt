@@ -1,9 +1,0 @@
-@DmodosCutter @hackneycab365 @casbecas @HABTerminal @viviengreenlee1 @UKActionteam @Parents_Utd Ive heard special needs teachers are getting the vaccine now in some areas... theres going to be a press release i believe
-
-2021-01-23 19:30:04+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='13dd0eca94d322f1', url='https://api.twitter.com/1.1/geo/id/13dd0eca94d322f1.json', place_type='city', name='Basildon', full_name='Basildon, East', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[0.3836341, 51.5463777], [0.530637, 51.5463777], [0.530637, 51.594472], [0.3836341, 51.594472]]]), attributes={})
-
-1353062462279405568

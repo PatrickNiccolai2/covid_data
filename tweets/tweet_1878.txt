@@ -1,9 +1,0 @@
-@detroitplair Yes but he’s not responsible for getting the vaccine to my state so I don’t care haha
-
-2021-01-23 19:06:33+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01c060cf466c6ce3', url='https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json', place_type='city', name='Long Beach', full_name='Long Beach, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-118.250227, 33.732905], [-118.0631938, 33.732905], [-118.0631938, 33.885438], [-118.250227, 33.885438]]]), attributes={})
-
-1353056545358008321

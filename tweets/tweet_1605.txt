@@ -1,9 +1,0 @@
-@PascalPraud #hdpros @GG_RMC @ZohraBitan si vacciner la 2ème dose prend autant de temps que la 1er le mois de février ne verra pas beaucoup de nouveau vacciné 🤔
-
-2021-01-23 20:56:35+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='378293b63abc3293', url='https://api.twitter.com/1.1/geo/id/378293b63abc3293.json', place_type='city', name='Le Havre', full_name='Le Havre, France', country_code='FR', country='France', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[0.0673614, 49.45224], [0.1955974, 49.45224], [0.1955974, 49.5401789], [0.0673614, 49.5401789]]]), attributes={})
-
-1353084234852921344

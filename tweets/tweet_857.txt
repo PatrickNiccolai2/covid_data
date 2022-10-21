@@ -1,9 +1,0 @@
-Georgia Today: Grady Doctor Combats Vaccine Mistrust Among Communities Of Color https://t.co/3n3CChVgnV @TuskegeeUniv @TUNAANewsletter @TNAA1885 @atlskegeealumni @SMATAC1881
-
-2021-01-24 03:21:52+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='fe4b2b8e51cc85c1', url='https://api.twitter.com/1.1/geo/id/fe4b2b8e51cc85c1.json', place_type='city', name='Mableton', full_name='Mableton, GA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-84.620272, 33.7698188], [-84.506557, 33.7698188], [-84.506557, 33.852813], [-84.620272, 33.852813]]]), attributes={})
-
-1353181193718665216

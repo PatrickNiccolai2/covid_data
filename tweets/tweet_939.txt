@@ -1,9 +1,0 @@
-@AhooksHooks @JeremyHreben *transmit the virus (not the vaccine)
-
-2021-01-24 02:26:07+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='22c613c36f32f0d1', url='https://api.twitter.com/1.1/geo/id/22c613c36f32f0d1.json', place_type='city', name='State College', full_name='State College, PA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-77.917295, 40.749326], [-77.798924, 40.749326], [-77.798924, 40.817749], [-77.917295, 40.817749]]]), attributes={})
-
-1353167163322998784

@@ -1,9 +1,0 @@
-#Corona #COVID19 #COVID #Covid_19 #CoronaVaccine #coronavirus #NationalGirlChildDay #NationalGirlChildDay2021 #NATIONLOVESRUBINA #MasterHistoricVictory #DeshKiBeti #EyeWitnessOfGod #LifeGoesOn #KimTaehyung #ParkJimin #EijazKhan #Amazon #NetajiSubhasChandraBose #VaccineMaitri #RAM https://t.co/IQT5c0miNW
-
-2021-01-24 08:01:23+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2e6064382c71b343', url='https://api.twitter.com/1.1/geo/id/2e6064382c71b343.json', place_type='city', name='Noida', full_name='Noida, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[77.302126, 28.443981], [77.695326, 28.443981], [77.695326, 28.647131], [77.302126, 28.647131]]]), attributes={})
-
-1353251536684474371

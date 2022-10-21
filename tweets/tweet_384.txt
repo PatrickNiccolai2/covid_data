@@ -1,9 +1,0 @@
-There is Vaccine made by British and Amaricans another made in China Also Russia has. Now India came to add thier Vaccine as well . IRAN trying thier research to produce thier own. The question is the ALLAH AKBAR  ARAB where are standing is there any effort to produce thier's?
-
-2021-01-24 09:43:41+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00abb498585a733c', url='https://api.twitter.com/1.1/geo/id/00abb498585a733c.json', place_type='city', name='Tamale', full_name='Tamale, Ghana', country_code='GH', country='Ghana', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.894255, 9.3654216], [-0.8018728, 9.3654216], [-0.8018728, 9.4471766], [-0.894255, 9.4471766]]]), attributes={})
-
-1353277284032122881

@@ -1,9 +1,0 @@
-Covid: Gap between Pfizer vaccine doses should be halved, say doctors https://t.co/fncsJP0b8d
-
-2021-01-24 03:38:13+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2c323d824adb6dc4', url='https://api.twitter.com/1.1/geo/id/2c323d824adb6dc4.json', place_type='city', name='Kalyan Dombivali', full_name='Kalyan Dombivali, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[73.063131, 19.139733], [73.321579, 19.139733], [73.321579, 19.401009], [73.063131, 19.401009]]]), attributes={})
-
-1353185308846612480

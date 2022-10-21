@@ -1,9 +1,0 @@
-Gutted, the vaccine has come just a couple of weeks too late for my Nan. Just had her first injection last week, but tested + on Friday, passed away at 3am this morning. 97 she was just too week to fight it. #Covid19UK
-
-2021-01-24 13:11:26+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='25d3e991f5637f5a', url='https://api.twitter.com/1.1/geo/id/25d3e991f5637f5a.json', place_type='admin', name='South West', full_name='South West, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-6.36850399906372, 49.8824720005481], [-1.48573420014269, 49.8824720005481], [-1.48573420014269, 52.1125420344225], [-6.36850399906372, 52.1125420344225]]]), attributes={})
-
-1353329564177596417

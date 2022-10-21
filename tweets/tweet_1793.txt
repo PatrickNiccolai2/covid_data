@@ -1,9 +1,0 @@
-My MIL has blood clots in her lungs following the covid vaccine. Finally, after the 3rd ambulance trip to the hospital, she’s been admitted.  #Covid_19
-
-2021-01-23 19:35:18+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='a592bd6ceb1319f7', url='https://api.twitter.com/1.1/geo/id/a592bd6ceb1319f7.json', place_type='city', name='San Diego', full_name='San Diego, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-117.282538, 32.53962], [-116.9274403, 32.53962], [-116.9274403, 33.0804044], [-117.282538, 33.0804044]]]), attributes={})
-
-1353063780733739010

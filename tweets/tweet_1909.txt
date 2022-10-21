@@ -1,9 +1,0 @@
-We are so proud and thankful to our staff and volunteers supporting the Vaccine Hub in partnership with @H4All_Charity and @TheConfedHill   Our team have worked an amazing 101 hours this week as vaccine marshals https://t.co/9ixCU1k67Q
-
-2021-01-23 18:58:49+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='42d0cf7d49d27c95', url='https://api.twitter.com/1.1/geo/id/42d0cf7d49d27c95.json', place_type='city', name='Hillingdon', full_name='Hillingdon, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.5086841, 51.4551164], [-0.3760375, 51.4551164], [-0.3760375, 51.619006], [-0.5086841, 51.619006]]]), attributes={})
-
-1353054600274698245

@@ -1,9 +1,0 @@
-“Global health diplomacy is just as important to combat the pandemic. As the virus that causes Covid-19 mutates, national vaccine strategies alone will not work. If developing countries remain locked down or in economic collapse, the global economy cannot recover” @SlaughterAM https://t.co/mKYC8cRjVq
-
-2021-01-24 01:04:16+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4797714c95971ac1', url='https://api.twitter.com/1.1/geo/id/4797714c95971ac1.json', place_type='country', name="People's Republic of China", full_name="People's Republic of China", country_code='CN', country="People's Republic of China", contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[73.499413, 18.054479], [134.775071, 18.054479], [134.775071, 53.561583], [73.499413, 53.561583]]]), attributes={})
-
-1353146565922328578

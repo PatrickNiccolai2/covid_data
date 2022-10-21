@@ -1,9 +1,0 @@
-@vivekagnihotri @vikasopikaso But when did he say I will take the first vaccine ? He must have led from the front as an example like Biden and other world leaders,but unfortunately he did not do so !
-
-2021-01-23 21:42:54+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1b8680cd52a711cb', url='https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json', place_type='city', name='Bengaluru', full_name='Bengaluru, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[77.373474, 12.919037], [77.739371, 12.919037], [77.739371, 13.231381], [77.373474, 13.231381]]]), attributes={})
-
-1353095891528208384

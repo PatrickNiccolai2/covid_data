@@ -1,9 +1,0 @@
-@christopherhope @Madz_Grant @AllisterHeath I’m more interested in the Jonathan van Tam statement that even though you have had the vaccine you must obey the rules as you can still transmit the virus. This lockdown will never end will it .......
-
-2021-01-23 22:46:25+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1023de91a66b65b0', url='https://api.twitter.com/1.1/geo/id/1023de91a66b65b0.json', place_type='city', name='Charlton-on-Otmoor', full_name='Charlton-on-Otmoor, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.1910442, 51.8353161], [-1.1788544, 51.8353161], [-1.1788544, 51.842155], [-1.1910442, 51.842155]]]), attributes={})
-
-1353111874863300608

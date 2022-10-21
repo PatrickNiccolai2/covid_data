@@ -1,9 +1,0 @@
-@dnarunner Antibodies are not always present after months. Neither will the vaccine produce long term Antibodies.  It's priming your t and b cells that makes the vaccine effective in recognizing covid and then dealing with it.
-
-2021-01-23 20:59:55+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0022e3c837579650', url='https://api.twitter.com/1.1/geo/id/0022e3c837579650.json', place_type='city', name='Auckland', full_name='Auckland, New Zealand', country_code='NZ', country='New Zealand', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[174.161834, -37.292621], [175.550653, -37.292621], [175.550653, -35.898837], [174.161834, -35.898837]]]), attributes={})
-
-1353085073428410369

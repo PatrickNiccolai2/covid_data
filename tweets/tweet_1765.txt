@@ -1,9 +1,0 @@
-@MarinaNigrelli @kjwest69 As Stanley Johnson was so concerned about population, he had a choice to refuse Vaccination, rather than have both vaccinations, &amp; take Covid on the Chin as his Son advocated! Unless of course numbers are only related to the colour of peoples skin😡
-
-2021-01-23 19:45:44+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7ea757dedaf11068', url='https://api.twitter.com/1.1/geo/id/7ea757dedaf11068.json', place_type='city', name='Shotley Gate', full_name='Shotley Gate, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[1.258754, 51.954816], [1.276234, 51.954816], [1.276234, 51.96397], [1.258754, 51.96397]]]), attributes={})
-
-1353066403700477955

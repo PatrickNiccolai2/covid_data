@@ -1,9 +1,0 @@
-@VikiLovesFACS @kdb8172 Of course, actually becoming unwell with some illnesses/viral infection wouldn’t be ideal either... causing immune response that could impact on duration of pregnancy. Poss infection of vulnerable fetus also. There is a chance some vaccine can cause complications however -
-
-2021-01-24 10:21:26+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01c7ed8caf11e8b2', url='https://api.twitter.com/1.1/geo/id/01c7ed8caf11e8b2.json', place_type='city', name='Kensington', full_name='Kensington, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.2285894, 51.4772246], [-0.1497908, 51.4772246], [-0.1497908, 51.5303477], [-0.2285894, 51.5303477]]]), attributes={})
-
-1353286781240827907

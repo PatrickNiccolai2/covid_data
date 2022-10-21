@@ -1,9 +1,0 @@
-@BorisJohnson @10DowningStreet @JoeBiden You could start by being honest to the UK public instead of fobbing us off with your very own version of this virus. Tell us what the science says because what you are waffling does not tie in with what they say. #timetocuttheshit
-
-2021-01-23 20:57:01+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5aaf4cb2a033ee1d', url='https://api.twitter.com/1.1/geo/id/5aaf4cb2a033ee1d.json', place_type='city', name='Gerrards Cross', full_name='Gerrards Cross, South East', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.5810853, 51.567086], [-0.537744, 51.567086], [-0.537744, 51.594705], [-0.5810853, 51.594705]]]), attributes={})
-
-1353084344588500993

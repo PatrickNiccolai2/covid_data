@@ -1,9 +1,0 @@
-It is high time we looked inwards &amp; invest in R &amp; D by African scientists: STI infrastructure as well as making available financing of research. @_AfricanUnion states should empower African scientists in the production of Vaccines. @Agenda2063N @AASciences @AAUniversities @AUHRST https://t.co/j9AxBHJpLr
-
-2021-01-23 19:07:07+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='c3b85cf1d8b226f2', url='https://api.twitter.com/1.1/geo/id/c3b85cf1d8b226f2.json', place_type='country', name='Ethiopia', full_name='Ethiopia', country_code='ET', country='Ethiopia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[32.9976911, 3.4049624], [47.9994768, 3.4049624], [47.9994768, 14.8942137], [32.9976911, 14.8942137]]]), attributes={})
-
-1353056686697705472

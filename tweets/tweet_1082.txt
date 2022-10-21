@@ -1,9 +1,0 @@
-Let’s lead this movement, Texas! Our educators have prioritized the in-person learning of our children, so it’s time we prioritize them with a vaccine! @GovAbbott #txlege @Alliance_Texas @tasanet @tasbnews https://t.co/gAAmxtGqa6
-
-2021-01-23 18:17:42+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='e0060cda70f5f341', url='https://api.twitter.com/1.1/geo/id/e0060cda70f5f341.json', place_type='admin', name='Texas', full_name='Texas, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-106.645646, 25.837092], [-93.508131, 25.837092], [-93.508131, 36.500695], [-106.645646, 36.500695]]]), attributes={})
-
-1353044249672101888

@@ -1,9 +1,0 @@
-@twittatore @disinformatico Ovviamente Bill Gates si sarà fatto iniettare adrenocromo decolorato. Ormai è palese che sia lui ad aver commissionato il virus e guadagnare dalla vendita del vaccino. Se ci fai caso Pfizer e Moderna sono scritti con le stesse lettere dell'alfabeto che usa anche B.Gates. Un caso?
-
-2021-01-23 19:33:17+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='8aa92909c60d06e1', url='https://api.twitter.com/1.1/geo/id/8aa92909c60d06e1.json', place_type='city', name='Galliera', full_name='Galliera, Emilia Romagna', country_code='IT', country='Italy', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[11.3498219, 44.7223964], [11.5183485, 44.7223964], [11.5183485, 44.7785887], [11.3498219, 44.7785887]]]), attributes={})
-
-1353063270433738759

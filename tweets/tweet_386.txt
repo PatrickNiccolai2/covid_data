@@ -1,9 +1,0 @@
-@RalphNgugi @zionpearl @Akinyi19Abongo Someone please give this man a covid-19 vaccine 👏🏽👏🏽👏🏽
-
-2021-01-24 09:43:27+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='001123a910828d1c', url='https://api.twitter.com/1.1/geo/id/001123a910828d1c.json', place_type='city', name='Kabete', full_name='Kabete, Kenya', country_code='KE', country='Kenya', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[36.6436967, -1.2901831], [36.785341, -1.2901831], [36.785341, -1.1517807], [36.6436967, -1.1517807]]]), attributes={})
-
-1353277222933692419

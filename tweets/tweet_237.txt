@@ -1,9 +1,0 @@
-@notsupermum @AndTrampy As for the new curfew, there were a couple of groups of young people resisting last night in villages but enforcement was doable apparently. Vaccine rollout NL slower than UK but I generally feel safer here &amp;I’m confident we’ll catch up.
-
-2021-01-24 11:06:20+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='99cdab25eddd6bce', url='https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json', place_type='city', name='Amsterdam', full_name='Amsterdam, The Netherlands', country_code='NL', country='The Netherlands', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[4.7288999, 52.2782266], [5.0792072, 52.2782266], [5.0792072, 52.4312289], [4.7288999, 52.4312289]]]), attributes={})
-
-1353298082360913921

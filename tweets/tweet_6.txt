@@ -1,9 +1,0 @@
-Turns out gov influence on SAGE is reducing as SAGE is scrambling to save face &amp; arse. Now the Govt is openly doing what sage recommends 28 days too late albeit diluted with political spin &amp; inadequate enforcement or even guidance.@CMO_England @BorisJohnson @uksciencechief
-
-2021-01-24 13:17:49+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5de8cffc145c486b', url='https://api.twitter.com/1.1/geo/id/5de8cffc145c486b.json', place_type='city', name='Camden Town', full_name='Camden Town, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.213503, 51.512805], [-0.105303, 51.512805], [-0.105303, 51.572068], [-0.213503, 51.572068]]]), attributes={})
-
-1353331172550578177

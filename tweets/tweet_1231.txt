@@ -1,9 +1,0 @@
-@aubrey_huff "They" were trying to prove the vax is safe. Guaranteed, "they" made sure he was exceptionally healthy. Had he contracted covid without the vax, HCQ would have cured him. And he'd still be a living BB legend!
-
-2021-01-23 23:36:37+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3922d958b2894b76', url='https://api.twitter.com/1.1/geo/id/3922d958b2894b76.json', place_type='city', name='Woods Cross', full_name='Woods Cross, UT', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-111.9434561, 40.861178], [-111.888365, 40.861178], [-111.888365, 40.8878939], [-111.9434561, 40.8878939]]]), attributes={})
-
-1353124507712507904

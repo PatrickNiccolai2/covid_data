@@ -1,9 +1,0 @@
-Things moving in the right direction with the vaccine, one of the few things the government seem to have got right. https://t.co/jCZz4Qnd44
-
-2021-01-23 21:08:29+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='604492c5e49c512b', url='https://api.twitter.com/1.1/geo/id/604492c5e49c512b.json', place_type='city', name='Bognor Regis', full_name='Bognor Regis, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.75273, 50.762379], [-0.595238, 50.762379], [-0.595238, 50.8059412], [-0.75273, 50.8059412]]]), attributes={})
-
-1353087230361927682

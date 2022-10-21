@@ -1,9 +1,0 @@
-It’s not just Moderna and AstraZeneca struggling with supplying vaccines. Pfizer too. They could solve this problem by simply forgoing a bit of profits and licensing generic production by other pharmaceutical companies around the world. Greed is bad even for business. https://t.co/u3X204dAZB
-
-2021-01-24 12:04:55+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3894e5388f482c23', url='https://api.twitter.com/1.1/geo/id/3894e5388f482c23.json', place_type='city', name='Ekaterinburg', full_name='Ekaterinburg, Russia', country_code='RU', country='Russia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[60.3851198, 56.6678841], [60.8421559, 56.6678841], [60.8421559, 56.9631816], [60.3851198, 56.9631816]]]), attributes={})
-
-1353312824836186112

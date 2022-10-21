@@ -1,9 +1,0 @@
-Mrs. Nash (who is a self proclaimed “big ol’ scaredy cat”) did her part and received her 1st dose of the Covid-19 vaccine! We know we all have to do whatever we can so that eventually we can return to our classrooms! https://t.co/HkKAF6BeQe
-
-2021-01-23 23:52:48+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0015d9147cee6907', url='https://api.twitter.com/1.1/geo/id/0015d9147cee6907.json', place_type='city', name='Avondale', full_name='Avondale, AZ', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-112.3579993, 33.3847847], [-112.272424, 33.3847847], [-112.272424, 33.4938064], [-112.3579993, 33.4938064]]]), attributes={})
-
-1353128583942729729

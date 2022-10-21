@@ -1,9 +1,0 @@
-I’m not playing that game of “whackamole”. Maryland, Montgomery County have to get there acts together.  As a colleague said,”getting a vaccine is like the Hunger Games” https://t.co/BOZrqLMQ5i
-
-2021-01-23 22:25:31+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7c38fd77def3b77e', url='https://api.twitter.com/1.1/geo/id/7c38fd77def3b77e.json', place_type='city', name='Redland', full_name='Redland, MD', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-77.185672, 39.1183263], [-77.1216197, 39.1183263], [-77.1216197, 39.172422], [-77.185672, 39.172422]]]), attributes={})
-
-1353106616959324164

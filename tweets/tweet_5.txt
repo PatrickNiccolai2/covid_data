@@ -1,9 +1,0 @@
-People that say "aren't you worried about how fast the vaccine for covid was produced" just heard one of their friends say that and they all went "YES" then when you ask them how long it takes to make a vaccine they sit there like 🙆🏽‍♀️
-
-2021-01-24 13:17:58+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='178a87b8e2eaa375', url='https://api.twitter.com/1.1/geo/id/178a87b8e2eaa375.json', place_type='city', name='Sandton', full_name='Sandton, South Africa', country_code='ZA', country='South Africa', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[27.9829939, -26.1362658], [28.1382322, -26.1362658], [28.1382322, -25.9811502], [27.9829939, -25.9811502]]]), attributes={})
-
-1353331209665970177

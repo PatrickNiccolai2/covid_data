@@ -1,9 +1,0 @@
-Damn i need a vaccine
-
-2021-01-23 20:51:29+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01566b25bbe7a6d3', url='https://api.twitter.com/1.1/geo/id/01566b25bbe7a6d3.json', place_type='city', name='Mérida', full_name='Mérida, Yucatán', country_code='MX', country='Mexico', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-89.798197, 20.695104], [-89.449025, 20.695104], [-89.449025, 21.186966], [-89.798197, 21.186966]]]), attributes={})
-
-1353082951408484352

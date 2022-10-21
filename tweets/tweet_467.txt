@@ -1,9 +1,0 @@
-Superb thread on the covid vaccines for anyone worried about having one https://t.co/9b3wGBN0uZ
-
-2021-01-24 08:58:24+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7093398a4249d151', url='https://api.twitter.com/1.1/geo/id/7093398a4249d151.json', place_type='city', name='Ealing', full_name='Ealing, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.351597, 51.491866], [-0.243263, 51.491866], [-0.243263, 51.537638], [-0.351597, 51.537638]]]), attributes={})
-
-1353265886946275330

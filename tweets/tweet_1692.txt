@@ -1,9 +1,0 @@
-Is it not the height of mental rapacity that the Jehovah witnesses people who travel abroad do yellow fever vaccines and even have the cards attached to their passports but they deny their spouses medical surgeries for reproductive health?
-
-2021-01-23 20:23:18+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00e55e2b4c491c5f', url='https://api.twitter.com/1.1/geo/id/00e55e2b4c491c5f.json', place_type='city', name='Abuja', full_name='Abuja, Nigeria', country_code='NG', country='Nigeria', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[7.3045544, 8.961887], [7.5436339, 8.961887], [7.5436339, 9.1854407], [7.3045544, 9.1854407]]]), attributes={})
-
-1353075861356908544

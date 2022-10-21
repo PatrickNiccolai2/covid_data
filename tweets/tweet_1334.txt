@@ -1,9 +1,0 @@
-Dear @POTUS and @JBPritzker thank you for not forgetting grocery workers ...I’m also over 65 years...as essential workers.  I got signed up for the vaccine last week.  Everyday I am still exposed to mask less customers.  The shots will help keep me safe. Promises made and kept.
-
-2021-01-23 23:00:10+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='f54a2170ff4b15f7', url='https://api.twitter.com/1.1/geo/id/f54a2170ff4b15f7.json', place_type='admin', name='Illinois', full_name='Illinois, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-91.51308, 36.970298], [-87.019935, 36.970298], [-87.019935, 42.508303], [-91.51308, 42.508303]]]), attributes={})
-
-1353115338007834624

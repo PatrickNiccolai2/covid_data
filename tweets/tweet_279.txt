@@ -1,9 +1,0 @@
-@BBCPolitics @BBCNews Not the first time vaccines are required for travel...it used to be routine...
-
-2021-01-24 10:29:40+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='226b21641df42460', url='https://api.twitter.com/1.1/geo/id/226b21641df42460.json', place_type='admin', name='New Hampshire', full_name='New Hampshire, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-72.557247, 42.6969837], [-70.575095, 42.6969837], [-70.575095, 45.305476], [-72.557247, 45.305476]]]), attributes={})
-
-1353288855382863872

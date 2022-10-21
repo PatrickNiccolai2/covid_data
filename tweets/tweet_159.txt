@@ -1,9 +1,0 @@
-Frère quand tu vaccines 1 million de personnes, de plus de 70 ans c’est statistiquement des personnes qui ont le plus de risque de mourir vaccin ou pas !!! J’en ai marre des debiles comme toi https://t.co/MEMiJa4tKt
-
-2021-01-24 11:55:19+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='179b8df9e368044d', url='https://api.twitter.com/1.1/geo/id/179b8df9e368044d.json', place_type='city', name='Lyon', full_name='Lyon, France', country_code='FR', country='France', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[4.7718312, 45.7073626], [4.8983666, 45.7073626], [4.8983666, 45.80828], [4.7718312, 45.80828]]]), attributes={})
-
-1353310408283713536

@@ -1,9 +1,0 @@
-Del Auto-Mac al Auto-Vaccine. https://t.co/fVMNxCf8MB
-
-2021-01-23 19:34:50+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='018f1cde6bad9747', url='https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json', place_type='city', name='Ciudad Autónoma de Buenos Aires', full_name='Ciudad Autónoma de Buenos Aires, Argentina', country_code='AR', country='Argentina', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-58.5317922, -34.674453], [-58.353494, -34.674453], [-58.353494, -34.534177], [-58.5317922, -34.534177]]]), attributes={})
-
-1353063662018203648

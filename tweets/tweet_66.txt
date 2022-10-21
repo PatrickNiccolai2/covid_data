@@ -1,9 +1,0 @@
-The vaccine is a safe and effective way to protect individuals from serious preventable diseases as it stimulates the body to build resistance to a particular infection and strengthens the immune system by training it to form antibodies. #COVID19 #CovidVaccine #UAE #AUE https://t.co/8tKdZqG8aV
-
-2021-01-24 12:44:58+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='001907e868d06e24', url='https://api.twitter.com/1.1/geo/id/001907e868d06e24.json', place_type='admin', name='Dubai', full_name='Dubai, United Arab Emirates', country_code='AE', country='United Arab Emirates', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[54.8939725, 24.6182526], [56.2083722, 24.6182526], [56.2083722, 25.3686719], [54.8939725, 25.3686719]]]), attributes={})
-
-1353322902708498433

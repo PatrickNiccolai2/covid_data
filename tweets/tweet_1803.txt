@@ -1,9 +1,0 @@
-@TwitterSupport - please flag this as misleading information as people have only received 50% of the vaccine https://t.co/SlZ46a7xhm
-
-2021-01-23 19:32:43+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='537b8c5518197832', url='https://api.twitter.com/1.1/geo/id/537b8c5518197832.json', place_type='city', name='Enfield', full_name='Enfield, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.18576, 51.604519], [-0.0125671, 51.604519], [-0.0125671, 51.686032], [-0.18576, 51.686032]]]), attributes={})
-
-1353063131853950977

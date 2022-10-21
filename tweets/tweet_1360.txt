@@ -1,9 +1,0 @@
-@Rache76 HIV is a particularly difficult virus to design effective vaccines for, but I agree - field would have benefitted greatly from the rapid investment that Covid has rightly received. Also, Covid vaccines have leveraged platform technologies designed for other pathogens, inc HIV.
-
-2021-01-23 22:46:21+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4393349f368f67a1', url='https://api.twitter.com/1.1/geo/id/4393349f368f67a1.json', place_type='city', name='Lambeth', full_name='Lambeth, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.15191, 51.410792], [-0.078902, 51.410792], [-0.078902, 51.509887], [-0.15191, 51.509887]]]), attributes={})
-
-1353111860120342528

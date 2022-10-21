@@ -1,9 +1,0 @@
-@patricia_yates @itvnews @piersmorgan @BorisJohnson Arriving for their virus
-
-2021-01-23 22:55:42+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='38d05a66be6d4ee1', url='https://api.twitter.com/1.1/geo/id/38d05a66be6d4ee1.json', place_type='city', name='Colchester', full_name='Colchester, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[0.845165, 51.853339], [0.9526169, 51.853339], [0.9526169, 51.9240639], [0.845165, 51.9240639]]]), attributes={})
-
-1353114210272768000

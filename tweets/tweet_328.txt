@@ -1,9 +1,0 @@
-Worked a 12-hour shift as the on-site provider for our COVID-19 vaccine clinic. Today, I'll be back at the COVID testing tent. Such a palpable difference in the emotions at each place...fear and anxiety vs joy and relief. #TakeYourShot #OneMoreWay #MedTwitter @DukeHealth #EPeeps https://t.co/2PZ0VdLjlW
-
-2021-01-24 10:08:26+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='109bb0a7d0d47000', url='https://api.twitter.com/1.1/geo/id/109bb0a7d0d47000.json', place_type='poi', name='Karsh Alumni And Visitors Center', full_name='Karsh Alumni And Visitors Center', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-78.93274688720703, 35.99775695800781], [-78.93274688720703, 35.99775695800781], [-78.93274688720703, 35.99775695800781], [-78.93274688720703, 35.99775695800781]]]), attributes={})
-
-1353283509314584576

@@ -1,9 +1,0 @@
-@kevinomccarthy  @JoeBiden  is lying to the public trying to tell them masks work but the vaccine does not, it has been proven in every state, masks make just about no difference, but herd immunity and vaccine works ! ONLY protect the AT RISK !
-
-2021-01-24 12:20:37+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2d83c71ce16cd187', url='https://api.twitter.com/1.1/geo/id/2d83c71ce16cd187.json', place_type='admin', name='West Virginia', full_name='West Virginia, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-82.644739, 37.201483], [-77.7189303, 37.201483], [-77.7189303, 40.638802], [-82.644739, 40.638802]]]), attributes={})
-
-1353316777057378306

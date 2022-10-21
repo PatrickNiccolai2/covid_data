@@ -1,9 +1,0 @@
-@Sheena1857 @HSajwanization Indian reg are being reckless in using a vaccine that hasn't completed phase 3 trials. SII get a pat on the back for manufacturing a British vaccine for global distribution. India are playing a key role in inoculating the world against covid19 as are many countries.
-
-2021-01-24 07:07:49+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4f854c83732cf4f5', url='https://api.twitter.com/1.1/geo/id/4f854c83732cf4f5.json', place_type='city', name='Watford', full_name='Watford, East', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.4444586, 51.6322356], [-0.340092, 51.6322356], [-0.340092, 51.703921], [-0.4444586, 51.703921]]]), attributes={})
-
-1353238058808864769

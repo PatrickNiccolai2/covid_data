@@ -1,9 +1,0 @@
-@despod Made a joke about my wife getting the vaccine. Apparently identifying humour isn't their strong point.
-
-2021-01-24 09:37:56+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='54e862bb3ff2f749', url='https://api.twitter.com/1.1/geo/id/54e862bb3ff2f749.json', place_type='city', name='Limerick', full_name='Limerick, Ireland', country_code='IE', country='Ireland', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-9.3668222, 52.2799713], [-8.1558156, 52.2799713], [-8.1558156, 52.7568583], [-9.3668222, 52.7568583]]]), attributes={})
-
-1353275833629204480

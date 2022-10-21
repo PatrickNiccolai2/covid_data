@@ -1,9 +1,0 @@
-Got my COVID vaccine 💉
-
-2021-01-23 22:05:31+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3df4f427b5a60fea', url='https://api.twitter.com/1.1/geo/id/3df4f427b5a60fea.json', place_type='city', name='San Antonio', full_name='San Antonio, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-98.778559, 29.141956], [-98.302744, 29.141956], [-98.302744, 29.693046], [-98.778559, 29.693046]]]), attributes={})
-
-1353101582548795394

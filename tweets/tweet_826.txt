@@ -1,9 +1,0 @@
-Today 23 of 38 people who died of CV had NO UNDERLYING CONDITIONS. 4 of them UNDER 40. Stop spreading fear about the vaccine! If you can get it, get it! https://t.co/VdrdDLbxCW
-
-2021-01-24 03:45:24+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='b3eda928fff7bdff', url='https://api.twitter.com/1.1/geo/id/b3eda928fff7bdff.json', place_type='city', name='Aventura', full_name='Aventura, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.150642, 25.9373697], [-80.12375, 25.9373697], [-80.12375, 25.9748652], [-80.150642, 25.9748652]]]), attributes={})
-
-1353187117489385472

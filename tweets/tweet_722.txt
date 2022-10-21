@@ -1,9 +1,0 @@
-@pharohscat I’m 70 with minor children. I would pay to be vaccinated but there is no vaccine for us in Las Vegas. https://t.co/C2FiZZ971l
-
-2021-01-24 05:22:25+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5c2b5e46ab891f07', url='https://api.twitter.com/1.1/geo/id/5c2b5e46ab891f07.json', place_type='city', name='Las Vegas', full_name='Las Vegas, NV', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-115.384091, 36.129459], [-115.062159, 36.129459], [-115.062159, 36.336371], [-115.384091, 36.336371]]]), attributes={})
-
-1353211534554525696

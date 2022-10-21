@@ -1,9 +1,0 @@
-I got my vaccine today and i can already feel KCUSD tracking every move  I make
-
-2021-01-24 06:59:26+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='f434511e8f0c8aa4', url='https://api.twitter.com/1.1/geo/id/f434511e8f0c8aa4.json', place_type='city', name='Reedley', full_name='Reedley, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-119.4699, 36.575137], [-119.421897, 36.575137], [-119.421897, 36.618737], [-119.4699, 36.618737]]]), attributes={})
-
-1353235949786779649

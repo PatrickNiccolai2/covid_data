@@ -1,9 +1,0 @@
-If anyone has a Covid vaccine in, let me know so I can force my Dad to take it. Thanks!
-
-2021-01-23 19:37:00+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='a592bd6ceb1319f7', url='https://api.twitter.com/1.1/geo/id/a592bd6ceb1319f7.json', place_type='city', name='San Diego', full_name='San Diego, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-117.282538, 32.53962], [-116.9274403, 32.53962], [-116.9274403, 33.0804044], [-117.282538, 33.0804044]]]), attributes={})
-
-1353064207948738561

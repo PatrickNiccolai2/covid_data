@@ -1,9 +1,0 @@
-#COVID19 #Vaccine @CBSMiami 👇 https://t.co/8G6BR7y9ga
-
-2021-01-24 01:37:02+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='053ab8e6678199ed', url='https://api.twitter.com/1.1/geo/id/053ab8e6678199ed.json', place_type='city', name='Doral', full_name='Doral, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.41729, 25.780974], [-80.3210162, 25.780974], [-80.3210162, 25.870313], [-80.41729, 25.870313]]]), attributes={})
-
-1353154814839029761

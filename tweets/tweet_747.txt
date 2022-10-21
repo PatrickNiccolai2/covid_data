@@ -1,9 +1,0 @@
-Besides he couldn’t manage a vaccine roll out, let alone an attack @benschwartz_ @mauramahoney https://t.co/u6LvNb31ZW
-
-2021-01-24 04:55:40+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='94965b2c45386f87', url='https://api.twitter.com/1.1/geo/id/94965b2c45386f87.json', place_type='admin', name='New York', full_name='New York, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-79.76259, 40.477383], [-71.777492, 40.477383], [-71.777492, 45.015851], [-79.76259, 45.015851]]]), attributes={})
-
-1353204801849483264

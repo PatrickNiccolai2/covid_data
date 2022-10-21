@@ -1,9 +1,0 @@
-@MoCoCouncilMD Limited is right!  The modern Hunger Games where tributes get the vaccine
-
-2021-01-23 22:28:28+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7c38fd77def3b77e', url='https://api.twitter.com/1.1/geo/id/7c38fd77def3b77e.json', place_type='city', name='Redland', full_name='Redland, MD', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-77.185672, 39.1183263], [-77.1216197, 39.1183263], [-77.1216197, 39.172422], [-77.185672, 39.172422]]]), attributes={})
-
-1353107359892197377

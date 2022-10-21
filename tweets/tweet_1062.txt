@@ -1,9 +1,0 @@
-The vaccine rollout plans are too important to be left to Tory cronies https://t.co/yfyiO87RKl
-
-2021-01-24 01:01:28+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='07dc23aab2d02f8b', url='https://api.twitter.com/1.1/geo/id/07dc23aab2d02f8b.json', place_type='city', name='Irvine', full_name='Irvine, Scotland', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-4.694579, 55.590869], [-4.607557, 55.590869], [-4.607557, 55.639361], [-4.694579, 55.639361]]]), attributes={})
-
-1353145862453678093

@@ -1,9 +1,0 @@
-La #CE ens amaga informació i solament ha publicat–escapçat– un dels contractes. S’escuda en el secret comercial, injustificable perquè parlem de pressupostos i salut públics #vacunes #COVID19 #Pfizer https://t.co/WT6LDi8L5i via @elpuntavui
-
-2021-01-24 07:16:59+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5fca2b580c6f379e', url='https://api.twitter.com/1.1/geo/id/5fca2b580c6f379e.json', place_type='city', name='Montblanc', full_name='Montblanc, España', country_code='ES', country='Spain', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[1.0650666, 41.3053939], [1.2403922, 41.3053939], [1.2403922, 41.4271261], [1.0650666, 41.4271261]]]), attributes={})
-
-1353240366196125697

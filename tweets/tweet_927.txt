@@ -1,9 +1,0 @@
-@PDChina Whuch brand of vaccine?
-
-2021-01-24 02:35:13+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='008c97514d5ef4da', url='https://api.twitter.com/1.1/geo/id/008c97514d5ef4da.json', place_type='city', name='San isidro', full_name='San isidro, Peru', country_code='PE', country='Peru', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-77.0627599224666, -12.1135609850107], [-77.007009963459, -12.1135609850107], [-77.007009963459, -12.0879939580289], [-77.0627599224666, -12.0879939580289]]]), attributes={})
-
-1353169453933088770

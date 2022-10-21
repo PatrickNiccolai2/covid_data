@@ -1,9 +1,0 @@
-Get that vaccine into my mf arm NOW https://t.co/sfiC7TCvrX
-
-2021-01-24 04:48:21+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2a93711775303f90', url='https://api.twitter.com/1.1/geo/id/2a93711775303f90.json', place_type='city', name='Milwaukee', full_name='Milwaukee, WI', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-88.070827, 42.920822], [-87.863758, 42.920822], [-87.863758, 43.1926225], [-88.070827, 43.1926225]]]), attributes={})
-
-1353202958075387905

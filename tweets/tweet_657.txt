@@ -1,9 +1,0 @@
-@ryanmearns Very glad NZ included the populations of the pacific in their vaccine procurement.
-
-2021-01-24 06:32:05+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0022e3c837579650', url='https://api.twitter.com/1.1/geo/id/0022e3c837579650.json', place_type='city', name='Auckland', full_name='Auckland, New Zealand', country_code='NZ', country='New Zealand', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[174.161834, -37.292621], [175.550653, -37.292621], [175.550653, -35.898837], [174.161834, -35.898837]]]), attributes={})
-
-1353229065344274435

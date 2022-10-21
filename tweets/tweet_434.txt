@@ -1,9 +1,0 @@
-@christohidis @nhsggcdon @NHSGGC @angela_oneill1 @jenfrodgers Lorraine I have had a text inviting me to book my second vaccine. Your had your first before me-I don’t know  how you get in touch to check.
-
-2021-01-24 09:17:06+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='791e00bcadc4615f', url='https://api.twitter.com/1.1/geo/id/791e00bcadc4615f.json', place_type='city', name='Glasgow', full_name='Glasgow, Scotland', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-4.3932845, 55.796184], [-4.0902182, 55.796184], [-4.0902182, 55.9204214], [-4.3932845, 55.9204214]]]), attributes={})
-
-1353270592666001408

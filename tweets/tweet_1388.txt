@@ -1,9 +1,0 @@
-.@MarkDrakeford @BorisJohnson @DUPleader @moneillsf @NicolaSturgeon ....this is why this lockdown is NOT like March!! Please sort it out...people need to NOT be in work!!!!! https://t.co/gWKYyJulGp
-
-2021-01-23 22:36:13+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7c8bfabd9fb82c7f', url='https://api.twitter.com/1.1/geo/id/7c8bfabd9fb82c7f.json', place_type='city', name='Newtownabbey', full_name='Newtownabbey, Northern Ireland', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-6.0108812, 54.6424898], [-5.9172311, 54.6424898], [-5.9172311, 54.6983529], [-6.0108812, 54.6983529]]]), attributes={})
-
-1353109311090794496

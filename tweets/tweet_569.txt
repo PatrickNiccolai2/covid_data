@@ -1,9 +1,0 @@
-Middle Eastern countries seem to be going for the Sinopharm vaccine. https://t.co/kP2vMvUwLk
-
-2021-01-24 08:00:58+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01490cd33ff0f963', url='https://api.twitter.com/1.1/geo/id/01490cd33ff0f963.json', place_type='admin', name='Amman', full_name='Amman, Hashemite Kingdom of Jordan', country_code='JO', country='Hashemite Kingdom of Jordan', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[35.6797295, 31.2567877], [37.2500185, 31.2567877], [37.2500185, 32.088612], [35.6797295, 32.088612]]]), attributes={})
-
-1353251433504780288

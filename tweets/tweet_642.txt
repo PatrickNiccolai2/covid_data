@@ -1,9 +1,0 @@
-@TrashGarbonara @ProudSocialist @SamSeder The reason we suck any giving out the vaccine compared to everyone else is the fact that we don’t have a centralized healthcare system. Also then best state with vaccination is Virginia because the government is handling the distribution not CVS or Walgreens.
-
-2021-01-24 06:43:14+00:00
-
-None
-
-Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='aad69d794d767bec', url='https://api.twitter.com/1.1/geo/id/aad69d794d767bec.json', place_type='city', name='Cedar Grove', full_name='Cedar Grove, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-85.649638, 30.167601], [-85.582361, 30.167601], [-85.582361, 30.233504], [-85.649638, 30.233504]]]), attributes={})
-
-1353231869471559681
