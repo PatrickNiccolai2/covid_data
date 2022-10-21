@@ -2,6 +2,8 @@
 
 Data from: https://ourworldindata.org/coronavirus and https://www.unicef.org/supply/covid-19-market-dashboard 
 
+Tweets from: https://github.com/rabindralamsal/MegaGeoCOV
+
 `deliveries_by_month.csv` has data on vaccine deliveries by month for every month since December 2020. It separates deliveries by COVAX vs. other donations. It does not separated the deliveries by country. 
 
 `owid-covid-data.csv` is our main dataset. It contains time series data by day for all countries in the world. Their are many covid stats included, as well as general data about the countries.
