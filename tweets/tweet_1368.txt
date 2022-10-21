@@ -1,0 +1,9 @@
+@RachelElise86 Hi i’m working on a national tv news story re: vaccine trips, did you (video) document your trips, know anyone that is planning an upcoming trip?
+
+2021-01-23 22:43:30+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6f24e28976abe656', url='https://api.twitter.com/1.1/geo/id/6f24e28976abe656.json', place_type='city', name='Pomona', full_name='Pomona, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-117.834663, 34.0182828], [-117.7111706, 34.0182828], [-117.7111706, 34.1126181], [-117.834663, 34.1126181]]]), attributes={})
+
+1353111144064372736

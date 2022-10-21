@@ -1,0 +1,12 @@
+There is great demand for the #COVID19 vaccine. When we open the portal for appointments, anybody, anywhere, can access it. 
+
+Learn about new appointment opportunities through email, text message, voice call, or mobile app push notification by registering 
+https://t.co/B76OrVKPo1 https://t.co/tWCud4axe8
+
+2021-01-23 21:05:25+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='07d9cbb926084001', url='https://api.twitter.com/1.1/geo/id/07d9cbb926084001.json', place_type='poi', name='Bayou City Event Center', full_name='Bayou City Event Center', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-95.39895417275017, 29.66889411479975], [-95.39895417275017, 29.66889411479975], [-95.39895417275017, 29.66889411479975], [-95.39895417275017, 29.66889411479975]]]), attributes={})
+
+1353086457603362816

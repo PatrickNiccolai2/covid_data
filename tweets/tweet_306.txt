@@ -1,0 +1,15 @@
+@ZeeNewsEnglish @AmitShah All People Ready to Apply Vaccines 
+To Prevent Corona Virus&amp;Save Their 
+Lives.But People want First PREFERENCES Should be given To
+Cabinets of Central &amp;STATES Govt. 
+Because,They are only Protecting 
+The Nation &amp;People. Is it Rights?
+By.VRR. SEFPOI. WHAT'S NO.9944546259 INDIA. https://t.co/i08scUcMzA
+
+2021-01-24 10:17:02+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='44b7fc0bad0eae8d', url='https://api.twitter.com/1.1/geo/id/44b7fc0bad0eae8d.json', place_type='city', name='Pondicherry', full_name='Pondicherry, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[79.599774, 11.774197], [79.843263, 11.774197], [79.843263, 12.033405], [79.599774, 12.033405]]]), attributes={})
+
+1353285673592217601

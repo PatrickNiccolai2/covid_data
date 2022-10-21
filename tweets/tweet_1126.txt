@@ -1,0 +1,9 @@
+@SparklyJules3 @McCormack_Tara @Larry_newager Sadly the current capacity of the 14 day border quarantine system is not even enough for the NZers who want to come home, so no visas are being issued. Hopefully those vaccines are going to work and the effects kick in soon!
+
+2021-01-24 00:23:14+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='016254e101dfa174', url='https://api.twitter.com/1.1/geo/id/016254e101dfa174.json', place_type='city', name='Far North District', full_name='Far North District, New Zealand', country_code='NZ', country='New Zealand', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[172.635244, -35.674545], [174.341579, -35.674545], [174.341579, -34.39263], [172.635244, -34.39263]]]), attributes={})
+
+1353136241663827968

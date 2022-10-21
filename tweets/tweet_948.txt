@@ -1,0 +1,9 @@
+@kantei_vaccine マイナンバーと予防接種を結びつける??マイナンバーは納税ナンバーと理解してたからめっちゃ違和感。銀行口座と結んで。保険と予防接種を結ぶ。運転免許証(無い人はID)とその他ライセンス(教員、医療従事者、技能各種等々)そしてそしてそれらを統括するセンターリンク。まだまだ道は長いですな。
+
+2021-01-24 02:22:24+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0073b76548e5984f', url='https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json', place_type='city', name='Sydney', full_name='Sydney, New South Wales', country_code='AU', country='Australia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[150.520928608, -34.1183470085], [151.343020992, -34.1183470085], [151.343020992, -33.578140996], [150.520928608, -33.578140996]]]), attributes={})
+
+1353166231101009920

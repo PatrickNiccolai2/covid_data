@@ -1,0 +1,9 @@
+I just want to check that either you have been vaccinated or have an appointment? There are plenty vaccines for all of you, please book your vaccine soon! @NHSGGC @angela_oneill1 @jenfrodgers
+
+2021-01-23 22:12:04+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7d3d8e59b4047344', url='https://api.twitter.com/1.1/geo/id/7d3d8e59b4047344.json', place_type='city', name='Falkirk', full_name='Falkirk, Scotland', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.8516393, 55.983199], [-3.753932, 55.983199], [-3.753932, 56.0406318], [-3.8516393, 56.0406318]]]), attributes={})
+
+1353103232801902594

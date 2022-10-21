@@ -1,0 +1,9 @@
+In all seriousness though - does the vaccine stop symptoms? Or does it stop transmission and carrying? Who knows https://t.co/Sb7YSt7CET
+
+2021-01-23 23:48:23+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1da00c8852cc9da2', url='https://api.twitter.com/1.1/geo/id/1da00c8852cc9da2.json', place_type='city', name='Newport', full_name='Newport, Wales', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.0812071, 51.549936], [-2.970463, 51.549936], [-2.970463, 51.621386], [-3.0812071, 51.621386]]]), attributes={})
+
+1353127470569021441

@@ -1,0 +1,9 @@
+@erinotoole it’s time we hear from you on @JustinTrudeau embarrassing weak response to cancelling keystone.  Plus Trudeau failure on vaccines and Billions in unaccounted stimulus https://t.co/rl3h6pdSmk
+
+2021-01-23 19:54:42+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='04a5f5efa382b70d', url='https://api.twitter.com/1.1/geo/id/04a5f5efa382b70d.json', place_type='city', name='Rocky View County', full_name='Rocky View County, Alberta', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-114.728795, 50.794298], [-113.375347, 50.794298], [-113.375347, 51.490824], [-114.728795, 51.490824]]]), attributes={})
+
+1353068663159492611

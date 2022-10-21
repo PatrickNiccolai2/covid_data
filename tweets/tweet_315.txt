@@ -1,0 +1,10 @@
+Come on #marr @AndrewMarr9! @NicolaSturgeon must be shaking her head in frustration🤔talk about whirlwind interrogation spanning vaccines, Alex Salmond scandal and SNP strategy on independence -
+barely time to take a breath! Painful to watch
+
+2021-01-24 10:12:33+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3926ac469a5f53b3', url='https://api.twitter.com/1.1/geo/id/3926ac469a5f53b3.json', place_type='city', name='Springfield', full_name='Springfield, Scotland', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.072376, 56.293113], [-3.055131, 56.293113], [-3.055131, 56.298829], [-3.072376, 56.298829]]]), attributes={})
+
+1353284545706127362

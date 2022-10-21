@@ -1,0 +1,9 @@
+COVID vaccine single dose ni 770 eh
+
+2021-01-24 11:07:36+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01065a114b362889', url='https://api.twitter.com/1.1/geo/id/01065a114b362889.json', place_type='admin', name='Rift Valley', full_name='Rift Valley, Kenya', country_code='KE', country='Kenya', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[33.9879342, -3.1894778], [38.0789993, -3.1894778], [38.0789993, 4.631608], [33.9879342, 4.631608]]]), attributes={})
+
+1353298399420932096

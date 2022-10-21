@@ -1,0 +1,13 @@
+The myths of the Covid19 Vaccine need to be quashed. 
+
+One 34 year old wants to have children so refused the Covid19 jab.
+
+This needs resolving https://t.co/2sXZgBlaud
+
+2021-01-23 22:39:24+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='569c1d39d5de5775', url='https://api.twitter.com/1.1/geo/id/569c1d39d5de5775.json', place_type='city', name='Bexley', full_name='Bexley, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[0.0748022, 51.4087608], [0.1889376, 51.4087608], [0.1889376, 51.478931], [0.0748022, 51.478931]]]), attributes={})
+
+1353110110806175744

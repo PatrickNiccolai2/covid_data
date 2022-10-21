@@ -1,0 +1,10 @@
+Sage suggests the poor take up of Covid vaccines by coloured people, is because of institutional Racism. On what grounds?
+It's more likely their own beliefs &amp; home grown myths that cause such low acceptance of the Covid vaccine, not Racism. Have the jab &amp; save lives PLEASE.
+
+2021-01-23 20:29:07+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0580e33c2cf8e35c', url='https://api.twitter.com/1.1/geo/id/0580e33c2cf8e35c.json', place_type='city', name='Upper Boddington', full_name='Upper Boddington, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.301984, 52.173517], [-1.293172, 52.173517], [-1.293172, 52.180535], [-1.301984, 52.180535]]]), attributes={})
+
+1353077321314557953

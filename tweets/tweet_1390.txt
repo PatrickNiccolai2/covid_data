@@ -1,0 +1,11 @@
+This conversation was amazing. Personally learnt a lot. Thanks to all those who joined in. @Apothecary_Andy and @franco_dickson thanks for putting this together. 
+
+We would share results with you on whether people want to take the vaccine or not and why. 😉 https://t.co/aeSDlzvu7R
+
+2021-01-23 22:34:53+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='135989ad972a5d9d', url='https://api.twitter.com/1.1/geo/id/135989ad972a5d9d.json', place_type='city', name='Bromley', full_name='Bromley, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.080526, 51.3434174], [0.1331237, 51.3434174], [0.1331237, 51.4452233], [-0.080526, 51.4452233]]]), attributes={})
+
+1353108971725467650

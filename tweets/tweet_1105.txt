@@ -1,0 +1,10 @@
+Try Guys Debunk COVID Vaccine Conspiracies With Dr. Fauci https://t.co/LWhhqgm9CJ via @YouTube 
+ESCUCHEN Y RT! https://t.co/WFpv3u8cjH
+
+2021-01-24 00:35:20+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='e86e154b91acd5a3', url='https://api.twitter.com/1.1/geo/id/e86e154b91acd5a3.json', place_type='city', name='Cuajimalpa de Morelos', full_name='Cuajimalpa de Morelos, Distrito Federal', country_code='MX', country='Mexico', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-99.364536, 19.232313], [-99.2466245, 19.232313], [-99.2466245, 19.405081], [-99.364536, 19.405081]]]), attributes={})
+
+1353139287081021441

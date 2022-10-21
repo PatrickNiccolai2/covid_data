@@ -1,0 +1,9 @@
+Got my first dose of the covid vaccine today and my arm is getting SORE now! 😭😂
+
+2021-01-24 03:36:43+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='813a485b26b8dae2', url='https://api.twitter.com/1.1/geo/id/813a485b26b8dae2.json', place_type='city', name='Albuquerque', full_name='Albuquerque, NM', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-106.7916912, 35.0158912], [-106.473745, 35.0158912], [-106.473745, 35.218114], [-106.7916912, 35.218114]]]), attributes={})
+
+1353184932084867072

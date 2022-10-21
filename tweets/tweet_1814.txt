@@ -1,0 +1,9 @@
+Massachusetts vaccine rollout has been appalling. @MassGovernor get it together and start opening it up to people aged 65+.
+
+2021-01-23 19:29:35+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7948fec74f58e8cd', url='https://api.twitter.com/1.1/geo/id/7948fec74f58e8cd.json', place_type='city', name='Quincy', full_name='Quincy, MA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-71.093301, 42.2042941], [-70.949379, 42.2042941], [-70.949379, 42.307954], [-71.093301, 42.307954]]]), attributes={})
+
+1353062341974212610

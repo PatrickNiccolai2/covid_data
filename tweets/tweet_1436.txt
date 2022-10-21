@@ -1,0 +1,9 @@
+@real_simbamun @Sir_Leni @TembaMliswa Africa is the oldest civilization in the world &amp; it became that without vaccines or western medicine. Wild animals have been in existence longer than man and will probably outlive man without taking modern medicine so where do you get that nonsensical notion that medicine saves?
+
+2021-01-23 22:14:46+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='e564d30dc173d2a8', url='https://api.twitter.com/1.1/geo/id/e564d30dc173d2a8.json', place_type='city', name='Johannesburg', full_name='Johannesburg, South Africa', country_code='ZA', country='South Africa', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[27.7518557, -26.5126489], [28.1843404, -26.5126489], [28.1843404, -26.0396281], [27.7518557, -26.0396281]]]), attributes={})
+
+1353103912304320512

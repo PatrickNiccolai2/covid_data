@@ -1,0 +1,14 @@
+डब्ल्यूएचओ प्रमुख ने भारत और पीएम मोदी को 'ग्लोबल कोविड-19 रेस्पांस को सपोर्ट' करने के लिए धन्यवाद दिया
+#IndiaFightsCorona
+#VaccineMaitri
+https://t.co/zAgbKeP1Dj
+
+via NaMo App https://t.co/cuihSdbMqQ
+
+2021-01-24 12:17:17+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='084c0ef805541000', url='https://api.twitter.com/1.1/geo/id/084c0ef805541000.json', place_type='poi', name='Begusarai', full_name='Begusarai', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[86.13394165039062, 25.42506980895996], [86.13394165039062, 25.42506980895996], [86.13394165039062, 25.42506980895996], [86.13394165039062, 25.42506980895996]]]), attributes={})
+
+1353315937206714370

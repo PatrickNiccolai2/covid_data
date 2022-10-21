@@ -1,0 +1,9 @@
+“We have made a calculated gamble in delaying the second dose of the vaccine..” @richardhorton1 live now @ZeroCovidNow1 https://t.co/vakujcWgQ8
+
+2021-01-24 12:08:06+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='31d801bc812e1356', url='https://api.twitter.com/1.1/geo/id/31d801bc812e1356.json', place_type='city', name='Beeston', full_name='Beeston, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.272419, 52.8998504], [-1.187896, 52.8998504], [-1.187896, 52.949038], [-1.272419, 52.949038]]]), attributes={})
+
+1353313626229256192

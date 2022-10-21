@@ -1,0 +1,11 @@
+I get my first vaccine tomorrow. Most of my friends know this but the reason is, I have severe rheumatoid arthritis. 
+
+To every frontline worker, I am in utter awe of you. Time to pay all of our frontline workers &amp; carers properly. @etuc_ces @CarersUK
+
+2021-01-23 20:20:50+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='151b9e91272233d1', url='https://api.twitter.com/1.1/geo/id/151b9e91272233d1.json', place_type='city', name='Liverpool', full_name='Liverpool, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.008791, 53.36489], [-2.822063, 53.36489], [-2.822063, 53.474867], [-3.008791, 53.474867]]]), attributes={})
+
+1353075239521935364

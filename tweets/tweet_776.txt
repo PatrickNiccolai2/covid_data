@@ -1,0 +1,9 @@
+Fighting Stigma: Healthcare workers still in need of first vaccine dose to remain waiting until February: General Secretary of the Irish Nurses and Midwives Organisation (INMO) Phil Ní Sheaghdha said it is “inexcusable” that healthcare workers are still… https://t.co/BukE8IIltB
+
+2021-01-24 04:29:32+00:00
+
+{'type': 'Point', 'coordinates': [-73.56725453, 45.75975883]}
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='370e82cb8dff6189', url='https://api.twitter.com/1.1/geo/id/370e82cb8dff6189.json', place_type='city', name='Mascouche', full_name='Mascouche, Québec', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-73.700164, 45.716103], [-73.526116, 45.716103], [-73.526116, 45.821364], [-73.700164, 45.821364]]]), attributes={})
+
+1353198224824168448

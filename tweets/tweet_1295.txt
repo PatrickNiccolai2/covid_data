@@ -1,0 +1,9 @@
+Not only that,doctors, are saying, double-up to protect from the new variant.The #vaccine only came two months ago,what was Trump admin doing to plan the logistics of dispensing it? NOTHING! So now seniors all over the US are complaining about vaccine availability. #COVID19 https://t.co/M31jSqCrNh
+
+2021-01-23 23:12:35+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01fbe706f872cb32', url='https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json', place_type='city', name='Washington', full_name='Washington, DC', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-77.119401, 38.801826], [-76.909396, 38.801826], [-76.909396, 38.9953797], [-77.119401, 38.9953797]]]), attributes={})
+
+1353118459211767809

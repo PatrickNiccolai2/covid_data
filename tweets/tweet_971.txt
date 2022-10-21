@@ -1,0 +1,11 @@
+Relieved. I really hope BoJo will be a strong, intelligent, progressive alliance✌✌
+
+"US President Joe Biden and UK PM Boris Johnson discuss COVID-19 recovery in a phone call"  https://t.co/wTX8jfw9br
+
+2021-01-24 02:06:25+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='47ff4825f135014a', url='https://api.twitter.com/1.1/geo/id/47ff4825f135014a.json', place_type='city', name='Carlisle', full_name='Carlisle, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.99505, 54.864734], [-2.885517, 54.864734], [-2.885517, 54.939929], [-2.99505, 54.939929]]]), attributes={})
+
+1353162209619271680

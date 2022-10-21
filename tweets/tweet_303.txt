@@ -1,0 +1,9 @@
+Ginos the best vaccine in the world fresh air excise good food https://t.co/vsCfnIjV7D
+
+2021-01-24 10:20:07+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='06b9691f34c91d1c', url='https://api.twitter.com/1.1/geo/id/06b9691f34c91d1c.json', place_type='city', name='Tottenham', full_name='Tottenham, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.170246, 51.564585], [-0.034078, 51.564585], [-0.034078, 51.6112184], [-0.170246, 51.6112184]]]), attributes={})
+
+1353286452487086080

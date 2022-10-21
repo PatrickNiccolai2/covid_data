@@ -1,0 +1,9 @@
+@jv_uk2011 @johnestevens You’re not immunised until the 2nd vaccination but you have had the vaccine
+
+2021-01-24 08:57:46+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='55274794874e883d', url='https://api.twitter.com/1.1/geo/id/55274794874e883d.json', place_type='city', name='Stockport', full_name='Stockport, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.215529, 53.374446], [-2.095752, 53.374446], [-2.095752, 53.454771], [-2.215529, 53.454771]]]), attributes={})
+
+1353265729299247105

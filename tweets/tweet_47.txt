@@ -1,0 +1,9 @@
+@LinHumphrey My husband and I were discussing an article yesterday that says herd immunity will not be achieved until 2022. That’s assuming 75% of the population gets the vaccine.
+
+2021-01-24 12:53:01+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='dea1eac2d7ef8878', url='https://api.twitter.com/1.1/geo/id/dea1eac2d7ef8878.json', place_type='admin', name='Maryland', full_name='Maryland, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-79.487651, 37.886607], [-74.986286, 37.886607], [-74.986286, 39.723622], [-79.487651, 39.723622]]]), attributes={})
+
+1353324930407014402

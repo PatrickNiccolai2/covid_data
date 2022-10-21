@@ -1,0 +1,9 @@
+I swear to god. It’s easier to get that mf  Sanrio Gulch hoodie and a PS5 at the same time than it is to get this COVID vaccine.
+
+2021-01-23 21:24:30+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7c01d867b8e8c494', url='https://api.twitter.com/1.1/geo/id/7c01d867b8e8c494.json', place_type='city', name='Garland', full_name='Garland, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-96.706144, 32.829815], [-96.537124, 32.829815], [-96.537124, 32.985469], [-96.706144, 32.985469]]]), attributes={})
+
+1353091262719647745

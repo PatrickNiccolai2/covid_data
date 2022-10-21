@@ -1,0 +1,9 @@
+Great move by the UK 😊. Had we joined the EU Vaccine scheme we would now be facing the same delays as Companies admit they can't fulfil their orders 🤔. Instead thanks to @MattHancock &amp; @BorisJohnson the UK should pass the 6 million jabs given mark today. Miles ahead of the EU https://t.co/pA7S6Do93S
+
+2021-01-24 10:22:04+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='06f9f5a068aa411f', url='https://api.twitter.com/1.1/geo/id/06f9f5a068aa411f.json', place_type='city', name='Corby', full_name='Corby, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.741593, 52.457916], [-0.626527, 52.457916], [-0.626527, 52.514816], [-0.741593, 52.514816]]]), attributes={})
+
+1353286942838947841

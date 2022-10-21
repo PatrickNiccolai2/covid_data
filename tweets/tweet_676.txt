@@ -1,0 +1,9 @@
+my stepdad runs a mortuary they are way over worked. He got his vaccine 💉 too he says he’s a last responder (stepdad jokes😂🤦🏻‍♀️) they handle the bodies https://t.co/7kjeYib29J
+
+2021-01-24 06:11:17+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5c2b5e46ab891f07', url='https://api.twitter.com/1.1/geo/id/5c2b5e46ab891f07.json', place_type='city', name='Las Vegas', full_name='Las Vegas, NV', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-115.384091, 36.129459], [-115.062159, 36.129459], [-115.062159, 36.336371], [-115.384091, 36.336371]]]), attributes={})
+
+1353223831020691457

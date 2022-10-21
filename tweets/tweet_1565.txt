@@ -1,0 +1,9 @@
+@bc_lionsfan @ClayTravis Recovery is a very slow process and needs to be non-political, and is not helped by ridiculous conspiracy theories and anti-vaxxers. Many children were in agony and many died in Tonga because of fears of a well proven vaccine. Informed opinions count. Your leaders need trust.
+
+2021-01-23 21:13:50+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0022e3c837579650', url='https://api.twitter.com/1.1/geo/id/0022e3c837579650.json', place_type='city', name='Auckland', full_name='Auckland, New Zealand', country_code='NZ', country='New Zealand', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[174.161834, -37.292621], [175.550653, -37.292621], [175.550653, -35.898837], [174.161834, -35.898837]]]), attributes={})
+
+1353088575080861696

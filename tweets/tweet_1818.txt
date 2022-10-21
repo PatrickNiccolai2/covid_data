@@ -1,0 +1,9 @@
+Not surprising that Louisiana is skeptical of the vaccine https://t.co/sVbbDHE4m8
+
+2021-01-23 19:29:19+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='743df94d8dcb69a6', url='https://api.twitter.com/1.1/geo/id/743df94d8dcb69a6.json', place_type='city', name='Metairie', full_name='Metairie, LA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-90.2376122, 29.968359], [-90.119647, 29.968359], [-90.119647, 30.034129], [-90.2376122, 30.034129]]]), attributes={})
+
+1353062273955164161

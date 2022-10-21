@@ -1,0 +1,9 @@
+@SlowmotoMe My mother got her first vaccination on Friday and I am so, so grateful to you and all your colleagues who are rolling out the vaccine so fast. You are heroes.
+
+2021-01-23 23:13:05+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0af014accd6f6e99', url='https://api.twitter.com/1.1/geo/id/0af014accd6f6e99.json', place_type='admin', name='Scotland', full_name='Scotland, United Kingdom', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-7.66085699743185, 54.6336309570711], [-0.740025000483186, 54.6336309570711], [-0.740025000483186, 60.8452769694519], [-7.66085699743185, 60.8452769694519]]]), attributes={})
+
+1353118588845096960

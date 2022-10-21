@@ -1,0 +1,16 @@
+*America* supplies arms to kill each other,
+*Pakistan* supplies terrorists to kill other,
+*China* supplies Corona to kill everyone, 
+
+Only My Mother Land, *India* supplies Vaccines to save all humans,       
+*I love my country.*        
+*JAI HIND* 
+🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳 https://t.co/hzIyUV3QWX
+
+2021-01-24 09:56:48+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='504e739994acf111', url='https://api.twitter.com/1.1/geo/id/504e739994acf111.json', place_type='city', name='Kanpur', full_name='Kanpur, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[80.125067, 26.177178], [80.567058, 26.177178], [80.567058, 26.63457], [80.125067, 26.63457]]]), attributes={})
+
+1353280583686828037

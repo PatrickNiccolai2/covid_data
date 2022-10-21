@@ -1,0 +1,9 @@
+@POTUS I live in DFW. Trump was voted in for the sole purpose of immigration. I’m a Firefighter and need my second Moderna Vaccine. I see where the area in Dallas are registering. These are where the illegal Hispanics mainly populate. I was born here and have to wait
+
+2021-01-24 04:31:06+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0139c13411c828f8', url='https://api.twitter.com/1.1/geo/id/0139c13411c828f8.json', place_type='city', name='Talty', full_name='Talty, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-96.408824, 32.6813065], [-96.378571, 32.6813065], [-96.378571, 32.712632], [-96.408824, 32.712632]]]), attributes={})
+
+1353198618279342081

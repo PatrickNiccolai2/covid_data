@@ -1,0 +1,9 @@
+@iPilates I got the Moderna. I have a few friends who have had Pfizer and Moderna and I think the consensus is that Pfizer isn't as bad as Moderna. I get so sickly after flu shots, so I figured I'd be on my butt after this one! Just very tired and achey. Nothing crazy thankfully!
+
+2021-01-24 12:57:08+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5c62ffb0f0f3479d', url='https://api.twitter.com/1.1/geo/id/5c62ffb0f0f3479d.json', place_type='city', name='Phoenix', full_name='Phoenix, AZ', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-112.3239143, 33.29026], [-111.9254391, 33.29026], [-111.9254391, 33.8154652], [-112.3239143, 33.8154652]]]), attributes={})
+
+1353325964554498049

@@ -1,0 +1,9 @@
+The history books will say: and it came to pass that vaccines were the biggest medical experiment ever implemented before all other drugs for re-purpose were investigated. https://t.co/YF5dZIu5BL
+
+2021-01-24 08:03:34+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='718be4f797a12c84', url='https://api.twitter.com/1.1/geo/id/718be4f797a12c84.json', place_type='city', name='Rudersdal', full_name='Rudersdal, Danmark', country_code='DK', country='Denmark', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[12.3914781, 55.797036], [12.5832436, 55.797036], [12.5832436, 55.8780494], [12.3914781, 55.8780494]]]), attributes={})
+
+1353252088671821826

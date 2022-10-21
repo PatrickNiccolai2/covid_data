@@ -1,0 +1,9 @@
+@huwolongtana @Hoosiers1986 @SierraWhiskee Hey I got the translation! The USA Citizenship needs to go back to when we sit down with our families and had home cooked meals.Good nutrition &amp; stop believing in miracle cures like vaccines.Pharma is poisoning millions around the world! Population control through PPH &amp; vaccine!
+
+2021-01-24 00:45:20+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='e0060cda70f5f341', url='https://api.twitter.com/1.1/geo/id/e0060cda70f5f341.json', place_type='admin', name='Texas', full_name='Texas, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-106.645646, 25.837092], [-93.508131, 25.837092], [-93.508131, 36.500695], [-106.645646, 36.500695]]]), attributes={})
+
+1353141801771794432

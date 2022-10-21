@@ -1,0 +1,9 @@
+We need domestic COVID-19 vaccine production planning to start Monday morning. This is a crisis &amp; we need a war time like effort. Where is the leadership
+
+2021-01-24 03:55:54+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='074d8e79c396c4ad', url='https://api.twitter.com/1.1/geo/id/074d8e79c396c4ad.json', place_type='city', name='Prince William', full_name='Prince William, New Brunswick', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-67.252516, 45.600887], [-66.93078, 45.600887], [-66.93078, 45.925277], [-67.252516, 45.925277]]]), attributes={})
+
+1353189761758814210

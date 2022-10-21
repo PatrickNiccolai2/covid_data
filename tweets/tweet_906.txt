@@ -1,0 +1,9 @@
+@bmj_latest @glover_lshtm @KimberlyBlumen1 I’ve had the vaccine Pfizer on Wednesday I’m has allergic full anaphylaxis as they come I realise that you react to what you are allergic to be it must be a reassurance to some I’m allergic to Nuts Peanuts Beans Peas Tomatoes coconut food wise + numerous others but no medications
+
+2021-01-24 02:43:34+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='32caea66bdd561ed', url='https://api.twitter.com/1.1/geo/id/32caea66bdd561ed.json', place_type='city', name='Keighley', full_name='Keighley, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.962167, 53.841526], [-1.8550661, 53.841526], [-1.8550661, 53.886008], [-1.962167, 53.886008]]]), attributes={})
+
+1353171555824652288

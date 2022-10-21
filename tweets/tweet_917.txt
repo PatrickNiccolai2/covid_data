@@ -1,0 +1,13 @@
+All the News Talk About is Trying to Persuade And Bribe Folks to Get that Covid~Vaccine
+
+..if that Aint Propaganda i Dont Know What is, but then Again,
+
+All News is Propaganda Anyways...
+
+2021-01-24 02:37:44+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='93058506a7cfd99a', url='https://api.twitter.com/1.1/geo/id/93058506a7cfd99a.json', place_type='city', name='Graham', full_name='Graham, NC', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-79.44049, 36.015996], [-79.358732, 36.015996], [-79.358732, 36.088482], [-79.44049, 36.088482]]]), attributes={})
+
+1353170088808099840

@@ -1,0 +1,9 @@
+Van-Tam: Double-dose vaccine recipients could still pass on virus  https://t.co/yrdhpE8Leo
+
+2021-01-24 09:32:20+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='31453e3f538e5726', url='https://api.twitter.com/1.1/geo/id/31453e3f538e5726.json', place_type='city', name='Ringwood', full_name='Ringwood, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.800422, 50.829752], [-1.746362, 50.829752], [-1.746362, 50.860998], [-1.800422, 50.860998]]]), attributes={})
+
+1353274424322117632

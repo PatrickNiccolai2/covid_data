@@ -1,0 +1,9 @@
+My mum had the vaccine last week.  We need more BAME  and religious Jewish people vaccinated. So come on don't hesitate.(pic Mum after cataract op) https://t.co/Aq8TJLlZYn
+
+2021-01-24 11:32:07+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2a3f152d1ac5044a', url='https://api.twitter.com/1.1/geo/id/2a3f152d1ac5044a.json', place_type='city', name='Hackney', full_name='Hackney, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.104501, 51.518605], [-0.015834, 51.518605], [-0.015834, 51.5766844], [-0.104501, 51.5766844]]]), attributes={})
+
+1353304572618547205

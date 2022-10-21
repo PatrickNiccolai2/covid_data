@@ -1,0 +1,9 @@
+Just reading latest updates on Covid vaccines for Australia. Surely, we have to rid ourselves quickly, somehow, of this absolute, abjectly incompetent, lying, uncaring, duplicitous clown, Morrison, his annoying photo opps, lies, announcements, failures and corrupt camp followers!
+
+2021-01-24 07:38:17+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0180d6313aa616b2', url='https://api.twitter.com/1.1/geo/id/0180d6313aa616b2.json', place_type='city', name='Wollongong', full_name='Wollongong, New South Wales', country_code='AU', country='Australia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[150.743944832, -34.628601669], [150.973866016, -34.628601669], [150.973866016, -34.2513407335], [150.743944832, -34.2513407335]]]), attributes={})
+
+1353245723546972161

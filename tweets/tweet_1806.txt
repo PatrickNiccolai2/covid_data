@@ -1,0 +1,9 @@
+@NYGovCuomo until the day I see these lockdowns released as science so called says masks and distance and vaccines work, I will continue to think it’s a political lockdown .., nobody is fooled by this but the fool will be the state of New York when everyone leaves
+
+2021-01-23 19:31:33+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00c39537733fa112', url='https://api.twitter.com/1.1/geo/id/00c39537733fa112.json', place_type='city', name='Queens', full_name='Queens, NY', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-73.962582, 40.541722], [-73.699793, 40.541722], [-73.699793, 40.8000371], [-73.962582, 40.8000371]]]), attributes={})
+
+1353062834825949184

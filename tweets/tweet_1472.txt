@@ -1,0 +1,9 @@
+@philto @TheSun Eh? We have a right wing Tory government who are in charge of the vaccine rollout.
+
+2021-01-23 21:58:16+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='639ba0c01b9a6fcc', url='https://api.twitter.com/1.1/geo/id/639ba0c01b9a6fcc.json', place_type='city', name='Ardrossan', full_name='Ardrossan, Scotland', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-4.8248083, 55.6312366], [-4.771057, 55.6312366], [-4.771057, 55.6596112], [-4.8248083, 55.6596112]]]), attributes={})
+
+1353099758924136449

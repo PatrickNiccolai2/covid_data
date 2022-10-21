@@ -1,0 +1,9 @@
+A cracking day today. Well done to all at the Thackray and Elland road vaccination centres; another 1979 vaccines administered today. Stay safe everyone. @LeedsHospitals @LUFC @thackraymuseum @HilesTim @pennymcsorley1 @AlldredAndrew Emma Williams and @alyson_beckett
+
+2021-01-23 20:38:17+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0c4f58af36a910a6', url='https://api.twitter.com/1.1/geo/id/0c4f58af36a910a6.json', place_type='city', name='York', full_name='York, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.147268, 53.9280019], [-1.0233813, 53.9280019], [-1.0233813, 54.004411], [-1.147268, 54.004411]]]), attributes={})
+
+1353079629318418439

@@ -1,0 +1,9 @@
+@christi67 Well YOU could try something Essential but With #COVID19 going on &amp; no movement going on with Vaccines yet, It's too dangerous... But if you want to try for Medicaid? They might be able to get on some sort of Insurance! I'm so sorry to hear this happened to you! 🌹🙏🌹
+
+2021-01-24 04:05:29+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2409d5aabed47f79', url='https://api.twitter.com/1.1/geo/id/2409d5aabed47f79.json', place_type='city', name='Rochester Hills', full_name='Rochester Hills, MI', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-83.214001, 42.620953], [-83.091535, 42.620953], [-83.091535, 42.712333], [-83.214001, 42.712333]]]), attributes={})
+
+1353192172481343490

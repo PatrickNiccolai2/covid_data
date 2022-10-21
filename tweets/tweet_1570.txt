@@ -1,0 +1,9 @@
+WTF? #COVID19 #UK #vaccine https://t.co/yzfX2EMmeb
+
+2021-01-23 21:11:00+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='ecbe2aea853af44e', url='https://api.twitter.com/1.1/geo/id/ecbe2aea853af44e.json', place_type='city', name='Tallahassee', full_name='Tallahassee, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-84.386548, 30.365093], [-84.1458, 30.365093], [-84.1458, 30.587338], [-84.386548, 30.587338]]]), attributes={})
+
+1353087864662335488

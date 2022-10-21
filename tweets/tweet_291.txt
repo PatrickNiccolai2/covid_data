@@ -1,0 +1,9 @@
+@niknickerson @mit1953 @DrPhillipLee @BorisJohnson Delaying the second dose may lead to the growth of a vaccine resistant strain of this virus, that should be of enormous concern to people.
+
+2021-01-24 10:23:19+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='c500c6f8494a90ac', url='https://api.twitter.com/1.1/geo/id/c500c6f8494a90ac.json', place_type='city', name='Cork', full_name='Cork, Ireland', country_code='IE', country='Ireland', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-10.2254601, 51.4192154], [-7.8411533, 51.4192154], [-7.8411533, 52.3885113], [-10.2254601, 52.3885113]]]), attributes={})
+
+1353287256233095168

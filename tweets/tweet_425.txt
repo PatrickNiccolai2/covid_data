@@ -1,0 +1,9 @@
+@EllisCounty_TX is ready to immediately open vaccine hub distribution as soon as vaccine supplies arrive...stay tuned for week 8!
+
+2021-01-24 09:21:15+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='45ff3ab084a1f419', url='https://api.twitter.com/1.1/geo/id/45ff3ab084a1f419.json', place_type='city', name='Waxahachie', full_name='Waxahachie, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-96.880016, 32.316564], [-96.79913, 32.316564], [-96.79913, 32.494604], [-96.880016, 32.494604]]]), attributes={})
+
+1353271636221456385

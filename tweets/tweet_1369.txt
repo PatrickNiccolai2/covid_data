@@ -1,0 +1,9 @@
+Clearly, @mattblaze is downplaying his authority to name rhe COVID-19 vaccine the "Fauci Ouchie."  ❤️🤣 https://t.co/6Cq3dEbGOB
+
+2021-01-23 22:41:57+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='ae845a49091f2727', url='https://api.twitter.com/1.1/geo/id/ae845a49091f2727.json', place_type='city', name='Somerville', full_name='Somerville, MA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-71.134552, 42.3727525], [-71.072892, 42.3727525], [-71.072892, 42.418052], [-71.134552, 42.418052]]]), attributes={})
+
+1353110753432240130

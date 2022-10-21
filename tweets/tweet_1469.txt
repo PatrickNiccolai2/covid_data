@@ -1,0 +1,9 @@
+@seanhannity It’s better to undersell than oversell. That way, when you say you’ll put 40m vaccines into arms by the end of the year and only do 2m, you don’t look like lying morons.
+
+2021-01-23 21:59:30+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0e2242eb8691df96', url='https://api.twitter.com/1.1/geo/id/0e2242eb8691df96.json', place_type='city', name='Henderson', full_name='Henderson, NV', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-115.1581427, 35.917793], [-114.918531, 35.917793], [-114.918531, 36.094719], [-115.1581427, 36.094719]]]), attributes={})
+
+1353100067872284672

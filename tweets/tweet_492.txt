@@ -1,0 +1,10 @@
+India has gifted #Covishield Vaccines to seven countries under the leadership of PM @narendramodi ji. Bhutan, Maldives, Nepal, Bangladesh, Myanmar, Seychelles, Mauritius!
+#VaccineMaitri #IndiaFightsCorona #COVID19Vaccination
+
+2021-01-24 08:47:43+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5f55bb82cf16ac81', url='https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', place_type='city', name='Bengaluru South', full_name='Bengaluru South, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[77.3305776, 12.731936], [77.7863188, 12.731936], [77.7863188, 13.1142933], [77.3305776, 13.1142933]]]), attributes={})
+
+1353263197512323075

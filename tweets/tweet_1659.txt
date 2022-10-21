@@ -1,0 +1,9 @@
+People actually saying with their whole chest they'd rather die at 30, than "lose their freedoms" and be locked down. We really need a vaccine for stupidity. And it's always the people who fucked around in high school
+
+2021-01-23 20:35:13+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1f4df2b4746ddea7', url='https://api.twitter.com/1.1/geo/id/1f4df2b4746ddea7.json', place_type='city', name='Brampton', full_name='Brampton, Ontario', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-79.888911, 43.60222], [-79.630272, 43.60222], [-79.630272, 43.847722], [-79.888911, 43.847722]]]), attributes={})
+
+1353078860074672130

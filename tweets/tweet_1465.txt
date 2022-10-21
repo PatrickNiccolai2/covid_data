@@ -1,0 +1,9 @@
+@DHSWI But no word on ending systemic racism in the #Covid19 vaccine distribution? https://t.co/ZFfOyiFYSN
+
+2021-01-23 22:01:43+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01ce73922fe260b2', url='https://api.twitter.com/1.1/geo/id/01ce73922fe260b2.json', place_type='city', name='Pleasant Prairie', full_name='Pleasant Prairie, WI', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-87.952181, 42.492766], [-87.801335, 42.492766], [-87.801335, 42.574318], [-87.952181, 42.574318]]]), attributes={})
+
+1353100628499828742

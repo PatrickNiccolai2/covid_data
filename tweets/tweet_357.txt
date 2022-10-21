@@ -1,0 +1,15 @@
+Science Experts across the globe are working round the clock to make the vaccine work for people.
+
+It is advisable not to trust conflicting reports about the vaccinations.
+
+Always use trusted resources.
+
+For #oralhealth issues ,chat with us https://t.co/JsNk7KRDw5 https://t.co/paI87v74ZU
+
+2021-01-24 09:55:05+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4171b3606efc06af', url='https://api.twitter.com/1.1/geo/id/4171b3606efc06af.json', place_type='admin', name='Andhra Pradesh', full_name='Andhra Pradesh, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[76.76081, 12.622344], [84.768782, 12.622344], [84.768782, 19.165472], [76.76081, 19.165472]]]), attributes={})
+
+1353280151400837120

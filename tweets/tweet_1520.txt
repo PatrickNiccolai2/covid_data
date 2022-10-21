@@ -1,0 +1,9 @@
+COVID vaccine-shot number one in the books. Please be smart and get vaccinated. @CharmCityPanda @GAGA_and_MDNA
+
+2021-01-23 21:31:30+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4dad272dba156a02', url='https://api.twitter.com/1.1/geo/id/4dad272dba156a02.json', place_type='city', name='Annandale', full_name='Annandale, VA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-77.262146, 38.811091], [-77.157684, 38.811091], [-77.157684, 38.865962], [-77.262146, 38.865962]]]), attributes={})
+
+1353093022817411073

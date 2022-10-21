@@ -1,0 +1,10 @@
+NC redirected thousands of vaccines meant for places like Greensboro in favor of mass vaccination events at Charlotte Motor Speedway and Bank of America stadium 
+https://t.co/Kmcik3eIcA
+
+2021-01-23 21:36:39+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='bced47a0c99c71d0', url='https://api.twitter.com/1.1/geo/id/bced47a0c99c71d0.json', place_type='city', name='Durham', full_name='Durham, NC', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-79.0075886, 35.866334], [-78.783292, 35.866334], [-78.783292, 36.115631], [-79.0075886, 36.115631]]]), attributes={})
+
+1353094320220483585

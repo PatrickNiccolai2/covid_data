@@ -1,0 +1,9 @@
+Segundo @waldezoficial o Amapá deve receber amanhã um segundo lote de vacinas contra a COVID-19. Serão 6.000 doses da AstraZeneca/Oxford que serão imediatamente utilizadas
+
+2021-01-23 20:09:13+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='e9ea1f1600a66684', url='https://api.twitter.com/1.1/geo/id/e9ea1f1600a66684.json', place_type='city', name='Macapá', full_name='Macapá, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-51.492501, -0.088875], [-49.894431, -0.088875], [-49.894431, 1.262232], [-51.492501, 1.262232]]]), attributes={})
+
+1353072314426880000

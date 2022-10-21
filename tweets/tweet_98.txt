@@ -1,0 +1,9 @@
+#ToryCovidCatastrophe July, August last year. 1,000 Covid patients in hospital nationwide, 11 deaths a day. Now 40,000 in hospital &amp; averaging over 1,000 deaths a day. Catastrophic decision making then by @BorisJohnson
+
+2021-01-24 12:27:26+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2486c9485e21a5cb', url='https://api.twitter.com/1.1/geo/id/2486c9485e21a5cb.json', place_type='city', name='Plymtree', full_name='Plymtree, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.3510672, 50.8155274], [-3.343693, 50.8155274], [-3.343693, 50.821901], [-3.3510672, 50.821901]]]), attributes={})
+
+1353318493157011456

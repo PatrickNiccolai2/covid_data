@@ -1,0 +1,11 @@
+Communication is key to wane Vaccine Hesitancy...
+
+The Indian press plays a crucial role in the implementation of the C-19 vaccine. Evidence-based fact-sharing is now a daily headline story... https://t.co/7IvStTBbgr
+
+2021-01-24 03:08:51+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='317fcc4b21a604d5', url='https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', place_type='city', name='New Delhi', full_name='New Delhi, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[76.84252, 28.397657], [77.347652, 28.397657], [77.347652, 28.879322], [76.84252, 28.879322]]]), attributes={})
+
+1353177917744951296

@@ -1,0 +1,9 @@
+Don’t you think that GOI should stop publishing these very encouraging COVID figures if they want COVID vaccine to succeed ? https://t.co/Z1p92i5VXe
+
+2021-01-24 06:49:56+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='317fcc4b21a604d5', url='https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', place_type='city', name='New Delhi', full_name='New Delhi, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[76.84252, 28.397657], [77.347652, 28.397657], [77.347652, 28.879322], [76.84252, 28.879322]]]), attributes={})
+
+1353233558869954560

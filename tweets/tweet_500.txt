@@ -1,0 +1,9 @@
+@LunchTodd @AntDickinson Exactly.. support now but fatigue will set in, plus concerns re constant lockdowns/ controls when said support vaccine roll out/ pressure on NHS. Well never get to a zero Covid situation it’s too far gone and unrealistic in an crowded international country
+
+2021-01-24 08:42:51+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6863fd050de21120', url='https://api.twitter.com/1.1/geo/id/6863fd050de21120.json', place_type='city', name='Leeds', full_name='Leeds, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.706057, 53.7363694], [-1.424923, 53.7363694], [-1.424923, 53.867543], [-1.706057, 53.867543]]]), attributes={})
+
+1353261971592933378

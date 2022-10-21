@@ -1,0 +1,9 @@
+???? There’s not even enough vaccines available ? Lmao https://t.co/iLNTylrQHf
+
+2021-01-23 21:06:14+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='8173485c72e78ca5', url='https://api.twitter.com/1.1/geo/id/8173485c72e78ca5.json', place_type='city', name='Atlanta', full_name='Atlanta, GA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-84.576827, 33.6475029], [-84.289385, 33.6475029], [-84.289385, 33.8868859], [-84.576827, 33.8868859]]]), attributes={})
+
+1353086662318960641

@@ -1,0 +1,9 @@
+@ExtremistShukla @HinaMir51169464 @HSajwanization Don't go getting all nationalistic. @SII deserve a pat on the back for being an essential player in the roll out of a global vaccine. Indian reg are crazy to authorise a product that hasn't completed phase 3 trials.
+
+2021-01-24 06:56:37+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4f854c83732cf4f5', url='https://api.twitter.com/1.1/geo/id/4f854c83732cf4f5.json', place_type='city', name='Watford', full_name='Watford, East', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.4444586, 51.6322356], [-0.340092, 51.6322356], [-0.340092, 51.703921], [-0.4444586, 51.703921]]]), attributes={})
+
+1353235238944731137

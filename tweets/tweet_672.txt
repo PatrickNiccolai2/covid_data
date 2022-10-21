@@ -1,0 +1,9 @@
+@mtgreenee @JoeBiden Marjorie you are a vile disgusting woman, an embarrassment to women world wide with your hatefulness and nasty tongue.  Trump had ZERO PLAN for distribution of vaccines, nothing, nada.  Leave The President alone and go crawl back under your rock where you bottom feed with Trump.
+
+2021-01-24 06:14:12+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='67d92742f1ebf307', url='https://api.twitter.com/1.1/geo/id/67d92742f1ebf307.json', place_type='admin', name='Michigan', full_name='Michigan, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-90.4181075, 41.696088], [-82.122971, 41.696088], [-82.122971, 48.306272], [-90.4181075, 48.306272]]]), attributes={})
+
+1353224565573476352

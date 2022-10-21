@@ -1,0 +1,11 @@
+I was listening to BBC Hausa yesterday’s program (Shirin Yamma) today, when I heard that the Chief Defense of Spain resigned on Saturday after allegations he had received the COVID-19 vaccine ahead of priority groups in the queue. 
+
+1/2
+
+2021-01-24 11:16:50+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='000c69ad123213a8', url='https://api.twitter.com/1.1/geo/id/000c69ad123213a8.json', place_type='admin', name='Kampala', full_name='Kampala, Uganda', country_code='UG', country='Uganda', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[32.4166234, 0.1648531], [32.7216969, 0.1648531], [32.7216969, 0.4136818], [32.4166234, 0.4136818]]]), attributes={})
+
+1353300726420828160

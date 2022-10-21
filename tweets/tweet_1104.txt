@@ -1,0 +1,9 @@
+@CarbonelCat @BorisJohnson @10DowningStreet @Number10press I couldn't agree more. Now, all those morons who are convinced the #COVID19 doesn't kill will try to catch what they probably think is just flu. Meanwhile, back at the No. 10 ranch with @BorisJohnson, only non disabled people getting #UniversalCredit get the £20 weekly increase!!
+
+2021-01-24 00:35:29+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6ac4aa98e7d9fa05', url='https://api.twitter.com/1.1/geo/id/6ac4aa98e7d9fa05.json', place_type='city', name='Torpoint', full_name='Torpoint, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-4.2307197, 50.368142], [-4.192996, 50.368142], [-4.192996, 50.3803], [-4.2307197, 50.3803]]]), attributes={})
+
+1353139325270163457

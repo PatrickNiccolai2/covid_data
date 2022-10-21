@@ -1,0 +1,9 @@
+@TheBag70 @jenniferereid @NHSGGC @NHSLouisaJordan @irh Got the vaccine tonight at inverclyde...AMAZING team &amp; so well organised 👏🏼
+
+2021-01-23 23:30:44+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='21f60f5cf56dfac0', url='https://api.twitter.com/1.1/geo/id/21f60f5cf56dfac0.json', place_type='city', name='Greenock', full_name='Greenock, Scotland', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-4.870808, 55.914905], [-4.6409441, 55.914905], [-4.6409441, 55.963497], [-4.870808, 55.963497]]]), attributes={})
+
+1353123029757341698

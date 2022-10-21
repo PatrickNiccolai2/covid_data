@@ -1,0 +1,9 @@
+@ABC They should be. Residents pay four and five thousand a month to live in these facilities where they are suppose to have quality of life dining with others and doing activities. Instead they must stay in their rooms. #vaccines
+
+2021-01-23 20:32:18+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0144019445c157c9', url='https://api.twitter.com/1.1/geo/id/0144019445c157c9.json', place_type='city', name='Silver Lakes', full_name='Silver Lakes, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-117.367738, 34.7265046], [-117.3302746, 34.7265046], [-117.3302746, 34.7622], [-117.367738, 34.7622]]]), attributes={})
+
+1353078125186355200

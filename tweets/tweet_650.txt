@@ -1,0 +1,11 @@
+Preparatevi perché la prossima uscita dei bimbi di Conte sarà che il COVID lo ha creato apposta la Pfizer per lucrare sui ritardi del vaccino.
+
+#Noncielodikonoh
+
+2021-01-24 06:36:58+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3eb551581e29c074', url='https://api.twitter.com/1.1/geo/id/3eb551581e29c074.json', place_type='city', name='San Venanzo', full_name='San Venanzo, Umbria', country_code='IT', country='Italy', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[12.1269886, 42.7809538], [12.3312961, 42.7809538], [12.3312961, 42.93903], [12.1269886, 42.93903]]]), attributes={})
+
+1353230295332495361

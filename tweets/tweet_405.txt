@@ -1,0 +1,9 @@
+Cainta allocated 150M from their 2019 savings for the COVID vaccines. Meanwhile, Taytay boasts of a 300M budget for the vaccines from our 2021 IRA. That’s half of our IRA. TOTOO BA KAYO?
+
+2021-01-24 09:32:14+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='011a05612b6a331c', url='https://api.twitter.com/1.1/geo/id/011a05612b6a331c.json', place_type='city', name='Pasig City', full_name='Pasig City, National Capital Region', country_code='PH', country='Republic of the Philippines', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[121.0518106, 14.542797], [121.1128785, 14.542797], [121.1128785, 14.6238158], [121.0518106, 14.6238158]]]), attributes={})
+
+1353274399672045570

@@ -1,0 +1,9 @@
+The rule preventing vaccine tourism was announced after this story was posted. But nonetheless, this California family had more than one reason to trek cross country to Florida https://t.co/8Pd8zqR7tp
+
+2021-01-24 07:50:19+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='9979d3480f2d1e45', url='https://api.twitter.com/1.1/geo/id/9979d3480f2d1e45.json', place_type='city', name='Palm Bay', full_name='Palm Bay, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.737408, 27.910056], [-80.566228, 27.910056], [-80.566228, 28.063838], [-80.737408, 28.063838]]]), attributes={})
+
+1353248751234723840

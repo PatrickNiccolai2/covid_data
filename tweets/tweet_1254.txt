@@ -1,0 +1,9 @@
+@indyfromspace But mostly, please don’t accuse Maine of wasting vaccines. They are being really great about the process, and I guess it wasn’t clear that it wasn’t a walk-in situation? @nirav_mainecdc is our fab CDC director and has been clear it’s “use every dose”
+
+2021-01-23 23:27:44+00:00
+
+{'type': 'Point', 'coordinates': [-68.79729475, 44.80166626]}
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='bd73972b51647e05', url='https://api.twitter.com/1.1/geo/id/bd73972b51647e05.json', place_type='city', name='Bangor', full_name='Bangor, ME', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-68.872064, 44.768404], [-68.71876, 44.768404], [-68.71876, 44.855108], [-68.872064, 44.855108]]]), attributes={})
+
+1353122274598117383

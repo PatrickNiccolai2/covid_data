@@ -1,0 +1,9 @@
+I’ve been a @GavinNewsom fan/apologist, whatever you want to call it. But how can California be ranked last in vaccine distribution? Come on Gavin, get it together.
+
+2021-01-23 20:34:34+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5a110d312052166f', url='https://api.twitter.com/1.1/geo/id/5a110d312052166f.json', place_type='city', name='San Francisco', full_name='San Francisco, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.514926, 37.708075], [-122.357031, 37.708075], [-122.357031, 37.833238], [-122.514926, 37.833238]]]), attributes={})
+
+1353078696022687744

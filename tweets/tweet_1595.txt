@@ -1,0 +1,9 @@
+Year 1955 Dr. Jonas Salk invented the polio vaccine. But he did not get his patent so that it was available to All Children. https://t.co/1lq3gCbB9A
+
+2021-01-23 20:58:35+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5e02a0f0d91c76d2', url='https://api.twitter.com/1.1/geo/id/5e02a0f0d91c76d2.json', place_type='city', name='İstanbul', full_name='İstanbul, Türkiye', country_code='TR', country='Turkey', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[28.6321043, 40.8027337], [29.3783413, 40.8027337], [29.3783413, 41.2399073], [28.6321043, 41.2399073]]]), attributes={})
+
+1353084740761497600

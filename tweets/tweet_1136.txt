@@ -1,0 +1,9 @@
+Most people I know have gotten the flu soon after getting the vaccine. Im curious. Gimme some medical knowledge. I was always under the impression that it gives you the flu so your body can become immune to it. https://t.co/oLraLc9cgS
+
+2021-01-24 00:18:39+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0148ea0570abe6f6', url='https://api.twitter.com/1.1/geo/id/0148ea0570abe6f6.json', place_type='city', name='Greenwood', full_name='Greenwood, LA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-93.981607, 32.413604], [-93.934079, 32.413604], [-93.934079, 32.447145], [-93.981607, 32.447145]]]), attributes={})
+
+1353135086263283712

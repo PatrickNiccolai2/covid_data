@@ -1,0 +1,9 @@
+@debstergr Too right, all those that have broken the rules should be denied the vaccine
+
+2021-01-24 00:18:01+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='604f0b0084478355', url='https://api.twitter.com/1.1/geo/id/604f0b0084478355.json', place_type='city', name='Honley', full_name='Honley, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.824708, 53.552725], [-1.742639, 53.552725], [-1.742639, 53.611554], [-1.824708, 53.611554]]]), attributes={})
+
+1353134929593430016

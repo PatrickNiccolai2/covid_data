@@ -1,0 +1,9 @@
+Yey ayifike le Vaccine, sigome siqhubeke nempilo. All our lives siphila nesigxivizo ehlombe siyaphila. #COVID19Vaccine As a #Covid19 survivor ngovuka ngo 2am ukuyoma ulayini wokugoma. #Dabs
+
+2021-01-23 19:47:43+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='b7cf657dd68715dd', url='https://api.twitter.com/1.1/geo/id/b7cf657dd68715dd.json', place_type='city', name='Lamontville', full_name='Lamontville, South Africa', country_code='ZA', country='South Africa', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[30.9253925, -29.9532466], [30.9513341, -29.9532466], [30.9513341, -29.9317321], [30.9253925, -29.9317321]]]), attributes={})
+
+1353066905980948483

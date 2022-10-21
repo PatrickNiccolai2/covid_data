@@ -1,0 +1,9 @@
+Vaccine Diplomacy : Historical Perspectives and Future Directions https://t.co/hBGNrCaZ90! https://t.co/RMVHOCc4Ei
+
+2021-01-24 05:27:33+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0052933831fe7ca6', url='https://api.twitter.com/1.1/geo/id/0052933831fe7ca6.json', place_type='city', name='Bang Phut', full_name='Bang Phut, Thailand', country_code='TH', country='Thailand', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[100.4994073, 13.9083904], [100.5320844, 13.9083904], [100.5320844, 13.9441324], [100.4994073, 13.9441324]]]), attributes={})
+
+1353212825942978562

@@ -1,0 +1,9 @@
+Just an FYI, if I had the ability to get a vaccine and had to wait in line 5 hours for it, I'd be in line. Not complaining about it...
+
+2021-01-23 21:39:10+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='df7fd3a3b9eff7ee', url='https://api.twitter.com/1.1/geo/id/df7fd3a3b9eff7ee.json', place_type='admin', name='Oregon', full_name='Oregon, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-124.703541, 41.991795], [-116.463262, 41.991795], [-116.463262, 46.2990779], [-124.703541, 46.2990779]]]), attributes={})
+
+1353094950913642496

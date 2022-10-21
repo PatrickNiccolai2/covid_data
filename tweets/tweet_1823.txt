@@ -1,0 +1,10 @@
+@BBCWorld Covid: Italian @GiuseppeConteIT brands @pfizer @AstraZeneca vaccine delay 'unacceptable': @BelgiumDGE, who hosts the vaccine manufacturers, should make Belgium credible again. @BelgiumDGB @AnneliesVl @DedonderLudivin @dreynders @mofa_belgium @SamsungItalia
+https://t.co/9qI2xJDYQ1
+
+2021-01-23 19:26:30+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='a4ef7b303b4d3709', url='https://api.twitter.com/1.1/geo/id/a4ef7b303b4d3709.json', place_type='city', name='De Pinte', full_name='De Pinte, België', country_code='BE', country='Belgium', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[3.6235138, 50.9541637], [3.7108424, 50.9541637], [3.7108424, 51.0144546], [3.6235138, 51.0144546]]]), attributes={})
+
+1353061565331693570

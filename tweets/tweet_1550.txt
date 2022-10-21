@@ -1,0 +1,9 @@
+@VP Please get the vaccine production up! We are desperate for shots here in California
+
+2021-01-23 21:19:34+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='b075d78174642ce2', url='https://api.twitter.com/1.1/geo/id/b075d78174642ce2.json', place_type='city', name='Palm Desert', full_name='Palm Desert, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-116.421818, 33.670765], [-116.300776, 33.670765], [-116.300776, 33.810312], [-116.421818, 33.810312]]]), attributes={})
+
+1353090020580593664

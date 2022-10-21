@@ -1,0 +1,9 @@
+@hannireynolds Thanks, I miss them. I really want Sweden to get this vaccine stuff together so I can go visit, or I may go visit and get vaccine in the US
+
+2021-01-23 21:25:40+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='d56c5babcffde8ef', url='https://api.twitter.com/1.1/geo/id/d56c5babcffde8ef.json', place_type='city', name='Stockholm', full_name='Stockholm, Sweden', country_code='SE', country='Sweden', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[17.7601322, 59.2271383], [18.1999856, 59.2271383], [18.1999856, 59.4402037], [17.7601322, 59.4402037]]]), attributes={})
+
+1353091555414978560

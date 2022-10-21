@@ -1,0 +1,9 @@
+Big day today, first Covid-19 Vaccine but 12 weeks is too long to wait for the next dose, especially in “Highly Vulnerable, Immunosuppressed Patients” that won’t get the full benefit as it is. @GMKINet @kidneycareuk @Kidney_Research @kidneysforlife @NKF_UK @LLTGL @NHSOrganDonor https://t.co/gZ3hhF0tuf
+
+2021-01-24 01:44:09+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6d774ae5e9cf2d96', url='https://api.twitter.com/1.1/geo/id/6d774ae5e9cf2d96.json', place_type='city', name='Horwich', full_name='Horwich, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.568926, 53.5777799], [-2.507088, 53.5777799], [-2.507088, 53.6091051], [-2.568926, 53.6091051]]]), attributes={})
+
+1353156602552078336

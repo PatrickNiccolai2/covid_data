@@ -1,0 +1,9 @@
+So we started 4wks ago &amp; we’ve given 5million vaccines which is incredible. But the target is 13.9m by mid February? We are working pretty much flat out &amp; vaccine supply patchy...3wks to go, anyone else nervous??
+
+2021-01-23 23:26:19+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='32caea66bdd561ed', url='https://api.twitter.com/1.1/geo/id/32caea66bdd561ed.json', place_type='city', name='Keighley', full_name='Keighley, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.962167, 53.841526], [-1.8550661, 53.841526], [-1.8550661, 53.886008], [-1.962167, 53.886008]]]), attributes={})
+
+1353121916471619584

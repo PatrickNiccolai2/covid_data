@@ -1,0 +1,11 @@
+@Aidansheart @James07910075 I agree it’s been a mess here in SD county. I’m willing &amp; ready to get my vaccine. W/that said, how do you expect CA to plan w/o knowing how many more doses will be provided &amp; when?
+
+At this point, you’d have to half the supplied amount to ensure there is enough for the 2nd dose.
+
+2021-01-23 20:10:26+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='28ace6b8d6dbc3af', url='https://api.twitter.com/1.1/geo/id/28ace6b8d6dbc3af.json', place_type='city', name='Chula Vista', full_name='Chula Vista, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-117.117116, 32.582128], [-116.9278103, 32.582128], [-116.9278103, 32.685406], [-117.117116, 32.685406]]]), attributes={})
+
+1353072623492579329

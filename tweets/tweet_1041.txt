@@ -1,0 +1,10 @@
+#COVID19 #LargestVaccineDrive 
+Very apt depiction https://t.co/zeiLaPKSbX
+
+2021-01-24 01:16:08+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='22aecab5acddee3b', url='https://api.twitter.com/1.1/geo/id/22aecab5acddee3b.json', place_type='city', name='Chandigarh', full_name='Chandigarh, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[76.7038129, 30.665455], [76.8492359, 30.665455], [76.8492359, 30.795316], [76.7038129, 30.795316]]]), attributes={})
+
+1353149554418348032

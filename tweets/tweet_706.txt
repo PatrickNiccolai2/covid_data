@@ -1,0 +1,9 @@
+People in Norway 🇳🇴 have died from the Pfizer Vaccines but they won't make a hype out of it ...........
+
+2021-01-24 05:44:18+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='d73e8f8ebdd03aff', url='https://api.twitter.com/1.1/geo/id/d73e8f8ebdd03aff.json', place_type='city', name='Randburg', full_name='Randburg, South Africa', country_code='ZA', country='South Africa', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[27.8925632, -26.1368652], [28.0223519, -26.1368652], [28.0223519, -25.9025742], [27.8925632, -25.9025742]]]), attributes={})
+
+1353217041868726273

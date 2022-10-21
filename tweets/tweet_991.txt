@@ -1,0 +1,9 @@
+First...we've got to make vaccines. https://t.co/J0JIhWdmlf
+
+2021-01-24 01:53:15+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='99700cd6fc455c13', url='https://api.twitter.com/1.1/geo/id/99700cd6fc455c13.json', place_type='city', name='Hammond', full_name='Hammond, IN', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-87.525341, 41.566265], [-87.432288, 41.566265], [-87.432288, 41.710116], [-87.525341, 41.710116]]]), attributes={})
+
+1353158895536119810

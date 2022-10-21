@@ -1,0 +1,9 @@
+Omg I was just on @NBCNightlyNews hopefully this will help get more visibility with seniors getting access to the vaccine 🤞🏻🤞🏻🤞🏻 https://t.co/n3e6Uw5Xr9
+
+2021-01-23 23:43:43+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='b4a0e9082dcc8436', url='https://api.twitter.com/1.1/geo/id/b4a0e9082dcc8436.json', place_type='city', name='Delray Beach', full_name='Delray Beach, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.1309396, 26.420813], [-80.05542, 26.420813], [-80.05542, 26.491482], [-80.1309396, 26.491482]]]), attributes={})
+
+1353126294129684480

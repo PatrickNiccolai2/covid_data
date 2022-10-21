@@ -1,0 +1,9 @@
+@shellyluvgolf @MetcalfeDavid I haven’t had a vaccine since I was a baby and I am sixty years old and have no intention of having this one which is largely untested. You have no idea what all this crap will do to you in the long term..... Basically the British population are the clinical trials!
+
+2021-01-24 12:05:59+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='29b021496b03ca49', url='https://api.twitter.com/1.1/geo/id/29b021496b03ca49.json', place_type='city', name='Wellington', full_name='Wellington, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.248063, 50.967553], [-3.214258, 50.967553], [-3.214258, 50.9906922], [-3.248063, 50.9906922]]]), attributes={})
+
+1353313094714478592

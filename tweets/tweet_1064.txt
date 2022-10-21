@@ -1,0 +1,11 @@
+Dr. Barbara Ferrer, LA County Public Health Director, is on the ground in Downey. She’s one of the many helping people get vaccinated, rain or shine. 
+
+One of our executive producers snapped this while getting a vaccine dose today! https://t.co/QSYX7gEOd7
+
+2021-01-24 01:00:24+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='fbd6d2f5a4e4a15e', url='https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json', place_type='admin', name='California', full_name='California, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-124.482003, 32.528832], [-114.131212, 32.528832], [-114.131212, 42.009519], [-124.482003, 42.009519]]]), attributes={})
+
+1353145592071872512

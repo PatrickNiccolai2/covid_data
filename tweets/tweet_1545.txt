@@ -1,0 +1,9 @@
+I’m absolutely dreading the second dose of the vaccine already 🥲
+
+2021-01-23 21:22:14+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='e41805d7248dbf1e', url='https://api.twitter.com/1.1/geo/id/e41805d7248dbf1e.json', place_type='city', name='Modesto', full_name='Modesto, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-121.074342, 37.59485], [-120.900594, 37.59485], [-120.900594, 37.732784], [-121.074342, 37.732784]]]), attributes={})
+
+1353090689223909377

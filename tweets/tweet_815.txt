@@ -1,0 +1,9 @@
+1 of 2 vaccines complete.  I hope everyone does it.  #LetsGetIt #vaccine
+
+2021-01-24 03:52:53+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='073dd6cd3c1af5f4', url='https://api.twitter.com/1.1/geo/id/073dd6cd3c1af5f4.json', place_type='city', name='Hockessin', full_name='Hockessin, DE', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-75.724892, 39.761505], [-75.634189, 39.761505], [-75.634189, 39.813136], [-75.724892, 39.813136]]]), attributes={})
+
+1353188998844440576

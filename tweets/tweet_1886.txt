@@ -1,0 +1,9 @@
+My 88 year old mum and 92 year old Dad have had their 1st vaccine, thank you to all those involved in our #COVIDVaccination efforts xxx https://t.co/vPsd6ge3ng
+
+2021-01-23 19:04:46+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5a0e087e5fe77e7d', url='https://api.twitter.com/1.1/geo/id/5a0e087e5fe77e7d.json', place_type='city', name='Beech', full_name='Beech, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.0327781, 51.1351789], [-1.006702, 51.1351789], [-1.006702, 51.147507], [-1.0327781, 51.147507]]]), attributes={})
+
+1353056094155894785

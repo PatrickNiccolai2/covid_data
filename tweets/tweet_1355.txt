@@ -1,0 +1,9 @@
+Our Home secretary is also urging communities to take vaccine @pritipatel @MattHancock @BorisJohnson @HCI_London @INSAUK @hfbritain  https://t.co/Wl7JpKfgnv
+
+2021-01-23 22:49:14+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='537b8c5518197832', url='https://api.twitter.com/1.1/geo/id/537b8c5518197832.json', place_type='city', name='Enfield', full_name='Enfield, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.18576, 51.604519], [-0.0125671, 51.604519], [-0.0125671, 51.686032], [-0.18576, 51.686032]]]), attributes={})
+
+1353112584258510850

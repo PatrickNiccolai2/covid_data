@@ -1,0 +1,10 @@
+This is why we need to give our seniors in LTC priority access to limited vaccines in Canada  #unacceptable this could prevent hundreds of deaths if all LTC residents vaccinated by month's end: report
+https://t.co/gbqPKH19c9…
+
+2021-01-24 00:55:05+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4b3d1118aaf39b1f', url='https://api.twitter.com/1.1/geo/id/4b3d1118aaf39b1f.json', place_type='city', name='Charlottetown', full_name='Charlottetown, Prince Edward Island', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-63.196592, 46.217197], [-63.073864, 46.217197], [-63.073864, 46.306243], [-63.196592, 46.306243]]]), attributes={})
+
+1353144254315573254

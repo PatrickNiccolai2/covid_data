@@ -1,0 +1,9 @@
+140 farm-to-table meals donated to our local vaccine volunteers @DignityHealthAZ! https://t.co/EfFHroFwdm
+
+2021-01-23 22:01:34+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0fc3797dbc141000', url='https://api.twitter.com/1.1/geo/id/0fc3797dbc141000.json', place_type='poi', name='Arizona Wilderness Brewing Co.', full_name='Arizona Wilderness Brewing Co.', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-111.841195, 33.363009], [-111.841195, 33.363009], [-111.841195, 33.363009], [-111.841195, 33.363009]]]), attributes={})
+
+1353100590533009408

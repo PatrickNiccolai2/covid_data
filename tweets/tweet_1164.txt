@@ -1,0 +1,11 @@
+@emmerdale
+#emmerdale 
+#marlon as a #chef reads in the #news about #NewZealand had a low death rate to #Covid19 knowing they had a stronger immune system better vitamin,vitaminC diet fruits citrus veg,exercise so waiting for the #NHS #vaccine he #educates #prayer #needed #amen https://t.co/4Dr69V5CMO
+
+2021-01-24 00:04:25+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3d5b770553a36b34', url='https://api.twitter.com/1.1/geo/id/3d5b770553a36b34.json', place_type='city', name='Fair Oak', full_name='Fair Oak, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.342025, 50.9556611], [-1.283609, 50.9556611], [-1.283609, 50.982119], [-1.342025, 50.982119]]]), attributes={})
+
+1353131504352845825

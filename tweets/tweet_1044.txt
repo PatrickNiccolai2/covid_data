@@ -1,0 +1,9 @@
+The clinic will provide no-cost vaccines to eligible Contra Costa County residents. Eligibility is established by federal and state guidelines regarding COVID-19 vaccine distribution.
+
+2021-01-24 01:15:17+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='9b101e0451f073b6', url='https://api.twitter.com/1.1/geo/id/9b101e0451f073b6.json', place_type='city', name='Antioch', full_name='Antioch, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-121.860664, 37.945647], [-121.732224, 37.945647], [-121.732224, 38.025674], [-121.860664, 38.025674]]]), attributes={})
+
+1353149339250487301

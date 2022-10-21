@@ -1,0 +1,10 @@
+INJECT THIS INTO ME LIKE THE MF COVID VACCINE HOLY EF BRO IM ABOUT TO CAUSE AN EARTHQUAKE IN GREEN BAY LFG THIS IS IT THIS IS IT THIS IT OH MY GOD STAND UP BABY LETS GEEEETTTT IIIIIIITTTTT
+#GoPackGo https://t.co/w7LHBzf7jd
+
+2021-01-24 03:00:46+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='017b2d0871df7b7c', url='https://api.twitter.com/1.1/geo/id/017b2d0871df7b7c.json', place_type='city', name='Bellevue', full_name='Bellevue, WI', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-88.017371, 44.438884], [-87.917378, 44.438884], [-87.917378, 44.489067], [-88.017371, 44.489067]]]), attributes={})
+
+1353175885201993728

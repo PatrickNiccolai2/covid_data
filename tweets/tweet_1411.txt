@@ -1,0 +1,9 @@
+I hate how Oklahoma is still stuck at Phase 2 and how slow they’re taking to deliver the damn vaccines 🙄 like come on. We need everyone vaccinated who wants a vaccine
+
+2021-01-23 22:24:34+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='cb74aaf709812e0f', url='https://api.twitter.com/1.1/geo/id/cb74aaf709812e0f.json', place_type='city', name='Tulsa', full_name='Tulsa, OK', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-96.0656278, 35.968624], [-95.761656, 35.968624], [-95.761656, 36.250159], [-96.0656278, 36.250159]]]), attributes={})
+
+1353106376978001920

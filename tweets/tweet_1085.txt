@@ -1,0 +1,9 @@
+@beast7326 @V_Broncos They are saying 2021 cap space down 10 million I think it will remain the same with vaccines and 17th game the NFL will recoup losses for 2020
+
+2021-01-24 00:45:09+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='d862adecd71aa2a2', url='https://api.twitter.com/1.1/geo/id/d862adecd71aa2a2.json', place_type='country', name='Honduras', full_name='Honduras', country_code='HN', country='Honduras', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-89.3507919, 12.984911], [-83.1355948, 12.984911], [-83.1355948, 17.417354], [-89.3507919, 17.417354]]]), attributes={})
+
+1353141754657189894

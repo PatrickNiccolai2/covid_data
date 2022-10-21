@@ -1,0 +1,16 @@
+A Bengali, a Punjabi, a Gujarati and a Keralite were reluctant to take the Covid-19 vaccine.
+
+ The Doctor called them in one by one. 
+
+He told the *Bengali* , “You must take your vaccine
+The Bengali said no
+
+The Doctor said, “Every cultured and civilised man takes the vaccine.”
+
+2021-01-24 08:14:17+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2281169281a9d3a2', url='https://api.twitter.com/1.1/geo/id/2281169281a9d3a2.json', place_type='city', name='Faridabad', full_name='Faridabad, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[77.149786, 28.156842], [77.551977, 28.156842], [77.551977, 28.505585], [77.149786, 28.505585]]]), attributes={})
+
+1353254785395298304

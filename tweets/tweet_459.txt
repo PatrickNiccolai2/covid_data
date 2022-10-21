@@ -1,0 +1,9 @@
+With a white one this morning and thinking of Scottish independence! Where would Nicola be getting their vaccine? The from the EU,that a joke in itself!
+
+2021-01-24 09:01:01+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3e0f63af2e82494c', url='https://api.twitter.com/1.1/geo/id/3e0f63af2e82494c.json', place_type='city', name='Wells', full_name='Wells, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.6677869, 51.200713], [-2.612145, 51.200713], [-2.612145, 51.219282], [-2.6677869, 51.219282]]]), attributes={})
+
+1353266546534133760

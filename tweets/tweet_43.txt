@@ -1,0 +1,10 @@
+COVID vaccine, still not listening to science or the company’s who make it
+1st dose then 21 days later 2nd dose, is what it is designed for, they are guessing and not listening to when 2nd dose should be given 3 months + in some cases for second dose, fucking nightmare
+
+2021-01-24 12:55:47+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='53b67b1d1cc81a51', url='https://api.twitter.com/1.1/geo/id/53b67b1d1cc81a51.json', place_type='city', name='Birmingham', full_name='Birmingham, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.033651, 52.381063], [-1.74763, 52.381063], [-1.74763, 52.60687], [-2.033651, 52.60687]]]), attributes={})
+
+1353325625310908418

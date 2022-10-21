@@ -1,0 +1,9 @@
+@DominiqueGuihot @africaradioOFF @Stefanhi Tout le problème est là. Les États-unis et l'Europe ont préempté toute la production des vaccins. Il n'y a pas d'industrie/usine de production en Afrique. L'Afrique dépend donc de l'initiative COVAX (270Millions  de vaccins anti-Covid-19) disponible entre avril-juin entre autres!
+
+2021-01-23 21:00:07+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='62b82bf312ac9545', url='https://api.twitter.com/1.1/geo/id/62b82bf312ac9545.json', place_type='city', name='Conflans-Sainte-Honorine', full_name='Conflans-Sainte-Honorine, France', country_code='FR', country='France', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[2.0712825, 48.9847756], [2.1271439, 48.9847756], [2.1271439, 49.0183062], [2.0712825, 49.0183062]]]), attributes={})
+
+1353085125895065609

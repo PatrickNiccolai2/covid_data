@@ -1,0 +1,9 @@
+Heads up 65+ in Santa Diego county there are open vaccine slots https://t.co/16YuDRxXcA
+
+2021-01-23 23:12:35+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0ce4c27ce26030aa', url='https://api.twitter.com/1.1/geo/id/0ce4c27ce26030aa.json', place_type='city', name='Newport Beach', full_name='Newport Beach, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-117.9582193, 33.563618], [-117.789845, 33.563618], [-117.789845, 33.671658], [-117.9582193, 33.671658]]]), attributes={})
+
+1353118462579601408

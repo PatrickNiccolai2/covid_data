@@ -1,0 +1,12 @@
+Moderna coronavirus vaccine rarely causes severe allergic reactions, says report
+https://t.co/KpZuFmbFim . 
+Download for Android: https://t.co/xQFgTcwyLt 
+Download for iOS: https://t.co/Xlw010tAIy
+
+2021-01-24 13:12:29+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='166f960e289d031f', url='https://api.twitter.com/1.1/geo/id/166f960e289d031f.json', place_type='city', name='Panchkula', full_name='Panchkula, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[76.776024, 30.520557], [77.17567, 30.520557], [77.17567, 30.926706], [76.776024, 30.926706]]]), attributes={})
+
+1353329828154413056

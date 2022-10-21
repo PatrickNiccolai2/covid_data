@@ -1,0 +1,9 @@
+@portmanteauface @Havish_AF Make weed mandatory and put the vaccine in that well kill covid not and we'll have world Peace
+
+2021-01-24 10:18:17+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='512a8a4a4c4b4be0', url='https://api.twitter.com/1.1/geo/id/512a8a4a4c4b4be0.json', place_type='city', name='Charlotte', full_name='Charlotte, NC', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-81.046876, 35.001706], [-80.646695, 35.001706], [-80.646695, 35.416412], [-81.046876, 35.416412]]]), attributes={})
+
+1353285988425068547

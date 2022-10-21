@@ -1,0 +1,11 @@
+@lewdwhitewolf2 @bluehuskybutt If you're curious about the vaccine, can check @sailorrooscout's posts out about them!
+
+They've done PSAs and vaccine info updates plus side effects info. If not, then they do point towards papers and reliable academic information for further reading if you're concerned!
+
+2021-01-23 21:58:23+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01e8a1a140ccdc5c', url='https://api.twitter.com/1.1/geo/id/01e8a1a140ccdc5c.json', place_type='city', name='Adelaide', full_name='Adelaide, South Australia', country_code='AU', country='Australia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[138.44212992, -35.348970061], [138.780189824, -35.348970061], [138.780189824, -34.652564053], [138.44212992, -34.652564053]]]), attributes={})
+
+1353099787344650240

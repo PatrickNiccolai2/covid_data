@@ -1,0 +1,11 @@
+I got the Pfizer BioNtech vaccine and I feel OK, but it’s making my veins bulge out all over my arms and neck.
+
+I hope it stays like this. I look jacked!
+
+2021-01-24 10:27:33+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7cb7440bcf83d464', url='https://api.twitter.com/1.1/geo/id/7cb7440bcf83d464.json', place_type='city', name='Tempe', full_name='Tempe, AZ', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-111.979047, 33.3199453], [-111.877237, 33.3199453], [-111.877237, 33.465823], [-111.979047, 33.465823]]]), attributes={})
+
+1353288321720410112

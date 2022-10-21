@@ -1,0 +1,9 @@
+@DalgetySusan Evidence of the shambles this SG has created because of lack of coordination and information around the distribution of the vaccine. P*** up and Brewery comes to mind
+
+2021-01-24 09:15:04+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5380643742db3038', url='https://api.twitter.com/1.1/geo/id/5380643742db3038.json', place_type='city', name='Dunfermline', full_name='Dunfermline, Scotland', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.505666, 56.0468844], [-3.4000599, 56.0468844], [-3.4000599, 56.087476], [-3.505666, 56.087476]]]), attributes={})
+
+1353270080570863616

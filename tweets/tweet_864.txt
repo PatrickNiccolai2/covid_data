@@ -1,0 +1,9 @@
+@ScottWeidner What about people with the vaccine
+
+2021-01-24 03:10:31+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='779d9dc7976980bf', url='https://api.twitter.com/1.1/geo/id/779d9dc7976980bf.json', place_type='city', name='Merriam', full_name='Merriam, KS', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-94.705704, 38.992953], [-94.6770642, 38.992953], [-94.6770642, 39.044042], [-94.705704, 39.044042]]]), attributes={})
+
+1353178339658366976

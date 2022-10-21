@@ -1,0 +1,11 @@
+#Vaccines contain weakened or inactive parts of a particular organism (antigen) that triggers immune response within the body. 
+
+Note: This weakened version will not cause the disease in the person receiving the vaccine, but will prompt their immune system to respond adequately. https://t.co/nqXxxnwFpi https://t.co/tdI7g78mso
+
+2021-01-24 10:33:54+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='84f644e036f3dcb0', url='https://api.twitter.com/1.1/geo/id/84f644e036f3dcb0.json', place_type='country', name='Rwanda', full_name='Rwanda', country_code='RW', country='Rwanda', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[28.8617568, -2.8387274], [30.8993559, -2.8387274], [30.8993559, -1.0474785], [28.8617568, -1.0474785]]]), attributes={})
+
+1353289918517284867

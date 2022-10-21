@@ -1,0 +1,9 @@
+@610CKTB I go out only once or twice a week for food wearing at least one mask but I feel like eventually I will catch this virus no matter what. So scary. #StayHomeON #vaccine
+
+2021-01-23 18:51:13+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2e25bfbedbc62328', url='https://api.twitter.com/1.1/geo/id/2e25bfbedbc62328.json', place_type='city', name='St. Catharines', full_name='St. Catharines, Ontario', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-79.42639, 43.1047472], [-79.109516, 43.1047472], [-79.109516, 43.550439], [-79.42639, 43.550439]]]), attributes={})
+
+1353052685428269056

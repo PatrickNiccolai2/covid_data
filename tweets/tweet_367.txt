@@ -1,0 +1,9 @@
+@Lynn_GT @VintiquesMark The worry is whether, like a antibiotic course, by not completing it there is a risk of mutating to a vaccine resistant strain. Surely that’s too big a risk?
+
+2021-01-24 09:51:37+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0bc8e577267c1211', url='https://api.twitter.com/1.1/geo/id/0bc8e577267c1211.json', place_type='city', name='Cuffley', full_name='Cuffley, East', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.145833, 51.70291], [-0.107284, 51.70291], [-0.107284, 51.71948], [-0.145833, 51.71948]]]), attributes={})
+
+1353279278218149894

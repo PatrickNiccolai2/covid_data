@@ -1,0 +1,9 @@
+@KatherineCowan @DanJohnsonNews Your not on your own cat 🐱 my mum age 84 hasn't had her 1st vaccination Covid19 jab yet. However I have heard them over 80,s that haven't had it will be getting the Oxford vaccine. I just hope the over 80,s get it in the next 2 weeks of this post because my mum is in vulnerable.
+
+2021-01-24 07:34:12+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='08dcc8a011547001', url='https://api.twitter.com/1.1/geo/id/08dcc8a011547001.json', place_type='poi', name='Monica F Hewitt Florist Sheffield', full_name='Monica F Hewitt Florist Sheffield', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.5043115615844727, 53.40738295585929], [-1.5043115615844727, 53.40738295585929], [-1.5043115615844727, 53.40738295585929], [-1.5043115615844727, 53.40738295585929]]]), attributes={})
+
+1353244696953442304

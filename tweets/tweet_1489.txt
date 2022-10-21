@@ -1,0 +1,11 @@
+*There is no Liberal record of corruption, job losses, and failure on vaccines.
+
+No one is attacking you. You’re doing it quite well all on your own champ. https://t.co/iQSvufwHGr
+
+2021-01-23 21:47:04+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='53504716d445dcad', url='https://api.twitter.com/1.1/geo/id/53504716d445dcad.json', place_type='city', name='Calgary', full_name='Calgary, Alberta', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-114.3160379, 50.84278], [-113.859664, 50.84278], [-113.859664, 51.212548], [-114.3160379, 51.212548]]]), attributes={})
+
+1353096939164717056

@@ -1,0 +1,12 @@
+US applauds 'true friend' India for gifting COVID-19 vaccine to several countries
+https://t.co/OKrmAh6ilW
+
+via NaMo App https://t.co/l51QfKfmu5
+
+2021-01-24 05:35:56+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='53ef047cfd2345fb', url='https://api.twitter.com/1.1/geo/id/53ef047cfd2345fb.json', place_type='city', name='Hinganghat', full_name='Hinganghat, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[78.5230725, 20.2926394], [78.9420401, 20.2926394], [78.9420401, 20.6901533], [78.5230725, 20.6901533]]]), attributes={})
+
+1353214933723279360

@@ -1,0 +1,9 @@
+@DizMihok watching Hollywoodland again. Checking out your past work!  Hope you had a great New Year.  Get the vaccine, &amp; film some great new work this year!
+
+2021-01-23 20:23:10+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0a15199a1ef555b1', url='https://api.twitter.com/1.1/geo/id/0a15199a1ef555b1.json', place_type='city', name='Shorewood', full_name='Shorewood, IL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-88.254057, 41.4921837], [-88.1787085, 41.4921837], [-88.1787085, 41.5451494], [-88.254057, 41.5451494]]]), attributes={})
+
+1353075826888065025

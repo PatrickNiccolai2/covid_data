@@ -1,0 +1,20 @@
+|| वसुधैव कुटुम्बकम ||
+#VaccineMaitri 
+#IndianVaccine 
+#CovidVaccine #Covid_19 
+
+@INCIndia n to all opposition parties -
+ जली ना ? 
+
+मोदी जी के नाम का डंका तो अब दुनिया में और जोरों से बजने लगा है ।।
+#मोदीहैतोमुमकिनहै
+#ModiHaiToMumkinHai 
+#IndiaOnSafeHand https://t.co/1dJwUtb37j
+
+2021-01-24 03:18:14+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='770fe41a0c377954', url='https://api.twitter.com/1.1/geo/id/770fe41a0c377954.json', place_type='city', name='Mirzapur-Vindhyachal', full_name='Mirzapur-Vindhyachal, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[82.084274, 24.595197], [82.821975, 24.595197], [82.821975, 25.27479], [82.084274, 25.27479]]]), attributes={})
+
+1353180280576745472

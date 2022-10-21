@@ -1,0 +1,9 @@
+@GoodMorningSac @FOX5Vegas It would be interesting to see what the outcome is. Here you can’t get the vaccine if you have tested positive or had a positive antibody test within 90 days. I’ve had my first dose, husband has had first dose, most of my coworkers are getting their second. No real issues.
+
+2021-01-24 07:41:14+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5c2b5e46ab891f07', url='https://api.twitter.com/1.1/geo/id/5c2b5e46ab891f07.json', place_type='city', name='Las Vegas', full_name='Las Vegas, NV', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-115.384091, 36.129459], [-115.062159, 36.129459], [-115.062159, 36.336371], [-115.384091, 36.336371]]]), attributes={})
+
+1353246469122265088

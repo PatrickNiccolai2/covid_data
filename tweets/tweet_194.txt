@@ -1,0 +1,9 @@
+This is what can be achieved with the right protocols in place. Instead, look where we are now - it’s horrific 🥺#Covid_19 #Covid19UK #coronavirus #lockdown2021 #uk #GreatBritain #BorisJohnson #DowningStreetBriefing https://t.co/pkLJ9YfmMa
+
+2021-01-24 11:33:37+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5ce4eb6db85355e9', url='https://api.twitter.com/1.1/geo/id/5ce4eb6db85355e9.json', place_type='city', name='Huncote', full_name='Huncote, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.2427178, 52.5696294], [-1.2311436, 52.5696294], [-1.2311436, 52.5761275], [-1.2427178, 52.5761275]]]), attributes={})
+
+1353304948226850816

@@ -1,0 +1,9 @@
+Why are they warming up my covid vaccine on a spoon?
+
+2021-01-24 03:15:28+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5f2ad2e8059e53c5', url='https://api.twitter.com/1.1/geo/id/5f2ad2e8059e53c5.json', place_type='city', name='Burnsville', full_name='Burnsville, MN', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-93.3298112, 44.716911], [-93.222028, 44.716911], [-93.222028, 44.828464], [-93.3298112, 44.828464]]]), attributes={})
+
+1353179584167075840

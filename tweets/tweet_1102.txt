@@ -1,0 +1,9 @@
+@Samfr But they do make billions of vaccines just for them
+
+2021-01-24 00:35:45+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2a0101ab07454619', url='https://api.twitter.com/1.1/geo/id/2a0101ab07454619.json', place_type='city', name='Nuneaton', full_name='Nuneaton, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.544194, 52.4904571], [-1.418509, 52.4904571], [-1.418509, 52.542857], [-1.544194, 52.542857]]]), attributes={})
+
+1353139390185398272

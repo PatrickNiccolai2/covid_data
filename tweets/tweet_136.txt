@@ -1,0 +1,9 @@
+Another observation I have seen since #Covid_19 is how the self centred #middle classes in #MSM #science do not want us to have any hope. Vaccines , ah but they may not stop spread. New variants, may not work with vaccines, spread faster,worse mortality. Keep us living in fear.
+
+2021-01-24 12:06:05+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0a2b346125165e49', url='https://api.twitter.com/1.1/geo/id/0a2b346125165e49.json', place_type='city', name='Nunthorpe', full_name='Nunthorpe, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.2133235, 54.51756], [-1.167099, 54.51756], [-1.167099, 54.536882], [-1.2133235, 54.536882]]]), attributes={})
+
+1353313119381180417

@@ -1,0 +1,9 @@
+@RedaktionZack @Peter_Pilz In den Emirates wird mit 3 Impfstoffen vorgegangen Sinopharm und Pfizer, https://t.co/cbywretDh0
+
+2021-01-24 09:21:49+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='cc6e5fde483c28ae', url='https://api.twitter.com/1.1/geo/id/cc6e5fde483c28ae.json', place_type='city', name='Lanzendorf', full_name='Lanzendorf, Österreich', country_code='AT', country='Austria', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[16.4113038, 48.10093], [16.456563, 48.10093], [16.456563, 48.122657], [16.4113038, 48.122657]]]), attributes={})
+
+1353271779373027328

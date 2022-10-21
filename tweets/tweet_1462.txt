@@ -1,0 +1,9 @@
+Brazilian President Jair Bolsonaro invokes Ramayana, thanks India for Covid-19 vaccine supply - Times of India https://t.co/AX8tcZ7i76
+
+2021-01-23 22:02:09+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='9f659d51e5c5deae', url='https://api.twitter.com/1.1/geo/id/9f659d51e5c5deae.json', place_type='city', name='Vienna', full_name='Vienna, Austria', country_code='AT', country='Austria', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[16.18218, 48.117666], [16.577511, 48.117666], [16.577511, 48.322574], [16.18218, 48.322574]]]), attributes={})
+
+1353100737815998466

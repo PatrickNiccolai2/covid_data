@@ -1,0 +1,9 @@
+Trudeau’s CBC on Liberal failure to provide vaccines: “Look! Flying cows over there!” #cdnpoli https://t.co/ud72LITAaK
+
+2021-01-24 12:22:46+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0811cf61cd9ea52f', url='https://api.twitter.com/1.1/geo/id/0811cf61cd9ea52f.json', place_type='city', name='Winnipeg', full_name='Winnipeg, Manitoba', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-97.350366, 49.713679], [-96.954987, 49.713679], [-96.954987, 49.993932], [-97.350366, 49.993932]]]), attributes={})
+
+1353317316948226049

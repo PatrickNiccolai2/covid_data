@@ -1,0 +1,9 @@
+El single " Post break-up sex " de The Vaccines se lanzaba en Europa el 24 de enero de 2011 . https://t.co/317X3edK0l
+
+2021-01-24 07:39:33+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4afa2757051c5192', url='https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json', place_type='admin', name='Buenos Aires', full_name='Buenos Aires, Argentina', country_code='AR', country='Argentina', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-63.39386, -41.035009], [-56.665836, -41.035009], [-56.665836, -33.260144], [-63.39386, -33.260144]]]), attributes={})
+
+1353246041563406337

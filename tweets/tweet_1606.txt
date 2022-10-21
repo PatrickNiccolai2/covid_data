@@ -1,0 +1,10 @@
+@kayla_vasco 2 million Covid deaths: well we don’t know that they were all Covid. These people would have died anyways 
+1 old person dies after getting the vaccine and there has yet to be any link between his death and the vaccine : look, the vaccine killed this guy
+
+2021-01-23 20:56:18+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4ec01c9dbc693497', url='https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json', place_type='admin', name='Florida', full_name='Florida, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-87.634643, 24.396308], [-79.974307, 24.396308], [-79.974307, 31.001056], [-87.634643, 31.001056]]]), attributes={})
+
+1353084163520421888

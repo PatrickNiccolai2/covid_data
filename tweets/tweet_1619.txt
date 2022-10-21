@@ -1,0 +1,9 @@
+@jkwan_md Thank you Dr. Kwan, much appreciated. QQ please. If O-A/Z and J&amp;J vaccines were approved for 🇨🇦 on, say, Monday, do we have a delivery schedule (dates/numbers)? Surely, these are the game changers that we need.
+
+2021-01-23 20:50:42+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7fb65eafafe234bf', url='https://api.twitter.com/1.1/geo/id/7fb65eafafe234bf.json', place_type='city', name='Oro-Medonte', full_name='Oro-Medonte, Ontario', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-79.799258, 44.386368], [-79.297671, 44.386368], [-79.297671, 44.705264], [-79.799258, 44.705264]]]), attributes={})
+
+1353082754565632002

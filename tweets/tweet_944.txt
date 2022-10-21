@@ -1,0 +1,9 @@
+&gt;&gt;Which means Without the ability own any property..Will reduce the peoples ability to Grow their own {Organic Gardens}..&amp; more dependent on the {Largest Farm land Owner} ..#BillGates {Bio-Engineered}..Vaccine Injected Food&gt;&gt; https://t.co/j7LbgX0TrT
+
+2021-01-24 02:24:01+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='63c27109cee3362f', url='https://api.twitter.com/1.1/geo/id/63c27109cee3362f.json', place_type='city', name='Clinton', full_name='Clinton, MD', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-76.973314, 38.702045], [-76.843494, 38.702045], [-76.843494, 38.7986], [-76.973314, 38.7986]]]), attributes={})
+
+1353166635264303104

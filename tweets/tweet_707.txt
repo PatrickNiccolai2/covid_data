@@ -1,0 +1,9 @@
+A quick story about our decentralized, underfunded, poorly directed pandemic response: nearly all my friends in NoVa are one vaccine in and teaching remotely for at least several more weeks. I cannot even schedule my first shot and am back in the classroom on Monday.
+
+2021-01-24 05:43:13+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='f7eb2fa2fea288b1', url='https://api.twitter.com/1.1/geo/id/f7eb2fa2fea288b1.json', place_type='city', name='Lakewood', full_name='Lakewood, CO', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-105.193475, 39.60973], [-105.053164, 39.60973], [-105.053164, 39.761974], [-105.193475, 39.761974]]]), attributes={})
+
+1353216767225597952

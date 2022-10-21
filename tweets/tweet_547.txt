@@ -1,0 +1,9 @@
+@Crux @eliseannallen Chicago vaccine distribution, like its politics, is crooked as usual. The ‘connected’ sleek &amp; the strong, morbidly obese smokers, as well as hale &amp; hearty partiers, get vaccinated. The sick 70+ continue to wait. I’ll be dead by the time they make time for me!
+
+2021-01-24 08:14:33+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1d9a5370a355ab0c', url='https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json', place_type='city', name='Chicago', full_name='Chicago, IL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-87.940033, 41.644102], [-87.523993, 41.644102], [-87.523993, 42.0230669], [-87.940033, 42.0230669]]]), attributes={})
+
+1353254849740156930

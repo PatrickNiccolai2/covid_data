@@ -1,0 +1,9 @@
+@APB173 @Germans4indyref @BorisJohnson @Conservatives @ScotTories @UKLabour @LibDems @theSNP @TheGreenParty @Plaid_Cymru 33% after first vaccination, 66% after the second, given at the right time. We really don’t get rid of the virus then.  It just start to mutate and we will be back to square one!
+
+2021-01-23 22:26:24+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='83e9c5185856cabc', url='https://api.twitter.com/1.1/geo/id/83e9c5185856cabc.json', place_type='city', name='Kilkenny', full_name='Kilkenny, Ireland', country_code='IE', country='Ireland', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-7.6733888, 52.2425457], [-6.9142322, 52.2425457], [-6.9142322, 52.8944269], [-7.6733888, 52.8944269]]]), attributes={})
+
+1353106837403561984

@@ -1,0 +1,9 @@
+@DeanFriedman You’ve gigged Macclesfield....... there’s nothing in that vaccine that you won’t have already experienced 🤣🤣.
+
+2021-01-24 01:46:50+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='72606cdcf2847dd4', url='https://api.twitter.com/1.1/geo/id/72606cdcf2847dd4.json', place_type='city', name='Macclesfield', full_name='Macclesfield, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.176513, 53.2366549], [-2.094475, 53.2366549], [-2.094475, 53.298646], [-2.176513, 53.298646]]]), attributes={})
+
+1353157280712294401

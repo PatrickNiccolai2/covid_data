@@ -1,0 +1,11 @@
+@ReallyNiceDerek Remember what we do as a living. I know covid is real but I 1000% know we’re being constantly lied to - so why would I believe at this point what they’re telling me.
+
+I’m not anti vax anti mask etc - do what you want. Same way I will. But have a comment and expect a response 🤷🏼‍♂️
+
+2021-01-24 09:15:39+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='07e9c7d1954fff64', url='https://api.twitter.com/1.1/geo/id/07e9c7d1954fff64.json', place_type='city', name='Sheffield', full_name='Sheffield, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.573648, 53.309898], [-1.325576, 53.309898], [-1.325576, 53.4564311], [-1.573648, 53.4564311]]]), attributes={})
+
+1353270225773457409

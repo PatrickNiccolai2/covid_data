@@ -1,0 +1,9 @@
+@MattHancock How are YOU and the "experts", going to manage then 2 week drop in production of the vaccine, whilst the factory upgrades its production!!
+
+2021-01-24 10:46:45+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1b676cd4b8a8684a', url='https://api.twitter.com/1.1/geo/id/1b676cd4b8a8684a.json', place_type='city', name='Southampton', full_name='Southampton, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.476463, 50.883056], [-1.3164712, 50.883056], [-1.3164712, 50.959599], [-1.476463, 50.959599]]]), attributes={})
+
+1353293152917090304

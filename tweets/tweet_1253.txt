@@ -1,0 +1,9 @@
+@sweetteatime55 @LockKerrUp @jaketapper Yeah, that's true. We also won't have the benefit of studying cohorts of people over a longer period of time. The scientists are weighing any vaccine risk against mounting illness and death. It's the right call.
+
+2021-01-23 23:28:04+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='60e2c37980197297', url='https://api.twitter.com/1.1/geo/id/60e2c37980197297.json', place_type='city', name='St Paul', full_name='St Paul, MN', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-93.207783, 44.8907521], [-93.003514, 44.8907521], [-93.003514, 44.992279], [-93.207783, 44.992279]]]), attributes={})
+
+1353122358207410179

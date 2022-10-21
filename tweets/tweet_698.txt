@@ -1,0 +1,11 @@
+@vanreanalyst The Health Secretary got ahead of himself... but worth watching. 
+
+“So taking a result from a laboratory and saying ‘therefore the vaccine will be 50% less effective’ – you just can’t do it.”
+
+2021-01-24 05:50:39+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='43dab8343fafc800', url='https://api.twitter.com/1.1/geo/id/43dab8343fafc800.json', place_type='city', name='West Vancouver', full_name='West Vancouver, British Columbia', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-123.29656, 49.313607], [-123.117141, 49.313607], [-123.117141, 49.407888], [-123.29656, 49.407888]]]), attributes={})
+
+1353218638178738176

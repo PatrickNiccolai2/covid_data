@@ -1,0 +1,9 @@
+@MSNBC You can add Arizona to states that are waaaay short on vaccines!
+
+2021-01-23 19:06:34+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0101d0b229668acc', url='https://api.twitter.com/1.1/geo/id/0101d0b229668acc.json', place_type='city', name='Oak Creek', full_name='Oak Creek, AZ', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-111.794851, 34.761821], [-111.748666, 34.761821], [-111.748666, 34.790803], [-111.794851, 34.790803]]]), attributes={})
+
+1353056549787332608

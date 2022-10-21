@@ -1,0 +1,10 @@
+BBC News - Learning disability vaccine plea: 'Don't leave us to rot'
+https://t.co/xiyZChwWr7
+
+2021-01-24 13:08:57+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7734d65039233b0f', url='https://api.twitter.com/1.1/geo/id/7734d65039233b0f.json', place_type='city', name='Carnoustie', full_name='Carnoustie, Scotland', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.7644846, 56.494521], [-2.6932106, 56.494521], [-2.6932106, 56.512775], [-2.7644846, 56.512775]]]), attributes={})
+
+1353328940904026113

@@ -1,0 +1,9 @@
+@nbeaudrot This is why we have a waiting list so we can call those people and rush them in so we don’t waste vaccine
+
+2021-01-23 19:25:17+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='012114c62eabff1d', url='https://api.twitter.com/1.1/geo/id/012114c62eabff1d.json', place_type='city', name='Seekonk', full_name='Seekonk, MA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-71.3471612, 41.774938], [-71.290299, 41.774938], [-71.290299, 41.887032], [-71.3471612, 41.887032]]]), attributes={})
+
+1353061259835371521

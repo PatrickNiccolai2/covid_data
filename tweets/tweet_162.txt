@@ -1,0 +1,9 @@
+@Lindsayyyyyyyy_ Why would they push that? It would just be pushing a narrative to cause hysteria (which we don’t need right now) and there isn’t a cause of death yet?? It could have been anything, not necessarily the vaccine.
+
+2021-01-24 11:54:45+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6565298bcadb82a1', url='https://api.twitter.com/1.1/geo/id/6565298bcadb82a1.json', place_type='city', name='Knoxville', full_name='Knoxville, TN', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-84.19397, 35.831436], [-83.733713, 35.831436], [-83.733713, 36.133505], [-84.19397, 36.133505]]]), attributes={})
+
+1353310264607825921

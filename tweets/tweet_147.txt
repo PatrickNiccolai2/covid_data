@@ -1,0 +1,9 @@
+Flash: Bangladesh to get its first commercial consignment of #Covid vaccine from India tomm. 1st consignment of 50 lakh doses of made in India Covishield vaccine to reach Dhaka tomm morning. https://t.co/wHok9MwL9i
+
+2021-01-24 12:01:45+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='317fcc4b21a604d5', url='https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', place_type='city', name='New Delhi', full_name='New Delhi, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[76.84252, 28.397657], [77.347652, 28.397657], [77.347652, 28.879322], [76.84252, 28.879322]]]), attributes={})
+
+1353312027184390145

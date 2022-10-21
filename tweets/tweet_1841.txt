@@ -1,0 +1,9 @@
+42 ! Le chiffre du jour de @HAS_sante ! 42 jours entre 2 injections du #VaccinCovid alors que #Pfizer recommande 21 à 28 jours ainsi que l’autorisation de mise sur le marché. C’est le choix de la quantité médiatique du nombre de vaccinés contre la qualité médicale du bien vacciné
+
+2021-01-23 19:20:23+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4c6100a96901fb5e', url='https://api.twitter.com/1.1/geo/id/4c6100a96901fb5e.json', place_type='city', name='Marseille', full_name='Marseille, France', country_code='FR', country='France', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[5.2780296, 43.1973118], [5.5325183, 43.1973118], [5.5325183, 43.3913065], [5.2780296, 43.3913065]]]), attributes={})
+
+1353060025447505921

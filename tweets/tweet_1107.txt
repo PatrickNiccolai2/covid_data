@@ -1,0 +1,9 @@
+@jaketapper Thanks Jake.  Confusion reigns here. The state has indicated on their website various places where the vaccine will be administered but in reaching out to those local to me they either don't have supply on-hand or know when it will be available.
+
+2021-01-24 00:34:42+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='dd9c503d6c35364b', url='https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json', place_type='admin', name='Pennsylvania', full_name='Pennsylvania, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.519851, 39.719801], [-74.689517, 39.719801], [-74.689517, 42.516072], [-80.519851, 42.516072]]]), attributes={})
+
+1353139126229495809

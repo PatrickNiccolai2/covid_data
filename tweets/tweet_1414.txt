@@ -1,0 +1,9 @@
+How exciting to watch #boonenation getting their vaccines today! Can’t wait for next weekend when it is our turn #teamkenton https://t.co/IVOkZHbzSs
+
+2021-01-23 22:22:20+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='dcd73905ee565216', url='https://api.twitter.com/1.1/geo/id/dcd73905ee565216.json', place_type='city', name='Florence', full_name='Florence, KY', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-84.7067967, 38.917578], [-84.606098, 38.917578], [-84.606098, 39.060938], [-84.7067967, 39.060938]]]), attributes={})
+
+1353105816711294978

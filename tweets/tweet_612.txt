@@ -1,0 +1,9 @@
+Your minister @barryofarrell @AusHCIndia is witness of it that there is no corona in india. All countries have approved vaccines. Why are you not allowing students to Australia #InternationalStudentsAustralia #LetUsBackToAus #LetUsComeToAus #travelban #OpenBorders @UNHumanRights https://t.co/8ADDGK4Hjt
+
+2021-01-24 07:17:41+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1cac77f53e309a52', url='https://api.twitter.com/1.1/geo/id/1cac77f53e309a52.json', place_type='city', name='Giddarbaha', full_name='Giddarbaha, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[74.642065, 30.188987], [74.673965, 30.188987], [74.673965, 30.220222], [74.642065, 30.220222]]]), attributes={})
+
+1353240542063288320

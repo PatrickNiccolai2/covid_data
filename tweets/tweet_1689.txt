@@ -1,0 +1,9 @@
+Only way I’m taking that vaccine is if 50k sitting next to it
+
+2021-01-23 20:24:46+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='f243cab414476355', url='https://api.twitter.com/1.1/geo/id/f243cab414476355.json', place_type='city', name='Montclair', full_name='Montclair, VA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-77.410461, 38.5803763], [-77.3030731, 38.5803763], [-77.3030731, 38.635996], [-77.410461, 38.635996]]]), attributes={})
+
+1353076227729309699

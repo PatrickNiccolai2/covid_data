@@ -1,0 +1,9 @@
+Dr. Fauci Says He Had These Side Effects From His Second Vaccine Dose https://t.co/tegvb874OS via @Yahoo @wdcarde
+
+2021-01-23 23:12:55+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3e651c574ee65612', url='https://api.twitter.com/1.1/geo/id/3e651c574ee65612.json', place_type='city', name='Hato Rey Norte', full_name='Hato Rey Norte, Puerto Rico', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-66.10742, 18.406149], [-66.055268, 18.406149], [-66.055268, 18.442898], [-66.10742, 18.442898]]]), attributes={})
+
+1353118543257206787

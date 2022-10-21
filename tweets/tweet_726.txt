@@ -1,0 +1,11 @@
+@TraceyM0802 I went and got tested today in Tolleson, AZ. 
+I went to find out about the vaccine, I'm told we aren't able to get it, vaccination in stages, anyway, I'll get it when I'm allowed to. dotard ruined so much,
+That pos is responsible
+
+2021-01-24 05:21:05+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5c62ffb0f0f3479d', url='https://api.twitter.com/1.1/geo/id/5c62ffb0f0f3479d.json', place_type='city', name='Phoenix', full_name='Phoenix, AZ', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-112.3239143, 33.29026], [-111.9254391, 33.29026], [-111.9254391, 33.8154652], [-112.3239143, 33.8154652]]]), attributes={})
+
+1353211197533818882

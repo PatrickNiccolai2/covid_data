@@ -1,0 +1,9 @@
+#grateful #firstdosedone #COVID19Vaccine #VaccinesWork #VaccinesSaveLives #Vaccine_rollout #publichealthcovidresponse  #Malta 🇲🇹 #letsbeatthistogether😷💉 #TakeYourShot https://t.co/GCyg4FjSNQ
+
+2021-01-23 20:28:21+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0fc2acaad4d4f000', url='https://api.twitter.com/1.1/geo/id/0fc2acaad4d4f000.json', place_type='poi', name='Floriana Health Centre', full_name='Floriana Health Centre', country_code='MT', country='Malta', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[14.504914598617603, 35.88999292055226], [14.504914598617603, 35.88999292055226], [14.504914598617603, 35.88999292055226], [14.504914598617603, 35.88999292055226]]]), attributes={})
+
+1353077130515591168

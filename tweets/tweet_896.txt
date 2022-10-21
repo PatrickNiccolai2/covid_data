@@ -1,0 +1,13 @@
+📌GO AHEAD AND GET UR VACCINE WACKJOBS. This is our Modern Day Wounded knee. Population genocide.
+#IWillPass 
+#Moderna
+#Pfizer
+#COVIDVaccine https://t.co/3ApjpD5Muz
+
+2021-01-24 02:49:47+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='38dcb5beb5ccfbf4', url='https://api.twitter.com/1.1/geo/id/38dcb5beb5ccfbf4.json', place_type='city', name='Colfax', full_name='Colfax, WA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-117.3826956, 46.8673623], [-117.346016, 46.8673623], [-117.346016, 46.901996], [-117.3826956, 46.901996]]]), attributes={})
+
+1353173121381978112

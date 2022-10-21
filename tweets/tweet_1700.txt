@@ -1,0 +1,11 @@
+Pfizer announced a vaccine days after the election. Big tech shuts down certain accounts and suppresses certain news stories. Democrat cities open up economies after the inauguration. And Amazon offers COVID help on Biden’s first day of presidency. 
+
+How odd. 🤔
+
+2021-01-23 20:18:55+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3c795c23e03120f8', url='https://api.twitter.com/1.1/geo/id/3c795c23e03120f8.json', place_type='city', name='Monument', full_name='Monument, CO', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-104.8811237, 39.048775], [-104.8225616, 39.048775], [-104.8225616, 39.112372], [-104.8811237, 39.112372]]]), attributes={})
+
+1353074758456201216

@@ -1,0 +1,9 @@
+I cannot seem to find any answers as to why Minnesota has only used around 42% of the vaccines we currently have in possession. If it’s a matter of manpower, lack of coordination or something else, I just wish they’d say so instead of evading the question. #mdh #covidinmn
+
+2021-01-23 19:08:58+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='9807c5c5f7a2c6ce', url='https://api.twitter.com/1.1/geo/id/9807c5c5f7a2c6ce.json', place_type='admin', name='Minnesota', full_name='Minnesota, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-97.239256, 43.499362], [-89.483385, 43.499362], [-89.483385, 49.384359], [-97.239256, 49.384359]]]), attributes={})
+
+1353057152579997701

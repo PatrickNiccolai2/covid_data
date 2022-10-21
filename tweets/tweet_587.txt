@@ -1,0 +1,9 @@
+@MercPurdy Thankfully most of #NHL players truly "get it" - here in Colorado, Avs' captain Gabe Landeskog was asked if he thought players should get vaccine priority. He laughed incredulously that the question was even asked - and put the focus on frontline heroes and elderly.
+
+2021-01-24 07:43:26+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='b49b3053b5c25bf5', url='https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json', place_type='city', name='Denver', full_name='Denver, CO', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-105.109815, 39.614151], [-104.734372, 39.614151], [-104.734372, 39.812975], [-105.109815, 39.812975]]]), attributes={})
+
+1353247019217911808

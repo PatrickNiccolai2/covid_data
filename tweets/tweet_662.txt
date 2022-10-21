@@ -1,0 +1,9 @@
+Way to go @JNJNews let’s be sure to get enough vaccine on that PO, ok? ❤️💪🏼🇺🇸 https://t.co/wSjwbVDKMv
+
+2021-01-24 06:26:09+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='34ed2e67dd5a22bb', url='https://api.twitter.com/1.1/geo/id/34ed2e67dd5a22bb.json', place_type='country', name='Slovak Republic', full_name='Slovak Republic', country_code='SK', country='Slovak Republic', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[16.833182, 47.7313888], [22.5662056, 47.7313888], [22.5662056, 49.6138237], [16.833182, 49.6138237]]]), attributes={})
+
+1353227570167377922

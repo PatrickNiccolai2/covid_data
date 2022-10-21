@@ -1,0 +1,11 @@
+Don’t want to alarm folks but that Hollywood blockbuster “I Am Legend” (2007) was set in 2021 with a plot centred around a zombie apocalypse caused by a failed vaccine....🤣🤣🤣
+
+And no that isn’t a good reason not to get the vaccine!!!
+
+2021-01-24 00:07:21+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='19c7809c08be2a2e', url='https://api.twitter.com/1.1/geo/id/19c7809c08be2a2e.json', place_type='city', name='Guilsfield', full_name='Guilsfield, Wales', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.1636359, 52.691936], [-3.1433893, 52.691936], [-3.1433893, 52.7009085], [-3.1636359, 52.7009085]]]), attributes={})
+
+1353132243972218882

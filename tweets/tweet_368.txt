@@ -1,0 +1,10 @@
+@marianfearon I dont know 😪
+How did your vaccine go yesterday? Was it all well run?
+
+2021-01-24 09:50:18+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7eb11aafbb332b32', url='https://api.twitter.com/1.1/geo/id/7eb11aafbb332b32.json', place_type='city', name='Belton', full_name='Belton, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.342012, 52.7789375], [-1.334309, 52.7789375], [-1.334309, 52.7848646], [-1.342012, 52.7848646]]]), attributes={})
+
+1353278946452889600

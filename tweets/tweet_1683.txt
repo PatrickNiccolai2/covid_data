@@ -1,0 +1,9 @@
+@GregAbbott_TX But liberal Austin still behind giving vaccines to seniors
+
+2021-01-23 20:28:11+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='b5613ac46d587422', url='https://api.twitter.com/1.1/geo/id/b5613ac46d587422.json', place_type='city', name='Pflugerville', full_name='Pflugerville, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-97.6646105, 30.420118], [-97.549428, 30.420118], [-97.549428, 30.5007704], [-97.6646105, 30.5007704]]]), attributes={})
+
+1353077089084317696

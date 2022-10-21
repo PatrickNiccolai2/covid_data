@@ -1,0 +1,9 @@
+@RKTvascular The vaccines are not yet FDA approved. They were expedited as Emergency Use
+
+2021-01-24 00:28:08+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='dd443cdeaaf05242', url='https://api.twitter.com/1.1/geo/id/dd443cdeaaf05242.json', place_type='city', name='West University Place', full_name='West University Place, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-95.4473, 29.705996], [-95.41829, 29.705996], [-95.41829, 29.7255264], [-95.4473, 29.7255264]]]), attributes={})
+
+1353137472977461248

@@ -1,0 +1,9 @@
+@MattHancock &amp; @BorisJohnson this tweet aged well didn’t it, pal. #coronavirusuk #coronavirus #ZeroCovid https://t.co/UNpNWlMddL
+
+2021-01-24 11:37:28+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='129720e180d0dd20', url='https://api.twitter.com/1.1/geo/id/129720e180d0dd20.json', place_type='city', name='Leigh', full_name='Leigh, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.532847, 53.479202], [-2.476207, 53.479202], [-2.476207, 53.523912], [-2.532847, 53.523912]]]), attributes={})
+
+1353305918625226753

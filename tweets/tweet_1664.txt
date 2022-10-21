@@ -1,0 +1,9 @@
+@blaojg @3libloushiii1 But this doesn't make any sense now. People are taking vaccines. The tendency is COVID to be contained, although the economic bubble will collapse at any giving moment. Tendency is to have a temporary rise with the stimulus and AFTER the bubble bursts and everything collapses.
+
+2021-01-23 20:33:20+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='c9f2f46c0d1b963d', url='https://api.twitter.com/1.1/geo/id/c9f2f46c0d1b963d.json', place_type='city', name='João Pessoa', full_name='João Pessoa, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-34.9738347, -7.243257], [-34.792907, -7.243257], [-34.792907, -7.055696], [-34.9738347, -7.055696]]]), attributes={})
+
+1353078384566427649

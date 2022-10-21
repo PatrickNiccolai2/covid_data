@@ -1,0 +1,9 @@
+@notalilbaby @Christi73731955 @pugoz I'm sure it can be done safely with masks and vaccines.
+
+2021-01-24 10:21:54+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='65fb4b550d17bb34', url='https://api.twitter.com/1.1/geo/id/65fb4b550d17bb34.json', place_type='city', name='Stowmarket', full_name='Stowmarket, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[0.970731, 52.17274], [1.0228531, 52.17274], [1.0228531, 52.2000435], [0.970731, 52.2000435]]]), attributes={})
+
+1353286900740714498

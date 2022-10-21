@@ -1,0 +1,9 @@
+@runcertain Just watched this afternoon would break your heart for her and her family.and then u get the anti maskers and anti vaxers saying its a flu and it doesn't exist.Maybe they should sit down and watch it again and again.Stay safe peeps and keep well.x
+
+2021-01-23 18:56:01+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0f30361084eecfc3', url='https://api.twitter.com/1.1/geo/id/0f30361084eecfc3.json', place_type='city', name='Waterford', full_name='Waterford, Ireland', country_code='IE', country='Ireland', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-8.1621983, 51.9376708], [-6.9501039, 51.9376708], [-6.9501039, 52.3643272], [-8.1621983, 52.3643272]]]), attributes={})
+
+1353053893941465092

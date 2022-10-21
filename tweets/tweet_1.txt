@@ -1,0 +1,9 @@
+@SharpSharpsusan We are all good 👍Both of us had 1st vaccine and Ant still shielding! 🙂
+
+2021-01-24 13:20:19+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='10a9976fe9dec853', url='https://api.twitter.com/1.1/geo/id/10a9976fe9dec853.json', place_type='city', name='Merthyr Tydfil', full_name='Merthyr Tydfil, Wales', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.4263222, 51.733092], [-3.33849, 51.733092], [-3.33849, 51.7777002], [-3.4263222, 51.7777002]]]), attributes={})
+
+1353331800731504641

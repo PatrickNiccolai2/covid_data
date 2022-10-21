@@ -1,0 +1,9 @@
+You don't by chance, think Capitalism had anything to do with how fast we got multiple Covid vaccines????? https://t.co/PwTRv8wX5u
+
+2021-01-23 19:23:12+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='dd9c503d6c35364b', url='https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json', place_type='admin', name='Pennsylvania', full_name='Pennsylvania, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.519851, 39.719801], [-74.689517, 39.719801], [-74.689517, 42.516072], [-80.519851, 42.516072]]]), attributes={})
+
+1353060733144027136

@@ -1,0 +1,9 @@
+@DonaldJTrumpJr But managed to kill off 400 000 Americans .... btw where’s the vaccine plan   Btw bugger off into oblivion with your lies
+
+2021-01-23 19:36:41+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1b66f15d4efa136f', url='https://api.twitter.com/1.1/geo/id/1b66f15d4efa136f.json', place_type='admin', name='Western Australia', full_name='Western Australia, Australia', country_code='AU', country='Australia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[112.921113954128, -35.1348464327536], [129.00193001566, -35.1348464327536], [129.00193001566, -13.6894920283571], [112.921113954128, -13.6894920283571]]]), attributes={})
+
+1353064129888571393

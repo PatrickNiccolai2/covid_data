@@ -1,0 +1,9 @@
+@bwhytecgy @cathmckenna @liberal_party @OCFLA Yeah that's why the Liberal Gov't secured tens of millions of vaccines. Give your head a shake.
+
+2021-01-23 19:46:09+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='38d5974e82ed1a6c', url='https://api.twitter.com/1.1/geo/id/38d5974e82ed1a6c.json', place_type='city', name='Ottawa', full_name='Ottawa, Ontario', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-76.353876, 44.961937], [-75.246407, 44.961937], [-75.246407, 45.5356446], [-76.353876, 45.5356446]]]), attributes={})
+
+1353066512379113472

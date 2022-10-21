@@ -1,0 +1,9 @@
+Vaccine update: very easy and organized process. Felt a little tired and brief chills a couple hours after but nothing too crazy.
+
+2021-01-24 02:19:55+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01e74c422dab6107', url='https://api.twitter.com/1.1/geo/id/01e74c422dab6107.json', place_type='city', name='Cinco Ranch', full_name='Cinco Ranch, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-95.8463667, 29.676113], [-95.711056, 29.676113], [-95.711056, 29.7678652], [-95.8463667, 29.7678652]]]), attributes={})
+
+1353165604988063744

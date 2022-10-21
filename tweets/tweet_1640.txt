@@ -1,0 +1,9 @@
+I get covid19 Vaccine formula
+
+2021-01-23 20:42:51+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01eddd9d0dbec2c8', url='https://api.twitter.com/1.1/geo/id/01eddd9d0dbec2c8.json', place_type='city', name='Ikeja', full_name='Ikeja, Nigeria', country_code='NG', country='Nigeria', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[3.198942, 6.4826762], [3.43719, 6.4826762], [3.43719, 6.6985461], [3.198942, 6.6985461]]]), attributes={})
+
+1353080777391681537

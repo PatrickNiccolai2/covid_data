@@ -1,0 +1,9 @@
+Totally agree with Jonathan Van-Tam that vaccines are the way out of this pandemic, but we must all continue to follow the rules, even once we’ve had the vaccine. The end is in sight. https://t.co/Wsxe5flg7V
+
+2021-01-24 09:57:13+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7c41ece12f239900', url='https://api.twitter.com/1.1/geo/id/7c41ece12f239900.json', place_type='city', name='Endon', full_name='Endon, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.131007, 53.0628], [-2.100725, 53.0628], [-2.100725, 53.084623], [-2.131007, 53.084623]]]), attributes={})
+
+1353280688523501570

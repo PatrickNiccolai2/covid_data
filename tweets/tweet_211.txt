@@ -1,0 +1,9 @@
+@amandajeza @MacleanEwan @102mart @afneil Yeah we're selling the vaccine drive off to another Tory crony b/c it worked so well wi test not trace &amp; we're the ONLY country in the world NOT giving the full vaccination 🙈😂 &amp; really NOT anything to do wi 'democracy in action.' Do u actually know what that means?? 🤔🙊😂
+
+2021-01-24 11:17:18+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='050a1e9d470a6aa5', url='https://api.twitter.com/1.1/geo/id/050a1e9d470a6aa5.json', place_type='city', name='Cambuslang', full_name='Cambuslang, Scotland', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-4.234957, 55.801055], [-4.1103347, 55.801055], [-4.1103347, 55.8407764], [-4.234957, 55.8407764]]]), attributes={})
+
+1353300843014082561

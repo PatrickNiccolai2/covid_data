@@ -1,0 +1,9 @@
+@Chrissy1b The vaccine will protect you from Coronavirus, thou! Don’t you want that? Your life’s extremely valuable; please don’t throw it all away! :)
+
+2021-01-24 00:53:38+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5883ce793faa25a9', url='https://api.twitter.com/1.1/geo/id/5883ce793faa25a9.json', place_type='city', name='Barry', full_name='Barry, Wales', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.3080904, 51.387271], [-3.202608, 51.387271], [-3.202608, 51.426868], [-3.3080904, 51.426868]]]), attributes={})
+
+1353143892833665025

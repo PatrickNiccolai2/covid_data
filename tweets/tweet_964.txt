@@ -1,0 +1,9 @@
+@MattHancock Sometime age is just number , may be someone more younger needs vaccine desperately rather than people who are shielding some how . Broad your vulnerability level please . We have high hopes .
+
+2021-01-24 02:14:34+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0292257d85023f3f', url='https://api.twitter.com/1.1/geo/id/0292257d85023f3f.json', place_type='city', name='Rochester', full_name='Rochester, South East', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[0.477715, 51.3252977], [0.5593765, 51.3252977], [0.5593765, 51.403378], [0.477715, 51.403378]]]), attributes={})
+
+1353164259845410819

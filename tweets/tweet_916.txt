@@ -1,0 +1,13 @@
+Is there a reason that @CountyofLA vaccine clinics are not running 24/7?
+
+Would address this nonsensical issue of what to do with doses at “day end”. Some pharmacies already operate 24 hours a day as it is. 
+
+Not that there’s any urgency here or anything ...
+
+2021-01-24 02:39:53+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='59612bd882018c51', url='https://api.twitter.com/1.1/geo/id/59612bd882018c51.json', place_type='city', name='Santa Monica', full_name='Santa Monica, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-118.5173575, 33.9951771], [-118.443482, 33.9951771], [-118.443482, 34.050199], [-118.5173575, 34.050199]]]), attributes={})
+
+1353170630695239680

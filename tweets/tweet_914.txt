@@ -1,0 +1,9 @@
+@JamesSurowiecki @mattyglesias @DouthatNYT On the other hand it’s not like he vaccines were a surprise. They had 6 months to coordinate logistics and did nothing. No support to states, etc. whatever success exists is no thanks to Washington republicans.
+
+2021-01-24 02:40:26+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='c3f37afa9efcf94b', url='https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json', place_type='city', name='Austin', full_name='Austin, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-97.928935, 30.127892], [-97.5805133, 30.127892], [-97.5805133, 30.5187994], [-97.928935, 30.5187994]]]), attributes={})
+
+1353170767635230720

@@ -1,0 +1,11 @@
+A #vaccine education series, something the public really needs.
+@RealKateeOwen
+https://t.co/N7uT8wmHRe
+
+2021-01-23 19:16:51+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='fa6201e92b2d5753', url='https://api.twitter.com/1.1/geo/id/fa6201e92b2d5753.json', place_type='city', name='Meiners Oaks', full_name='Meiners Oaks, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-119.289891, 34.442438], [-119.257186, 34.442438], [-119.257186, 34.463653], [-119.289891, 34.463653]]]), attributes={})
+
+1353059137395933187

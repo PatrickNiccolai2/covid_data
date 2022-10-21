@@ -1,0 +1,9 @@
+@LoreleiLiBan Yeah, it's not a good way to roll out a vaccine.
+
+2021-01-24 09:52:14+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1bfd34ea190a59c2', url='https://api.twitter.com/1.1/geo/id/1bfd34ea190a59c2.json', place_type='city', name='Banstead', full_name='Banstead, South East', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.253407, 51.2695267], [-0.155273, 51.2695267], [-0.155273, 51.3366454], [-0.253407, 51.3366454]]]), attributes={})
+
+1353279434405634048

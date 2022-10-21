@@ -1,0 +1,9 @@
+Just got the covid vaccine 💉. Super powers pending...
+
+2021-01-23 23:05:06+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='42e46bc3663a4b5f', url='https://api.twitter.com/1.1/geo/id/42e46bc3663a4b5f.json', place_type='city', name='Fort Worth', full_name='Fort Worth, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-97.538285, 32.569477], [-97.033542, 32.569477], [-97.033542, 32.990456], [-97.538285, 32.990456]]]), attributes={})
+
+1353116577282084864

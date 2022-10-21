@@ -1,0 +1,9 @@
+Genuine question - looking at this graph from @ICNARC on the age /sex distribution of people with confirmed COVID-19, would there be benefit in also targeting vaccines for men &gt;50? https://t.co/PqYLlyK0qI
+
+2021-01-24 11:53:30+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1b9fb7562221d8f8', url='https://api.twitter.com/1.1/geo/id/1b9fb7562221d8f8.json', place_type='city', name='Lindfield', full_name='Lindfield, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.099857, 50.994199], [-0.066365, 50.994199], [-0.066365, 51.019028], [-0.099857, 51.019028]]]), attributes={})
+
+1353309951914029056

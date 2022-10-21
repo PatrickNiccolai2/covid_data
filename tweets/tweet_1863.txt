@@ -1,0 +1,9 @@
+Ready to help with the vaccine clinic at the PIT—look who I found helping too!  Hollie Medina @momofmany5_ , Sr. Ops Manager for GME, on her second day volunteering. UNM GME representing! @UNMHSC https://t.co/8lc7qN6hDh
+
+2021-01-23 19:10:45+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='813a485b26b8dae2', url='https://api.twitter.com/1.1/geo/id/813a485b26b8dae2.json', place_type='city', name='Albuquerque', full_name='Albuquerque, NM', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-106.7916912, 35.0158912], [-106.473745, 35.0158912], [-106.473745, 35.218114], [-106.7916912, 35.218114]]]), attributes={})
+
+1353057602679181322

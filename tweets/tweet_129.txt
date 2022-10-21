@@ -1,0 +1,9 @@
+@christheowl I think this time it's been more difficult but there is hope with the vaccine, last time I went out was to a hospital appointment on the 10th, on the➕side I've organised a lot of my drawers, keep safe x
+
+2021-01-24 12:09:48+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='65b143e04acc1b74', url='https://api.twitter.com/1.1/geo/id/65b143e04acc1b74.json', place_type='city', name='Keynsham', full_name='Keynsham, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.5194198, 51.3969361], [-2.4704995, 51.3969361], [-2.4704995, 51.4244709], [-2.5194198, 51.4244709]]]), attributes={})
+
+1353314055210102784

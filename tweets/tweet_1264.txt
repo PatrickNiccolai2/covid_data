@@ -1,0 +1,11 @@
+To quote @HugoGye : ‘Mirror says Govt is acting 'in pursuit of a short-term political illusion': no it’s acting on the advice of the MHRA, JCVI &amp; the UK's 4 chief medical officers’.  
+
+The article feeds anti vaccine sentiment &amp; undermines the one positive Covid strategy we have.
+
+2021-01-23 23:24:26+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1c37515518593fe3', url='https://api.twitter.com/1.1/geo/id/1c37515518593fe3.json', place_type='city', name='Richmond', full_name='Richmond, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.39216, 51.391383], [-0.221832, 51.391383], [-0.221832, 51.489646], [-0.39216, 51.489646]]]), attributes={})
+
+1353121442351738880

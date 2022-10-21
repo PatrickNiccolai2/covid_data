@@ -1,0 +1,9 @@
+@JILLIAN89594396 @risahontiveros @mariaressa Based on ethical research guidelines , vaccines should not be given to kids &lt; 16 unless proven safe in adults.
+
+2021-01-24 04:34:44+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='006523c50dfe9086', url='https://api.twitter.com/1.1/geo/id/006523c50dfe9086.json', place_type='city', name='Quezon City', full_name='Quezon City, National Capital Region', country_code='PH', country='Republic of the Philippines', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[120.989705, 14.5893763], [121.1357656, 14.5893763], [121.1357656, 14.7766484], [120.989705, 14.7766484]]]), attributes={})
+
+1353199533019152386

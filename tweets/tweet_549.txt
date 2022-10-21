@@ -1,0 +1,18 @@
+Keralite said, “No.” 
+
+The Doctor said, “Every cultured and civilised man takes the vaccine.” 
+
+The Keralite said, “Go away, I will never take the vaccine.” 
+
+The Doctor then said, 
+“All your neighbours have taken it.”
+
+The Keralite replied, “I don’t care.”
+
+2021-01-24 08:14:19+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2281169281a9d3a2', url='https://api.twitter.com/1.1/geo/id/2281169281a9d3a2.json', place_type='city', name='Faridabad', full_name='Faridabad, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[77.149786, 28.156842], [77.551977, 28.156842], [77.551977, 28.505585], [77.149786, 28.505585]]]), attributes={})
+
+1353254791435042818

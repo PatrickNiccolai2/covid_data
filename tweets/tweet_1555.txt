@@ -1,0 +1,9 @@
+@ErgaPfizer Pq esses fdp  tipo Bil gates não pegam COVID??? Eles já fizeram a disgraça do vírus pra acabar com a gente, mas eles estão imunizados 🤬🤬🤬🤬
+
+2021-01-23 21:18:52+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0bdb47219a1bda81', url='https://api.twitter.com/1.1/geo/id/0bdb47219a1bda81.json', place_type='city', name='Americana', full_name='Americana, Brasil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-47.387621, -22.784927], [-47.192664, -22.784927], [-47.192664, -22.663191], [-47.387621, -22.663191]]]), attributes={})
+
+1353089845103652864

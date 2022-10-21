@@ -1,0 +1,9 @@
+my grandma got the vaccine yesterday and when asked how she was feeling today (any side effects) her response was “I am feeling very lucky” i just love her
+
+2021-01-23 20:48:52+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='398e489d0705ff47', url='https://api.twitter.com/1.1/geo/id/398e489d0705ff47.json', place_type='city', name='Marco Island', full_name='Marco Island, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-81.7507264, 25.90813], [-81.6739911, 25.90813], [-81.6739911, 25.974477], [-81.7507264, 25.974477]]]), attributes={})
+
+1353082294421094400

@@ -1,0 +1,9 @@
+Need help booking your COVID-19 vaccine appointment at @Publix? Hear from people who already got their shot on how they got to the front of the line! @NBC2 https://t.co/DDsX6aerhE
+
+2021-01-23 20:51:51+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='07d9c96a47881003', url='https://api.twitter.com/1.1/geo/id/07d9c96a47881003.json', place_type='poi', name='Publix', full_name='Publix', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-81.93992459727237, 26.618406414621337], [-81.93992459727237, 26.618406414621337], [-81.93992459727237, 26.618406414621337], [-81.93992459727237, 26.618406414621337]]]), attributes={})
+
+1353083044186497024

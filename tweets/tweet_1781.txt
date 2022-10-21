@@ -1,0 +1,9 @@
+Dover ripensare ad una strategia che non esiste è molto difficile... Oxford vaccine delays mean Dutch need to rethink vaccine strategy https://t.co/iaOZqBjpW4
+
+2021-01-23 19:38:46+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='99cdab25eddd6bce', url='https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json', place_type='city', name='Amsterdam', full_name='Amsterdam, The Netherlands', country_code='NL', country='The Netherlands', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[4.7288999, 52.2782266], [5.0792072, 52.2782266], [5.0792072, 52.4312289], [4.7288999, 52.4312289]]]), attributes={})
+
+1353064651769090049

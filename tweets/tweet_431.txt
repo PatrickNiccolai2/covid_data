@@ -1,0 +1,9 @@
+Zorgpersoneel als 1e gevaccineerd??? Onze dochter werkt op de covid afdeling in het UMCU en is pas in maart aan de beurt om binnen het ziekenhuis gevaccineerd te worden 😡eerlijke verdeling?  #wnl #Vaccinatie #vaccinatievoordringers #umc #ziekenhuizen
+
+2021-01-24 09:18:49+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='a917063aa167ace9', url='https://api.twitter.com/1.1/geo/id/a917063aa167ace9.json', place_type='city', name='Stichtse Vecht', full_name='Stichtse Vecht, Nederland', country_code='NL', country='The Netherlands', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[4.9092946, 52.1149386], [5.1204217, 52.1149386], [5.1204217, 52.2892586], [4.9092946, 52.2892586]]]), attributes={})
+
+1353271024582852608

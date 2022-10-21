@@ -1,0 +1,9 @@
+Placer County Sheriff is reporting a person died several hours after getting the Covid vaccine on Thursday, Jan. 21st. “Any reports surrounding the cause of death are premature,” the news release says. https://t.co/FGA18CPwgk
+
+2021-01-23 23:54:09+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='d950fc7dc2cd14f9', url='https://api.twitter.com/1.1/geo/id/d950fc7dc2cd14f9.json', place_type='city', name='Orangevale', full_name='Orangevale, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-121.262498, 38.637436], [-121.1875214, 38.637436], [-121.1875214, 38.718208], [-121.262498, 38.718208]]]), attributes={})
+
+1353128920183267329

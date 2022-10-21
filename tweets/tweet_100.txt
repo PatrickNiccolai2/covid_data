@@ -1,0 +1,11 @@
+@muftimenk Sorry shaykh but the vaccine you took may not be the savior after all!
+
+https://t.co/Q4jD9SApHO
+
+2021-01-24 12:26:20+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='20bc436b37c1b13a', url='https://api.twitter.com/1.1/geo/id/20bc436b37c1b13a.json', place_type='city', name='Barking', full_name='Barking, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[0.065775, 51.5114666], [0.189997, 51.5114666], [0.189997, 51.596571], [0.065775, 51.596571]]]), attributes={})
+
+1353318213803790337

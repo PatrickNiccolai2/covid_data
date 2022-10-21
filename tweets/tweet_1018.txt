@@ -1,0 +1,9 @@
+I think I’m starting to feel the side effects of this vaccine
+
+2021-01-24 01:34:04+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00ab941b685334e3', url='https://api.twitter.com/1.1/geo/id/00ab941b685334e3.json', place_type='city', name='Nashville', full_name='Nashville, TN', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-87.022482, 35.9945681], [-86.560616, 35.9945681], [-86.560616, 36.405448], [-87.022482, 36.405448]]]), attributes={})
+
+1353154067514712064

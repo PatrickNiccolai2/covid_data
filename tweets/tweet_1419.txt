@@ -1,0 +1,12 @@
+The more doubts there are about vaccines, the harder to get it under control.
+A super small subset of people might want to wait and see (allergies, specific pre-conditions etc...). 
+But if you are healthy, or at risk, get the vaccine. 
+If not for you, for those around you. https://t.co/8OUAVtwbky
+
+2021-01-23 22:19:45+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3078869807f9dd36', url='https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json', place_type='city', name='Berlin', full_name='Berlin, Germany', country_code='DE', country='Germany', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[13.088304, 52.338079], [13.760909, 52.338079], [13.760909, 52.675323], [13.088304, 52.675323]]]), attributes={})
+
+1353105164417314816

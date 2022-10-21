@@ -1,0 +1,9 @@
+“The 🌎 is on the brink of a catastrophic moral failure” says @DrTedros, not mincing words or pulling punches in his remarks on vaccine equity. #EB148 https://t.co/UaYj6b3ZqK
+
+2021-01-18 10:42:31+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01f8d411ccaff471', url='https://api.twitter.com/1.1/geo/id/01f8d411ccaff471.json', place_type='city', name='Le Grand-Saconnex', full_name='Le Grand-Saconnex, Suisse', country_code='CH', country='Switzerland', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[6.1011217, 46.2219271], [6.1359975, 46.2219271], [6.1359975, 46.250607], [6.1011217, 46.250607]]]), attributes={})
+
+1351117759325855749

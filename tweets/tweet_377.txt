@@ -1,0 +1,11 @@
+Surely 2 doses would be needed?
+If a vaccine doesn’t reduce transmission, then it  will still pass to communities?
+Vaccination is not the one stop shop.... rotas, ventilation, testing and vaccines need to all be considered #schoolsreopening #schoolsarenotclosed @cyclingkev https://t.co/koHuRo03So
+
+2021-01-24 09:47:11+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1c81237b5045fc7e', url='https://api.twitter.com/1.1/geo/id/1c81237b5045fc7e.json', place_type='city', name='Puddletown', full_name='Puddletown, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.349608, 50.74381], [-2.341049, 50.74381], [-2.341049, 50.75199], [-2.349608, 50.75199]]]), attributes={})
+
+1353278164965810177

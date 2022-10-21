@@ -1,0 +1,10 @@
+JuCo is ignorant..Medsafe are evaluating  vaccine efficacy, re-infection rates,reported allergies and / or folks dying after being vaccinated...
+amongst other criteria...Dr Bloomfield has already indicated the approach..go slow, go safe I think. https://t.co/c33tcw6z5h
+
+2021-01-23 21:28:47+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0103586d1639ca97', url='https://api.twitter.com/1.1/geo/id/0103586d1639ca97.json', place_type='city', name='Hamilton City', full_name='Hamilton City, New Zealand', country_code='NZ', country='New Zealand', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[175.184301, -37.846039], [175.344877, -37.846039], [175.344877, -37.69933], [175.184301, -37.69933]]]), attributes={})
+
+1353092339850338304

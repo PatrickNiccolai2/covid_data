@@ -1,0 +1,9 @@
+@CaslerNoel @DOJPH @SecretService Protection is also being provided for Mnuchin, Meadows, O'Brien and all of Trump's children. These are inappropriate taxpayer expenditures by Trump. This cannot happen! We could pay for many vaccines w/this $$! @jrpsaki @PressSec @K_JeanPierre
+
+2021-01-24 05:20:12+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='013379ee5729a5e6', url='https://api.twitter.com/1.1/geo/id/013379ee5729a5e6.json', place_type='city', name='Tucson', full_name='Tucson, AZ', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-111.083219, 32.057802], [-110.747928, 32.057802], [-110.747928, 32.320979], [-111.083219, 32.320979]]]), attributes={})
+
+1353210973818118145

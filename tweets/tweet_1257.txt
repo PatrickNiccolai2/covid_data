@@ -1,0 +1,9 @@
+@GregMannarino @JCrossley78 Well it's not too bad,  my older brother is doing well with his vaccine
+
+2021-01-23 23:26:34+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='c521aaf29bb8d902', url='https://api.twitter.com/1.1/geo/id/c521aaf29bb8d902.json', place_type='city', name='Cashmere', full_name='Cashmere, WA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-120.5399329, 47.489656], [-120.4462847, 47.489656], [-120.4462847, 47.534208], [-120.5399329, 47.534208]]]), attributes={})
+
+1353121978060693504

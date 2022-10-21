@@ -1,0 +1,9 @@
+How old are you?.. I'm old enough to get the vaccine nitow...
+
+2021-01-23 23:40:19+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='15d75ae5772aa82c', url='https://api.twitter.com/1.1/geo/id/15d75ae5772aa82c.json', place_type='city', name='Île-à-la-Crosse', full_name='Île-à-la-Crosse, Saskatchewan', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-108.076513, 55.360443], [-107.878953, 55.360443], [-107.878953, 55.53425], [-108.076513, 55.53425]]]), attributes={})
+
+1353125442044129281

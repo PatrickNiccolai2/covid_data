@@ -1,0 +1,9 @@
+@LisaCalverley First its Paul... Jonah is my nickname... Am not against them and yes they don't know much about this virus.. And these scientist made this vaccine but now they are saying that people who have the jab can still past covid to other people,
+
+2021-01-24 11:08:24+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='31fffbe34de66921', url='https://api.twitter.com/1.1/geo/id/31fffbe34de66921.json', place_type='city', name='Salford', full_name='Salford, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.454026, 53.4163477], [-2.245107, 53.4163477], [-2.245107, 53.5342592], [-2.454026, 53.5342592]]]), attributes={})
+
+1353298600202293248

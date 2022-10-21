@@ -1,0 +1,9 @@
+In small towns, small communities w/in larger cities knowing one another is a gift. Some may look down &amp; pass judgment on what they see as poor. #SantaPaula lost a hero. He raised his family in town. He was #family. He could not get #COVID19 vaccine in time. May he Rest In Peace https://t.co/ayqSaXrbgF
+
+2021-01-23 23:04:46+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='689083f5b4e488b4', url='https://api.twitter.com/1.1/geo/id/689083f5b4e488b4.json', place_type='city', name='Camarillo', full_name='Camarillo, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-119.109824, 34.191355], [-118.958874, 34.191355], [-118.958874, 34.2592999], [-119.109824, 34.2592999]]]), attributes={})
+
+1353116492062101504

@@ -1,0 +1,9 @@
+@TechSvvy All vaccines are assigned to appointments or upcoming vaccine events through local public health agencies or vaccine providers.
+
+2021-01-24 00:39:54+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='163376a8273b5ec9', url='https://api.twitter.com/1.1/geo/id/163376a8273b5ec9.json', place_type='city', name='Columbine', full_name='Columbine, CO', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-105.091487, 39.5541], [-105.037685, 39.5541], [-105.037685, 39.609874], [-105.091487, 39.609874]]]), attributes={})
+
+1353140435942825984

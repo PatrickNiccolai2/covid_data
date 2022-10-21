@@ -1,0 +1,9 @@
+I LOVE this snow... but it’s likely going to cause a lower number of people who’ve had a vaccine in the next few days!
+
+2021-01-24 10:02:32+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='68f3012fe4848e35', url='https://api.twitter.com/1.1/geo/id/68f3012fe4848e35.json', place_type='city', name='Cardiff', full_name='Cardiff, Wales', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.278624, 51.447362], [-3.0809756, 51.447362], [-3.0809756, 51.5466412], [-3.278624, 51.5466412]]]), attributes={})
+
+1353282026447757314

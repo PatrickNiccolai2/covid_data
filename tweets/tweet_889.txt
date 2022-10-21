@@ -1,0 +1,9 @@
+@bertkreischer If you lose the weight you have a better chance of recovery. Who’s to say you don’t get it before you get the vaccine.
+
+2021-01-24 02:57:05+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='b980515f617707a9', url='https://api.twitter.com/1.1/geo/id/b980515f617707a9.json', place_type='city', name='Wichita Falls', full_name='Wichita Falls, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-98.6144114, 33.835461], [-98.425702, 33.835461], [-98.425702, 34.017379], [-98.6144114, 34.017379]]]), attributes={})
+
+1353174958822879233

@@ -1,0 +1,9 @@
+@javedalloo @DocMCohen @ONThealth @fordnation Working on it @javedalloo. Issue is no vaccine supply right now for first dose. We were about to role out to community docs when vaccine supply ran out. I continue to advocate for community docs in our high risk region
+
+2021-01-23 22:39:36+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3797791ff9c0e4c6', url='https://api.twitter.com/1.1/geo/id/3797791ff9c0e4c6.json', place_type='city', name='Toronto', full_name='Toronto, Ontario', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-79.639319, 43.403221], [-78.90582, 43.403221], [-78.90582, 43.855401], [-79.639319, 43.855401]]]), attributes={})
+
+1353110160391217152

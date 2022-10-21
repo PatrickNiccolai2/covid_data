@@ -1,0 +1,9 @@
+@DrRJSimpson @scotgovhealth But it wasn’t. Vaccine is limited and GPs are end of the chain, national and local procurement deciding what vaccine they get when.
+
+2021-01-23 21:49:33+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='662151059af25812', url='https://api.twitter.com/1.1/geo/id/662151059af25812.json', place_type='city', name='Hillswick', full_name='Hillswick, Scotland', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.497913, 60.470696], [-1.484859, 60.470696], [-1.484859, 60.481512], [-1.497913, 60.481512]]]), attributes={})
+
+1353097563214372864

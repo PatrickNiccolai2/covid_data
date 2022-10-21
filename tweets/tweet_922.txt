@@ -1,0 +1,10 @@
+Interesting observation to me today.                     Are vaccine shipments protected by arm guard just saw 2 FedEx semis w/reefers
+I-57  rest area With Security car parked with them. Government or Company requirements 🤔
+
+2021-01-24 02:36:28+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01668c225ce20e9f', url='https://api.twitter.com/1.1/geo/id/01668c225ce20e9f.json', place_type='city', name='Davis Junction', full_name='Davis Junction, IL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-89.115089, 42.062329], [-89.032349, 42.062329], [-89.032349, 42.106073], [-89.115089, 42.106073]]]), attributes={})
+
+1353169768061272066

@@ -1,0 +1,9 @@
+@conor64 WTF?  Bigger than 9/11?  Vaccines have been out 1 month. The outgoing admin had no plan to distribute state don’t have resources. They are ramping up
+
+2021-01-24 01:25:55+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='65b4760a2b411e11', url='https://api.twitter.com/1.1/geo/id/65b4760a2b411e11.json', place_type='admin', name='New Jersey', full_name='New Jersey, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-75.563587, 38.788657], [-73.88506, 38.788657], [-73.88506, 41.357424], [-75.563587, 41.357424]]]), attributes={})
+
+1353152016592285696

@@ -1,0 +1,9 @@
+@pranavmahajan @DrVikasPadha @rahulroushan @Nidhi @nishantchat @nishikant_dubey @satyanadella @ManOfTales @barkhatrehan16 @ValaAfshar Vaccine ke baad bhi mask to phenna pdega na 😂
+
+2021-01-24 06:49:42+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1c302ac214ae518c', url='https://api.twitter.com/1.1/geo/id/1c302ac214ae518c.json', place_type='city', name='Patna', full_name='Patna, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[84.9939102, 25.4835457], [85.2101668, 25.4835457], [85.2101668, 25.6554017], [84.9939102, 25.6554017]]]), attributes={})
+
+1353233496425132032

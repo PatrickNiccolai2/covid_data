@@ -1,0 +1,9 @@
+After waiting 2 hours me and my mom tested negative for Covid for the second time. Next cross fingers the vaccine. @ Queens, New York https://t.co/O9ag34Wx2s
+
+2021-01-23 21:33:11+00:00
+
+{'type': 'Point', 'coordinates': [-73.8309, 40.7]}
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00c39537733fa112', url='https://api.twitter.com/1.1/geo/id/00c39537733fa112.json', place_type='city', name='Queens', full_name='Queens, NY', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-73.962582, 40.541722], [-73.699793, 40.541722], [-73.699793, 40.8000371], [-73.962582, 40.8000371]]]), attributes={})
+
+1353093445984923649

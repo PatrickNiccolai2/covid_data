@@ -1,0 +1,9 @@
+So my son has had a fever all night after getting his #Covid_19 #vaccine 🤔
+
+2021-01-23 20:07:35+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='c2c88ba58010961f', url='https://api.twitter.com/1.1/geo/id/c2c88ba58010961f.json', place_type='city', name='West Slope', full_name='West Slope, OR', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.791544, 45.4862307], [-122.743739, 45.4862307], [-122.743739, 45.507912], [-122.791544, 45.507912]]]), attributes={})
+
+1353071904052006915

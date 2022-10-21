@@ -1,0 +1,9 @@
+Vancouver couple charged after chartering plane to Yukon and getting COVID-19 vaccine, say officials https://t.co/wY5WLBteQb
+
+2021-01-24 11:55:02+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='47be6341b02ac59f', url='https://api.twitter.com/1.1/geo/id/47be6341b02ac59f.json', place_type='city', name='Kitchener', full_name='Kitchener, Ontario', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.574116, 43.353845], [-80.3786908, 43.353845], [-80.3786908, 43.506635], [-80.574116, 43.506635]]]), attributes={})
+
+1353310338486300675

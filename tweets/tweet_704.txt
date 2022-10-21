@@ -1,0 +1,9 @@
+@Fireonshakedwn1 I don't understand why ever state can't be the same with the Vaccine its just crazy what its different in States
+
+2021-01-24 05:46:18+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='02c80249d89c89e3', url='https://api.twitter.com/1.1/geo/id/02c80249d89c89e3.json', place_type='city', name='Somerdale', full_name='Somerdale, NJ', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-75.039613, 39.834103], [-75.001438, 39.834103], [-75.001438, 39.8593695], [-75.039613, 39.8593695]]]), attributes={})
+
+1353217545013178370

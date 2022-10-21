@@ -1,0 +1,9 @@
+@GovRonDeSantis Why did Publix donate so much $$$ to you? Something to do with you giving them the contract to give the Covid vaccine at their stores!
+
+2021-01-23 22:51:17+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01f98b77415d9c8d', url='https://api.twitter.com/1.1/geo/id/01f98b77415d9c8d.json', place_type='city', name='Tamiami', full_name='Tamiami, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.498029, 25.726759], [-80.383636, 25.726759], [-80.383636, 25.7898358], [-80.498029, 25.7898358]]]), attributes={})
+
+1353113100187262976

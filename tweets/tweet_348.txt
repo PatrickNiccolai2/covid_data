@@ -1,0 +1,13 @@
+El atraso de Pfizer pone la disyuntiva a UK si atrasa 2da dosis a 3 meses y así en corto plazo puede  alcanzar un mayor número de vacunados, pero ¿es efectivo?
+
+#Covid 
+
+Vaccine experts defend UK decision to delay second Pfizer Covid jab https://t.co/bTfaucCnGv
+
+2021-01-24 09:56:39+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='008be613029d4ca5', url='https://api.twitter.com/1.1/geo/id/008be613029d4ca5.json', place_type='city', name='Viña del Mar', full_name='Viña del Mar, Chile', country_code='CL', country='Chile', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-71.5898331, -33.1045519], [-71.4414593, -33.1045519], [-71.4414593, -32.9481633], [-71.5898331, -32.9481633]]]), attributes={})
+
+1353280546802192385

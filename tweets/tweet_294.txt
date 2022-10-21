@@ -1,0 +1,9 @@
+@OfficialKat It is a no from me thank you. Have you seen the videos of people who have had their body reject the vaccine. Vaccines can't be rolled out without being extensively tested first. I have even seen people die from the vaccine. If you do get it I hope it works out for you.
+
+2021-01-24 10:22:32+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='8c8fe137ac6f4668', url='https://api.twitter.com/1.1/geo/id/8c8fe137ac6f4668.json', place_type='city', name='Kroonstad', full_name='Kroonstad, South Africa', country_code='ZA', country='South Africa', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[27.1369801, -27.7154541], [27.3424568, -27.7154541], [27.3424568, -27.5476436], [27.1369801, -27.5476436]]]), attributes={})
+
+1353287061571301376

@@ -1,0 +1,9 @@
+Leadership matters! @lapublichealth director Barbara Ferrer working the vaccine lines in LA County. https://t.co/AwwY4ZaOnn
+
+2021-01-23 22:38:13+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5669366953047e51', url='https://api.twitter.com/1.1/geo/id/5669366953047e51.json', place_type='admin', name='Wyoming', full_name='Wyoming, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-111.056888, 40.994746], [-104.052236, 40.994746], [-104.052236, 45.005904], [-111.056888, 45.005904]]]), attributes={})
+
+1353109811215421442

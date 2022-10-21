@@ -1,0 +1,9 @@
+So 100M vaccines in 100 days is not that exciting after all. We were already gonna do that. https://t.co/wnhJr9rhn4
+
+2021-01-24 00:14:21+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='daf932d3d5f17e87', url='https://api.twitter.com/1.1/geo/id/daf932d3d5f17e87.json', place_type='city', name='Wells Branch', full_name='Wells Branch, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-97.697798, 30.424563], [-97.666593, 30.424563], [-97.666593, 30.467254], [-97.697798, 30.467254]]]), attributes={})
+
+1353134006326484992

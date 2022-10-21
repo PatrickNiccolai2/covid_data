@@ -1,0 +1,9 @@
+@NYGovCuomo We need to get help to the elderly in New York who are interested in the Covid Vaccine
+
+2021-01-24 01:41:05+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='d049033410e9e81b', url='https://api.twitter.com/1.1/geo/id/d049033410e9e81b.json', place_type='city', name='Mobile', full_name='Mobile, AL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-88.301598, 30.523874], [-88.021513, 30.523874], [-88.021513, 30.843424], [-88.301598, 30.843424]]]), attributes={})
+
+1353155830691094529

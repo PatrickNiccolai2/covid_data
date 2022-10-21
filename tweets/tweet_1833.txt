@@ -1,0 +1,9 @@
+I qualify for the 1b phase of the covid vaccine but there’s a shortage at the hospital I go to😭😭😭
+
+2021-01-23 19:24:06+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00e0af44191953c7', url='https://api.twitter.com/1.1/geo/id/00e0af44191953c7.json', place_type='city', name='Vestal', full_name='Vestal, NY', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-76.108837, 41.998983], [-75.946902, 41.998983], [-75.946902, 42.11479], [-76.108837, 42.11479]]]), attributes={})
+
+1353060963335847938

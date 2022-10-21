@@ -1,0 +1,10 @@
+@Soc_Sciences The looney,siren,#LiarTory voices are beginning to call for easing of lockdown already.
+#LiarJohnson will cave in too soon.We’ll struggle with Covid until government realises we need to close borders,clamp down on people moving around Britain and all get vaccinated
+
+2021-01-24 06:58:32+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='25d3e991f5637f5a', url='https://api.twitter.com/1.1/geo/id/25d3e991f5637f5a.json', place_type='admin', name='South West', full_name='South West, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-6.36850399906372, 49.8824720005481], [-1.48573420014269, 49.8824720005481], [-1.48573420014269, 52.1125420344225], [-6.36850399906372, 52.1125420344225]]]), attributes={})
+
+1353235720631103488

@@ -1,0 +1,9 @@
+@nishatnguyen Two of my coworkers have been exposed and are quarantining. And our school is only like 20 staff and 30 kids! Really just want the vaccine lol.
+
+2021-01-24 01:48:03+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='f1d5d884f1dd220c', url='https://api.twitter.com/1.1/geo/id/f1d5d884f1dd220c.json', place_type='city', name='Belmont', full_name='Belmont, MA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-71.210571, 42.375133], [-71.151386, 42.375133], [-71.151386, 42.415861], [-71.210571, 42.415861]]]), attributes={})
+
+1353157584807731200

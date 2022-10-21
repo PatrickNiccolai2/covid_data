@@ -1,0 +1,9 @@
+Kelvin's Covid Vaccination story https://t.co/juqLoLWArw via @YouTube Check this out for Kelvin's Vaccination story #CovidVaccination #CareHomes #CareHomesVaccinationJanuary let's listen to staff understand their hesitation and support them nb this relates to first dose vaccine
+
+2021-01-24 08:39:13+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5aaf4cb2a033ee1d', url='https://api.twitter.com/1.1/geo/id/5aaf4cb2a033ee1d.json', place_type='city', name='Gerrards Cross', full_name='Gerrards Cross, South East', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.5810853, 51.567086], [-0.537744, 51.567086], [-0.537744, 51.594705], [-0.5810853, 51.594705]]]), attributes={})
+
+1353261060300677122

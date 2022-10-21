@@ -1,0 +1,9 @@
+@MollyJongFast There is not enough vaccines in California.
+
+2021-01-23 20:14:27+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='c1e1a49e92ce1ba0', url='https://api.twitter.com/1.1/geo/id/c1e1a49e92ce1ba0.json', place_type='city', name='Torrance', full_name='Torrance, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-118.3940862, 33.7804411], [-118.308349, 33.7804411], [-118.308349, 33.886988], [-118.3940862, 33.886988]]]), attributes={})
+
+1353073630788218882

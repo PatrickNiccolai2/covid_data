@@ -1,0 +1,13 @@
+@ZimbabwePete “Nearly 25% New Yorkers (and 55% of the city’s fire fighters)...say they won’t take the COVID-19 vaccine...at least in part because of misinformation.“😱
+
+The piece referenced therein👇also very(!!) insightful (esp on ag reform &amp; local govt $$)
+
+ https://t.co/KgCmb0xbEi
+
+2021-01-24 01:50:52+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='a35b62af9d82aa08', url='https://api.twitter.com/1.1/geo/id/a35b62af9d82aa08.json', place_type='city', name='Walnut Creek', full_name='Walnut Creek, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.10003, 37.842368], [-121.980829, 37.842368], [-121.980829, 37.944965], [-122.10003, 37.944965]]]), attributes={})
+
+1353158296056676352

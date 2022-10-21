@@ -1,0 +1,9 @@
+@MayfairBee @RuffEdgeDesign @spencermorgan93 I am sorry for your loss recovered I have doc Plus son got me ivermectin. I did good avoided hospital. I have COPD an CHF. My doc works with chronically ill geriatric patients she will not give vaccine till more evidence of effects on chronically ill elderly is in an I want take
+
+2021-01-24 03:41:17+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0157c81133658af3', url='https://api.twitter.com/1.1/geo/id/0157c81133658af3.json', place_type='city', name='Burleson', full_name='Burleson, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-97.383285, 32.470102], [-97.222374, 32.470102], [-97.222374, 32.571893], [-97.383285, 32.571893]]]), attributes={})
+
+1353186082624569344

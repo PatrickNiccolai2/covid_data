@@ -1,0 +1,9 @@
+@RyeGSL When are we getting more vaccine? There are no appointments past April  - I can’t get my mother vaccinated
+
+2021-01-23 22:26:32+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7cd18caa8c0ebb9f', url='https://api.twitter.com/1.1/geo/id/7cd18caa8c0ebb9f.json', place_type='city', name='Mount Lebanon', full_name='Mount Lebanon, PA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.082398, 40.3505937], [-80.018127, 40.3505937], [-80.018127, 40.401888], [-80.082398, 40.401888]]]), attributes={})
+
+1353106870123294723

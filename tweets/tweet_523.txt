@@ -1,0 +1,9 @@
+Behind the numbers: what does it mean if a Covid vaccine has  ‘90% efficacy’? | David Spiegelhalter https://t.co/6r7pXzpFRf
+
+2021-01-24 08:27:37+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5c1b01d12e716e19', url='https://api.twitter.com/1.1/geo/id/5c1b01d12e716e19.json', place_type='city', name='Bamford', full_name='Bamford, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.69392, 53.344821], [-1.684853, 53.344821], [-1.684853, 53.352991], [-1.69392, 53.352991]]]), attributes={})
+
+1353258139316080641

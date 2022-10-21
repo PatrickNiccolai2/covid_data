@@ -1,0 +1,9 @@
+@globalnews @CKNW @DFriesenGlobal Except by modernas own definition it is not a vaccine. But keep journalisming.
+
+2021-01-24 03:06:12+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='33de55bc584a42ec', url='https://api.twitter.com/1.1/geo/id/33de55bc584a42ec.json', place_type='city', name='New Westminster', full_name='New Westminster, British Columbia', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.9599826, 49.175445], [-122.8750325, 49.175445], [-122.8750325, 49.238058], [-122.9599826, 49.238058]]]), attributes={})
+
+1353177250724634624

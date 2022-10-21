@@ -1,0 +1,9 @@
+@OyesileJohn I think conspiracy theorists are now thriving in this country now more than ever before. That was how one rubbished the covid vaccine only to go behind to get inoculated.
+
+2021-01-24 12:43:01+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01eddd9d0dbec2c8', url='https://api.twitter.com/1.1/geo/id/01eddd9d0dbec2c8.json', place_type='city', name='Ikeja', full_name='Ikeja, Nigeria', country_code='NG', country='Nigeria', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[3.198942, 6.4826762], [3.43719, 6.4826762], [3.43719, 6.6985461], [3.198942, 6.6985461]]]), attributes={})
+
+1353322412088160257

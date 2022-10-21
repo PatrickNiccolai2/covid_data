@@ -1,0 +1,9 @@
+I mean, I too, would like the vaccine so I can travel overseas for work (conferences, fieldwork), but that's hardly a priority, is it? Can we have some bloody perspective on what's vital at the moment??
+
+2021-01-24 04:20:15+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0118c71c0ed41109', url='https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json', place_type='city', name='Perth (WA)', full_name='Perth, Western Australia', country_code='AU', country='Australia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[115.617614368, -32.675715325], [116.239023008, -32.675715325], [116.239023008, -31.6244855145], [115.617614368, -31.6244855145]]]), attributes={})
+
+1353195889108520960

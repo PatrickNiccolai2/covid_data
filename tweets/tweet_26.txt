@@ -1,0 +1,9 @@
+@ocdworkoutgirl Very true. Then, more vaccine appointments opened mid-afternoon, but you would have needed to be on social media to know that.
+
+2021-01-24 13:02:08+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5d231ed8656fcf5a', url='https://api.twitter.com/1.1/geo/id/5d231ed8656fcf5a.json', place_type='city', name='St Petersburg', full_name='St Petersburg, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-82.758209, 27.694323], [-82.587597, 27.694323], [-82.587597, 27.8971155], [-82.758209, 27.8971155]]]), attributes={})
+
+1353327225546956800

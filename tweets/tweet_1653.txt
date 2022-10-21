@@ -1,0 +1,9 @@
+Covid Vaccine Round 1 ✅ 💉 #EducatedVaccinatedDedicated
+
+2021-01-23 20:37:37+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0a0de7bd49ef942d', url='https://api.twitter.com/1.1/geo/id/0a0de7bd49ef942d.json', place_type='city', name='Scottsdale', full_name='Scottsdale, AZ', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-111.960775, 33.4358637], [-111.756022, 33.4358637], [-111.756022, 33.842816], [-111.960775, 33.842816]]]), attributes={})
+
+1353079462577852417

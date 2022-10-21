@@ -1,0 +1,9 @@
+Last week India gifted 2M doses of made in India covid vaccine to the country. Bangladesh will begin its immunization program from Wednesday.
+
+2021-01-24 12:01:54+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='317fcc4b21a604d5', url='https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json', place_type='city', name='New Delhi', full_name='New Delhi, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[76.84252, 28.397657], [77.347652, 28.397657], [77.347652, 28.879322], [76.84252, 28.879322]]]), attributes={})
+
+1353312067453911047

@@ -1,0 +1,9 @@
+@orlandosentinel Ok, but maybe they are the  “National Guard”. And we did just have an attempted insurrection.  It is not like you are using them to get vaccines out to frontline workers or anything like that Mr. Governor.
+
+2021-01-24 05:22:22+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4ec01c9dbc693497', url='https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json', place_type='admin', name='Florida', full_name='Florida, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-87.634643, 24.396308], [-79.974307, 24.396308], [-79.974307, 31.001056], [-87.634643, 31.001056]]]), attributes={})
+
+1353211518427533312

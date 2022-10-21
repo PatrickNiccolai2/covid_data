@@ -1,0 +1,9 @@
+British Medical Association says 12-week Pfizer vaccine dose gap is ‘difficult to justify’ https://t.co/bxKU5WFu3m
+
+2021-01-24 11:27:06+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5bd8ac64f0aea36c', url='https://api.twitter.com/1.1/geo/id/5bd8ac64f0aea36c.json', place_type='city', name='Pimperne', full_name='Pimperne, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.139316, 50.87724], [-2.12881, 50.87724], [-2.12881, 50.889309], [-2.139316, 50.889309]]]), attributes={})
+
+1353303307805196289

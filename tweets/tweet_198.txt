@@ -1,0 +1,9 @@
+Dear @BorisJohnson think this plan may just work to make everyone #StayAtHome -  #snow #Snowuk #snowday #sundayvibes #birmingham #covid https://t.co/uptjja4HUa
+
+2021-01-24 11:31:30+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='53b67b1d1cc81a51', url='https://api.twitter.com/1.1/geo/id/53b67b1d1cc81a51.json', place_type='city', name='Birmingham', full_name='Birmingham, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.033651, 52.381063], [-1.74763, 52.381063], [-1.74763, 52.60687], [-2.033651, 52.60687]]]), attributes={})
+
+1353304416716255232

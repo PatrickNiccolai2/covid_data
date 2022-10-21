@@ -1,0 +1,9 @@
+Thought this was interesting how India with a population of 1.3 billion were advising their population on preventative health measures and boosting immunity to contain covid. No health advice coming from our most unhealthy @BorisJohnson or @uksciencechief . @ClarkeMicah @JuliaHB1 https://t.co/OGHPtVtR8G
+
+2021-01-24 07:35:54+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1023de91a66b65b0', url='https://api.twitter.com/1.1/geo/id/1023de91a66b65b0.json', place_type='city', name='Charlton-on-Otmoor', full_name='Charlton-on-Otmoor, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.1910442, 51.8353161], [-1.1788544, 51.8353161], [-1.1788544, 51.842155], [-1.1910442, 51.842155]]]), attributes={})
+
+1353245125770620929

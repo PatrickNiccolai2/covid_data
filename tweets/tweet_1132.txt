@@ -1,0 +1,9 @@
+Educators want to be in the building teaching our students. We want to be in a safe environment. @JoeBiden thanks for prioritizing educators for the COVID-19 vaccine. @GovBillLee #prioritize #educatorsfirst @ArthurScott1 @dgoings1 @UnitedShelbyUEA
+
+2021-01-24 00:20:44+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='c4ad9757e682a583', url='https://api.twitter.com/1.1/geo/id/c4ad9757e682a583.json', place_type='city', name='Bartlett', full_name='Bartlett, TN', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-89.887992, 35.1864425], [-89.741766, 35.1864425], [-89.741766, 35.274531], [-89.887992, 35.274531]]]), attributes={})
+
+1353135613361459203

@@ -1,0 +1,11 @@
+What is the evidence that one dose of the vaccine is OK for x weeks?
+
+The lack of evidence that it doesn't have unintended consequences is not evidence that it's a safe strategy.
+
+2021-01-24 09:33:40+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='091ee820fa97bbe0', url='https://api.twitter.com/1.1/geo/id/091ee820fa97bbe0.json', place_type='city', name='Tamworth', full_name='Tamworth, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.730633, 52.5931818], [-1.636163, 52.5931818], [-1.636163, 52.6510365], [-1.730633, 52.6510365]]]), attributes={})
+
+1353274762043256833

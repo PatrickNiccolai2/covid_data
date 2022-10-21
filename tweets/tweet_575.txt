@@ -1,0 +1,13 @@
+Luton Allstars FC chairman (@FranicsKwesi) helping out our local community by setting up a Covid -19 Vaccine Centre!  
+
+ #CoronavirusVaccine 
+#MoreThanAClub
+#MTAC https://t.co/YeNJ43adQu
+
+2021-01-24 07:57:38+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5568fcf97199b753', url='https://api.twitter.com/1.1/geo/id/5568fcf97199b753.json', place_type='city', name='Luton', full_name='Luton, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.5049646, 51.8612268], [-0.35971, 51.8612268], [-0.35971, 51.92766], [-0.5049646, 51.92766]]]), attributes={})
+
+1353250592391573505

@@ -1,0 +1,9 @@
+@meenaharris my grandparents in Puerto Rico got their first vaccine today.
+
+2021-01-23 23:54:56+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='d862adecd71aa2a2', url='https://api.twitter.com/1.1/geo/id/d862adecd71aa2a2.json', place_type='country', name='Honduras', full_name='Honduras', country_code='HN', country='Honduras', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-89.3507919, 12.984911], [-83.1355948, 12.984911], [-83.1355948, 17.417354], [-89.3507919, 17.417354]]]), attributes={})
+
+1353129119098273792

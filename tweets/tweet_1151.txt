@@ -1,0 +1,10 @@
+@VickieZisman @Eat_it_up_nom @The_Seeadler @carlsmythe @HupperichWerner @BoastIra @mcfunny @FLermyte @barryjohnreid21 @FrankDElia7 @JaiKanta22 @JaneEOpie @HPVSideEffects @HaircutSpock @dad_liams @rainmc @GeoffSchuler @PaulVCooper1 @BeckyJohnson222 @chaoticsx2 @MacBaird13 @ChrisJohnsonMD @Gardeniagal4 @RCPrentice @Monstercoyliar @StopVaxxedLies @CiteretV @MaggieC_95 @David_5705 @organicdot @KayVonPaul @ThatBackwoodsB @ianfmusgrave @KatLaRue7 @RisetteMD @VileThePro @MonstaTofu @Kathmarval @Jojofool1 @jkellyca @PJMoore1958 @MikePeterson_TH @_mamadeb @100Dianne @krebiozen @Shared_facts @ilzheven @HatgiNeal @bob_hound @CobraElDiablo You presented a report about harms of the pandemic under the heading of “look, lockdowns killed many in the third world.”
+It didn’t say that. It was about the harms from the pandemic. So yes, you missed an important fact. Lockdowns were adopted in response to the pandemic.
+
+2021-01-24 00:12:23+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='30344aecffe6a491', url='https://api.twitter.com/1.1/geo/id/30344aecffe6a491.json', place_type='city', name='Fremont', full_name='Fremont, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.069956, 37.454962], [-121.889098, 37.454962], [-121.889098, 37.592327], [-122.069956, 37.592327]]]), attributes={})
+
+1353133511612370944

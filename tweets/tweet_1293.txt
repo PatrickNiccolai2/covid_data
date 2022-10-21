@@ -1,0 +1,9 @@
+@howboutnow @MeghanMcCain Just because you get the vaccine doesn’t mean you cannot get Covid! We’ve already seen people get Covid twice. Does it help you with your immune system to HELP prevent the spread of COVID? I can’t dispute it. You can still get it after bringing vaccinated.
+
+2021-01-23 23:12:44+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00f5eac74123ccea', url='https://api.twitter.com/1.1/geo/id/00f5eac74123ccea.json', place_type='city', name='Madisonville', full_name='Madisonville, LA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-90.256583, 30.3967071], [-90.108852, 30.3967071], [-90.108852, 30.476435], [-90.256583, 30.476435]]]), attributes={})
+
+1353118500575993856

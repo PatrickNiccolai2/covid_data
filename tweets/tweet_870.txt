@@ -1,0 +1,11 @@
+FDA gives approval for syringes to extract an extra dose from vials of the Covid-19 vaccine
+
+https://t.co/cjslztrjIW
+
+2021-01-24 03:09:05+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='ee9d992aa12a6fa0', url='https://api.twitter.com/1.1/geo/id/ee9d992aa12a6fa0.json', place_type='country', name='Republic of Mauritius', full_name='Republic of Mauritius', country_code='MU', country='Republic of Mauritius', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[57.3083535, -20.5254982], [57.8229151, -20.5254982], [57.8229151, -19.9355533], [57.3083535, -19.9355533]]]), attributes={})
+
+1353177976666521601

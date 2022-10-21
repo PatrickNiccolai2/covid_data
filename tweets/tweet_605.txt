@@ -1,0 +1,11 @@
+@andy_stalman @Toffeewolfie @mrdanwalker Do you know the full long term side effects from catching COVID? IMO nobody knows either because the virus has been around only 15 months &amp; the vaccines less. 
+
+Personally I trust the scientists who have safely developed a tested vaccine over a virus where the source is unknown
+
+2021-01-24 07:31:16+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='67bc7263f7b9047b', url='https://api.twitter.com/1.1/geo/id/67bc7263f7b9047b.json', place_type='admin', name='North East', full_name='North East, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.6896487528799, 54.4511368492598], [-0.789589998657534, 54.4511368492598], [-0.789589998657534, 55.8116995493485], [-2.6896487528799, 55.8116995493485]]]), attributes={})
+
+1353243957342457856

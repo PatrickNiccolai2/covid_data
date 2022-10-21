@@ -1,0 +1,9 @@
+@lazo_jenn @freejay @priyakkumar @skarlamangla @sherlyholmes @whereishayley Or better yet anyone who is vunerable. A lot of the vulnerable under 65 can’t get vaccine right now due to a lot of the state systems ignoring them, CA included. This is already circumnavigating the system. It could be put to much better use if it focused on anyone vulnerable.
+
+2021-01-23 23:19:20+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6565298bcadb82a1', url='https://api.twitter.com/1.1/geo/id/6565298bcadb82a1.json', place_type='city', name='Knoxville', full_name='Knoxville, TN', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-84.19397, 35.831436], [-83.733713, 35.831436], [-83.733713, 36.133505], [-84.19397, 36.133505]]]), attributes={})
+
+1353120160404676611

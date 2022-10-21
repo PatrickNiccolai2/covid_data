@@ -1,0 +1,9 @@
+#Covid_19 #Pfizer #PfizerBioNTech #coronavirus https://t.co/eBRHzixzWp
+
+2021-01-24 04:33:56+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0142981624862aa5', url='https://api.twitter.com/1.1/geo/id/0142981624862aa5.json', place_type='city', name='San Borja', full_name='San Borja, Peru', country_code='PE', country='Peru', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-77.0094640826507, -12.1138759753158], [-76.9754401177714, -12.1138759753158], [-76.9754401177714, -12.0795720335272], [-77.0094640826507, -12.0795720335272]]]), attributes={})
+
+1353199332737089541

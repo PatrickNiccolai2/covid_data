@@ -1,0 +1,13 @@
+@sdbaral It would be a lot less depressing if it was actually working. 
+
+@cvspharmacy and @Walgreens have other areas of expertise.  
+
+Vaccines there are primarily given a function of convenience as folks are picking up prescriptions or retail shopping.
+
+2021-01-24 03:34:26+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='59612bd882018c51', url='https://api.twitter.com/1.1/geo/id/59612bd882018c51.json', place_type='city', name='Santa Monica', full_name='Santa Monica, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-118.5173575, 33.9951771], [-118.443482, 33.9951771], [-118.443482, 34.050199], [-118.5173575, 34.050199]]]), attributes={})
+
+1353184359272960000

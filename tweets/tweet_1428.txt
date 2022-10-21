@@ -1,0 +1,9 @@
+FYI, Enterprise South *might* be closing soon for a vaccine site. Visit soon. https://t.co/M3bRChnN5g
+
+2021-01-23 22:16:15+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='07d9ee9ee2487002', url='https://api.twitter.com/1.1/geo/id/07d9ee9ee2487002.json', place_type='poi', name='Enterprise South Nature Park - Hidden Lake', full_name='Enterprise South Nature Park - Hidden Lake', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-85.11560147033623, 35.086007881816116], [-85.11560147033623, 35.086007881816116], [-85.11560147033623, 35.086007881816116], [-85.11560147033623, 35.086007881816116]]]), attributes={})
+
+1353104285966475270

@@ -1,0 +1,9 @@
+@mtgreenee @JoeBiden That’s all he done for Covid but left it a mess so Biden has to fix it so tired of hearing the stockpile was not filled now Trump never had any vaccine in a stockpile that he said there was so Trump and you  SUCK get off the congress floor I dont know who worse Boebert Trump or u
+
+2021-01-24 02:24:03+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='307a7ae81e051945', url='https://api.twitter.com/1.1/geo/id/307a7ae81e051945.json', place_type='city', name='Middletown', full_name='Middletown, PA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-75.3448061, 40.631608], [-75.306619, 40.631608], [-75.306619, 40.662596], [-75.3448061, 40.662596]]]), attributes={})
+
+1353166647109021696

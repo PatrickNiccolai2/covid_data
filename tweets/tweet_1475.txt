@@ -1,0 +1,9 @@
+MP defends receiving vaccine after volunteering at centre https://t.co/S7RvKJHsRb  - wow - just wow - it really is one rule for them. Maybe @piersmorgan or @maitlis or @jonsnowC4 will invite him onto TV to explain himself?
+
+2021-01-23 21:56:20+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7d7bdec12d2549d4', url='https://api.twitter.com/1.1/geo/id/7d7bdec12d2549d4.json', place_type='city', name='Nottingham', full_name='Nottingham, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.2501363, 52.921473], [-1.094396, 52.921473], [-1.094396, 53.017965], [-1.2501363, 53.017965]]]), attributes={})
+
+1353099274096160770

@@ -1,0 +1,9 @@
+@phlish1 @Acosta It is disingenuous to blame the former president when people were informed and the States made their own policies.  The spread of C19 is a function of population density.  Only a vaccine will stop it. Nothing else, given human nature, will change the trajectory of this virus.
+
+2021-01-24 08:16:29+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0d9a7f9b8f0baf12', url='https://api.twitter.com/1.1/geo/id/0d9a7f9b8f0baf12.json', place_type='city', name='Agoura Hills', full_name='Agoura Hills, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-118.794237, 34.125821], [-118.715023, 34.125821], [-118.715023, 34.168336], [-118.794237, 34.168336]]]), attributes={})
+
+1353255338464538624

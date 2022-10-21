@@ -1,0 +1,9 @@
+@poemhasan To the attention of National Vaccine Set Up Body : As for my experience as a RPh for couple of decades, I would like to have an opportunity to put forward some of my ideas on vaccinating all population in the whole USA. Pl acknowledge. Thanks
+
+2021-01-24 02:16:59+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='e82acd26e97baba0', url='https://api.twitter.com/1.1/geo/id/e82acd26e97baba0.json', place_type='city', name='Manorhaven', full_name='Manorhaven, NY', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-73.722677, 40.83273], [-73.703467, 40.83273], [-73.703467, 40.847448], [-73.722677, 40.847448]]]), attributes={})
+
+1353164866970939392

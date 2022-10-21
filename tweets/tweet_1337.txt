@@ -1,0 +1,9 @@
+@jwisniewski44 He said that Fed role was to get vaccine made and states responsible for implementation, so a lot of credit goes to states too. But high % also due to getting vax available quickly, which Warp Speed did. Roll out still has lots of room for improvement.
+
+2021-01-23 22:03:00+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1bcca4fea94a9c6e', url='https://api.twitter.com/1.1/geo/id/1bcca4fea94a9c6e.json', place_type='city', name='East Brunswick', full_name='East Brunswick, NJ', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-74.497788, 40.371099], [-74.340874, 40.371099], [-74.340874, 40.487356], [-74.497788, 40.487356]]]), attributes={})
+
+1353100949301166080

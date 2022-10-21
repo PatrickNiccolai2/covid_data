@@ -1,0 +1,9 @@
+40 year old Tory MP “volunteers” in hospital one afternoon then gets the Vaccine. Hope you’re Happy you tArseholes who voted in these lowlifes!! #ToryCorruption #ToryScum #Resign https://t.co/H3zyM59Jqf
+
+2021-01-23 19:52:27+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='077158cd94211ed4', url='https://api.twitter.com/1.1/geo/id/077158cd94211ed4.json', place_type='city', name='Ammanford', full_name='Ammanford, Wales', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-4.016039, 51.77809], [-3.960098, 51.77809], [-3.960098, 51.805705], [-4.016039, 51.805705]]]), attributes={})
+
+1353068096622186505

@@ -1,0 +1,11 @@
+I won't trust them with a vaccine, Did you know Johnson &amp; Johnson made baby powder.
+
+Missouri's highest court on Tuesday refused to consider Johnson &amp; Johnson's appeal of a $2.12 billion damages award to women who blamed their ovarian cancer on asbestos in its baby powder. https://t.co/MC7kueNEQw
+
+2021-01-23 21:30:05+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='49af5b43d4963f4c', url='https://api.twitter.com/1.1/geo/id/49af5b43d4963f4c.json', place_type='city', name='Monterey', full_name='Monterey, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-121.9270923, 36.5737723], [-121.830974, 36.5737723], [-121.830974, 36.618826], [-121.9270923, 36.618826]]]), attributes={})
+
+1353092665227632640

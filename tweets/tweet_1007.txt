@@ -1,0 +1,9 @@
+@AnneMillsMD I know this is 100% not the point, but your eyes are gorgeous! I wish I looked so beautiful in a mask! Congrats on getting your vaccine. Hope you have no side effects.
+
+2021-01-24 01:43:56+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01fe22ca07dfb790', url='https://api.twitter.com/1.1/geo/id/01fe22ca07dfb790.json', place_type='city', name='Wendel', full_name='Wendel, PA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-79.7002527, 40.26278], [-79.643765, 40.26278], [-79.643765, 40.3153264], [-79.7002527, 40.3153264]]]), attributes={})
+
+1353156550731431936

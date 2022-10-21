@@ -1,0 +1,9 @@
+Thank you, @memorialhermann, for everything you’re doing to #slowthespread! Coach Tron and Coach Porter got their vaccines today! 💉 https://t.co/GiJP5juEFH
+
+2021-01-23 22:11:07+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1c69a67ad480e1b1', url='https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json', place_type='city', name='Houston', full_name='Houston, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-95.823268, 29.522325], [-95.069705, 29.522325], [-95.069705, 30.1546646], [-95.823268, 30.1546646]]]), attributes={})
+
+1353102993739177985

@@ -1,0 +1,9 @@
+@Zigmanfreud The media isn't going to promote an anti-vaccine narrative with out evidence. That's your job.
+
+2021-01-23 19:06:52+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='e385d4d639c6a423', url='https://api.twitter.com/1.1/geo/id/e385d4d639c6a423.json', place_type='city', name='Stuttgart', full_name='Stuttgart, Germany', country_code='DE', country='Germany', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[9.038755, 48.692258], [9.31594, 48.692258], [9.31594, 48.866345], [9.038755, 48.866345]]]), attributes={})
+
+1353056626152853504

@@ -1,0 +1,9 @@
+@Tixa_vi @jdelarosah @LilianaMaret Amiga @Tixa_vi . La mayoría de  las vacunas contra COVID19 ya superan la fase 3: Pfizer, CanSino, Astra Zeneca y Sputnik ya han sido compradas por varios países. Mira .👇 https://t.co/O9XWMG1rTo
+
+2021-01-23 19:29:28+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='80e00b1e20e85786', url='https://api.twitter.com/1.1/geo/id/80e00b1e20e85786.json', place_type='city', name='Cuernavaca', full_name='Cuernavaca, Morelos', country_code='MX', country='Mexico', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-99.341179, 18.842003], [-99.180459, 18.842003], [-99.180459, 19.025621], [-99.341179, 19.025621]]]), attributes={})
+
+1353062310974119936

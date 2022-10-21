@@ -1,0 +1,9 @@
+Christians for number of years associated our African medicine with devil and demons, now they are afraid of COVID-19 vaccine associating it 666 that I don't believe it exists, you definitely desperate to meet our maker if you only believe in prayers.
+
+2021-01-24 10:35:17+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='dd9c0d7d7e07eb49', url='https://api.twitter.com/1.1/geo/id/dd9c0d7d7e07eb49.json', place_type='country', name='South Africa', full_name='South Africa', country_code='ZA', country='South Africa', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[16.4475932, -34.8342468], [32.8922934, -34.8342468], [32.8922934, -22.1247236], [16.4475932, -22.1247236]]]), attributes={})
+
+1353290268485836801

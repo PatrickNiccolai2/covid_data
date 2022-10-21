@@ -1,0 +1,9 @@
+@DingoDaveNZ @capitalkiwi @Phil_Tanner @NZStuff The owner says in the article that he doesn’t believe that Covid is real, he also alludes to the fact that there is a microchip in the vaccine, so yeah, pretty sure he read the article before he commented.
+
+2021-01-24 02:27:56+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00e647df275da3d1', url='https://api.twitter.com/1.1/geo/id/00e647df275da3d1.json', place_type='city', name='Rangitikei District', full_name='Rangitikei District, New Zealand', country_code='NZ', country='New Zealand', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[175.098873, -40.296349], [176.340733, -40.296349], [176.340733, -39.134489], [175.098873, -39.134489]]]), attributes={})
+
+1353167623031115776

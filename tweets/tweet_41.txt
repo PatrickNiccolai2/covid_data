@@ -1,0 +1,9 @@
+Will give #NicolaSturgeon her due at least she puts herself up for questions in this whole pandemic has any one seen #BorisJohnson on tv taken questions on marr show is he to busy worrying about Churchill’s bust lol union is dead
+
+2021-01-24 12:56:02+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='119b194b6bbb3bea', url='https://api.twitter.com/1.1/geo/id/119b194b6bbb3bea.json', place_type='city', name='Renfrew', full_name='Renfrew, Scotland', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-4.44813, 55.847615], [-4.356847, 55.847615], [-4.356847, 55.888957], [-4.44813, 55.888957]]]), attributes={})
+
+1353325689177575426

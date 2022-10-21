@@ -1,0 +1,11 @@
+Obligatory post-vaccine photo! [Felt too self-conscious to pull out the phone while getting the vaccine] 
+
+Also, apparently they do something called football at this location. 🤷 Interesting. https://t.co/kHQOxS3Uqj
+
+2021-01-23 20:10:54+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='07d9c9445a081002', url='https://api.twitter.com/1.1/geo/id/07d9c9445a081002.json', place_type='poi', name='Michigan Stadium', full_name='Michigan Stadium', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-83.74842703274228, 42.26605240995208], [-83.74842703274228, 42.26605240995208], [-83.74842703274228, 42.26605240995208], [-83.74842703274228, 42.26605240995208]]]), attributes={})
+
+1353072739452502017

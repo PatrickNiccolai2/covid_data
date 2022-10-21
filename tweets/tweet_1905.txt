@@ -1,0 +1,9 @@
+@musicrocksit452 @RandyResist Old, rich residents of Longboat Key (west coast)5 were bitching on TV yesterday they had no neighborhood vaccine site. We have plenty of old, rich entitled white folks down here who don't like waiting in line like the rest of us.
+
+2021-01-23 18:59:56+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='427b5367da3c2878', url='https://api.twitter.com/1.1/geo/id/427b5367da3c2878.json', place_type='city', name='South Venice', full_name='South Venice, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-82.442186, 27.0123027], [-82.3904335, 27.0123027], [-82.3904335, 27.079052], [-82.442186, 27.079052]]]), attributes={})
+
+1353054879107805188

@@ -1,0 +1,9 @@
+Gov.Abbot I live in a rural area about 25 miles from Victoria Texas I’m blind and have had bypass surgery I depend totally on others to get around where and when can I get a shot of the vaccine I’m 68
+
+2021-01-23 19:50:20+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='fcfb6cfd2fe29681', url='https://api.twitter.com/1.1/geo/id/fcfb6cfd2fe29681.json', place_type='city', name='Edna', full_name='Edna, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-96.67187, 28.955367], [-96.62758, 28.955367], [-96.62758, 28.998015], [-96.67187, 28.998015]]]), attributes={})
+
+1353067561823264768

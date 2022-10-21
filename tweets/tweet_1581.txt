@@ -1,0 +1,9 @@
+Looks like the weather in Wales will impact how many vaccine doses are given tomorrow. Snow forecast in many areas. https://t.co/oXmRIsxIJx
+
+2021-01-23 20:24:16+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1c1e73eb4f9370aa', url='https://api.twitter.com/1.1/geo/id/1c1e73eb4f9370aa.json', place_type='city', name='Colwinston', full_name='Colwinston, Wales', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.5298733, 51.4664563], [-3.5176083, 51.4664563], [-3.5176083, 51.4752321], [-3.5298733, 51.4752321]]]), attributes={})
+
+1353076104177717249

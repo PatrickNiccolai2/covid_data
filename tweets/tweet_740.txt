@@ -1,0 +1,9 @@
+@CloydRivers I'm gonna go off an say that the trajectory at the moment is slow because Trump held off so long on issuing a plan let alone a vaccine. Now that Biden is in office, getting the plan and vaccine distributed to Americans and cases won't go down just yet until September
+
+2021-01-24 05:03:57+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1df98ab7679917e7', url='https://api.twitter.com/1.1/geo/id/1df98ab7679917e7.json', place_type='city', name='Ventura', full_name='Ventura, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-119.321696, 34.23444], [-119.136287, 34.23444], [-119.136287, 34.344939], [-119.321696, 34.344939]]]), attributes={})
+
+1353206885852168192

@@ -1,0 +1,9 @@
+@AnnieGabstonH Or kids in cages, or raping women  or total incompetence resulting in over 400000 deaths or botching the vaccine distribution or telling 30000+ lies or denying affordable health care to all or denying climate change 🙄😷🇨🇦
+
+2021-01-23 18:57:50+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='125a714e2a35da7d', url='https://api.twitter.com/1.1/geo/id/125a714e2a35da7d.json', place_type='city', name='Niagara Falls', full_name='Niagara Falls, Ontario', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-79.176284, 42.959453], [-78.999464, 42.959453], [-78.999464, 43.148345], [-79.176284, 43.148345]]]), attributes={})
+
+1353054353100316673

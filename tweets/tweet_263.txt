@@ -1,0 +1,9 @@
+@LoisPrew @novak17272 @RepMTG @mtgreenee I’m sorry but u are brainwashed. Covid 19 vaccines are killing people. Biden doesn’t give a shit about the American people. Are u kidding me? He’s right. And also he plans to take our freedom rights away with this new bill that they plan on passing; which is very scary 4 us.
+
+2021-01-24 10:41:28+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='eec8e86da985fc44', url='https://api.twitter.com/1.1/geo/id/eec8e86da985fc44.json', place_type='city', name='Niagara Falls', full_name='Niagara Falls, NY', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-79.075086, 43.07079], [-78.942516, 43.07079], [-78.942516, 43.132798], [-79.075086, 43.132798]]]), attributes={})
+
+1353291823826001920

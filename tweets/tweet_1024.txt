@@ -1,0 +1,9 @@
+Interpol warns of fake vaccines targeting the desperate in SA https://t.co/pkpXe2OyNz # via @HeraldPE
+
+2021-01-24 01:31:09+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='004ec16c62325149', url='https://api.twitter.com/1.1/geo/id/004ec16c62325149.json', place_type='city', name='Brisbane', full_name='Brisbane, Queensland', country_code='AU', country='Australia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[152.668522848, -27.767440994], [153.31787024, -27.767440994], [153.31787024, -26.996844991], [152.668522848, -26.996844991]]]), attributes={})
+
+1353153331003236352

@@ -1,0 +1,9 @@
+Once I get this vaccine I’m gonna book a trip somewhere and go wild 👀
+
+2021-01-24 02:11:51+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00590928503737a3', url='https://api.twitter.com/1.1/geo/id/00590928503737a3.json', place_type='city', name='Moorestown', full_name='Moorestown, NJ', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-75.005426, 39.937764], [-74.8828239, 39.937764], [-74.8828239, 40.013124], [-75.005426, 40.013124]]]), attributes={})
+
+1353163576769445888

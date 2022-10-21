@@ -1,0 +1,9 @@
+@d3ceptithot @radeckicat @nytimes Pfizer developed the vaccine using grant money from Germany, a country with social health insurance.  The for profit system just allows pharmaceutical companies to profit off research that is mostly funded with taxpayer money.
+
+2021-01-23 22:47:59+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='a96f188f5de647b5', url='https://api.twitter.com/1.1/geo/id/a96f188f5de647b5.json', place_type='city', name='Renton', full_name='Renton, WA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.253717, 47.423263], [-122.135079, 47.423263], [-122.135079, 47.539933], [-122.253717, 47.539933]]]), attributes={})
+
+1353112271233249280

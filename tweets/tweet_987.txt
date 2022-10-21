@@ -1,0 +1,9 @@
+@politiolyc @BonJS0370 @zazzybritches @TJNugent520 @ThomONeil1 @HondoResists @kittykatbalou @Tonia8675309 @62WalterP @GDThor1 @kristyshl @CirclesSpinning @ldog562 @doug_in_nc @Chieki @Saline_tRick @DanielP58009529 @RobertVosFrere @BlueTsuni @KeepsAtIt @MairScott3 @theresagiudice @212_artist @GreatTammie @bobbiejaneV @RonniLaurie @vaato5455 @MFrance923 @IMundebo @TilghmanChris @BandieraNancy @julyriver @Cha51brolll19 @blues679 @BlueWave_resist @MarciaBunney @keriRN @Ezim79 @ShashaBrown12 @oldmanliver @RegVickers @MykeyCantona7 @HalSaline @yolalindayola @CunningSq16 @McGeezer67 @MilmadRn @poppij @alenesmiles @StaryStaryNlght It all helps. There is the question though if immunity due to the vaccine means you’re unable to spread the virus 🦠. I heard they don’t know.
+
+2021-01-24 01:56:56+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='09efd2065c8ce28e', url='https://api.twitter.com/1.1/geo/id/09efd2065c8ce28e.json', place_type='city', name='Surrey', full_name='Surrey, British Columbia', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.958937, 49.001921], [-122.678035, 49.001921], [-122.678035, 49.221117], [-122.958937, 49.221117]]]), attributes={})
+
+1353159819964735488

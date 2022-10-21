@@ -1,0 +1,9 @@
+@KtyRN4L @Wehrl @denniss9117 @AK7682 @Angelrdz66 @KSJM_12_72 @blitzchk @AmyTrask @SilverNBlackJWB @MrMiles02569390 @esgardopinedo1 @oscarrobinsons @raiderlady70 @BlackFoxRaider @RaiderStoney @Tmraider @raidersl8ergirl @Maryflo02468971 @Raiders Thanks Kty, I'm hanging in there. Waiting for the vaccine, justice and sanity to reassert itself. Have a good evening and keep the kids warm.🏴‍☠️😷👍 https://t.co/YyNrHrYFFi
+
+2021-01-24 00:01:08+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2f5f5ba43ec2f5a9', url='https://api.twitter.com/1.1/geo/id/2f5f5ba43ec2f5a9.json', place_type='city', name='Hampton', full_name='Hampton, VA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-76.451006, 36.989568], [-76.273546, 36.989568], [-76.273546, 37.112225], [-76.451006, 37.112225]]]), attributes={})
+
+1353130678498570241

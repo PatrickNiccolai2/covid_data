@@ -1,0 +1,9 @@
+@WFLA Let’s cancel all the vaccines now, a person was allergic 🤦‍♂️
+
+2021-01-23 21:38:42+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6d4de57fa00a913f', url='https://api.twitter.com/1.1/geo/id/6d4de57fa00a913f.json', place_type='city', name='Egypt Lake-Leto', full_name='Egypt Lake-Leto, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-82.527472, 27.996725], [-82.485096, 27.996725], [-82.485096, 28.037298], [-82.527472, 28.037298]]]), attributes={})
+
+1353094834614108160

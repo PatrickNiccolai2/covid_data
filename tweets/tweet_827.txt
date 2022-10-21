@@ -1,0 +1,9 @@
+An excellent idea. Now if only we had enough vaccine.  https://t.co/ci41ytGSsA
+
+2021-01-24 03:43:52+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3b3916ee31cfc9e6', url='https://api.twitter.com/1.1/geo/id/3b3916ee31cfc9e6.json', place_type='city', name='Chattanooga', full_name='Chattanooga, TN', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-85.404424, 34.983674], [-85.080704, 34.983674], [-85.080704, 35.2002354], [-85.404424, 35.2002354]]]), attributes={})
+
+1353186732271874050

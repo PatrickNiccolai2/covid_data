@@ -1,0 +1,10 @@
+First dose done 👍
+#COVID19 #CovidVaccine #vaccinessavelivess https://t.co/YjOxfLGySw
+
+2021-01-23 22:04:16+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='e2eb5f0e0fbdb6a7', url='https://api.twitter.com/1.1/geo/id/e2eb5f0e0fbdb6a7.json', place_type='city', name='Crawfordsville', full_name='Crawfordsville, IN', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-86.97071, 40.013075], [-86.852546, 40.013075], [-86.852546, 40.082025], [-86.97071, 40.082025]]]), attributes={})
+
+1353101266898079747

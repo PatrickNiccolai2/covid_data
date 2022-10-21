@@ -1,0 +1,11 @@
+@AHart1974 @dannydanger3245 @MattHancock @NHSCOVID19app Ah, you are correct in this. I assumed you were arguing that vaccines were not necessary at all.
+
+Yes, there is a minimum vaccination level at which the virus will be mostly eliminated. It won't hurt to vaccinate more than this
+
+2021-01-24 11:09:52+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='06ba287ee1f091ba', url='https://api.twitter.com/1.1/geo/id/06ba287ee1f091ba.json', place_type='city', name='Peel', full_name='Peel, Isle of Man', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-4.7021442, 54.2157898], [-4.6728785, 54.2157898], [-4.6728785, 54.2287005], [-4.7021442, 54.2287005]]]), attributes={})
+
+1353298969800151045

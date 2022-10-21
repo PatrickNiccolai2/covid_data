@@ -1,0 +1,9 @@
+@VANewOrleans called me last night at 1900 (Friday), to ask if I wanted the COVID vaccine. Thanks for working hard for the veterans.
+
+2021-01-24 03:46:12+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='003d28304705c42a', url='https://api.twitter.com/1.1/geo/id/003d28304705c42a.json', place_type='city', name='Mandeville', full_name='Mandeville, LA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-90.154712, 30.348341], [-90.003767, 30.348341], [-90.003767, 30.459998], [-90.154712, 30.459998]]]), attributes={})
+
+1353187318354616320

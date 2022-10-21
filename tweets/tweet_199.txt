@@ -1,0 +1,9 @@
+@Mogue131 @Elaine_Loughlin They said keep distance, wash hands often, put mask covid will control, but nothing yet,  now they say say vaccines will help but no proofs yet that will control sprade either,  now lock the country, people are already suffering with mental illness et..no one ask these questions
+
+2021-01-24 11:30:26+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='39c050dc294a9763', url='https://api.twitter.com/1.1/geo/id/39c050dc294a9763.json', place_type='city', name='Donegal', full_name='Donegal, Ireland', country_code='IE', country='Ireland', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-8.8049977, 54.4592109], [-6.9275837, 54.4592109], [-6.9275837, 55.3828521], [-8.8049977, 55.3828521]]]), attributes={})
+
+1353304148918284288

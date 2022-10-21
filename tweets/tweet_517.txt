@@ -1,0 +1,9 @@
+Something like Kamala &amp; her backflip on taking the Covid vaccine https://t.co/Vf9kYBZcYr
+
+2021-01-24 08:29:37+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00fdc8497c0ca7b4', url='https://api.twitter.com/1.1/geo/id/00fdc8497c0ca7b4.json', place_type='city', name='Wagga Wagga', full_name='Wagga Wagga, New South Wales', country_code='AU', country='Australia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[147.304038624, -35.187975032], [147.424035232, -35.187975032], [147.424035232, -35.0881893435], [147.304038624, -35.0881893435]]]), attributes={})
+
+1353258641126641665

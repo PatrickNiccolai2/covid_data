@@ -1,0 +1,9 @@
+@ncdhhs I am still waiting for an answer as to why it is fair and ok that you moved vaccines from triad hospitals that thousands of citizens like me had an appointment for to shift to Charlotte just to make your current pathetic vaccine in arms percentage look better...waiting
+
+2021-01-23 19:47:45+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='a6c257c61f294ec1', url='https://api.twitter.com/1.1/geo/id/a6c257c61f294ec1.json', place_type='city', name='Greensboro', full_name='Greensboro, NC', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.0295184, 35.962623], [-79.6852086, 35.962623], [-79.6852086, 36.218171], [-80.0295184, 36.218171]]]), attributes={})
+
+1353066914956808198

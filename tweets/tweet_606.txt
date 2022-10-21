@@ -1,0 +1,13 @@
+9 out of 10 people in poor countries could miss out on a #COVID19 vaccine this year.
+
+Meanwhile, rich countries have enough to vaccinate their entire populations nearly 3 times over.
+
+We must have a #PeoplesVaccine for everyone, everywhere. https://t.co/S8hGkDldyW
+
+2021-01-24 07:27:10+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='018d4410153dc23b', url='https://api.twitter.com/1.1/geo/id/018d4410153dc23b.json', place_type='admin', name='Greater Accra', full_name='Greater Accra, Ghana', country_code='GH', country='Ghana', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.495283, 5.4812804], [0.6719668, 5.4812804], [0.6719668, 6.1058921], [-0.495283, 6.1058921]]]), attributes={})
+
+1353242929045901313

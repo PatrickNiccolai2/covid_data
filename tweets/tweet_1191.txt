@@ -1,0 +1,9 @@
+"US President Joe Biden and UK PM Boris Johnson discuss COVID-19 recovery in a phone call"  https://t.co/xBDxnvL3HY
+
+2021-01-23 23:52:58+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2f843bbfaebff6ef', url='https://api.twitter.com/1.1/geo/id/2f843bbfaebff6ef.json', place_type='city', name='Birkenhead', full_name='Birkenhead, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.1457875, 53.304078], [-2.933067, 53.304078], [-2.933067, 53.421308], [-3.1457875, 53.421308]]]), attributes={})
+
+1353128625051209729

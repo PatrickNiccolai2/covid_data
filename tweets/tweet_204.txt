@@ -1,0 +1,9 @@
+Just had my first COVID vaccine and feeling great 😀 @LittleMix @bbcmtd @ITVCentral #CovidVaccine #AstraZeneca #StaySafe #Leicester
+
+2021-01-24 11:23:29+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5dac04d70f55ce07', url='https://api.twitter.com/1.1/geo/id/5dac04d70f55ce07.json', place_type='city', name='Shepshed', full_name='Shepshed, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.3089081, 52.75478], [-1.2752078, 52.75478], [-1.2752078, 52.7820331], [-1.3089081, 52.7820331]]]), attributes={})
+
+1353302397230198784

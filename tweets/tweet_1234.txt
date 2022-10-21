@@ -1,0 +1,9 @@
+I get to have my 2nd dose of the covid vaccine at Disneyland! I literally can’t wait. That’ll be something I appreciate forever #imissdisneyland
+
+2021-01-23 23:36:19+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0799ff0a3c1006e9', url='https://api.twitter.com/1.1/geo/id/0799ff0a3c1006e9.json', place_type='city', name='Los Alamitos', full_name='Los Alamitos, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-118.092825, 33.781057], [-118.032515, 33.781057], [-118.032515, 33.8196208], [-118.092825, 33.8196208]]]), attributes={})
+
+1353124434043760640

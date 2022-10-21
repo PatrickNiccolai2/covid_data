@@ -1,0 +1,9 @@
+@StanCollymore @BorisJohnson This pandemic has highlighted the problem of lack of wellbeing support in the community, the divide will only get wider!
+
+2021-01-23 20:23:58+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4cb7ff8db49dfaa0', url='https://api.twitter.com/1.1/geo/id/4cb7ff8db49dfaa0.json', place_type='city', name='Ashford', full_name='Ashford, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[0.825135, 51.118763], [0.9211082, 51.118763], [0.9211082, 51.1650875], [0.825135, 51.1650875]]]), attributes={})
+
+1353076025752576002

@@ -1,0 +1,9 @@
+@Klaatus_mate @BorisJohnson It is. But the biggies in Europe are pretty much in the same place we are Germany, Holland. I’m not on board with a ‘pandemic’ otherwise half the third world would be dead. So why are they ruining the economies. Canada too.
+
+2021-01-24 00:04:19+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='174aa071dce6ffd4', url='https://api.twitter.com/1.1/geo/id/174aa071dce6ffd4.json', place_type='city', name='South Shields', full_name='South Shields, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.5043785, 54.948281], [-1.377026, 54.948281], [-1.377026, 55.00756], [-1.5043785, 55.00756]]]), attributes={})
+
+1353131479795118080

@@ -1,0 +1,9 @@
+When’s the vaccine coming for the medical professional doses on Twitter.
+
+2021-01-23 22:29:01+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='723427e351a01e72', url='https://api.twitter.com/1.1/geo/id/723427e351a01e72.json', place_type='city', name='Dun Laoghaire-Rathdown', full_name='Dun Laoghaire-Rathdown, Ireland', country_code='IE', country='Ireland', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-6.2820377, 53.1992829], [-6.0667589, 53.1992829], [-6.0667589, 53.315283], [-6.2820377, 53.315283]]]), attributes={})
+
+1353107495879847938

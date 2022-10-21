@@ -1,0 +1,9 @@
+Very impressed by the colleagues who run so smoothly Imperial COVID vaccine, I had mine and cycled 60km on the same day. I had no side effects. Get yours. https://t.co/ROyjaicz1g
+
+2021-01-23 20:39:02+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='07d9ec9d7f084001', url='https://api.twitter.com/1.1/geo/id/07d9ec9d7f084001.json', place_type='poi', name="St. Mary's Hospital", full_name="St. Mary's Hospital", country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.17466118211771173, 51.51701684021448], [-0.17466118211771173, 51.51701684021448], [-0.17466118211771173, 51.51701684021448], [-0.17466118211771173, 51.51701684021448]]]), attributes={})
+
+1353079820935159810

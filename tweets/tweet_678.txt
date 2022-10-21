@@ -1,0 +1,9 @@
+@MalevaDi @EmeraldRobinson The research I've recently done... maybe you don't want that vaccine anyway? Just stay safe til it's over? Healthy bodies should test it 1st in my opinion so high-risk don't die in govmt experiment.
+
+2021-01-24 06:09:35+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='ac88a4f17a51c7fc', url='https://api.twitter.com/1.1/geo/id/ac88a4f17a51c7fc.json', place_type='city', name='Portland', full_name='Portland, OR', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.7900653, 45.421863], [-122.471751, 45.421863], [-122.471751, 45.6509405], [-122.7900653, 45.6509405]]]), attributes={})
+
+1353223404346691584

@@ -1,0 +1,9 @@
+The Covid vaccine is now called the Fauci Ouchie. It’s too cute to not use it!!
+
+2021-01-23 22:45:01+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='034ca52a6c9a90f8', url='https://api.twitter.com/1.1/geo/id/034ca52a6c9a90f8.json', place_type='city', name='Waverly', full_name='Waverly, IA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-92.5343382, 42.700318], [-92.425754, 42.700318], [-92.425754, 42.7541182], [-92.5343382, 42.7541182]]]), attributes={})
+
+1353111525465194496

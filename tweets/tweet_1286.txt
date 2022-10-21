@@ -1,0 +1,14 @@
+@Raffi_RC @mama_c2 Been a long 11 months for me know.
+Had it(covid19) last Feb Of 2020.
+Now they say I can get it again? 
+Guess I shouldn't be surprised...
+But praying the vaccine will work.
+Really seeing others being ok after they after, then I too will get the vaccine!
+
+2021-01-23 23:14:24+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='017fbe104029934f', url='https://api.twitter.com/1.1/geo/id/017fbe104029934f.json', place_type='city', name='Shelton', full_name='Shelton, WA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-123.221681, 47.1720388], [-123.026184, 47.1720388], [-123.026184, 47.291156], [-123.221681, 47.291156]]]), attributes={})
+
+1353118916923564033

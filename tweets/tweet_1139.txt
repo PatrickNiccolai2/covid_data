@@ -1,0 +1,9 @@
+In Spain, 400people die every day. Meanwhile, politicians around the country are getting the vaccine ahead of priority cases, and @GobiernoDeEspan is choosing NOT to #lockdown #CONFINadYaEspana because there is an election in Catalonia in two weeks #MarcaEspaña Deaths are on them https://t.co/IlaXJX1105
+
+2021-01-24 00:17:48+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='004ec16c62325149', url='https://api.twitter.com/1.1/geo/id/004ec16c62325149.json', place_type='city', name='Brisbane', full_name='Brisbane, Queensland', country_code='AU', country='Australia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[152.668522848, -27.767440994], [153.31787024, -27.767440994], [153.31787024, -26.996844991], [152.668522848, -26.996844991]]]), attributes={})
+
+1353134872383025154

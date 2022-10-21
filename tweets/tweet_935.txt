@@ -1,0 +1,9 @@
+Volunteered @UWMedicine to deliver vaccine today (dermatologists do a lot of procedures, so...). Cathartic. 30 people at lower risk 💪🏽 #touchedbycovid https://t.co/w2SFAfKUMc
+
+2021-01-24 02:29:14+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='07d9c93d8a487003', url='https://api.twitter.com/1.1/geo/id/07d9c93d8a487003.json', place_type='poi', name='UW Medical Center', full_name='UW Medical Center', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.30864524841309, 47.650038279683], [-122.30864524841309, 47.650038279683], [-122.30864524841309, 47.650038279683], [-122.30864524841309, 47.650038279683]]]), attributes={})
+
+1353167948928544768

@@ -1,0 +1,9 @@
+A New York State #Park Shuts Down In Brooklyn &amp; Neighbors Say Losing It For 6 Months In This Pandemic Is Not OK. #NYStatePark #MarshaPJohnson @CBSNewYork Link to Story in Comment https://t.co/4IYlU7OwU6
+
+2021-01-24 02:24:50+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='11f6a9d1be94f000', url='https://api.twitter.com/1.1/geo/id/11f6a9d1be94f000.json', place_type='poi', name='Marsha P. Johnson State Park', full_name='Marsha P. Johnson State Park', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-73.96217107772827, 40.72175414419541], [-73.96217107772827, 40.72175414419541], [-73.96217107772827, 40.72175414419541], [-73.96217107772827, 40.72175414419541]]]), attributes={})
+
+1353166844232929282

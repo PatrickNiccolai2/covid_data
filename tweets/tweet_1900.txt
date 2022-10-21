@@ -1,0 +1,9 @@
+@modrnhealthcr And by then it will have mutated so much rendering the vaccine ineffective #waytogoassholes
+
+2021-01-23 19:01:35+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01d68e410bf32d54', url='https://api.twitter.com/1.1/geo/id/01d68e410bf32d54.json', place_type='city', name='Bakerstown', full_name='Bakerstown, PA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-79.961087, 40.609423], [-79.898315, 40.609423], [-79.898315, 40.691153], [-79.961087, 40.691153]]]), attributes={})
+
+1353055296747397128

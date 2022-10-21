@@ -1,0 +1,9 @@
+ये है हमारा भारत और भारत का मन. सर्वे सन्तु: निरामया. समस्त मानव जाति निरोगी हो, मात्र चाह नहीं कृत्य भी. Only my mother land भारत supplies Vaccines to save all humans, I am proud my Nation. @narendramodi @AmitShah @ZeeNews @WHO https://t.co/P8ICGbjxGq
+
+2021-01-24 07:00:18+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='18fe14b600b2c393', url='https://api.twitter.com/1.1/geo/id/18fe14b600b2c393.json', place_type='city', name='Allahabad', full_name='Allahabad, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[81.797979, 25.4111975], [81.9133428, 25.4111975], [81.9133428, 25.5122032], [81.797979, 25.5122032]]]), attributes={})
+
+1353236167064338432

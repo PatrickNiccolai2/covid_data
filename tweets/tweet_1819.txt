@@ -1,0 +1,18 @@
+They giving out vaccines to the elderly who can stay home in most circumstances. 
+
+They are not however vaccinating the homeless. 
+The reason ? 
+
+They can’t follow up. 
+They won’t provide healthcare. 
+These are the least important people to the @CDCgov 
+
+No diss just facts.
+
+2021-01-23 19:27:06+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='946ccd22e1c9cda1', url='https://api.twitter.com/1.1/geo/id/946ccd22e1c9cda1.json', place_type='city', name='Pittsburgh', full_name='Pittsburgh, PA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.095586, 40.3615796], [-79.8657933, 40.3615796], [-79.8657933, 40.501198], [-80.095586, 40.501198]]]), attributes={})
+
+1353061714338615302

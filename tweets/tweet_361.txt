@@ -1,0 +1,9 @@
+@racobrien @POAUnion Rachel as someone who is 60 I'm in the 6th group to get vaccine as a prison officer I havent a problem with that. But the truth is starting in feb. for prisoners if you live in the constituency of one of those prisons would you be happy at these queue jumpers.
+
+2021-01-24 09:52:59+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5c1a6be21692d368', url='https://api.twitter.com/1.1/geo/id/5c1a6be21692d368.json', place_type='city', name='Birtley', full_name='Birtley, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.6051046, 54.87774], [-1.5570839, 54.87774], [-1.5570839, 54.9203835], [-1.6051046, 54.9203835]]]), attributes={})
+
+1353279623589736453

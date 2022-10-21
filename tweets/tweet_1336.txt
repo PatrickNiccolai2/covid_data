@@ -1,0 +1,9 @@
+@irda12 @ClareBabbs @smartymartycavy @McGeerafe @Novavax @SynexusClinics have written to me but not given that advice. In any event, if offered an NHS vaccine not sure I want to gamble 7+ months to December that I may have had a vaccine or not. With this new strain, that’s too risky for me. Each to their own 👍
+
+2021-01-23 22:58:58+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6bc1630ac15fbcaa', url='https://api.twitter.com/1.1/geo/id/6bc1630ac15fbcaa.json', place_type='city', name='West Bromwich', full_name='West Bromwich, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.0971002, 52.460709], [-1.921566, 52.460709], [-1.921566, 52.569037], [-2.0971002, 52.569037]]]), attributes={})
+
+1353115033652391942

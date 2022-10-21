@@ -1,0 +1,9 @@
+So you’re not afraid of dying from COVID but you’re afraid of the vaccine? Ummm whhhaaaatttt??!!
+
+2021-01-24 03:05:17+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='011add077f4d2da3', url='https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json', place_type='city', name='Brooklyn', full_name='Brooklyn, NY', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-74.041878, 40.570842], [-73.855673, 40.570842], [-73.855673, 40.739434], [-74.041878, 40.739434]]]), attributes={})
+
+1353177020897914897

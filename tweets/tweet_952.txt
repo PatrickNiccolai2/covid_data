@@ -1,0 +1,11 @@
+Pushing on with vaccine drive amid no-shows |
+From public mistrust to software glitches, India's Inoculation drive faces several Challenges in Contrast to PM @NarendraModi views.
+Deccan Herald - https://t.co/4SiaaRFSQG
+
+2021-01-24 02:20:49+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5f55bb82cf16ac81', url='https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json', place_type='city', name='Bengaluru South', full_name='Bengaluru South, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[77.3305776, 12.731936], [77.7863188, 12.731936], [77.7863188, 13.1142933], [77.3305776, 13.1142933]]]), attributes={})
+
+1353165829995515904

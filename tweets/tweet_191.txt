@@ -1,0 +1,9 @@
+Had Fist Jab of COVID Vaccine #ZeroCovid,Thank you Abu Dhabi Thank you UAE 👏👏👍👍
+
+2021-01-24 11:33:55+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00f24ae701a1207b', url='https://api.twitter.com/1.1/geo/id/00f24ae701a1207b.json', place_type='admin', name='Abu Dhabi', full_name='Abu Dhabi, United Arab Emirates', country_code='AE', country='United Arab Emirates', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[51.2938738, 22.6261387], [56.0175464, 22.6261387], [56.0175464, 25.1639588], [51.2938738, 25.1639588]]]), attributes={})
+
+1353305023346839552

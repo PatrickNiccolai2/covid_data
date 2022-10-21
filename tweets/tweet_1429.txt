@@ -1,0 +1,9 @@
+#NotiMippCI 📰🗞| Hungría compra 2 millones de dosis de la vacuna rusa Sputnik V contra Covid-19 . Lea más ⏩ https://t.co/LXlBRQqdHP  #23ETriunfoDelPueblo https://t.co/lLwB63L7dt
+
+2021-01-23 22:16:02+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00982120172dd83a', url='https://api.twitter.com/1.1/geo/id/00982120172dd83a.json', place_type='admin', name='Delta Amacuro', full_name='Delta Amacuro, Venezuela', country_code='VE', country='Venezuela', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-62.6181145, 7.5520756], [-59.8037796, 7.5520756], [-59.8037796, 10.0208456], [-62.6181145, 10.0208456]]]), attributes={})
+
+1353104229947342850

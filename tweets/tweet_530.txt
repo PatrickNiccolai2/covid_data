@@ -1,0 +1,9 @@
+Zambia allocated 8.7 million doses of Covid-19 vaccine according to Zambia's Ambassador to Ethiopia Emmanuel Mwamba who is also a Permanent Representative to the African Union! https://t.co/smueVjaThy
+
+2021-01-24 08:23:17+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='019e657901f7e624', url='https://api.twitter.com/1.1/geo/id/019e657901f7e624.json', place_type='admin', name='Copperbelt', full_name='Copperbelt, Zambia', country_code='ZM', country='Zambia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[26.7784419, -13.9406299], [29.1007489, -13.9406299], [29.1007489, -12.2205598], [26.7784419, -12.2205598]]]), attributes={})
+
+1353257047526166528

@@ -1,0 +1,13 @@
+You guys remember that scene in X-men 3 where the squad of army fellers is firing anti mutant vaccines at the crowd of mutants
+
+What if like
+
+You know
+
+2021-01-23 21:31:26+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='18810aa5b43e76c7', url='https://api.twitter.com/1.1/geo/id/18810aa5b43e76c7.json', place_type='city', name='Dallas', full_name='Dallas, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-96.977527, 32.620678], [-96.54598, 32.620678], [-96.54598, 33.019039], [-96.977527, 33.019039]]]), attributes={})
+
+1353093005452988419

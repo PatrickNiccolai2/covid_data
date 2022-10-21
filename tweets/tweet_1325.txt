@@ -1,0 +1,9 @@
+Mixed feelings re: getting COVID vaccine today. While I’m grateful to work in a place that made vaccines available even to folks like me (young &amp; healthy); nobody in my country has received it yet. It shouldn’t be about where you live. Global health work is + important than ever.
+
+2021-01-23 23:03:58+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='67b98f17fdcf20be', url='https://api.twitter.com/1.1/geo/id/67b98f17fdcf20be.json', place_type='city', name='Boston', full_name='Boston, MA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-71.191421, 42.227797], [-70.986004, 42.227797], [-70.986004, 42.399542], [-71.191421, 42.399542]]]), attributes={})
+
+1353116293508067330

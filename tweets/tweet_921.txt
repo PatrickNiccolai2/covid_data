@@ -1,0 +1,9 @@
+PSS: the vaccine did not hurt, and I have had no adverse side effects. Please consider getting vaccinated when you are eligible and able!
+
+2021-01-24 02:36:33+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7dc5c6d3bfb10ccc', url='https://api.twitter.com/1.1/geo/id/7dc5c6d3bfb10ccc.json', place_type='admin', name='Wisconsin', full_name='Wisconsin, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-92.889433, 42.491921], [-86.24955, 42.491921], [-86.24955, 47.309715], [-92.889433, 47.309715]]]), attributes={})
+
+1353169789674467329

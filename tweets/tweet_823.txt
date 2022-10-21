@@ -1,0 +1,9 @@
+@acoyne Just want to add - I don’t like throwing money at industry ... but we can no longer rely on other countries for vaccines - dishwashers, fine - vaccines,  no way.
+
+2021-01-24 03:46:35+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7f26a3e661069882', url='https://api.twitter.com/1.1/geo/id/7f26a3e661069882.json', place_type='city', name='Saint John', full_name='Saint John, New Brunswick', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-66.240899, 44.863279], [-65.839204, 44.863279], [-65.839204, 45.377488], [-66.240899, 45.377488]]]), attributes={})
+
+1353187416757202945

@@ -1,0 +1,9 @@
+We've left our run too late.  Both Pfizer now AstraZeneca can't deliver promised vaccines.  Greg Hunt and Scott Morrison must be held accountable for this unfolding clusterfuck. Voters will not accept a fucked up vaccine rollout. @AlboMP are you standing by? https://t.co/vRYzLOAFJy
+
+2021-01-24 00:35:07+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='015d03f56d58f551', url='https://api.twitter.com/1.1/geo/id/015d03f56d58f551.json', place_type='city', name='Port Macquarie', full_name='Port Macquarie, New South Wales', country_code='AU', country='Australia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[152.846524, -31.492966998], [152.938449408, -31.492966998], [152.938449408, -31.406726991], [152.846524, -31.406726991]]]), attributes={})
+
+1353139231745478658

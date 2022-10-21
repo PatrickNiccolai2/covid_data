@@ -1,0 +1,9 @@
+I think I’m calling it a night #POstables. Exhaustion has set in &amp;have another vaccine clinic tomorrow (bonus-I get my 2nd dose!) This was so much fun-let’s do it again next Saturday!! @hallmarkmovie
+
+2021-01-24 02:50:22+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='8cbcad86e88fd71a', url='https://api.twitter.com/1.1/geo/id/8cbcad86e88fd71a.json', place_type='city', name='Howell', full_name='Howell, MI', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-84.006198, 42.568064], [-83.909455, 42.568064], [-83.909455, 42.651203], [-84.006198, 42.651203]]]), attributes={})
+
+1353173267457200128

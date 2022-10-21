@@ -1,0 +1,11 @@
+Listen: America's messy Covid-19 vaccine rollout
+
+https://t.co/T7CPEEzPZ4
+
+2021-01-24 10:28:51+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='9f23cc99c0ba48db', url='https://api.twitter.com/1.1/geo/id/9f23cc99c0ba48db.json', place_type='city', name='Melville', full_name='Melville, NY', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-73.448769, 40.751317], [-73.368128, 40.751317], [-73.368128, 40.815432], [-73.448769, 40.815432]]]), attributes={})
+
+1353288649257967617

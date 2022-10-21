@@ -1,0 +1,9 @@
+@desperalolly @DreamingRika Sure it will. You keep waiting. Remember "two weeks to flatten...", then "until the vaccine". Wake up
+
+2021-01-23 20:33:09+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='009327fe192849b0', url='https://api.twitter.com/1.1/geo/id/009327fe192849b0.json', place_type='city', name='Mount Pleasant', full_name='Mount Pleasant, WI', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-87.9103139, 42.667745], [-87.786808, 42.667745], [-87.786808, 42.755807], [-87.9103139, 42.755807]]]), attributes={})
+
+1353078336663277573

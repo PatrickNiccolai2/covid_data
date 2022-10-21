@@ -1,0 +1,9 @@
+A very good interview with the very impressive Kate Bingham - brilliant job leading the UK vaccine task force. https://t.co/gGxMveDo82
+
+2021-01-24 12:03:54+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0c2f185415d757e3', url='https://api.twitter.com/1.1/geo/id/0c2f185415d757e3.json', place_type='city', name='Norwich', full_name='Norwich, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[1.20388, 52.598032], [1.342283, 52.598032], [1.342283, 52.684934], [1.20388, 52.684934]]]), attributes={})
+
+1353312567251374081

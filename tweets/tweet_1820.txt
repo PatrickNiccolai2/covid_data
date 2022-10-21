@@ -1,0 +1,9 @@
+Second shot was 2 weeks ago. Gracias a mi hospital en South Florida ~ memorial regional hospital. #latinasinmedicine #COVID vaccine. https://t.co/OFSlOvd4me
+
+2021-01-23 19:29:03+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='04cb31bae3b3af93', url='https://api.twitter.com/1.1/geo/id/04cb31bae3b3af93.json', place_type='city', name='Miami', full_name='Miami, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.321683, 25.7090404], [-80.144974, 25.7090404], [-80.144974, 25.855667], [-80.321683, 25.855667]]]), attributes={})
+
+1353062209073516544

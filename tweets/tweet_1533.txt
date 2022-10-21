@@ -1,0 +1,9 @@
+@simon19702003 @stuinpool @Simon__Greaves A fair few nurses haven’t been offered the vaccine yet and a lot more of them will definitely come I to contact with COVID
+
+2021-01-23 21:27:26+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2b2728534769a5a7', url='https://api.twitter.com/1.1/geo/id/2b2728534769a5a7.json', place_type='city', name='Hessle', full_name='Hessle, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.460495, 53.713856], [-0.419248, 53.713856], [-0.419248, 53.735904], [-0.460495, 53.735904]]]), attributes={})
+
+1353091999713423362

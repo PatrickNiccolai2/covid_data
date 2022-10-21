@@ -1,0 +1,9 @@
+@mpushntabeni This is exactly where we need a public private partnership. The state (or an NPO?) to ensure compliance and then the private sector to negotiate the deal and distribute the vaccine. We should work with our strengths.
+
+2021-01-24 04:48:03+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='cc95b56a28712044', url='https://api.twitter.com/1.1/geo/id/cc95b56a28712044.json', place_type='city', name='Centurion', full_name='Centurion, South Africa', country_code='ZA', country='South Africa', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[28.0010585, -25.9448996], [28.2712217, -25.9448996], [28.2712217, -25.7768617], [28.0010585, -25.7768617]]]), attributes={})
+
+1353202884498735104

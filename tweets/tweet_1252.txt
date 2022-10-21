@@ -1,0 +1,21 @@
+@squig_ @AnthonyCole68 In no particular order:
+@phitchener9 (ch9)
+Dennis Cometti (ch7)
+Paul Keating  (fmr PM)
+Ronald Merkel  (law)
+Prof. Ian Frazer  (HPV vaccine ) 
+Dr Charlie Teo (Surgeon)
+Iva Davies (Icehouse)
+Mark Seymore (musician)
+Molly Meldrum (Countdown)
+Alan Border (Cricket)
+
+TI
+
+2021-01-23 23:28:26+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0118c71c0ed41109', url='https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json', place_type='city', name='Perth (WA)', full_name='Perth, Western Australia', country_code='AU', country='Australia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[115.617614368, -32.675715325], [116.239023008, -32.675715325], [116.239023008, -31.6244855145], [115.617614368, -31.6244855145]]]), attributes={})
+
+1353122450645479424

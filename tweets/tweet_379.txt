@@ -1,0 +1,9 @@
+@Stand_Free1980 It's a vaccine for third world and developing countries. Cheap, easy to store but less effective. Fitting that the Tories are handing it out to us.
+
+2021-01-24 09:46:33+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='73cc26d418860ddd', url='https://api.twitter.com/1.1/geo/id/73cc26d418860ddd.json', place_type='city', name='Aberdeen', full_name='Aberdeen, Scotland', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.1899763, 57.107695], [-2.0641046, 57.107695], [-2.0641046, 57.2134174], [-2.1899763, 57.2134174]]]), attributes={})
+
+1353278005955751937

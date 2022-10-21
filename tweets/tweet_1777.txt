@@ -1,0 +1,9 @@
+@VP @POTUS We need covid 19 moderna vaccines for Puerto Rico USA
+
+2021-01-23 19:39:18+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='18a28595eed76f60', url='https://api.twitter.com/1.1/geo/id/18a28595eed76f60.json', place_type='city', name='Cayey', full_name='Cayey, Puerto Rico', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-66.218661, 18.064649], [-66.063512, 18.064649], [-66.063512, 18.169114], [-66.218661, 18.169114]]]), attributes={})
+
+1353064787647717376

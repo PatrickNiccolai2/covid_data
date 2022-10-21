@@ -1,0 +1,9 @@
+We are fully recovered from the second Covid vaccine shot. Let the backyard dog games begin. @ Blackjack Mountain https://t.co/9IQ3Naixfu
+
+2021-01-23 23:03:06+00:00
+
+{'type': 'Point', 'coordinates': [-84.50329583, 33.97404963]}
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7142eb97ae21e839', url='https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json', place_type='admin', name='Georgia', full_name='Georgia, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-85.605166, 30.355644], [-80.742567, 30.355644], [-80.742567, 35.000771], [-85.605166, 35.000771]]]), attributes={})
+
+1353116075903356933

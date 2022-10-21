@@ -1,0 +1,9 @@
+Suegros got 1st dose of the vaccine today.
+
+2021-01-23 23:05:31+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='547fe91108bd744c', url='https://api.twitter.com/1.1/geo/id/547fe91108bd744c.json', place_type='city', name='San Juan', full_name='San Juan, Puerto Rico', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-66.125093, 18.29645], [-65.991643, 18.29645], [-65.991643, 18.471881], [-66.125093, 18.471881]]]), attributes={})
+
+1353116682475200512

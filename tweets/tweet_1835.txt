@@ -1,0 +1,9 @@
+@field437 @SueC00K Exactly that. There has been no discussion whatever from @BorisJohnson @MattHancock @uksciencechief about early treatments. Lockdown, hospitalisation and vaccine 💉 are the only game allowed. They are totally corrupt. Wonder how Valances shares in GlaxoSmithKline are doing ?
+
+2021-01-23 19:23:34+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1023de91a66b65b0', url='https://api.twitter.com/1.1/geo/id/1023de91a66b65b0.json', place_type='city', name='Charlton-on-Otmoor', full_name='Charlton-on-Otmoor, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.1910442, 51.8353161], [-1.1788544, 51.8353161], [-1.1788544, 51.842155], [-1.1910442, 51.842155]]]), attributes={})
+
+1353060826869993473

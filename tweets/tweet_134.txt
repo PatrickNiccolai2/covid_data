@@ -1,0 +1,9 @@
+@nickcammarata @ESYudkowsky @rmushkatblat Or a tiered pricing: first 100 shots are $1million a pop. The next 900 are $100’000, the next 9000 are $10’000 and so forth. Yes, this means “the rich gets it first” but if it meant a lower risk for r&amp;d and faster to get the vaccines to everyone then why not.
+
+2021-01-24 12:07:49+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6b9fbf597adbeafd', url='https://api.twitter.com/1.1/geo/id/6b9fbf597adbeafd.json', place_type='city', name='Malmo', full_name='Malmo, Sweden', country_code='SE', country='Sweden', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[12.7178537, 55.4799811], [13.1519338, 55.4799811], [13.1519338, 55.6797338], [12.7178537, 55.6797338]]]), attributes={})
+
+1353313553802022914

@@ -1,0 +1,9 @@
+And apparently ppl with connections to hospitals/people who work there are also getting it...cuz apparently they need to throw out the vaccine once it’s removed from refrigeration. so it’s really about connections which whites rly succeed at having as we know smh 🤦🏻‍♀️
+
+2021-01-23 20:42:24+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='ab2f2fac83aa388d', url='https://api.twitter.com/1.1/geo/id/ab2f2fac83aa388d.json', place_type='city', name='Oakland', full_name='Oakland, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.34266, 37.699279], [-122.114711, 37.699279], [-122.114711, 37.8847092], [-122.34266, 37.8847092]]]), attributes={})
+
+1353080664405405696

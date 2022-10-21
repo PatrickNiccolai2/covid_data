@@ -1,0 +1,9 @@
+Wonder when someone’s going to make vaccines priority. Obviously @EswatiniGovern1 has so many critical issues to attend to manage in this crisis. The people of Eswatini can help. Just ask.  https://t.co/LYGL21WCdL
+
+2021-01-24 08:33:28+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='02127c41c77b85ad', url='https://api.twitter.com/1.1/geo/id/02127c41c77b85ad.json', place_type='country', name='Swaziland', full_name='Swaziland', country_code='SZ', country='Swaziland', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[30.7909049, -27.3174176], [32.134741, -27.3174176], [32.134741, -25.7179398], [30.7909049, -25.7179398]]]), attributes={})
+
+1353259613404221440

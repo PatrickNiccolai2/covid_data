@@ -1,0 +1,9 @@
+@SpecNews1Triad please update your news anchors that are not any vaccines left for Forsyth County residents. Thank you so much in advance, Shan 🙏🏼 https://t.co/vVc1vZfbgV
+
+2021-01-24 10:37:02+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3b98b02fba3f9753', url='https://api.twitter.com/1.1/geo/id/3b98b02fba3f9753.json', place_type='admin', name='North Carolina', full_name='North Carolina, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-84.3219475, 33.752879], [-75.40012, 33.752879], [-75.40012, 36.588118], [-84.3219475, 36.588118]]]), attributes={})
+
+1353290710066331648

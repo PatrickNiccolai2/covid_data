@@ -1,0 +1,9 @@
+@MemphisExpat @deborah91473 We so are! Fingers crossed for smart and equitable and science-rooted ordering of things. COVID is awful — ask me how I know 🥴 — but I am happy to wait so others with greater need can get the vaccine first.
+
+2021-01-24 01:02:39+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0570f015c264cbd9', url='https://api.twitter.com/1.1/geo/id/0570f015c264cbd9.json', place_type='city', name='St Louis', full_name='St Louis, MO', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-90.3205158, 38.5331934], [-90.175132, 38.5331934], [-90.175132, 38.774349], [-90.3205158, 38.774349]]]), attributes={})
+
+1353146161096482819

@@ -1,0 +1,9 @@
+Baton Rouge people need to be responsible and think about actions right now and listen to JBE.  I know it’s hard believe me, but with the Vaccines out we are getting close to the end of this.
+
+2021-01-23 19:37:43+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7142eb97ae21e839', url='https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json', place_type='admin', name='Georgia', full_name='Georgia, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-85.605166, 30.355644], [-80.742567, 30.355644], [-80.742567, 35.000771], [-85.605166, 35.000771]]]), attributes={})
+
+1353064389520179200

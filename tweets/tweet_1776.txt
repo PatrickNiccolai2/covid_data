@@ -1,0 +1,10 @@
+Un million la France est le pays qui vaccine le moins par rapport aux nombre habitants.
+He oui nous sommes dans les derniers encore aujourd'hui https://t.co/gfn0dQyZza
+
+2021-01-23 19:39:27+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='09f6a7707f18e0b1', url='https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json', place_type='city', name='Paris', full_name='Paris, France', country_code='FR', country='France', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[2.2241006, 48.8155214], [2.4699053, 48.8155214], [2.4699053, 48.9021461], [2.2241006, 48.9021461]]]), attributes={})
+
+1353064826306629634

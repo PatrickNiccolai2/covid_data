@@ -1,0 +1,9 @@
+@TheKateMulgrew Good to see you captain! Waiting patiently for my turn for the vaccine here in 🇬🇧. Gonna be a while yet 😔
+
+2021-01-24 01:36:59+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5028e25dc94f3898', url='https://api.twitter.com/1.1/geo/id/5028e25dc94f3898.json', place_type='city', name='Reading', full_name='Reading, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.065041, 51.4123385], [-0.8990196, 51.4123385], [-0.8990196, 51.4927093], [-1.065041, 51.4927093]]]), attributes={})
+
+1353154798443442177

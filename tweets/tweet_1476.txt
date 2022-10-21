@@ -1,0 +1,9 @@
+One of my friends who hasn't left the house since March last year other than hospital appointments is getting her vaccine jab on Monday 😀
+
+2021-01-23 21:56:18+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0f4224b306ddf55e', url='https://api.twitter.com/1.1/geo/id/0f4224b306ddf55e.json', place_type='city', name='Sutton in Ashfield', full_name='Sutton in Ashfield, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.315192, 53.1109178], [-1.229692, 53.1109178], [-1.229692, 53.148616], [-1.315192, 53.148616]]]), attributes={})
+
+1353099261735559169

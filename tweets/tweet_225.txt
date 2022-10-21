@@ -1,0 +1,9 @@
+Wonder what the whingers are saying about how proud we should be vaccines 💉 going well in UK👍🇬🇧
+
+2021-01-24 11:09:07+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='56c45474148ca4da', url='https://api.twitter.com/1.1/geo/id/56c45474148ca4da.json', place_type='city', name='Paddington', full_name='Paddington, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.2160701, 51.5098789], [-0.1301597, 51.5098789], [-0.1301597, 51.5397916], [-0.2160701, 51.5397916]]]), attributes={})
+
+1353298780603502592

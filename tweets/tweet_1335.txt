@@ -1,0 +1,9 @@
+@doctor_oxford So our scientists and government know better than the developers and manufacturers of the vaccines. The ONLY country doing this, no wonder we have the worst record in the world.
+
+2021-01-23 23:00:10+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='690a291d9c0af8d9', url='https://api.twitter.com/1.1/geo/id/690a291d9c0af8d9.json', place_type='city', name='Willenhall', full_name='Willenhall, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.077804, 52.5818964], [-1.9607994, 52.5818964], [-1.9607994, 52.637127], [-2.077804, 52.637127]]]), attributes={})
+
+1353115337177374720

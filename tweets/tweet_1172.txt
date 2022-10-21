@@ -1,0 +1,9 @@
+@GalSitty @MichaelNorris61 @vtbirkenstock @NattaliaNealls @JoeBiden The idiot democrats said he could never get a vaccine ready. You push liberal propaganda. No one believes you.
+
+2021-01-24 00:01:47+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='9443cffd2ab322c3', url='https://api.twitter.com/1.1/geo/id/9443cffd2ab322c3.json', place_type='city', name='Westlake', full_name='Westlake, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-97.228766, 32.960349], [-97.161943, 32.960349], [-97.161943, 33.008158], [-97.228766, 33.008158]]]), attributes={})
+
+1353130843385065478

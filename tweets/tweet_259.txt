@@ -1,0 +1,9 @@
+Vaccine 💉 countdown?
+
+2021-01-24 10:42:12+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='80d77440d7bd9308', url='https://api.twitter.com/1.1/geo/id/80d77440d7bd9308.json', place_type='city', name='Boksburg', full_name='Boksburg, South Africa', country_code='ZA', country='South Africa', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[28.1894483, -26.4014473], [28.308244, -26.4014473], [28.308244, -26.128581], [28.1894483, -26.128581]]]), attributes={})
+
+1353292008157306881

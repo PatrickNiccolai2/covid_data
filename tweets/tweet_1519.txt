@@ -1,0 +1,9 @@
+@RomanP11 @ATabarrok He is not letting all the vaccine be used. Doses are wasted because of his restrictions on who gets them. I get aiming at certain populations, but I would would give it to Jordan Doe on the street before I allowed it to be thrown away.
+
+2021-01-23 21:31:57+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6565298bcadb82a1', url='https://api.twitter.com/1.1/geo/id/6565298bcadb82a1.json', place_type='city', name='Knoxville', full_name='Knoxville, TN', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-84.19397, 35.831436], [-83.733713, 35.831436], [-83.733713, 36.133505], [-84.19397, 36.133505]]]), attributes={})
+
+1353093134973095939

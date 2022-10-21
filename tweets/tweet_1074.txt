@@ -1,0 +1,11 @@
+WHY yes I did!  It was at Fair Park from what the news said.
+
+And that idiot mayor is every bit as on board with POC NOT getting the vaccines! https://t.co/VcH0xM6wHK
+
+2021-01-24 00:53:34+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='42e46bc3663a4b5f', url='https://api.twitter.com/1.1/geo/id/42e46bc3663a4b5f.json', place_type='city', name='Fort Worth', full_name='Fort Worth, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-97.538285, 32.569477], [-97.033542, 32.569477], [-97.033542, 32.990456], [-97.538285, 32.990456]]]), attributes={})
+
+1353143874701709312

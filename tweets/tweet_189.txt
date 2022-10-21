@@ -1,0 +1,9 @@
+@waywardmegan15 @CunningMarshal @LadyOfTheOcean1 @V1llageLdiot @giddy_bunny @LisaNicholo @RushvilleRockit @VoterFr94610058 @catlady111310 @mathmomma24 @Flattielover @DanPastor6 @GravyNGritz @Hildolfr3 @misshellca @snojustice1 @EYagain3 @DrZaius39480906 @Harry11383032 @MarkHoliday17 @zaphodbebblebr1 @jdd2169 @KingCujo @JanineVorr @cloudzzz757 @Synyster63 @RFKandMLKJr @donnnie @Prince3eb @topleveltroll3 @MamaLouies @Mateo73229361 @babyitscoldou18 @boodacat2020 @17Reacher23 @BirdMagic17 @TheFBX @Goathead19 @VioIetHayes @bpettengill @JaninSpoor @gigibuddapdx @elle_vader @SharonCobbs11 @EMMYreincarnate @luv2walk7845 @mrsnyamajor @akvawe66 @CaliDimples @VampULater It takes organization &amp; planning to accomplish anything worthwhile. Biden is invoking the Defense Production act &amp; using the National guard. Next comes standing up the org, training people to administer tests &amp; vaccines, determine where to send them &amp; moving!
+
+2021-01-24 11:36:52+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='337a7189fd54786c', url='https://api.twitter.com/1.1/geo/id/337a7189fd54786c.json', place_type='city', name='Brunswick', full_name='Brunswick, MD', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-77.670597, 39.304942], [-77.585886, 39.304942], [-77.585886, 39.341272], [-77.670597, 39.341272]]]), attributes={})
+
+1353305765252050944

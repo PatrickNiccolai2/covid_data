@@ -1,0 +1,9 @@
+omg the vaccine is gonn turn me into a vampire? FINALLY https://t.co/394l93yD1O
+
+2021-01-24 12:59:49+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='14d9532bd696d8cb', url='https://api.twitter.com/1.1/geo/id/14d9532bd696d8cb.json', place_type='admin', name='North Region', full_name='North Region, Singapore', country_code='SG', country='Singapore', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[103.696411999967, 1.33636499997564], [103.866067828959, 1.33636499997564], [103.866067828959, 1.47223994098471], [103.696411999967, 1.47223994098471]]]), attributes={})
+
+1353326643113205765

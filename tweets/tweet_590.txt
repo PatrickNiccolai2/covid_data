@@ -1,0 +1,9 @@
+Still nothing on a vaccine for my partners Nain, 95, deganwy. More false promises from all parties @fmwales @JFinchSaunders @RobinMillarMP @cllrsamrowlands https://t.co/mUWVTZLXUn
+
+2021-01-24 07:41:54+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5692f91640b63e32', url='https://api.twitter.com/1.1/geo/id/5692f91640b63e32.json', place_type='city', name='Deganwy', full_name='Deganwy, Wales', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.839136, 53.279825], [-3.791467, 53.279825], [-3.791467, 53.307227], [-3.839136, 53.307227]]]), attributes={})
+
+1353246633165787137

@@ -1,0 +1,9 @@
+@RichardBarrow Do we know the name/ names of the vaccine that will be available at private hospitals?
+
+2021-01-24 00:53:29+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00a6634816c52661', url='https://api.twitter.com/1.1/geo/id/00a6634816c52661.json', place_type='city', name='Khlong Tan Nuea', full_name='Khlong Tan Nuea, Thailand', country_code='TH', country='Thailand', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[100.5659729, 13.719962], [100.6054491, 13.719962], [100.6054491, 13.7463121], [100.5659729, 13.7463121]]]), attributes={})
+
+1353143854900240384

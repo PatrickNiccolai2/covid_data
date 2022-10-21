@@ -1,0 +1,9 @@
+@trinimarn That’s how this country works. Connections, links and strings. Imagine when they have to distribute the vaccine with the very limited supply that is supposedly coming.
+
+2021-01-24 11:09:55+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='47bf5243296fa7e3', url='https://api.twitter.com/1.1/geo/id/47bf5243296fa7e3.json', place_type='country', name='Trinidad and Tobago', full_name='Trinidad and Tobago', country_code='TT', country='Trinidad and Tobago', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-61.9305415, 10.0424194], [-60.4930236, 10.0424194], [-60.4930236, 11.3585325], [-61.9305415, 11.3585325]]]), attributes={})
+
+1353298984069115904

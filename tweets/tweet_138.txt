@@ -1,0 +1,9 @@
+Is the #vaccine safe? https://t.co/hTWdjeaWF4
+
+2021-01-24 12:05:51+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='720081c4c09a4a84', url='https://api.twitter.com/1.1/geo/id/720081c4c09a4a84.json', place_type='city', name='East Ham', full_name='East Ham, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.008924, 51.496049], [0.098752, 51.496049], [0.098752, 51.536046], [-0.008924, 51.536046]]]), attributes={})
+
+1353313060262457344

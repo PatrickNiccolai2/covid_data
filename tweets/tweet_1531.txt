@@ -1,0 +1,9 @@
+Starving children, Fishermen kicked into touch,The controversy over the vaccine, Haulage drivers, and the Irish Border, it looks an exciting 2021,🙀, and the people who voted for Brexit, Thanks for NOWT!! Bell END Johnson and his pack of Tossers, Have no IDEA how to deal with IT!
+
+2021-01-23 21:28:24+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7673df8696818aae', url='https://api.twitter.com/1.1/geo/id/7673df8696818aae.json', place_type='city', name='Barrow-in-Furness', full_name='Barrow-in-Furness, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.244824, 54.0929225], [-3.1802431, 54.0929225], [-3.1802431, 54.148593], [-3.244824, 54.148593]]]), attributes={})
+
+1353092241099788288

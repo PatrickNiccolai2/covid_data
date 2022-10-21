@@ -1,0 +1,9 @@
+Simple pour lui qui va se faire vacciner dans les premiers. Plus compliqué pour moi qui ne suis pas prioritaire et qui ne sera pas vacciné avant l'automne prochain et qui ne vais (encore) pas pouvoir partir en vacances d'été en 2021 https://t.co/zcq1SMlQUo
+
+2021-01-24 10:16:22+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='aba6282999387e8b', url='https://api.twitter.com/1.1/geo/id/aba6282999387e8b.json', place_type='city', name='Vorst', full_name='Vorst, België', country_code='BE', country='Belgium', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[4.3026277, 50.7976879], [4.3535265, 50.7976879], [4.3535265, 50.8302634], [4.3026277, 50.8302634]]]), attributes={})
+
+1353285507581620224

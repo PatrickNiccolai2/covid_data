@@ -1,0 +1,9 @@
+So adorable. Covid vaccine = Fauci Ouchie 😅💉 https://t.co/s4bFbQYP7n
+
+2021-01-23 23:23:51+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='30344aecffe6a491', url='https://api.twitter.com/1.1/geo/id/30344aecffe6a491.json', place_type='city', name='Fremont', full_name='Fremont, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.069956, 37.454962], [-121.889098, 37.454962], [-121.889098, 37.592327], [-122.069956, 37.592327]]]), attributes={})
+
+1353121296997994496

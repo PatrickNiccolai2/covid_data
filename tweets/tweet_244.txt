@@ -1,0 +1,9 @@
+@KeepCancrClassy At the cancer center yesterday for chemo and signs all over they have no vaccine. Talked to nurses, they are getting vaccinated which is good. But no info on when patients will be eligible.
+
+2021-01-24 11:00:00+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2571b7720cd62ad3', url='https://api.twitter.com/1.1/geo/id/2571b7720cd62ad3.json', place_type='city', name='Highlands Ranch', full_name='Highlands Ranch, CO', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-105.053666, 39.5033], [-104.899868, 39.5033], [-104.899868, 39.566287], [-105.053666, 39.566287]]]), attributes={})
+
+1353296488399425536

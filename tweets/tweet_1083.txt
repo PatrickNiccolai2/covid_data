@@ -1,0 +1,9 @@
+Teachers, school staff, and principals need vaccines. https://t.co/SxNnBeY1dc
+
+2021-01-24 00:46:18+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01987b38644bf48d', url='https://api.twitter.com/1.1/geo/id/01987b38644bf48d.json', place_type='city', name='Princeton', full_name='Princeton, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-96.547856, 33.160284], [-96.470002, 33.160284], [-96.470002, 33.1971885], [-96.547856, 33.1971885]]]), attributes={})
+
+1353142043581755393

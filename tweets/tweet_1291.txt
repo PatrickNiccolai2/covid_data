@@ -1,0 +1,9 @@
+@BorisJohnson @MattHancock @CMO_England please can you administer the vaccine as it was intended like the rest of the world and not 12 weeks
+
+2021-01-23 23:12:55+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4d2718ca93faeeb5', url='https://api.twitter.com/1.1/geo/id/4d2718ca93faeeb5.json', place_type='city', name='Tyldesley', full_name='Tyldesley, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.4842729, 53.489772], [-2.4219187, 53.489772], [-2.4219187, 53.525278], [-2.4842729, 53.525278]]]), attributes={})
+
+1353118545748631552

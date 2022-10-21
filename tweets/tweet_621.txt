@@ -1,0 +1,9 @@
+@AlbertMcAdon @DrEricDing Vaccine works for this strain, but time is needed for two shots and about two weeks after the second short for immunity.  We are short on time and vaccines.  So better masks and strict rules of isolation.
+
+2021-01-24 07:03:43+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='8b7d7f4857f70b9d', url='https://api.twitter.com/1.1/geo/id/8b7d7f4857f70b9d.json', place_type='city', name='Dison', full_name='Dison, Belgique', country_code='BE', country='Belgium', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[5.8381562, 50.5967278], [5.9139688, 50.5967278], [5.9139688, 50.6338309], [5.8381562, 50.6338309]]]), attributes={})
+
+1353237027471450112

@@ -1,0 +1,9 @@
+Anbidharinnaa dhuruga vazeefaa adhaa kuraa aabaadhee ah avahah vaccine dhee isolation quarantine aai lockdown uvaalaakah nuveytho eve.. ???
+
+2021-01-24 07:56:07+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2c614b2aca285e79', url='https://api.twitter.com/1.1/geo/id/2c614b2aca285e79.json', place_type='country', name='Maldives', full_name='Maldives', country_code='MV', country='Maldives', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[72.6930636, -0.7036879], [73.7595485, -0.7036879], [73.7595485, 7.1064817], [72.6930636, 7.1064817]]]), attributes={})
+
+1353250211120865280

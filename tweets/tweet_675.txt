@@ -1,0 +1,9 @@
+Correction: 1 in 10 adults have had half of the recommended vaccine schedule. 😞 #Covid19UK https://t.co/mNzZ71Xy5i
+
+2021-01-24 06:11:39+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5d838f7a011f4a2d', url='https://api.twitter.com/1.1/geo/id/5d838f7a011f4a2d.json', place_type='admin', name='London', full_name='London, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.510364798739281, 51.2867019756122], [0.334043461659515, 51.2867019756122], [0.334043461659515, 51.6918240878432], [-0.510364798739281, 51.6918240878432]]]), attributes={})
+
+1353223923266179074

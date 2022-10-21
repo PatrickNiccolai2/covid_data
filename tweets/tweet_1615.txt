@@ -1,0 +1,9 @@
+@BorisJohnson @pritipatel please go and shut this woman down take her business house all her belongings sell them@and give the money to the families of people who have died due to Covid in Bradford she is an absolute disgrace and the reason over a thousand people a day ate dying https://t.co/fkyq5xNiLs
+
+2021-01-23 20:53:20+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7ebdb63974f298f9', url='https://api.twitter.com/1.1/geo/id/7ebdb63974f298f9.json', place_type='city', name='Banbury', full_name='Banbury, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.368782, 52.033025], [-1.30953, 52.033025], [-1.30953, 52.0826586], [-1.368782, 52.0826586]]]), attributes={})
+
+1353083417240494080

@@ -1,0 +1,10 @@
+They are taking turns being the biggest fuckwit in government, but Johnson presents a very high bar.
+https://t.co/YwClizEFnq
+
+2021-01-23 23:13:06+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5d160d45cad1973a', url='https://api.twitter.com/1.1/geo/id/5d160d45cad1973a.json', place_type='city', name='Burnley', full_name='Burnley, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.334748, 53.770585], [-2.193902, 53.770585], [-2.193902, 53.817848], [-2.334748, 53.817848]]]), attributes={})
+
+1353118592754188290

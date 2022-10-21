@@ -1,0 +1,9 @@
+Vaccines are here, but we must keep protecting ourselves and our families against #COVID19. https://t.co/RKkLrdAr7N
+
+2021-01-23 19:22:35+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='b71fac2ee9792cbe', url='https://api.twitter.com/1.1/geo/id/b71fac2ee9792cbe.json', place_type='city', name='Sacramento', full_name='Sacramento, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-121.576613, 38.43792], [-121.362715, 38.43792], [-121.362715, 38.6855236], [-121.576613, 38.6855236]]]), attributes={})
+
+1353060581712908288

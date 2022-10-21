@@ -1,0 +1,9 @@
+So close to the vaccine... but I wanna go out. 😢
+
+2021-01-24 03:55:13+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3605db70c687a01d', url='https://api.twitter.com/1.1/geo/id/3605db70c687a01d.json', place_type='city', name='Sioux Falls', full_name='Sioux Falls, SD', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-96.8395021, 43.465641], [-96.622783, 43.465641], [-96.622783, 43.616388], [-96.8395021, 43.616388]]]), attributes={})
+
+1353189588827856896

@@ -1,0 +1,9 @@
+@countrymousie Yes, dont need anything where you have to brace yourself being careful. Have you had a letter offering you the vaccine yet ? Three family members had theirs yesterday.
+
+2021-01-24 09:08:22+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6a779d5cb7e570e8', url='https://api.twitter.com/1.1/geo/id/6a779d5cb7e570e8.json', place_type='city', name='Chelmsford', full_name='Chelmsford, East', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[0.435659, 51.698636], [0.521299, 51.698636], [0.521299, 51.78115], [0.435659, 51.78115]]]), attributes={})
+
+1353268393344978946

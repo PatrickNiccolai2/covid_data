@@ -1,0 +1,9 @@
+@eyeloveewe @GovAndyBeshear Schools across the country (and state) have shown it is possible to be safe and be open without a vaccine.
+
+2021-01-23 19:37:34+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='258c7428a48a8cfa', url='https://api.twitter.com/1.1/geo/id/258c7428a48a8cfa.json', place_type='city', name='Jeffersontown', full_name='Jeffersontown, KY', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-85.60709, 38.143069], [-85.508139, 38.143069], [-85.508139, 38.246418], [-85.60709, 38.246418]]]), attributes={})
+
+1353064352174116865

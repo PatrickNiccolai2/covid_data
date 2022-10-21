@@ -1,0 +1,9 @@
+I dont need to know you have Covid or that you got the vaccine... U and 600,000 others have boo
+
+2021-01-23 21:27:11+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3382e2a4c2b3fd91', url='https://api.twitter.com/1.1/geo/id/3382e2a4c2b3fd91.json', place_type='city', name='Parkville', full_name='Parkville, MD', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-76.58223, 39.3715664], [-76.5200946, 39.3715664], [-76.5200946, 39.402079], [-76.58223, 39.402079]]]), attributes={})
+
+1353091936756887553

@@ -1,0 +1,9 @@
+Yeah, based on the drive-thru and in-person lines I’ve recently seen in Robinson and the North Hills, if they can figure out a way to get the vaccine into the coffee or the dragon drinks or whatever, our mass distribution problem will be solved! https://t.co/hNJlHemlJ7
+
+2021-01-24 12:45:59+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='8a79915b095901ec', url='https://api.twitter.com/1.1/geo/id/8a79915b095901ec.json', place_type='city', name='Robinson Township', full_name='Robinson Township, PA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.194922, 40.4005992], [-80.080541, 40.4005992], [-80.080541, 40.514203], [-80.194922, 40.514203]]]), attributes={})
+
+1353323160431697924

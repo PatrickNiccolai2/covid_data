@@ -1,0 +1,11 @@
+I am no immunological expert, at all. From what I've read, giving people 1 dose and waiting too long, gives the virus time to adapt and mutate making the 2nd dose useless?
+
+Please correct me though as I said I'm no expert 🤷🏿‍♂️ #VaccineStrategy #vaccination #vaccine #madting
+
+2021-01-24 09:14:34+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='53b67b1d1cc81a51', url='https://api.twitter.com/1.1/geo/id/53b67b1d1cc81a51.json', place_type='city', name='Birmingham', full_name='Birmingham, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.033651, 52.381063], [-1.74763, 52.381063], [-1.74763, 52.60687], [-2.033651, 52.60687]]]), attributes={})
+
+1353269954192281601

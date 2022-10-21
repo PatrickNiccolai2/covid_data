@@ -1,0 +1,9 @@
+These two! Vax n Mask? No spoiler, see for yourself. Clue: Brilliant guys... https://t.co/fShBOl8pZz
+
+2021-01-24 08:16:20+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0073b76548e5984f', url='https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json', place_type='city', name='Sydney', full_name='Sydney, New South Wales', country_code='AU', country='Australia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[150.520928608, -34.1183470085], [151.343020992, -34.1183470085], [151.343020992, -33.578140996], [150.520928608, -33.578140996]]]), attributes={})
+
+1353255299629551617

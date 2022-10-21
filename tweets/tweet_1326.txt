@@ -1,0 +1,9 @@
+It’s such a shame that the #Ontario #Conservative government is doing so badly, protecting the LTC owners instead of the residents and threatening Pfizer with firecrackers instead of distributing the 150,000 doses of vaccine in stock. #unacceptable. https://t.co/4KTtNNe9cq
+
+2021-01-23 23:03:52+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4b3d1118aaf39b1f', url='https://api.twitter.com/1.1/geo/id/4b3d1118aaf39b1f.json', place_type='city', name='Charlottetown', full_name='Charlottetown, Prince Edward Island', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-63.196592, 46.217197], [-63.073864, 46.217197], [-63.073864, 46.306243], [-63.196592, 46.306243]]]), attributes={})
+
+1353116266068922368

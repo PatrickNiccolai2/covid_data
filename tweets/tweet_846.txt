@@ -1,0 +1,9 @@
+Watch this news report to understand what India is doing for the world in this pandemic! Intriguing, informative and very well articulated! Kudos to the team👏🏻@palkisu #ProudIndian #COVID19 #VaccineMaitri https://t.co/WI2NbcqtOF
+
+2021-01-24 03:32:39+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='36237ab3643ff2be', url='https://api.twitter.com/1.1/geo/id/36237ab3643ff2be.json', place_type='city', name='Cupertino', full_name='Cupertino, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.091151, 37.285786], [-121.995595, 37.285786], [-121.995595, 37.3403795], [-122.091151, 37.3403795]]]), attributes={})
+
+1353183909593243648

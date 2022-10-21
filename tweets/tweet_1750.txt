@@ -1,0 +1,9 @@
+Slow Vaccine Campaign Remains a 'Puzzle' to Ex-Warp Speed Chief https://t.co/dA1EQIREhO
+
+2021-01-23 19:51:02+00:00
+
+{'type': 'Point', 'coordinates': [103.8677444, 1.3553794]}
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5f1f473ed6455f55', url='https://api.twitter.com/1.1/geo/id/5f1f473ed6455f55.json', place_type='admin', name='North-East Region', full_name='North-East Region, Singapore', country_code='SG', country='Singapore', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[103.817832999913, 1.33435500006012], [103.931418138871, 1.33435500006012], [103.931418138871, 1.43204147194424], [103.817832999913, 1.43204147194424]]]), attributes={})
+
+1353067740248956930

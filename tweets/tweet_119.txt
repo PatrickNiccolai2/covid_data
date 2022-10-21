@@ -1,0 +1,9 @@
+One of the ridiculous things I have ever heard! Hope it gets sorted very quickly, everyone in this country should be getting the vaccine NHS number or not especially the people who are doing their best to save the lives of others!! https://t.co/eZpZQbAHVK
+
+2021-01-24 12:16:44+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3ba55ee536210b59', url='https://api.twitter.com/1.1/geo/id/3ba55ee536210b59.json', place_type='city', name='Seaforth', full_name='Seaforth, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.058666, 53.438332], [-2.950246, 53.438332], [-2.950246, 53.501369], [-3.058666, 53.501369]]]), attributes={})
+
+1353315797272322051

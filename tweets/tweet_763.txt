@@ -1,0 +1,9 @@
+@Chuckles152 I hope not! However I am a hard pass myself on the vaccine.
+
+2021-01-24 04:37:20+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2eb715ad70a02224', url='https://api.twitter.com/1.1/geo/id/2eb715ad70a02224.json', place_type='city', name='Dacula', full_name='Dacula, GA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-83.929955, 33.944031], [-83.8610753, 33.944031], [-83.8610753, 34.011365], [-83.929955, 34.011365]]]), attributes={})
+
+1353200187779461121

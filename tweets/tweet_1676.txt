@@ -1,0 +1,9 @@
+@brat2381 I'm optimistically hoping to get the vaccine by summer.
+
+2021-01-23 20:30:05+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='003d28304705c42a', url='https://api.twitter.com/1.1/geo/id/003d28304705c42a.json', place_type='city', name='Mandeville', full_name='Mandeville, LA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-90.154712, 30.348341], [-90.003767, 30.348341], [-90.003767, 30.459998], [-90.154712, 30.459998]]]), attributes={})
+
+1353077564936384512

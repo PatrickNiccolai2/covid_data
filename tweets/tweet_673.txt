@@ -1,0 +1,9 @@
+@TheLewisBlack Did that other smallpox vaccine wear off yet?
+
+2021-01-24 06:12:46+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='d374fb61a20fb74f', url='https://api.twitter.com/1.1/geo/id/d374fb61a20fb74f.json', place_type='admin', name='Nevada', full_name='Nevada, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-120.00574, 35.002086], [-114.039649, 35.002086], [-114.039649, 42.002208], [-120.00574, 42.002208]]]), attributes={})
+
+1353224203005136898

@@ -1,0 +1,11 @@
+क्या आपके मन में कोरोना वैक्सीन को लेकर सवाल हैं कोरोना वैक्सीन के प्रति क्या मानसिकता रखें? जानिए मनोचिकित्सक डॉ शिवम गुप्ता से 
+Do like, share &amp; subscribe to my YouTube channel #MOJO_Akanksha_Singh #health_tips #corona_vaccine
+https://t.co/5OzWxkNjSD
+
+2021-01-24 10:51:49+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2f31ba5eefd5e0fb', url='https://api.twitter.com/1.1/geo/id/2f31ba5eefd5e0fb.json', place_type='city', name='Roorkee', full_name='Roorkee, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[77.714337, 29.54025], [78.121338, 29.54025], [78.121338, 30.245484], [77.714337, 30.245484]]]), attributes={})
+
+1353294430380257282

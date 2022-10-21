@@ -1,0 +1,9 @@
+My grandparents got their first round of the #COVID19 vaccine 🥳❤️ https://t.co/FtDir8WxR0
+
+2021-01-23 21:38:05+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='018929347840059e', url='https://api.twitter.com/1.1/geo/id/018929347840059e.json', place_type='city', name='Indianapolis', full_name='Indianapolis, IN', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-86.348441, 39.631677], [-85.937404, 39.631677], [-85.937404, 39.927448], [-86.348441, 39.927448]]]), attributes={})
+
+1353094679613632520

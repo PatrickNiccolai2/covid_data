@@ -1,0 +1,9 @@
+Our team has just received their second vaccine dose! Together we can beat the virus, get vaccinated! @ The Courtyard Playhouse Dubai https://t.co/ekI0WPqyhd
+
+2021-01-24 09:04:55+00:00
+
+{'type': 'Point', 'coordinates': [55.2231745, 25.14349704]}
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='001907e868d06e24', url='https://api.twitter.com/1.1/geo/id/001907e868d06e24.json', place_type='admin', name='Dubai', full_name='Dubai, United Arab Emirates', country_code='AE', country='United Arab Emirates', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[54.8939725, 24.6182526], [56.2083722, 24.6182526], [56.2083722, 25.3686719], [54.8939725, 25.3686719]]]), attributes={})
+
+1353267525782482944

@@ -1,0 +1,9 @@
+@NumbersSTFC Trials were not done on this basis. Read all the reports you want; this wasn’t the basis on which the vaccines were approved...
+
+2021-01-23 21:19:15+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='381b5744987ae0bd', url='https://api.twitter.com/1.1/geo/id/381b5744987ae0bd.json', place_type='city', name='Swindon', full_name='Swindon, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.8519024, 51.535198], [-1.719477, 51.535198], [-1.719477, 51.6108189], [-1.8519024, 51.6108189]]]), attributes={})
+
+1353089941539086337

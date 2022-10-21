@@ -1,0 +1,9 @@
+Seven more states in India to get homegrown vaccine this week https://t.co/VsvU1NKpI3
+
+2021-01-24 10:22:02+00:00
+
+{'type': 'Point', 'coordinates': [-0.12485951, 51.50538967]}
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='457b4814b4240d87', url='https://api.twitter.com/1.1/geo/id/457b4814b4240d87.json', place_type='city', name='London', full_name='London, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.187894, 51.483718], [-0.109978, 51.483718], [-0.109978, 51.5164655], [-0.187894, 51.5164655]]]), attributes={})
+
+1353286932290134017

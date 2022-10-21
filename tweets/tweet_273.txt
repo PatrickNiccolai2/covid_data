@@ -1,0 +1,9 @@
+@pritipatel @LynneKettlebor1 But the messages coming from your own cabinet are not saying it. The reverse. They are actually making it sound like having the vaccine is pointless!!!
+
+2021-01-24 10:35:06+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6ca159c6ba6677d3', url='https://api.twitter.com/1.1/geo/id/6ca159c6ba6677d3.json', place_type='city', name='Grays', full_name='Grays, East', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[0.228239, 51.461687], [0.407315, 51.461687], [0.407315, 51.511284], [0.228239, 51.511284]]]), attributes={})
+
+1353290223032152064

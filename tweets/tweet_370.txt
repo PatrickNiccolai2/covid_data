@@ -1,0 +1,9 @@
+@hannSchempp Sending 🤗 and good vibes his way via you Hanns. So sad &amp; shocking to hear he contracted after the 1st vaccine shot. He sounds 💪 so 🙏🏻 for a speedy recovery.
+
+2021-01-24 09:49:50+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3bc1b6cfd27ef7f6', url='https://api.twitter.com/1.1/geo/id/3bc1b6cfd27ef7f6.json', place_type='admin', name='East', full_name='East, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.745779800818049, 51.4482221321091], [1.76893599950184, 51.4482221321091], [1.76893599950184, 52.9926789576249], [-0.745779800818049, 52.9926789576249]]]), attributes={})
+
+1353278829310128128

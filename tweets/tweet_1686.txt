@@ -1,0 +1,10 @@
+@GBCNewsroom why are members of the Government classed as frontline workers for covid vaccine?
+They are supposed to be isolating with the rest of us
+
+2021-01-23 20:25:26+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5271c69733a1844d', url='https://api.twitter.com/1.1/geo/id/5271c69733a1844d.json', place_type='city', name='San Roque', full_name='San Roque, Spain', country_code='ES', country='Spain', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-5.4392962, 36.1681804], [-5.2527978, 36.1681804], [-5.2527978, 36.3377939], [-5.4392962, 36.3377939]]]), attributes={})
+
+1353076394717110274

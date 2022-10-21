@@ -1,0 +1,9 @@
+Come on @BorisJohnson. You got #Brexit done despite the #EU doing everything to be obstructive. But... Please, realise 1) we have equality laws, and 2) disabled people form part of the electorate. People in my position pay Council Tax and #socialcare charges when out of work. 1/2
+
+2021-01-24 01:09:30+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6ac4aa98e7d9fa05', url='https://api.twitter.com/1.1/geo/id/6ac4aa98e7d9fa05.json', place_type='city', name='Torpoint', full_name='Torpoint, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-4.2307197, 50.368142], [-4.192996, 50.368142], [-4.192996, 50.3803], [-4.2307197, 50.3803]]]), attributes={})
+
+1353147883709673473

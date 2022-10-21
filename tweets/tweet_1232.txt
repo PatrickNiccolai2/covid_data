@@ -1,0 +1,9 @@
+More vaccines! @OHSUSOM @RedCross https://t.co/Pdm65BFuKF
+
+2021-01-23 23:36:25+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='07d9ed1e7e081000', url='https://api.twitter.com/1.1/geo/id/07d9ed1e7e081000.json', place_type='poi', name='PDX Airport Red Lot', full_name='PDX Airport Red Lot', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.55600929260254, 45.57827364780363], [-122.55600929260254, 45.57827364780363], [-122.55600929260254, 45.57827364780363], [-122.55600929260254, 45.57827364780363]]]), attributes={})
+
+1353124460430200832

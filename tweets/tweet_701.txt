@@ -1,0 +1,9 @@
+Over 2.1 million people died of #Covid19 with over 98 million people globally. Watching these stats on @enca renders you motionless. Does this mean humanity will have to social distance for years to come. Will the #Vaccine help us develop a resistance to fight the virus
+
+2021-01-24 05:49:21+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='e564d30dc173d2a8', url='https://api.twitter.com/1.1/geo/id/e564d30dc173d2a8.json', place_type='city', name='Johannesburg', full_name='Johannesburg, South Africa', country_code='ZA', country='South Africa', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[27.7518557, -26.5126489], [28.1843404, -26.5126489], [28.1843404, -26.0396281], [27.7518557, -26.0396281]]]), attributes={})
+
+1353218309152452609

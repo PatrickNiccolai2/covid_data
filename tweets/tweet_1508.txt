@@ -1,0 +1,9 @@
+@MollyJongFast Try in the state of Virginia! We are #1 on the list of states with the least amount of Covid vaccines. I'm 68 + a condition &amp; I should be able to get a vaccine now. But they have only done LTCF &amp; teachers so far. Next week age 75+. There is no list/ plan yet for me.
+
+2021-01-23 21:38:19+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5635c19c2b5078d1', url='https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json', place_type='admin', name='Virginia', full_name='Virginia, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-83.67529, 36.540739], [-75.16644, 36.540739], [-75.16644, 39.466012], [-83.67529, 39.466012]]]), attributes={})
+
+1353094736521949184

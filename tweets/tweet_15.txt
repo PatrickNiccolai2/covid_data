@@ -1,0 +1,9 @@
+@BUSHINDIA Sir my whole family had covishield vaccine absolutely no side effects it is very safe.We are all fine and we are indebted to our honourable PM🙏🙏
+
+2021-01-24 13:13:10+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='236fe7c43d9dc36d', url='https://api.twitter.com/1.1/geo/id/236fe7c43d9dc36d.json', place_type='city', name='Fort Tondiarpet', full_name='Fort Tondiarpet, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[80.242499, 13.0653565], [80.3058759, 13.0653565], [80.3058759, 13.1478063], [80.242499, 13.1478063]]]), attributes={})
+
+1353329999135141889

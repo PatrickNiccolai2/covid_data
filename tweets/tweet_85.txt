@@ -1,0 +1,9 @@
+This is a great thread on vaccines/lockdowns &amp; their affect. Cool! https://t.co/bqW126mMRR
+
+2021-01-24 12:32:57+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='577c65949ddabbc9', url='https://api.twitter.com/1.1/geo/id/577c65949ddabbc9.json', place_type='city', name='Wicklow', full_name='Wicklow, Ireland', country_code='IE', country='Ireland', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-6.791799, 52.682057], [-5.9988317, 52.682057], [-5.9988317, 53.2338548], [-6.791799, 53.2338548]]]), attributes={})
+
+1353319880259497984

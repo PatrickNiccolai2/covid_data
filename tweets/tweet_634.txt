@@ -1,0 +1,9 @@
+The story of one ex-anti-vaxxer https://t.co/Ili6hSlsAF
+
+2021-01-24 06:52:35+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='c66ac26a92d7c6c9', url='https://api.twitter.com/1.1/geo/id/c66ac26a92d7c6c9.json', place_type='city', name='Yuma', full_name='Yuma, CO', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-102.7379561, 40.11101], [-102.7058864, 40.11101], [-102.7058864, 40.136004], [-102.7379561, 40.136004]]]), attributes={})
+
+1353234223163977729

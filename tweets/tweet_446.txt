@@ -1,0 +1,9 @@
+@CromwellStuff @ann_apm @BorisJohnson It’s not rocket science why overseas are demanding #Covid19UK test beforehand they want your money to keep their country afloat they really not worried about the pandemic as lots of countries their economy mainly needs tourism Our Uk advice to keep safe is 200% the right way
+
+2021-01-24 09:12:16+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3bc1b6cfd27ef7f6', url='https://api.twitter.com/1.1/geo/id/3bc1b6cfd27ef7f6.json', place_type='admin', name='East', full_name='East, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.745779800818049, 51.4482221321091], [1.76893599950184, 51.4482221321091], [1.76893599950184, 52.9926789576249], [-0.745779800818049, 52.9926789576249]]]), attributes={})
+
+1353269375009226754

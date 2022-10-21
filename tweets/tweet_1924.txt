@@ -1,0 +1,9 @@
+My grandparents are in their early 90s and got their #covid19 vaccines today and my heart is so happy ☺️ https://t.co/aOFDGNbn3T
+
+2021-01-23 18:53:25+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5635c19c2b5078d1', url='https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json', place_type='admin', name='Virginia', full_name='Virginia, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-83.67529, 36.540739], [-75.16644, 36.540739], [-75.16644, 39.466012], [-83.67529, 39.466012]]]), attributes={})
+
+1353053238589861888

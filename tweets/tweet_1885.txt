@@ -1,0 +1,9 @@
+@MichaelDavid80 @angie_rasmussen Vaccines are important but they are just one tool among many, all of which need to be used together.
+
+2021-01-23 19:05:14+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='fefe38d7be8c0f36', url='https://api.twitter.com/1.1/geo/id/fefe38d7be8c0f36.json', place_type='city', name='Waterville', full_name='Waterville, ME', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-69.692481, 44.507236], [-69.606921, 44.507236], [-69.606921, 44.58619], [-69.692481, 44.58619]]]), attributes={})
+
+1353056214599430145

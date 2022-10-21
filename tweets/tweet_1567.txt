@@ -1,0 +1,9 @@
+So all Essex Sen school staff being offered the vaccine, let’s hope this soon gets made available to all Sen staff in schools for rest of the country. Although still worried about the risks of passing on 😢 and high numbers in sen schools
+
+2021-01-23 21:12:56+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='534d44fc60f378ec', url='https://api.twitter.com/1.1/geo/id/534d44fc60f378ec.json', place_type='city', name='Loughton', full_name='Loughton, East', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[0.025393, 51.613051], [0.096849, 51.613051], [0.096849, 51.6687403], [0.025393, 51.6687403]]]), attributes={})
+
+1353088350954127360

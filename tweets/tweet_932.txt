@@ -1,0 +1,13 @@
+Still think we are front of the vaccine queue @chrishipkins ?
+
+India is giving vaccine away #NZHellhole #nz #nzpol #COVID19nz 
+
+@JudithCollinsMP @dbseymour @jacindaardern https://t.co/1DNbXuytIz
+
+2021-01-24 02:30:14+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0022e3c837579650', url='https://api.twitter.com/1.1/geo/id/0022e3c837579650.json', place_type='city', name='Auckland', full_name='Auckland, New Zealand', country_code='NZ', country='New Zealand', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[174.161834, -37.292621], [175.550653, -37.292621], [175.550653, -35.898837], [174.161834, -35.898837]]]), attributes={})
+
+1353168202444935168

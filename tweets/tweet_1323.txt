@@ -1,0 +1,10 @@
+I double mask because I can't get a damn vaccine yet.
+https://t.co/3kpis8mcfR
+
+2021-01-23 23:04:41+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='be925761a3187f65', url='https://api.twitter.com/1.1/geo/id/be925761a3187f65.json', place_type='city', name='Greenacres', full_name='Greenacres, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.175957, 26.588782], [-80.1123944, 26.588782], [-80.1123944, 26.678639], [-80.175957, 26.678639]]]), attributes={})
+
+1353116474005721093

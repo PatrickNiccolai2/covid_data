@@ -1,0 +1,9 @@
+European countries like UK, Belgium want to procure Indian vaccines. India's #VaccineMaitri is healing its neighbours Bhutan, Bangladesh, Nepal, Srilanka. Brazil, Morocco already received their first consignment of #vaccine from India. In a world where one of our neighbors' (3)
+
+2021-01-24 03:26:40+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='74effb34539b2d64', url='https://api.twitter.com/1.1/geo/id/74effb34539b2d64.json', place_type='city', name='Lucknow', full_name='Lucknow, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[80.658613, 26.642291], [81.110202, 26.642291], [81.110202, 27.008048], [80.658613, 27.008048]]]), attributes={})
+
+1353182402978308096

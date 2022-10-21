@@ -1,0 +1,14 @@
+Congratulations to Savannah Phillips - our latest Good Catch Award winner! 🎉  ⚾ 
+
+Phillips is a stellar nursing faculty member who helps with campus #COVID19 testing. ❤️ 
+
+OC is better because of Savannah Phillips!
+#OCisHome #OCGoodCatch #Testing #Vaccine #Safety #Health https://t.co/30cwP00oO1
+
+2021-01-24 04:26:24+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='9531d4e3bbafc09d', url='https://api.twitter.com/1.1/geo/id/9531d4e3bbafc09d.json', place_type='city', name='Oklahoma City', full_name='Oklahoma City, OK', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-97.768683, 35.290722], [-97.335639, 35.290722], [-97.335639, 35.674965], [-97.768683, 35.674965]]]), attributes={})
+
+1353197435959603200

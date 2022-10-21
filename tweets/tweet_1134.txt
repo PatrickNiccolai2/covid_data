@@ -1,0 +1,9 @@
+Managed immunity zones will be the reality of living with COVID-19 seasonal infections going forward.  Even with more vaccinations on the way, we face many unknowns about future variants. Keep funding basic science and build more vaccine capacity.  We weren’t ready for total war.
+
+2021-01-24 00:19:51+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='a409256339a7c6a1', url='https://api.twitter.com/1.1/geo/id/a409256339a7c6a1.json', place_type='city', name='Redwood City', full_name='Redwood City, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.28853, 37.443954], [-122.177339, 37.443954], [-122.177339, 37.550633], [-122.28853, 37.550633]]]), attributes={})
+
+1353135390169784320

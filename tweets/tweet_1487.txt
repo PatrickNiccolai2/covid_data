@@ -1,0 +1,9 @@
+The US has 2-3 weeks to get its act together or we will join this group. That means targeting vaccine delivery to known B117-infected states, plus sharply limiting int’l AND domestic air travel to prevent B117 from becoming endemic like baseline strain. Need to do this yesterday. https://t.co/SGstB4NoYT
+
+2021-01-23 21:26:44+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='e86b380cfefcced5', url='https://api.twitter.com/1.1/geo/id/e86b380cfefcced5.json', place_type='admin', name='Connecticut', full_name='Connecticut, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-73.727776, 40.950918], [-71.786994, 40.950918], [-71.786994, 42.050588], [-73.727776, 42.050588]]]), attributes={})
+
+1353091822915121152

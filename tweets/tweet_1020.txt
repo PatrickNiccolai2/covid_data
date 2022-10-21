@@ -1,0 +1,9 @@
+Fighting Stigma: Cliff Taylor: 'Last call for your vaccine-only flight to the sun': The National Public Health Emergency Team has long pushed for tighter controls on those ... Ireland will want to stay in line with EU moves, too. https://t.co/XqxgmY6Jdp
+
+2021-01-24 01:33:03+00:00
+
+{'type': 'Point', 'coordinates': [-73.56725453, 45.75975883]}
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='370e82cb8dff6189', url='https://api.twitter.com/1.1/geo/id/370e82cb8dff6189.json', place_type='city', name='Mascouche', full_name='Mascouche, Québec', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-73.700164, 45.716103], [-73.526116, 45.716103], [-73.526116, 45.821364], [-73.700164, 45.821364]]]), attributes={})
+
+1353153808973484032

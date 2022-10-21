@@ -1,0 +1,9 @@
+booked my first shift in vaccine clinic! if i can handle giving 15ml SC i can probably handle a few IMs
+
+2021-01-24 12:57:08+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='460c5314e8a33c64', url='https://api.twitter.com/1.1/geo/id/460c5314e8a33c64.json', place_type='city', name='Wandsworth', full_name='Wandsworth, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.259465, 51.417277], [-0.127974, 51.417277], [-0.127974, 51.486036], [-0.259465, 51.486036]]]), attributes={})
+
+1353325965255045122

@@ -1,0 +1,9 @@
+@ShellyHarkey I’m sorry to hear that. All I can say...is for him stay vigilant like he was prior to this vaccine. That is how you prevent getting it!
+
+2021-01-24 03:06:22+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='015e664c48444066', url='https://api.twitter.com/1.1/geo/id/015e664c48444066.json', place_type='city', name='Milford', full_name='Milford, CT', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-73.117153, 41.171997], [-72.990337, 41.171997], [-72.990337, 41.276059], [-73.117153, 41.276059]]]), attributes={})
+
+1353177294249095174

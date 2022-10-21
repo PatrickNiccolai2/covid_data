@@ -1,0 +1,9 @@
+Time for a vaccine ‘czar’!  We can do better.  Massachusetts lagging behind most other states in COVID-19 vaccination rollout https://t.co/NqtNOcdoR8 via @BostonGlobe
+
+2021-01-24 12:17:23+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='67b98f17fdcf20be', url='https://api.twitter.com/1.1/geo/id/67b98f17fdcf20be.json', place_type='city', name='Boston', full_name='Boston, MA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-71.191421, 42.227797], [-70.986004, 42.227797], [-70.986004, 42.399542], [-71.191421, 42.399542]]]), attributes={})
+
+1353315963610025986

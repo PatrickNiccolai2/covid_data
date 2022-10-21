@@ -1,0 +1,10 @@
+Lots of countries with closed borders, to stop the new variants getting into the country, not the U.K. we are only still at the discussion stage, no wonder 1200+ people die a day what hope is there, we can’t even deliver the vaccine right 
+Should be 1 million plus a day
+
+2021-01-24 12:59:59+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='53b67b1d1cc81a51', url='https://api.twitter.com/1.1/geo/id/53b67b1d1cc81a51.json', place_type='city', name='Birmingham', full_name='Birmingham, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.033651, 52.381063], [-1.74763, 52.381063], [-1.74763, 52.60687], [-2.033651, 52.60687]]]), attributes={})
+
+1353326683189817344

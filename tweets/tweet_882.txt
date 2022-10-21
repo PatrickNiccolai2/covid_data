@@ -1,0 +1,9 @@
+I still want every vaccine available. https://t.co/ozFtAAa8CJ
+
+2021-01-24 03:03:51+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5f72d488385b8ced', url='https://api.twitter.com/1.1/geo/id/5f72d488385b8ced.json', place_type='city', name='Tooele', full_name='Tooele, UT', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-112.331612, 40.507327], [-112.266954, 40.507327], [-112.266954, 40.569357], [-112.331612, 40.569357]]]), attributes={})
+
+1353176659696832512

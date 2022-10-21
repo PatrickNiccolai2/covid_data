@@ -1,0 +1,9 @@
+@iyer_rn @sgurumurthy @girishalva @prafullaketkar @Prof_Hariom @ranganaathan @jspandey_ @SaveSabrimala @ensine @advmonikaarora @ShefVaidya @rvaidya2000 @HinduAmericans @Swamy39 @TVMohandasPai @mariawirth1 @sankrant @Koenraad_Elst @davidfrawleyved @fgautier26 @DrGPradhan @anuraag_saxena @anujdhar @RatanSharda55 @shakkuiyer @Aabhas24 @madhukishwar @MakrandParanspe @vivekagnihotri @MD_Nalapat @Iyervval @KapilMishra_IND @KanchanGupta @DostKhan_Jammu @HKupdate @PrinceArihan @kumarnandaj @Sanjay_Dixit @ARanganathan72 @sanjeevsanyal @UnSubtleDesi @M_Lekhi PM Modi has become Hanuman for many South Asian countries too by offering COVID vaccine
+
+2021-01-24 07:40:43+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1c302ac214ae518c', url='https://api.twitter.com/1.1/geo/id/1c302ac214ae518c.json', place_type='city', name='Patna', full_name='Patna, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[84.9939102, 25.4835457], [85.2101668, 25.4835457], [85.2101668, 25.6554017], [84.9939102, 25.6554017]]]), attributes={})
+
+1353246338977300480

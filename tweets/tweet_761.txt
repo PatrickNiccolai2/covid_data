@@ -1,0 +1,9 @@
+#auspol So why are we all so concerned about Margaret's medal and not asking Scotty hard questions about Vaccine Rollouts? Could Maggie's happy news have been leaked early for a reason?
+
+2021-01-24 04:43:21+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01e8a1a140ccdc5c', url='https://api.twitter.com/1.1/geo/id/01e8a1a140ccdc5c.json', place_type='city', name='Adelaide', full_name='Adelaide, South Australia', country_code='AU', country='Australia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[138.44212992, -35.348970061], [138.780189824, -35.348970061], [138.780189824, -34.652564053], [138.44212992, -34.652564053]]]), attributes={})
+
+1353201702627753984

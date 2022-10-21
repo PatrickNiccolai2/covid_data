@@ -1,0 +1,9 @@
+So proud to be part of such an amazing Trust @CNTWNHS who have arranged such a well organised, safe and slick CoViD19 vaccine program. Huge congratulations to @keetley39, Chloe Mann and the team, you should be so proud! Lovely to see you @keetley39! #COVIDVaccination https://t.co/90XZkvr0jW
+
+2021-01-24 12:25:48+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6b3c65dcd61dbec3', url='https://api.twitter.com/1.1/geo/id/6b3c65dcd61dbec3.json', place_type='city', name='Whitley Bay', full_name='Whitley Bay, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.498746, 54.988178], [-1.417312, 54.988178], [-1.417312, 55.0678405], [-1.498746, 55.0678405]]]), attributes={})
+
+1353318082190651394

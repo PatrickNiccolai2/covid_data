@@ -1,0 +1,9 @@
+All vaccine appointments are currently full in Ventura County, but more vaccines are on the way. For access to up to date info text COVID to 211211 and then enter your zip code when prompted. https://t.co/4Vbw5ZUHlB
+
+2021-01-23 20:03:27+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='689083f5b4e488b4', url='https://api.twitter.com/1.1/geo/id/689083f5b4e488b4.json', place_type='city', name='Camarillo', full_name='Camarillo, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-119.109824, 34.191355], [-118.958874, 34.191355], [-118.958874, 34.2592999], [-119.109824, 34.2592999]]]), attributes={})
+
+1353070865110327303

@@ -1,0 +1,9 @@
+I really saw a girl post on Facebook that she wasn't getting the COVID-19 vaccine because Biden said in his inauguration speech that it mostly effects African Americans and Hispanics so she didn't have to worry.....
+
+2021-01-24 12:28:17+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='9d7b47e751be1551', url='https://api.twitter.com/1.1/geo/id/9d7b47e751be1551.json', place_type='city', name='Pueblo', full_name='Pueblo, CO', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-104.69356, 38.200638], [-104.5519919, 38.200638], [-104.5519919, 38.338462], [-104.69356, 38.338462]]]), attributes={})
+
+1353318704059039744

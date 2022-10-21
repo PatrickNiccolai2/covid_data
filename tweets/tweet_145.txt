@@ -1,0 +1,9 @@
+@Yorrrkshire @AndrewTait67 @justthevax @ElectionMapsUK but hay ignore this https://t.co/4BnT6ejpmr or that 90% protection means 10% not, which still puts covid as the highest cause of mortality or the 5% with long term health issues. It needs eradicating to get back to normal.
+
+2021-01-24 12:03:33+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='208d28e57bdc12e9', url='https://api.twitter.com/1.1/geo/id/208d28e57bdc12e9.json', place_type='admin', name='Wales', full_name='Wales, United Kingdom', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-5.35340678071236, 51.3787780012005], [-2.64982707940341, 51.3787780012005], [-2.64982707940341, 53.4300939018827], [-5.35340678071236, 53.4300939018827]]]), attributes={})
+
+1353312480945176578

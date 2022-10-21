@@ -1,0 +1,9 @@
+@maddyb65 But as a leader when there is a doubt to instill confidence it is better to take it. Also the approval process was hurried upon so it was important for the leader confirm it is safe to take it. I liked Joe Biden for taking the vaccine. But I do agree this is double edged sword.
+
+2021-01-23 22:51:30+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='36237ab3643ff2be', url='https://api.twitter.com/1.1/geo/id/36237ab3643ff2be.json', place_type='city', name='Cupertino', full_name='Cupertino, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.091151, 37.285786], [-121.995595, 37.285786], [-121.995595, 37.3403795], [-122.091151, 37.3403795]]]), attributes={})
+
+1353113155338031104

@@ -1,0 +1,15 @@
+VACINAS NO AM 💉 
+ 
+A eficácia da vacina da AstraZeneca é de 70% contra a Covid-19 e 100% contra casos graves e mortes provocadas pela doença, segundo a Fiocruz
+
+132,5 mil doses chegam ainda hoje no AM
+
+Idosos acima de 75 anos e profissionais da linha de frente terão prioridade https://t.co/wT7gmND4v5
+
+2021-01-23 22:02:08+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='45e3bce63f2beeee', url='https://api.twitter.com/1.1/geo/id/45e3bce63f2beeee.json', place_type='city', name='Manaus', full_name='Manaus, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-60.802071, -3.221228], [-59.15858, -3.221228], [-59.15858, -1.923622], [-60.802071, -1.923622]]]), attributes={})
+
+1353100732086497282

@@ -1,0 +1,9 @@
+@MoniseLSeward There was NEVER a doubt in my mind that Red (run) states would be the worst states for the vaccine distribution. The infrastructures are poor, and their elected officials tout racism &amp;ignorance as their campaign platforms: https://t.co/bBsvVWeqho
+
+2021-01-24 13:01:27+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='27424e47b9946999', url='https://api.twitter.com/1.1/geo/id/27424e47b9946999.json', place_type='neighborhood', name='Mandarin', full_name='Mandarin, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-81.692116, 30.1037705], [-81.433082, 30.1037705], [-81.433082, 30.2573095], [-81.692116, 30.2573095]]]), attributes={})
+
+1353327052301201412

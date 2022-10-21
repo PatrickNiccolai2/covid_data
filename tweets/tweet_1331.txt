@@ -1,0 +1,9 @@
+@THR The early days of the pandemic? That's an easy ride for Ken then, for the first while Johnson was on holiday!
+
+2021-01-23 23:02:19+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='791e00bcadc4615f', url='https://api.twitter.com/1.1/geo/id/791e00bcadc4615f.json', place_type='city', name='Glasgow', full_name='Glasgow, Scotland', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-4.3932845, 55.796184], [-4.0902182, 55.796184], [-4.0902182, 55.9204214], [-4.3932845, 55.9204214]]]), attributes={})
+
+1353115877252673538

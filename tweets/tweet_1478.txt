@@ -1,0 +1,10 @@
+Brezilya, Çin aşısın kendi üretecek ...                                       😵 vurma be !                        Temel Karamollaoğlu Gülnaz Şırınga Putin
+#PCRyalan #COVID19 #Turkey #CovidVaccine https://t.co/EyPChemjev
+
+2021-01-23 21:53:15+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5e02a0f0d91c76d2', url='https://api.twitter.com/1.1/geo/id/5e02a0f0d91c76d2.json', place_type='city', name='İstanbul', full_name='İstanbul, Türkiye', country_code='TR', country='Turkey', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[28.6321043, 40.8027337], [29.3783413, 40.8027337], [29.3783413, 41.2399073], [28.6321043, 41.2399073]]]), attributes={})
+
+1353098497319383043

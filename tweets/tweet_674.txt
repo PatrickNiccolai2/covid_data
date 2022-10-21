@@ -1,0 +1,9 @@
+Doctors leaders warn vaccine second dose delay may undermine effectiveness - #BBC News https://t.co/9EETVFdfqF
+
+2021-01-24 06:12:02+00:00
+
+{'type': 'Point', 'coordinates': [21.008333, 52.232222]}
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='535f0c2de0121451', url='https://api.twitter.com/1.1/geo/id/535f0c2de0121451.json', place_type='city', name='Warsaw', full_name='Warsaw, Poland', country_code='PL', country='Poland', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[20.8525518, 52.0977088], [21.2710282, 52.0977088], [21.2710282, 52.3679617], [20.8525518, 52.3679617]]]), attributes={})
+
+1353224019873587201

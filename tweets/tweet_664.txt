@@ -1,0 +1,13 @@
+Documenting my #FouciOuchie ( otherwise known as a #CovidVaccine )
+Recieved Shot 1 at about noon on january 23rd.
+So far?
+Sore arm, equivalent to bad flu shot for me: using heating pad.
+No noticeable uptick in chronic symptoms. (#chronicillness )
+
+2021-01-24 06:23:28+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='e4a0d228eb6be76b', url='https://api.twitter.com/1.1/geo/id/e4a0d228eb6be76b.json', place_type='city', name='Philadelphia', full_name='Philadelphia, PA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-75.280284, 39.871811], [-74.955712, 39.871811], [-74.955712, 40.13792], [-75.280284, 40.13792]]]), attributes={})
+
+1353226898487259137

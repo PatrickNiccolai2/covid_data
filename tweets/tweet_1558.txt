@@ -1,0 +1,9 @@
+@LongDesertTrain @ryan_j_tr @someguymg @julietast2 @LevinePDX @rachellauren1 @sarlawes @teva_tweets @WardyCSGO @andrew_croxford @Novavax The clinic staff explained to me it would be 2+2. Vaccine then placebo for 2/3 and then the opposite for 1/3. No mixing during the dose protocol.
+
+2021-01-23 21:18:14+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00a4bbcc0dcd7572', url='https://api.twitter.com/1.1/geo/id/00a4bbcc0dcd7572.json', place_type='city', name='College Station', full_name='College Station, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-96.37703, 30.520359], [-96.206267, 30.520359], [-96.206267, 30.6505837], [-96.37703, 30.6505837]]]), attributes={})
+
+1353089685883670529

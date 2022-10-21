@@ -1,0 +1,9 @@
+@janh1 No this is a gift from the U.K., fair enough but folk in U.K. are being given half dose with a gap of 3 months instead of 21 days, yesterday the  BMJ and Pfizer said they do not guarantee the effectiveness of the vaccine with this gap!
+
+2021-01-24 09:20:38+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='189817caf6977373', url='https://api.twitter.com/1.1/geo/id/189817caf6977373.json', place_type='city', name='Taunton', full_name='Taunton, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.148037, 50.98599], [-3.0601283, 50.98599], [-3.0601283, 51.040527], [-3.148037, 51.040527]]]), attributes={})
+
+1353271481124446209

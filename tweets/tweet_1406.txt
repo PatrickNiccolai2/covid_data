@@ -1,0 +1,9 @@
+@WeAreCTA So all of that is available even vaccines for teachers 65+, so what are we waiting for? #openschools
+
+2021-01-23 22:26:41+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5e68ca240e32025a', url='https://api.twitter.com/1.1/geo/id/5e68ca240e32025a.json', place_type='city', name='Chino Hills', full_name='Chino Hills, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-117.788282, 33.921548], [-117.6552404, 33.921548], [-117.6552404, 34.0234834], [-117.788282, 34.0234834]]]), attributes={})
+
+1353106908224188416

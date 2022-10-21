@@ -1,0 +1,9 @@
+It's time the other 27 EU countries to break away and be FREE and have there own money, set there own laws , control there own borders and there parliaments give there people the vaccine , BREAK FREE FROM THE CORRUPT EU-parliament  ......! https://t.co/Zh9wIzoOvr
+
+2021-01-24 09:28:00+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1aca7d8a9c3faae1', url='https://api.twitter.com/1.1/geo/id/1aca7d8a9c3faae1.json', place_type='city', name='Blackpool', full_name='Blackpool, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.0569682, 53.80665], [-3.00721, 53.80665], [-3.00721, 53.8757277], [-3.0569682, 53.8757277]]]), attributes={})
+
+1353273336491601920

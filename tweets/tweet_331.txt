@@ -1,0 +1,9 @@
+@markaustintv My wife is still entering clients homes as a career 7 days a week with No sign of the first vaccine. Working for a private care company not the NHS they appear to be forgotten. I suppose we will all think our needs are better than others.
+
+2021-01-24 10:06:05+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5fd1622b9f7a9868', url='https://api.twitter.com/1.1/geo/id/5fd1622b9f7a9868.json', place_type='city', name='Wellington', full_name='Wellington, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.5461358, 52.6891884], [-2.490168, 52.6891884], [-2.490168, 52.724395], [-2.5461358, 52.724395]]]), attributes={})
+
+1353282917708017666

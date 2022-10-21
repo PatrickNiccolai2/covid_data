@@ -1,0 +1,12 @@
+US applauds 'true friend' India for gifting COVID-19 vaccine to several countries
+https://t.co/Vod6FYHkbB
+
+via NaMo App https://t.co/7vLw9WVNa5
+
+2021-01-24 09:15:35+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='06d9ff1dd44c0015', url='https://api.twitter.com/1.1/geo/id/06d9ff1dd44c0015.json', place_type='city', name='Karimpur', full_name='Karimpur, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[88.608231, 23.967307], [88.645666, 23.967307], [88.645666, 23.997908], [88.608231, 23.997908]]]), attributes={})
+
+1353270210430554113

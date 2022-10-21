@@ -1,0 +1,9 @@
+@HenryLouisAaron @jesusgirljen The Vaccine Killed em
+
+2021-01-23 23:38:00+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7068dd9474ab6973', url='https://api.twitter.com/1.1/geo/id/7068dd9474ab6973.json', place_type='city', name='Toledo', full_name='Toledo, OH', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-83.694776, 41.580375], [-83.454566, 41.580375], [-83.454566, 41.732806], [-83.694776, 41.732806]]]), attributes={})
+
+1353124855961563138

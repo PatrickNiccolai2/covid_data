@@ -1,0 +1,9 @@
+@ABC10 That picture is a testing sight. Injection sites are regulated by the CDC and in an clean environment, States are responsible for vaccine rollout. Hospital's are having no problem with regs, patients get 2 shots, 2 weeks apart, still in phase1, be patient, U will be notified
+
+2021-01-23 19:18:40+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='d98e7ce217ade2c5', url='https://api.twitter.com/1.1/geo/id/d98e7ce217ade2c5.json', place_type='city', name='Stockton', full_name='Stockton, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-121.4168716, 37.883347], [-121.183979, 37.883347], [-121.183979, 38.078305], [-121.4168716, 38.078305]]]), attributes={})
+
+1353059594323415045

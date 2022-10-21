@@ -1,0 +1,9 @@
+@EmmaScott @BethHegde this is how I’m referring to the Covid vaccine in comms now, FYI.
+
+2021-01-24 00:11:11+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='dc3747428fa88cab', url='https://api.twitter.com/1.1/geo/id/dc3747428fa88cab.json', place_type='city', name='Spokane', full_name='Spokane, WA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-117.565226, 47.5742], [-117.303868, 47.5742], [-117.303868, 47.760676], [-117.565226, 47.760676]]]), attributes={})
+
+1353133207256920066

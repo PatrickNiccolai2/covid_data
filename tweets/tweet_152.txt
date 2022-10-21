@@ -1,0 +1,9 @@
+@weeklywhinge @jocalver @BBCNews I think you’re describing the precautionary principle; “work for the greater good” HOWEVER, there is a risk that this could lead to vaccine resistant strains.
+
+2021-01-24 11:59:25+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6dd4aeb802da9f28', url='https://api.twitter.com/1.1/geo/id/6dd4aeb802da9f28.json', place_type='city', name='Newcastle Upon Tyne', full_name='Newcastle Upon Tyne, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.6937923, 54.960055], [-1.596931, 54.960055], [-1.596931, 55.0240558], [-1.6937923, 55.0240558]]]), attributes={})
+
+1353311439352696832

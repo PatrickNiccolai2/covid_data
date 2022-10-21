@@ -1,0 +1,9 @@
+@MeghanMcCain There r supposedly other cases where people receiving vaccine  had side affects. This is the 1st vaccine ever designed” so quickly!  It is POSSIBLE that for some few people there will be side effects &amp; even bad reactions. This is true of any medicine! Doesn’t mean not to get it!
+
+2021-01-23 22:39:45+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='22412db95b3dc8b6', url='https://api.twitter.com/1.1/geo/id/22412db95b3dc8b6.json', place_type='city', name='Baldwin', full_name='Baldwin, PA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.010434, 40.330924], [-79.935608, 40.330924], [-79.935608, 40.411537], [-80.010434, 40.411537]]]), attributes={})
+
+1353110196512555008

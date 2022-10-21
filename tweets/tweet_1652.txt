@@ -1,0 +1,9 @@
+@Nellyb75457013 @Goldora65442583 @SdxStan Il dit qu'il ne connaît pas les effets secondaires à long terme, l'IHU est un institut d'État.. donc vaccine les volontaires qui s'y présentent  !!
+
+2021-01-23 20:38:03+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4c6100a96901fb5e', url='https://api.twitter.com/1.1/geo/id/4c6100a96901fb5e.json', place_type='city', name='Marseille', full_name='Marseille, France', country_code='FR', country='France', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[5.2780296, 43.1973118], [5.5325183, 43.1973118], [5.5325183, 43.3913065], [5.2780296, 43.3913065]]]), attributes={})
+
+1353079570648485889

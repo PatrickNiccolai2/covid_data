@@ -1,0 +1,12 @@
+#LargestVaccineDrive
+#Unite2FightCorona
+
+People should shun hesitancy and get vaccinated. COVID vaccine is absolutely safe: @ICMRDelhi's Dr. Samiran Panda in an interview to @DastakHimachal https://t.co/j7YIniKKOj
+
+2021-01-24 04:55:13+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00d9c9040537f4e3', url='https://api.twitter.com/1.1/geo/id/00d9c9040537f4e3.json', place_type='admin', name='Brazzaville', full_name='Brazzaville, Congo', country_code='CG', country='Congo Brazzaville', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[14.9624469, -4.5284951], [15.9638473, -4.5284951], [15.9638473, -3.4884739], [14.9624469, -3.4884739]]]), attributes={})
+
+1353204688292876288

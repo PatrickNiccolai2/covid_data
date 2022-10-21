@@ -1,0 +1,9 @@
+Both Moderna and AstraZeneca are struggling with production of COVID-19 vaccines. Whatever happened to the efficiency of capitalism https://t.co/w3b8sMNY2g
+
+2021-01-24 05:58:49+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3894e5388f482c23', url='https://api.twitter.com/1.1/geo/id/3894e5388f482c23.json', place_type='city', name='Ekaterinburg', full_name='Ekaterinburg, Russia', country_code='RU', country='Russia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[60.3851198, 56.6678841], [60.8421559, 56.6678841], [60.8421559, 56.9631816], [60.3851198, 56.9631816]]]), attributes={})
+
+1353220691361992704

@@ -1,0 +1,9 @@
+@TeachinTheatre Although, it just dawned on me that they might have the stickers when I get my second dose. It’s a shame that those of us in a relatively high-risk essential profession had to find a way to get our vaccine sooner, but I did enjoy spending a few hours to help the greater cause.
+
+2021-01-24 03:53:08+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7211d450b6356b55', url='https://api.twitter.com/1.1/geo/id/7211d450b6356b55.json', place_type='city', name='Shavano Park', full_name='Shavano Park, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-98.576561, 29.564457], [-98.538683, 29.564457], [-98.538683, 29.599159], [-98.576561, 29.599159]]]), attributes={})
+
+1353189063017295873

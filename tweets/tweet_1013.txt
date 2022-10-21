@@ -1,0 +1,9 @@
+@iowancap Red pill hardcore. I went from Ron Paul to Loose Change to https://t.co/hx9sKHjkAO to there was a cancer causing monkey virus in the original polio vaccine and that is why cancer in endemic now. Still believe that last bit.
+
+2021-01-24 01:37:49+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3cd4c18d3615bbc9', url='https://api.twitter.com/1.1/geo/id/3cd4c18d3615bbc9.json', place_type='admin', name='Iowa', full_name='Iowa, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-96.6396669, 40.375437], [-90.140061, 40.375437], [-90.140061, 43.50102], [-96.6396669, 43.50102]]]), attributes={})
+
+1353155012269109249

@@ -1,0 +1,9 @@
+@AmyZQuinn @VaccineVols Hudson County is handling vaccine distribution to municipal health departments within the county, it has no role anywhere outside Hudson
+
+2021-01-23 23:39:30+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='a27eec9bf69a7abb', url='https://api.twitter.com/1.1/geo/id/a27eec9bf69a7abb.json', place_type='city', name='Wood-Ridge', full_name='Wood-Ridge, NJ', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-74.101781, 40.838033], [-74.074858, 40.838033], [-74.074858, 40.867357], [-74.101781, 40.867357]]]), attributes={})
+
+1353125234560425986

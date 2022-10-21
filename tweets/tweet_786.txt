@@ -1,0 +1,10 @@
+@htTweets @narendramodi Did India learn exporting vaccine after 2014?
+Was the vaccine manufacturing plant built after 2014?
+
+2021-01-24 04:18:21+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='35780b08c563d8ab', url='https://api.twitter.com/1.1/geo/id/35780b08c563d8ab.json', place_type='city', name='Thane', full_name='Thane, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[72.80161, 19.16162], [73.03441, 19.16162], [73.03441, 19.593413], [72.80161, 19.593413]]]), attributes={})
+
+1353195408449708032

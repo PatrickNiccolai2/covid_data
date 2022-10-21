@@ -1,0 +1,9 @@
+@amychomd Most *reported* vaccine doses.
+
+2021-01-24 01:55:55+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='8e9665cec9370f0f', url='https://api.twitter.com/1.1/geo/id/8e9665cec9370f0f.json', place_type='city', name='Minneapolis', full_name='Minneapolis, MN', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-93.329515, 44.889964], [-93.194578, 44.889964], [-93.194578, 45.051257], [-93.329515, 45.051257]]]), attributes={})
+
+1353159565441810432

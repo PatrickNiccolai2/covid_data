@@ -1,0 +1,13 @@
+Democrats: We have to #followthescience
+
+Coronavirus seriously effects mostly the elderly and people with specific co-morbidity factors
+
+Democrats: Let's prioritize #Coronavirus #vaccines to everyone but those people.
+
+2021-01-24 03:33:25+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4723507d8ce23a60', url='https://api.twitter.com/1.1/geo/id/4723507d8ce23a60.json', place_type='admin', name='Idaho', full_name='Idaho, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-117.243028, 41.987982], [-111.0434969, 41.987982], [-111.0434969, 49.001121], [-117.243028, 49.001121]]]), attributes={})
+
+1353184100190810112

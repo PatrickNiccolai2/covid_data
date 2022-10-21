@@ -1,0 +1,9 @@
+@RyanFieldABC now Davey Johnson has COVID...ugggh
+
+2021-01-23 20:04:43+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01403a006943ba1e', url='https://api.twitter.com/1.1/geo/id/01403a006943ba1e.json', place_type='city', name='Warwick', full_name='Warwick, NY', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-74.416572, 41.229187], [-74.258186, 41.229187], [-74.258186, 41.325129], [-74.416572, 41.325129]]]), attributes={})
+
+1353071181247647744

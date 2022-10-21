@@ -1,0 +1,9 @@
+3/4 #Paris20 compte également un centre de vaccination situé dans la salle des fêtes de la @Mairiedu20. Ouvert de 8h30 à 17h, il est en capacité de faire fonctionner 8 boxes et de vacciner 2 000 personnes par semaine.
+
+2021-01-24 12:16:33+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='09f6a7707f18e0b1', url='https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json', place_type='city', name='Paris', full_name='Paris, France', country_code='FR', country='France', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[2.2241006, 48.8155214], [2.4699053, 48.8155214], [2.4699053, 48.9021461], [2.2241006, 48.9021461]]]), attributes={})
+
+1353315751487266816

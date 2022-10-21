@@ -1,0 +1,9 @@
+The 🇪🇺 may benefit from a bump in supply later in the year, once Moderna raises its production. European officials hope their strategy of buying moderate amounts of a range of vaccines will, over time, pay off as more come on stream. https://t.co/Yp5jycEnYu
+
+2021-01-24 12:04:26+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='535f0c2de0121451', url='https://api.twitter.com/1.1/geo/id/535f0c2de0121451.json', place_type='city', name='Warsaw', full_name='Warsaw, Poland', country_code='PL', country='Poland', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[20.8525518, 52.0977088], [21.2710282, 52.0977088], [21.2710282, 52.3679617], [20.8525518, 52.3679617]]]), attributes={})
+
+1353312702828056576

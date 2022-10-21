@@ -1,0 +1,9 @@
+@joshgad @SageHillfarms Have you gotten or tried to get vaccinated in Florida? It’s horrible. Getting one is so stressful and so complicated and if you do get an appointment, it’s like winning the lottery. I agree DeSantis is scum, but I am “scrounging” for a vaccine here, FYI!
+
+2021-01-24 03:51:50+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='010953890c6dac04', url='https://api.twitter.com/1.1/geo/id/010953890c6dac04.json', place_type='city', name='The Villages', full_name='The Villages, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-82.040502, 28.8635719], [-81.953293, 28.8635719], [-81.953293, 28.982092], [-82.040502, 28.982092]]]), attributes={})
+
+1353188737585459200

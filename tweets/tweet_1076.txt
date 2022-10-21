@@ -1,0 +1,9 @@
+Cementing the view that all they ever did was plum on the vaccine and disregard what happened up to it being approved? https://t.co/sZmXiiAzsh
+
+2021-01-24 00:51:01+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='413337d3bda70024', url='https://api.twitter.com/1.1/geo/id/413337d3bda70024.json', place_type='city', name='Doxford Park', full_name='Doxford Park, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.457159, 54.858506], [-1.390099, 54.858506], [-1.390099, 54.90471], [-1.457159, 54.90471]]]), attributes={})
+
+1353143233774280704

@@ -1,0 +1,9 @@
+Chris Whitty's fury at Guardian's 'total nonsense' Pfizer claim https://t.co/EJQTTDHNw1 @MailOnline
+
+2021-01-24 06:14:41+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01c7ed8caf11e8b2', url='https://api.twitter.com/1.1/geo/id/01c7ed8caf11e8b2.json', place_type='city', name='Kensington', full_name='Kensington, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.2285894, 51.4772246], [-0.1497908, 51.4772246], [-0.1497908, 51.5303477], [-0.2285894, 51.5303477]]]), attributes={})
+
+1353224687506124800

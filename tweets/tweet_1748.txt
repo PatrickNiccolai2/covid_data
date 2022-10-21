@@ -1,0 +1,9 @@
+Why is the OH state rep suggesting you should get the covid vaccine in order to get the next stimulus check. 🥴 Yall don't even have enough to distribute to the ppl. Yall can't even keep up with yall selves.
+
+2021-01-23 19:51:18+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4506ca1d65ca5b4d', url='https://api.twitter.com/1.1/geo/id/4506ca1d65ca5b4d.json', place_type='city', name='North Royalton', full_name='North Royalton, OH', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-81.785322, 41.264708], [-81.70169, 41.264708], [-81.70169, 41.3509537], [-81.785322, 41.3509537]]]), attributes={})
+
+1353067806128922624

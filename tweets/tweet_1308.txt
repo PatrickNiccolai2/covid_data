@@ -1,0 +1,9 @@
+AstraZeneca reduces its COVID-19 vaccine deliveries to the EU by 60% in the first quarter of 2021  https://t.co/7agsO6dIsz
+
+2021-01-23 23:09:31+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='dc62519fda13b4ec', url='https://api.twitter.com/1.1/geo/id/dc62519fda13b4ec.json', place_type='city', name='Tampa', full_name='Tampa, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-82.620093, 27.821353], [-82.2652945, 27.821353], [-82.2652945, 28.171836], [-82.620093, 28.171836]]]), attributes={})
+
+1353117690643296257

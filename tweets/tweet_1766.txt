@@ -1,0 +1,13 @@
+COVID-19 vaccines are already out of date due to new COVID-19 variant from South Africa @vahousegop @VAHouseDems @VASenateGOP
+@VASenateDems @GovernorVA @PamNorthamVA @VDHgov @vaELECT @VCCS_SO @VAColleges @VASenate @VASecofEdu @VaDOT @fcnp
+
+See pinned tweet
+https://t.co/pFFY72QRv3
+
+2021-01-23 19:45:05+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='c933b99b367f0b5b', url='https://api.twitter.com/1.1/geo/id/c933b99b367f0b5b.json', place_type='city', name="Bailey's Crossroads", full_name="Bailey's Crossroads, VA", country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-77.147585, 38.832027], [-77.110316, 38.832027], [-77.110316, 38.861746], [-77.147585, 38.861746]]]), attributes={})
+
+1353066240491720706

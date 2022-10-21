@@ -1,0 +1,9 @@
+Trying to get the vaccine is like trying to find true love: nearly impossible.
+
+2021-01-23 20:32:07+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='c8448d3a8975a816', url='https://api.twitter.com/1.1/geo/id/c8448d3a8975a816.json', place_type='city', name='Moreno Valley', full_name='Moreno Valley, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-117.296536, 33.858759], [-117.139304, 33.858759], [-117.139304, 33.985089], [-117.296536, 33.985089]]]), attributes={})
+
+1353078080064024576

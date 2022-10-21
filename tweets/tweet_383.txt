@@ -1,0 +1,9 @@
+Disgusting. All prisoners in the UK should be bottom of the list when if comes to #COVID19 vaccine. https://t.co/Cmv6ly7knR
+
+2021-01-24 09:44:14+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='17cc57fae415c45e', url='https://api.twitter.com/1.1/geo/id/17cc57fae415c45e.json', place_type='city', name='Milton Keynes', full_name='Milton Keynes, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.8604724, 51.973129], [-0.667655, 51.973129], [-0.667655, 52.094005], [-0.8604724, 52.094005]]]), attributes={})
+
+1353277422079254528

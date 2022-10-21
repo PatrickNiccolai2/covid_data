@@ -1,0 +1,9 @@
+On the day same, I have felt despair, courtesy the Tandav team being forced to make cuts, and exhilaration that we are donating 10 million free vaccines to smaller countries. How can a country veer between two such extreme ends. #VaccineMaitri @SerumInstIndia @PMOIndia https://t.co/FZ9zoSssQQ
+
+2021-01-24 09:12:37+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7929cea6bd5b32bd', url='https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json', place_type='city', name='Mumbai', full_name='Mumbai, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[72.74484, 18.845343], [73.003648, 18.845343], [73.003648, 19.502937], [72.74484, 19.502937]]]), attributes={})
+
+1353269463596978176

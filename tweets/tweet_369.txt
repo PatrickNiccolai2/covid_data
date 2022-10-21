@@ -1,0 +1,9 @@
+How can they deny #coronavirus #vaccine to #Palestinians #Israeli doctor on #Marr says #Israelis come first. God says ‘help the weak and those in need’ disgusting attitude. @mailonline #government @borisjohnson comment #trump now gone! https://t.co/ZR99YELVTn
+
+2021-01-24 09:49:55+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2fc6bcfdd209a02d', url='https://api.twitter.com/1.1/geo/id/2fc6bcfdd209a02d.json', place_type='city', name='Old Windsor', full_name='Old Windsor, South East', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.597707, 51.4433498], [-0.545973, 51.4433498], [-0.545973, 51.474143], [-0.597707, 51.474143]]]), attributes={})
+
+1353278850101342208

@@ -1,0 +1,9 @@
+@AlgorithmDancer Praying for you and your family and to tell others not to take this vaccine
+
+2021-01-24 02:35:58+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0113afc024d5e0bc', url='https://api.twitter.com/1.1/geo/id/0113afc024d5e0bc.json', place_type='city', name='Wellington', full_name='Wellington, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.299923, 26.5670568], [-80.1665646, 26.5670568], [-80.1665646, 26.6827584], [-80.299923, 26.6827584]]]), attributes={})
+
+1353169643616219136

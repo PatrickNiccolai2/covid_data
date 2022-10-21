@@ -1,0 +1,10 @@
+💉Em cinco dias de vacinação, a Secretaria de Saúde já aplicou a primeira dose da vacina Coronavac em 1.046 pessoas. Neste sábado (23), a Campanha volante de vacinação contra a Covid-19 vacinou mais 73 profissionais da saúde.
+https://t.co/83Q34hw6Nc. https://t.co/L0wLoG82J4
+
+2021-01-24 00:43:56+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='91642dc58bca5c5e', url='https://api.twitter.com/1.1/geo/id/91642dc58bca5c5e.json', place_type='city', name='Macaé', full_name='Macaé, Brasil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-42.266219, -22.439321], [-41.689262, -22.439321], [-41.689262, -22.12519], [-42.266219, -22.12519]]]), attributes={})
+
+1353141450347868160

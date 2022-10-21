@@ -1,0 +1,12 @@
+@BCGovNews Thankful for the vaccine and immunization of our most vulnerable.
+
+As a Chief Fire Officer I’m certainly looking forward to vaccinations of frontline #FirstResponders 🚒🚓🚑 who like our #HealthcareHeroes often face #Covid exposure during high risk emergencies.
+@BCFireChiefs
+
+2021-01-23 23:06:57+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4fdbcad8c3ed7790', url='https://api.twitter.com/1.1/geo/id/4fdbcad8c3ed7790.json', place_type='city', name='Victoria', full_name='Victoria, British Columbia', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-123.394397, 48.403014], [-123.322362, 48.403014], [-123.322362, 48.450447], [-123.394397, 48.450447]]]), attributes={})
+
+1353117042421850113

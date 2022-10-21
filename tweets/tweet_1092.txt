@@ -1,0 +1,9 @@
+She did it! I begged my grandma to get the vaccine. She was scared because of things she had heard. Strongest woman I know! I can’t wait to go back home and give her the biggest hug once this is over! ❤️ https://t.co/NIEmgDYN5v
+
+2021-01-24 00:41:19+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='33d5cf4dea5828c5', url='https://api.twitter.com/1.1/geo/id/33d5cf4dea5828c5.json', place_type='city', name='Beaumont', full_name='Beaumont, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-94.233379, 29.9897153], [-94.023888, 29.9897153], [-94.023888, 30.184121], [-94.233379, 30.184121]]]), attributes={})
+
+1353140792911654912

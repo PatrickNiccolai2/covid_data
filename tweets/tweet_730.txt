@@ -1,0 +1,9 @@
+So 36 hours post covid vaccine and I am still very tired and a bit weak. A bit achey in certain spots too. NOTHING near how I have felt when I got the flu  or the flu shot in the past...way easier. Just laid a bit low is all. Lots of naps and slow steps.  #CovidVaccine
+
+2021-01-24 05:15:13+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5c62ffb0f0f3479d', url='https://api.twitter.com/1.1/geo/id/5c62ffb0f0f3479d.json', place_type='city', name='Phoenix', full_name='Phoenix, AZ', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-112.3239143, 33.29026], [-111.9254391, 33.29026], [-111.9254391, 33.8154652], [-112.3239143, 33.8154652]]]), attributes={})
+
+1353209719049965570

@@ -1,0 +1,9 @@
+@10DowningStreet @BorisJohnson "The word "disproportionate" is too colorless to even hint at the dimensions of what is happening. The lockdown policy pursued by the state government in the spring (and now again), of which the general ban on contact was and is an essential component, is a catastrophically wrong
+
+2021-01-23 19:07:34+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3ba55ee536210b59', url='https://api.twitter.com/1.1/geo/id/3ba55ee536210b59.json', place_type='city', name='Seaforth', full_name='Seaforth, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.058666, 53.438332], [-2.950246, 53.438332], [-2.950246, 53.501369], [-3.058666, 53.501369]]]), attributes={})
+
+1353056798840819715

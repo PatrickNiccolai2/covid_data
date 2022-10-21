@@ -1,0 +1,9 @@
+@Jesus99 @ElPasoTXGov @umcelpaso One example is the HPV vaccine for teens. 64% of El Paso teens were up to date on that vaccine in 2019 vs. 54% nationally.
+
+2021-01-24 00:16:47+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6a0a3474d8c5113c', url='https://api.twitter.com/1.1/geo/id/6a0a3474d8c5113c.json', place_type='city', name='El Paso', full_name='El Paso, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-106.634874, 31.6206683], [-106.199987, 31.6206683], [-106.199987, 31.966068], [-106.634874, 31.966068]]]), attributes={})
+
+1353134618027855872

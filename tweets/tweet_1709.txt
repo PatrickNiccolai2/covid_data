@@ -1,0 +1,9 @@
+Count your blessings that you'll get the vaccine soon if you are ex-EU https://t.co/dfoz4yaCWO
+
+2021-01-23 20:14:10+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='06d298c879307d9c', url='https://api.twitter.com/1.1/geo/id/06d298c879307d9c.json', place_type='city', name='Cottenham', full_name='Cottenham, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[0.110025, 52.274465], [0.1358452, 52.274465], [0.1358452, 52.298102], [0.110025, 52.298102]]]), attributes={})
+
+1353073562727325698

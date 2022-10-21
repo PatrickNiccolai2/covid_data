@@ -1,0 +1,9 @@
+@JeanCASTEX @olivierveran @Sante_Gouv @gouvernementFR Vaccinés d une dose... Vrai vaccinés quand deux doses...SVP respectez le délai préconisé par le fabricant.. Et vaccinez bientôt les profs !!
+
+2021-01-23 19:26:13+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='258a4068ea0eb8d0', url='https://api.twitter.com/1.1/geo/id/258a4068ea0eb8d0.json', place_type='city', name='Brunstatt', full_name='Brunstatt, France', country_code='FR', country='France', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[7.3040206, 47.698983], [7.3552396, 47.698983], [7.3552396, 47.7340376], [7.3040206, 47.7340376]]]), attributes={})
+
+1353061494414405636

@@ -1,0 +1,9 @@
+Según el Primer Ministro Británico, hay evidencia temprana de que variante británica de COVID-19 apunta a mayor mortalidad, dice Boris Johnson  https://t.co/NPDtXCp1xC
+
+2021-01-24 01:50:45+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0161be1b3f98d6c3', url='https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json', place_type='city', name='Bogotá, D.C.', full_name='Bogotá, D.C., Colombia', country_code='CO', country='Colombia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-74.483288999243, 3.71743200175304], [-74.0040529979154, 3.71743200175304], [-74.0040529979154, 4.80713500387127], [-74.483288999243, 4.80713500387127]]]), attributes={})
+
+1353158267061600261

@@ -1,0 +1,9 @@
+Na madrugada desse domingo chegaram 25.700 doses da vacina de Oxford/AstraZeneca, vindas da Índia. Dessa vez, serão vacinados os idosos acima de 85 anos. Vamos vencer esse vírus 🙏🏻
+
+2021-01-24 12:19:27+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='70d9237ded8be5f4', url='https://api.twitter.com/1.1/geo/id/70d9237ded8be5f4.json', place_type='city', name='Maceió', full_name='Maceió, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-35.815834, -9.711808], [-35.558391, -9.711808], [-35.558391, -9.354851], [-35.815834, -9.354851]]]), attributes={})
+
+1353316484630634498

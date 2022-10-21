@@ -1,0 +1,9 @@
+India is a neutralsm country. All religious respected. But we are all under covid 19. Neighbours  is our bloosm freinds. They should getting vaccine free of cost. I demand Modiji you should providing vaccine to indians free of cost and Naveen Babu also  help.
+
+2021-01-24 01:32:51+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2369b36d6676c667', url='https://api.twitter.com/1.1/geo/id/2369b36d6676c667.json', place_type='admin', name='Orissa', full_name='Orissa, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[81.391502, 17.810452], [87.490202, 17.810452], [87.490202, 22.566854], [81.391502, 22.566854]]]), attributes={})
+
+1353153759275151360

@@ -1,0 +1,9 @@
+@captjasdeep Vaccines??
+
+2021-01-23 19:55:59+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2f9b283cf25f6322', url='https://api.twitter.com/1.1/geo/id/2f9b283cf25f6322.json', place_type='city', name='Meerut', full_name='Meerut, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[77.45422, 28.736268], [77.87152, 28.736268], [77.87152, 29.089102], [77.45422, 29.089102]]]), attributes={})
+
+1353068984824827906

@@ -1,0 +1,9 @@
+@BorisJohnson And works on a #Covid ward with inadequate PPE
+
+2021-01-23 19:51:37+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0de2b96e52986b41', url='https://api.twitter.com/1.1/geo/id/0de2b96e52986b41.json', place_type='city', name='Sompting', full_name='Sompting, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.3594016, 50.81768], [-0.2905247, 50.81768], [-0.2905247, 50.8472524], [-0.3594016, 50.8472524]]]), attributes={})
+
+1353067887884296198

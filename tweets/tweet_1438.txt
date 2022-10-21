@@ -1,0 +1,9 @@
+Vaccine News- such great news for our team to have access to the vaccine.  Working with our clients is so important and now we can be confident that our team are safe. #vaccine #rehab #therapy #sensory #support
+
+2021-01-23 22:14:04+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='117b5eb271dc4d2c', url='https://api.twitter.com/1.1/geo/id/117b5eb271dc4d2c.json', place_type='city', name='Penrith', full_name='Penrith, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.7773181, 54.650714], [-2.728135, 54.650714], [-2.728135, 54.675913], [-2.7773181, 54.675913]]]), attributes={})
+
+1353103736009347077

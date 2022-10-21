@@ -1,0 +1,12 @@
+MDH reports 31 more COVID deaths, including 17 in long-term care. Plus 1,565 new positives/43,302 tests (3.6%).
+So far 43% of vaccine doses in MN have been administered, nearly 290,000. Almost 60,000 have received both required doses.
+
+https://t.co/AN3f1awgoa
+
+2021-01-23 23:21:21+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='b86807f56880a082', url='https://api.twitter.com/1.1/geo/id/b86807f56880a082.json', place_type='city', name='Chanhassen', full_name='Chanhassen, MN', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-93.627891, 44.795962], [-93.511248, 44.795962], [-93.511248, 44.891736], [-93.627891, 44.891736]]]), attributes={})
+
+1353120665457586177

@@ -1,0 +1,9 @@
+SÜRPRİZ!!! ; Intramuskular PEG-Asparajinaz uygulama( allerjik reaksiyonu % 15 lere düşürüyor!!!) hani mrna aşısındaki PEG varya o işte ! Allerjinin yada immünitenin PEG ile ilgisi YOK sorun mRNA da !!! #mrna #Covid_19 #aşı #pegallerjikdeğil #biontech
+
+2021-01-23 19:32:44+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='14e6fbb83e0b48d9', url='https://api.twitter.com/1.1/geo/id/14e6fbb83e0b48d9.json', place_type='admin', name='Maltepe', full_name='Maltepe, İstanbul', country_code='TR', country='Turkey', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[29.0947456, 40.9066985], [29.216176, 40.9066985], [29.216176, 40.9813679], [29.0947456, 40.9813679]]]), attributes={})
+
+1353063134689280000

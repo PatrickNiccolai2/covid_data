@@ -1,0 +1,9 @@
+@BBCPolitics @BBCNews Being in the EU where would you Nicola be getting the money to feed their over spending and getting the vaccines to help her independent nation survive the virus, l think Nicola you need to engage 🧠. Before jumping into the unknown Look at Italy as an example 🤨
+
+2021-01-24 12:20:47+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='27313cdb58ac629c', url='https://api.twitter.com/1.1/geo/id/27313cdb58ac629c.json', place_type='city', name='Binegar', full_name='Binegar, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.5579731, 51.2335601], [-2.5360094, 51.2335601], [-2.5360094, 51.2473715], [-2.5579731, 51.2473715]]]), attributes={})
+
+1353316818216169472

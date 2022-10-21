@@ -1,0 +1,9 @@
+@DalgetySusan Yep. Care home residents are a tiny proportion of the over 80s . In this practice less than 1/20th, but we had to wait impatiently a month and a half to get vaccine and start the rest of the &gt;80s. With flu all would have been done simultaneously.
+
+2021-01-24 10:24:07+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='662151059af25812', url='https://api.twitter.com/1.1/geo/id/662151059af25812.json', place_type='city', name='Hillswick', full_name='Hillswick, Scotland', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.497913, 60.470696], [-1.484859, 60.470696], [-1.484859, 60.481512], [-1.497913, 60.481512]]]), attributes={})
+
+1353287459904360448

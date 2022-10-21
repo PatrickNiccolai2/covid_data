@@ -1,0 +1,11 @@
+Well done Jon Snow getting his #CovidVaccine, showing the way to all. He is one @jonsnowC4 who knows something! #SavetheNHS #covid #CovidVaccines
+
+https://t.co/Iuk3zgJ1V6
+
+2021-01-24 12:48:18+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='58f909abfd95e133', url='https://api.twitter.com/1.1/geo/id/58f909abfd95e133.json', place_type='city', name='Lewisham', full_name='Lewisham, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.074547, 51.414087], [0.038567, 51.414087], [0.038567, 51.494127], [-0.074547, 51.494127]]]), attributes={})
+
+1353323742764658688

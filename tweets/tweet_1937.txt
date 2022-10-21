@@ -1,0 +1,9 @@
+Got the first shot for the vaccine. Want to say how easy the process is upon arrival @HoustonHealth did a great job here! #CovidVaccine #moderna https://t.co/NeFb83cqKH
+
+2021-01-23 18:51:10+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='07d9cbb926084001', url='https://api.twitter.com/1.1/geo/id/07d9cbb926084001.json', place_type='poi', name='Bayou City Event Center', full_name='Bayou City Event Center', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-95.39895417275017, 29.66889411479975], [-95.39895417275017, 29.66889411479975], [-95.39895417275017, 29.66889411479975], [-95.39895417275017, 29.66889411479975]]]), attributes={})
+
+1353052673713573888

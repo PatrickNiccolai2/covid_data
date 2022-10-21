@@ -1,0 +1,9 @@
+I wish I could get the vaccine in Goodyear, Maricopa County, Phoenix @dougducey https://t.co/Mo0Cifdfd9
+
+2021-01-24 00:31:07+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='a612c69b44b2e5da', url='https://api.twitter.com/1.1/geo/id/a612c69b44b2e5da.json', place_type='admin', name='Arizona', full_name='Arizona, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-114.818269, 31.3322463], [-109.0451527, 31.3322463], [-109.0451527, 37.004261], [-114.818269, 37.004261]]]), attributes={})
+
+1353138223082426368

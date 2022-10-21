@@ -1,0 +1,9 @@
+@dazwilko42uk @davidwalliams Maybe because it goes by areas &amp; when they get the vaccines in!!! Are you insinuating because David is a celebrity his Mum got the vaccination quicker?? Get a life!!!
+
+2021-01-24 01:28:04+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7b709e5746c2f80d', url='https://api.twitter.com/1.1/geo/id/7b709e5746c2f80d.json', place_type='city', name='Gravesend', full_name='Gravesend, South East', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[0.309425, 51.407545], [0.413461, 51.407545], [0.413461, 51.457586], [0.309425, 51.457586]]]), attributes={})
+
+1353152555719786497

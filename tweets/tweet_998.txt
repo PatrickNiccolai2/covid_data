@@ -1,0 +1,9 @@
+Idiot...Trump is the one who stopped international travel, temporarily...and within 9 months we had a vaccine! Dont blame Trump...blame all those people in opposition to anything Trump did! https://t.co/LZ8RV5hIrv
+
+2021-01-24 01:48:13+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='71d65c0e6d94efab', url='https://api.twitter.com/1.1/geo/id/71d65c0e6d94efab.json', place_type='admin', name='New Mexico', full_name='New Mexico, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-109.050173, 31.332176], [-103.002065, 31.332176], [-103.002065, 37.000294], [-109.050173, 37.000294]]]), attributes={})
+
+1353157627446870017

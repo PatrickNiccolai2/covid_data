@@ -1,0 +1,9 @@
+"US President Joe Biden and UK PM Boris Johnson discuss COVID-19 recovery in a phone call"  https://t.co/XlPPn6pO9Y
+
+2021-01-24 12:37:11+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='9f4583bf6dae13c4', url='https://api.twitter.com/1.1/geo/id/9f4583bf6dae13c4.json', place_type='city', name='Springfield', full_name='Springfield, MA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-72.620117, 42.06398], [-72.471052, 42.06398], [-72.471052, 42.162145], [-72.620117, 42.162145]]]), attributes={})
+
+1353320943658135552

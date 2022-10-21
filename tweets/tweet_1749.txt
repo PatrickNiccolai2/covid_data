@@ -1,0 +1,9 @@
+@FoleyJohnP @julianHjessop And the severity of our peril should give an extra cause for comfort and indeed celebration that our vaccine rollout is exceeding - yes exceeding - expectations.
+
+2021-01-23 19:51:15+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5d838f7a011f4a2d', url='https://api.twitter.com/1.1/geo/id/5d838f7a011f4a2d.json', place_type='admin', name='London', full_name='London, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.510364798739281, 51.2867019756122], [0.334043461659515, 51.2867019756122], [0.334043461659515, 51.6918240878432], [-0.510364798739281, 51.6918240878432]]]), attributes={})
+
+1353067791847284736

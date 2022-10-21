@@ -1,0 +1,9 @@
+RNA vaccines can be fairly quickly respond to the mutation https://t.co/OQDCEa8YIQ
+
+2021-01-24 05:49:50+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0ec0c4fcacbd0083', url='https://api.twitter.com/1.1/geo/id/0ec0c4fcacbd0083.json', place_type='admin', name='Victoria', full_name='Victoria, Australia', country_code='AU', country='Australia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[140.961681976682, -39.1591895298437], [149.976679007421, -39.1591895298437], [149.976679007421, -33.9804255797424], [140.961681976682, -33.9804255797424]]]), attributes={})
+
+1353218432498421760

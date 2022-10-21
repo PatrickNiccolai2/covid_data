@@ -1,0 +1,9 @@
+@IsaMathiasMD @moderna_tx Congrats. I couldnt run 5 km regardless of vaccine status.
+
+2021-01-23 23:44:15+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0eb9676d24b211f1', url='https://api.twitter.com/1.1/geo/id/0eb9676d24b211f1.json', place_type='city', name='Cleveland', full_name='Cleveland, OH', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-81.877771, 41.392684], [-81.5331634, 41.392684], [-81.5331634, 41.599195], [-81.877771, 41.599195]]]), attributes={})
+
+1353126431639928834

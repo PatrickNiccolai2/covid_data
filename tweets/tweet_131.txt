@@ -1,0 +1,9 @@
+@americanstorm @wfaa Yeah. That’s the uh, point of the trials. So that we know it is safe, which this one seems like it will be with the preliminary data. Do you not know how vaccines work or are you just afraid there’s a chip in it that will track you?
+
+2021-01-24 12:08:46+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='b2e4e65d7b80d2c1', url='https://api.twitter.com/1.1/geo/id/b2e4e65d7b80d2c1.json', place_type='city', name='Fort Collins', full_name='Fort Collins, CO', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-105.148074, 40.47168], [-104.979811, 40.47168], [-104.979811, 40.656701], [-105.148074, 40.656701]]]), attributes={})
+
+1353313793816879106

@@ -1,0 +1,9 @@
+Like it or not, health workers must be injected with the covid vaccine first 💉💉 ... hopefully you will always be healthy and hopefully nothing will happen 😇🙏🙏 https://t.co/bhYrqdFK46
+
+2021-01-24 04:12:48+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='d4fe13455d408db6', url='https://api.twitter.com/1.1/geo/id/d4fe13455d408db6.json', place_type='city', name='Kotagede', full_name='Kotagede, Indonesia', country_code='ID', country='Indonesia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[110.390262, -7.832991], [110.405156, -7.832991], [110.405156, -7.80142], [110.390262, -7.80142]]]), attributes={})
+
+1353194014703550467

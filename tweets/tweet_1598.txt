@@ -1,0 +1,9 @@
+@Soul_philly @robfordmancs @JimmySecUK But the elephant in the room is the 2nd Vaccine
+
+2021-01-23 20:57:54+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='41783fa3b7aaf87f', url='https://api.twitter.com/1.1/geo/id/41783fa3b7aaf87f.json', place_type='city', name='Treorchy', full_name='Treorchy, Wales', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.5294756, 51.6401205], [-3.4774422, 51.6401205], [-3.4774422, 51.66966], [-3.5294756, 51.66966]]]), attributes={})
+
+1353084567146651650

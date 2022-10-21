@@ -1,0 +1,9 @@
+@Rosewind2007 @VickieZisman @ChrisJohnsonMD @BoastIra @mcfunny @FLermyte @HupperichWerner @barryjohnreid21 @FrankDElia7 @JaiKanta22 @JaneEOpie @HPVSideEffects @HaircutSpock @dad_liams @rainmc @GeoffSchuler @PaulVCooper1 @BeckyJohnson222 @chaoticsx2 @MacBaird13 @Gardeniagal4 @RCPrentice @Monstercoyliar @StopVaxxedLies @CiteretV @MaggieC_95 @David_5705 @organicdot @KayVonPaul @ThatBackwoodsB @ianfmusgrave @KatLaRue7 @RisetteMD @carlsmythe @VileThePro @MonstaTofu @Kathmarval @Jojofool1 @jkellyca @PJMoore1958 @MikePeterson_TH @_mamadeb @100Dianne @krebiozen @Shared_facts @ilzheven @HatgiNeal @bob_hound @CobraElDiablo @Clues When we went to Nigeria in the 1980s my parents got the tablets every week and we got liquid medicine. We were vaccinated against smallpox and a few other things before leaving. If there had been a vaccine for malaria, we would have gotten it.
+
+2021-01-23 22:38:09+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='30344aecffe6a491', url='https://api.twitter.com/1.1/geo/id/30344aecffe6a491.json', place_type='city', name='Fremont', full_name='Fremont, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.069956, 37.454962], [-121.889098, 37.454962], [-121.889098, 37.592327], [-122.069956, 37.592327]]]), attributes={})
+
+1353109796862353409

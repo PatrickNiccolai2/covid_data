@@ -1,0 +1,17 @@
+@DrJasonJohnson I don't see how we go After her
+Yet give Dr.Fauci a pass.
+I respect Dr.Fauci &amp; am really happy 
+He's on Biden's Team.
+But to be fair He too stayed quiet
+When Trump was pushing his insane theories on a COVID cure.
+They're doctors:Not Politician's. 
+I Blame Trump 100%.
+#BlameTrump https://t.co/EGFcvvMWFj
+
+2021-01-23 23:17:31+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='960993b9cfdffda9', url='https://api.twitter.com/1.1/geo/id/960993b9cfdffda9.json', place_type='city', name='Bakersfield', full_name='Bakersfield, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-119.172179, 35.255821], [-118.878147, 35.255821], [-118.878147, 35.4379816], [-119.172179, 35.4379816]]]), attributes={})
+
+1353119701589585920

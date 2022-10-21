@@ -1,0 +1,13 @@
+The learned helplessness we have with Covid is staggering. 
+
+An endemic B117 is NOT inevitable. We can take action NOW to change the course of this next battle, and I am NOT talking about lockdowns.
+
+Push vaccines to B117 areas. Stop domestic flights in and out of B117 areas.
+
+2021-01-23 21:47:17+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='e86b380cfefcced5', url='https://api.twitter.com/1.1/geo/id/e86b380cfefcced5.json', place_type='admin', name='Connecticut', full_name='Connecticut, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-73.727776, 40.950918], [-71.786994, 40.950918], [-71.786994, 42.050588], [-73.727776, 42.050588]]]), attributes={})
+
+1353096994450006016

@@ -1,0 +1,9 @@
+The vaccine is sooooo close yet so far away... what are you going to do once you’re vaccinated?  Me—although I’ve loved what will be 12 straight months with my family— I will do either a solo weekend trip or girls trip.  This mama needs some me time.
+
+2021-01-24 00:01:49+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01430bf766a1d670', url='https://api.twitter.com/1.1/geo/id/01430bf766a1d670.json', place_type='city', name='Castaic', full_name='Castaic, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-118.651842, 34.440304], [-118.610385, 34.440304], [-118.610385, 34.516522], [-118.651842, 34.516522]]]), attributes={})
+
+1353130851148566528

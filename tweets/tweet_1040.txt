@@ -1,0 +1,9 @@
+other than the hella soreness, I feel okay from #COVID19 vaccine #2
+
+2021-01-24 01:16:10+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='067e01ade0674e9a', url='https://api.twitter.com/1.1/geo/id/067e01ade0674e9a.json', place_type='neighborhood', name='Country Glenn', full_name='Country Glenn, Tucson', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-110.935408, 32.250341], [-110.926799, 32.250341], [-110.926799, 32.257693], [-110.935408, 32.257693]]]), attributes={})
+
+1353149562278473728

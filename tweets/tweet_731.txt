@@ -1,0 +1,9 @@
+If you are a covid-19 denier, anti masker, anti vaxxer, capitol storming supporter, trump defending racist piece of garbage I’m just blocking you. I don’t care if we are in the same community. You don’t deserve to be here.
+
+2021-01-24 05:15:08+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='002e24c6736f069d', url='https://api.twitter.com/1.1/geo/id/002e24c6736f069d.json', place_type='city', name='Bronx', full_name='Bronx, NY', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-73.933612, 40.785365], [-73.765271, 40.785365], [-73.765271, 40.91533], [-73.933612, 40.91533]]]), attributes={})
+
+1353209701174026240

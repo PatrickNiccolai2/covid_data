@@ -1,0 +1,9 @@
+@imgrund @DogulusP @dervishgirl1 @psarras_tom @DFisman @TorontoIDDoc @zchagla @sdbaral @OntariosDoctors @BogochIsaac I also don’t think we need to accept that schools can only open with the exact same precautions we had in place in the fall. Why not spend the money to make schools safer? Vaccines aren’t coming for kids soon, we have to do something in the meantime.
+
+2021-01-23 23:12:07+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3797791ff9c0e4c6', url='https://api.twitter.com/1.1/geo/id/3797791ff9c0e4c6.json', place_type='city', name='Toronto', full_name='Toronto, Ontario', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-79.639319, 43.403221], [-78.90582, 43.403221], [-78.90582, 43.855401], [-79.639319, 43.855401]]]), attributes={})
+
+1353118345130815495

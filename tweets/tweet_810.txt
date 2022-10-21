@@ -1,0 +1,9 @@
+@sarahlovesthat Back to any of those shows. It is very much possible. Also with vaccines rolling out now we can start getting back to some normalcy. I just don’t get why you got to knock him for this? He wouldn’t have done it if he didn’t feel safe or think it wasn’t safe for his fans.
+
+2021-01-24 03:54:14+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00caf39d503a84e9', url='https://api.twitter.com/1.1/geo/id/00caf39d503a84e9.json', place_type='city', name='Salisbury', full_name='Salisbury, MD', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-75.71412, 38.28923], [-75.487032, 38.28923], [-75.487032, 38.431613], [-75.71412, 38.431613]]]), attributes={})
+
+1353189339082215425

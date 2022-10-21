@@ -1,0 +1,9 @@
+@SkyNews So about the same odds as one  shot of the Vaccine, so by my maths if you’re very unlucky to get the South American strain, on one shot of Vaccine you’re fucked ‼️
+
+2021-01-23 18:52:42+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7ebdb63974f298f9', url='https://api.twitter.com/1.1/geo/id/7ebdb63974f298f9.json', place_type='city', name='Banbury', full_name='Banbury, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.368782, 52.033025], [-1.30953, 52.033025], [-1.30953, 52.0826586], [-1.368782, 52.0826586]]]), attributes={})
+
+1353053058914267137

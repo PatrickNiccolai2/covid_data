@@ -1,0 +1,9 @@
+If only HIV affected the economy as much as Coronavirus - perhaps we’d have a vaccine by now.
+
+2021-01-24 10:16:13+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3798b82d031ee49c', url='https://api.twitter.com/1.1/geo/id/3798b82d031ee49c.json', place_type='city', name='Merton', full_name='Merton, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.254269, 51.379947], [-0.124309, 51.379947], [-0.124309, 51.441804], [-0.254269, 51.441804]]]), attributes={})
+
+1353285471175143427

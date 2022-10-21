@@ -1,0 +1,9 @@
+Well put! A virus turns into the never-ending cultural war - even with a vaccine! https://t.co/gCKuiq8XDL
+
+2021-01-24 11:49:10+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='315b740b108481f6', url='https://api.twitter.com/1.1/geo/id/315b740b108481f6.json', place_type='city', name='Manchester', full_name='Manchester, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.319934, 53.343623], [-2.147026, 53.343623], [-2.147026, 53.5702824], [-2.319934, 53.5702824]]]), attributes={})
+
+1353308860006723585

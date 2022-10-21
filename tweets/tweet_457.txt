@@ -1,0 +1,11 @@
+@AHart1974 @dannydanger3245 @MattHancock @NHSCOVID19app That's how vaccines work- they don't  stop you getting the virus, they let your immune system recognise it straight away and fight it off before it gets serious. That's how *all* vaccines work. 
+
+While your body is fighting it,you are still contagious. But not for as long
+
+2021-01-24 09:03:09+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='06ba287ee1f091ba', url='https://api.twitter.com/1.1/geo/id/06ba287ee1f091ba.json', place_type='city', name='Peel', full_name='Peel, Isle of Man', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-4.7021442, 54.2157898], [-4.6728785, 54.2157898], [-4.6728785, 54.2287005], [-4.7021442, 54.2287005]]]), attributes={})
+
+1353267082692063233

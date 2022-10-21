@@ -1,0 +1,9 @@
+@Clement_Cat @vac_sol @SolihullCouncil @GPS_Healthcare @PrimaryCareNHS @SolihullHP @metoffice @breakingweather @DrSextonGreen @SolihullUpdates No, she won’t lose her vaccine. It can be reorganised or alternative arrangements made. Message me and we can pursue if needed. The practices will have a constant eye on the weather and any appointments missed. Please don’t worry !
+
+2021-01-24 11:54:33+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='55485f68a3057620', url='https://api.twitter.com/1.1/geo/id/55485f68a3057620.json', place_type='city', name='Solihull', full_name='Solihull, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.869112, 52.381169], [-1.7058792, 52.381169], [-1.7058792, 52.513283], [-1.869112, 52.513283]]]), attributes={})
+
+1353310214209069059

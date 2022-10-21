@@ -1,0 +1,9 @@
+@RealMattCouch @DunnSwisher NOT TRUE - Pfizer took NO $ from the CORRUPT 45 admin - HOWEVER - lets ask where is ALL the vax supply we need? - Why didnt 45 buy enough? - OR where did 45 send it? - 2 the Saudis like he did the PPE WE NEEDED? How much $ did 45 PERSONALLY pocket from that deal? Care 2 answer?
+
+2021-01-24 13:16:56+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1c69a67ad480e1b1', url='https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json', place_type='city', name='Houston', full_name='Houston, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-95.823268, 29.522325], [-95.069705, 29.522325], [-95.069705, 30.1546646], [-95.823268, 30.1546646]]]), attributes={})
+
+1353330949321355265

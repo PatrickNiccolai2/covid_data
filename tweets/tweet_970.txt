@@ -1,0 +1,9 @@
+@monitive It's definitely poor planning. Which is my point. "The greatest nation in the world" should be able to roll out Vaccines efficiently.
+
+2021-01-24 02:06:36+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6057f1e35bcc6c20', url='https://api.twitter.com/1.1/geo/id/6057f1e35bcc6c20.json', place_type='admin', name='South Carolina', full_name='South Carolina, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-83.353955, 32.04683], [-78.499301, 32.04683], [-78.499301, 35.215449], [-83.353955, 35.215449]]]), attributes={})
+
+1353162252531216384

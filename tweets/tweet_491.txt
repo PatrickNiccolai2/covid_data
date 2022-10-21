@@ -1,0 +1,9 @@
+@hormone_doc I agree. I think if we were being denied a second dose I’d be more worried. I would much rather get more people vaccinated for the greater good than have a second dose. better to protect the vulnerable. front line staff are being prioritised for vaccines.
+
+2021-01-24 08:47:53+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='56c45474148ca4da', url='https://api.twitter.com/1.1/geo/id/56c45474148ca4da.json', place_type='city', name='Paddington', full_name='Paddington, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.2160701, 51.5098789], [-0.1301597, 51.5098789], [-0.1301597, 51.5397916], [-0.2160701, 51.5397916]]]), attributes={})
+
+1353263238692167680

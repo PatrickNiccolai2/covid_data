@@ -1,0 +1,11 @@
+the perks! 😂
+
+second dose vaccine today! https://t.co/hAmetgsQYG
+
+2021-01-23 19:48:15+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='c47c0bc571bf5427', url='https://api.twitter.com/1.1/geo/id/c47c0bc571bf5427.json', place_type='city', name='Honolulu', full_name='Honolulu, HI', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-157.950476, 21.254837], [-157.648702, 21.254837], [-157.648702, 21.38505], [-157.950476, 21.38505]]]), attributes={})
+
+1353067039124983822

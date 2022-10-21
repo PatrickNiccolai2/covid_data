@@ -1,0 +1,9 @@
+@JoliePagaille معلش... تعوضي بعد ال vaccine إن شاء الله...
+
+2021-01-24 06:17:29+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01ef644b49cd7f40', url='https://api.twitter.com/1.1/geo/id/01ef644b49cd7f40.json', place_type='admin', name='Giza', full_name='Giza, Egypt', country_code='EG', country='Egypt', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[27.2099374, 27.6606943], [31.3361101, 27.6606943], [31.3361101, 30.3400438], [27.2099374, 30.3400438]]]), attributes={})
+
+1353225390324649984

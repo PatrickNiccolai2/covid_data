@@ -1,0 +1,9 @@
+call me crazy but I don’t think he’s getting the vaccine https://t.co/YpwyX19kWg
+
+2021-01-24 00:42:42+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6ab2f5132f36eb85', url='https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json', place_type='city', name='Kuta', full_name='Kuta, Indonesia', country_code='ID', country='Indonesia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[115.083847, -8.849261], [115.240267, -8.849261], [115.240267, -8.601695], [115.083847, -8.601695]]]), attributes={})
+
+1353141139008679936

@@ -1,0 +1,9 @@
+Confusion about side effects of corona vaccines have now cleared . vaccine manufacturers and Govt side have cleared all the points about side effects !!! https://t.co/fFSdoPSFAv
+
+2021-01-24 09:19:53+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='22f54aca3bb1c7e1', url='https://api.twitter.com/1.1/geo/id/22f54aca3bb1c7e1.json', place_type='city', name='Ramgarh', full_name='Ramgarh, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[85.489606, 23.600934], [85.542233, 23.600934], [85.542233, 23.701437], [85.489606, 23.701437]]]), attributes={})
+
+1353271292712153089

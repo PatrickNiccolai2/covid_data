@@ -1,0 +1,10 @@
+#OnTheRecordNT @gavreilly 
+Ask Pete Lunn sbout how the sense of potential loss outweighs the sense of potential gain with regards to the vaccine rollout.
+
+2021-01-24 12:03:00+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='e59069aafae0aa25', url='https://api.twitter.com/1.1/geo/id/e59069aafae0aa25.json', place_type='city', name='South Dublin', full_name='South Dublin, Ireland', country_code='IE', country='Ireland', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-6.5468143, 53.178753], [-6.252228, 53.178753], [-6.252228, 53.3682523], [-6.5468143, 53.3682523]]]), attributes={})
+
+1353312341182525440

@@ -1,0 +1,9 @@
+Going on a limb here that many of these folks have at some point claimed they won’t get vaccinated because they’re afraid Bill Gates put a microchip in the vaccine too.. 🤣😆🤣😆https://t.co/Tp2VOIHEzC
+
+2021-01-24 01:35:17+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00c55f041e27dc51', url='https://api.twitter.com/1.1/geo/id/00c55f041e27dc51.json', place_type='city', name='Staten Island', full_name='Staten Island, NY', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-74.255641, 40.495865], [-74.052253, 40.495865], [-74.052253, 40.648887], [-74.255641, 40.648887]]]), attributes={})
+
+1353154370867777537

@@ -1,0 +1,9 @@
+@Helenhs Not yet and nowhere near to getting a vaccine and I’m 73
+
+2021-01-23 20:31:17+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7714f2c70ed66321', url='https://api.twitter.com/1.1/geo/id/7714f2c70ed66321.json', place_type='city', name='Bridgeport', full_name='Bridgeport, CT', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-73.244348, 41.141738], [-73.153889, 41.141738], [-73.153889, 41.229611], [-73.244348, 41.229611]]]), attributes={})
+
+1353077868268552192

@@ -1,0 +1,13 @@
+Just in case you missed a letter or a text - if you have a NHS number this .gov website is where you sign up and it will tell you if your tranche is ready or not.
+#COVID19Vaccine
+#NHSheroes
+#CoronavirusVaccine
+https://t.co/nQKU9Crjxc
+
+2021-01-24 08:28:29+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4f060a213b552e5f', url='https://api.twitter.com/1.1/geo/id/4f060a213b552e5f.json', place_type='city', name='Harrow', full_name='Harrow, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.403988, 51.55309], [-0.270137, 51.55309], [-0.270137, 51.6385757], [-0.403988, 51.6385757]]]), attributes={})
+
+1353258357826736130

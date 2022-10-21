@@ -1,0 +1,9 @@
+British Columbia’s age-based #COVID19bc vaccine plan: Oldest to youngest the main criteria /via @globeandmail https://t.co/t3cvDD4Dxk
+
+2021-01-23 20:12:44+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2b78ee9f58b991a8', url='https://api.twitter.com/1.1/geo/id/2b78ee9f58b991a8.json', place_type='city', name='North Vancouver', full_name='North Vancouver, British Columbia', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-123.1282715, 49.293965], [-122.8696693, 49.293965], [-122.8696693, 49.413962], [-123.1282715, 49.413962]]]), attributes={})
+
+1353073200821727234

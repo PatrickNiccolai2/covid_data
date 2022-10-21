@@ -1,0 +1,9 @@
+@TheCensoredRock 12,500 have died from Covid since the inaugural despite having vaccines
+
+2021-01-24 03:34:58+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='013c737e70bdb267', url='https://api.twitter.com/1.1/geo/id/013c737e70bdb267.json', place_type='city', name='Batesville', full_name='Batesville, SC', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-82.2672, 34.817797], [-82.187855, 34.817797], [-82.187855, 34.86285], [-82.2672, 34.86285]]]), attributes={})
+
+1353184491259502592

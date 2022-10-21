@@ -1,0 +1,9 @@
+@Richard90425119 @carmic3 @JamesSa60728172 @afneil WM have done poorly but at least given financial support, benefit uplifts, established testing, provided vaccines and a quick roll out - from the Scottish Government nada except Sturgeon emoting on TV every day
+
+2021-01-23 19:41:28+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7ae9e2f2ff7a87cd', url='https://api.twitter.com/1.1/geo/id/7ae9e2f2ff7a87cd.json', place_type='city', name='Edinburgh', full_name='Edinburgh, Scotland', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.3285119, 55.894729], [-3.077505, 55.894729], [-3.077505, 55.991662], [-3.3285119, 55.991662]]]), attributes={})
+
+1353065332399718400

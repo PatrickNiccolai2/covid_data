@@ -1,0 +1,10 @@
+A Real Proud moment for every Indian!!
+#SpreadTheWord  #gravitas #COVID19 #indiathesaviour #vaccine #VasudhaivaKutumbakam @palkisu big fan :) https://t.co/quIXkws1iH
+
+2021-01-24 12:59:19+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0b70bbf3a9aa7186', url='https://api.twitter.com/1.1/geo/id/0b70bbf3a9aa7186.json', place_type='city', name='Arcot (Walajapet)', full_name='Arcot (Walajapet), India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[79.181633, 12.841707], [79.475884, 12.841707], [79.475884, 13.1599], [79.181633, 13.1599]]]), attributes={})
+
+1353326513882501120

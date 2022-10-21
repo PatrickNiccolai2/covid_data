@@ -1,0 +1,9 @@
+@ncdhhs @SecMandyCohen Would be nice to hear what the plan is to get vaccines back in the triad after diverting them all to Charlotte to help your numbers look better while canceling our appointments
+
+2021-01-23 21:19:14+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='a6c257c61f294ec1', url='https://api.twitter.com/1.1/geo/id/a6c257c61f294ec1.json', place_type='city', name='Greensboro', full_name='Greensboro, NC', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.0295184, 35.962623], [-79.6852086, 35.962623], [-79.6852086, 36.218171], [-80.0295184, 36.218171]]]), attributes={})
+
+1353089936283627521

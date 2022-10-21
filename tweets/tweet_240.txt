@@ -1,0 +1,9 @@
+@CyrilRamaphosa Agreed honourable president that is why we need the vaccine urgently to stop the loss of our best leaders and icons so sad to lose one of the best ministers a man of principle of all season so modest humble a true gentleman and scholar as the English will say . I shed tears😢
+
+2021-01-24 11:04:35+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='52e073e7724385c3', url='https://api.twitter.com/1.1/geo/id/52e073e7724385c3.json', place_type='city', name='Pietermaritzburg', full_name='Pietermaritzburg, South Africa', country_code='ZA', country='South Africa', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[30.2563496, -29.6999989], [30.4512134, -29.6999989], [30.4512134, -29.5328007], [30.2563496, -29.5328007]]]), attributes={})
+
+1353297641476657153

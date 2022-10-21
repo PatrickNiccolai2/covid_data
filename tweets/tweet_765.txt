@@ -1,0 +1,9 @@
+@ReneeAlida Most disorganized state in the vaccine world. Phase 2 still can't even schedule!
+
+2021-01-24 04:36:17+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00c58042087a6212', url='https://api.twitter.com/1.1/geo/id/00c58042087a6212.json', place_type='city', name='Shrewsbury', full_name='Shrewsbury, MA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-71.768222, 42.241233], [-71.659011, 42.241233], [-71.659011, 42.334472], [-71.768222, 42.334472]]]), attributes={})
+
+1353199921139228672

@@ -1,0 +1,9 @@
+I thought the benefits of genetically engineered vaccines was you could modify them if a mutant variation came along #marr
+
+2021-01-24 09:33:50+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6c646fecde1c9512', url='https://api.twitter.com/1.1/geo/id/6c646fecde1c9512.json', place_type='city', name='New Milton', full_name='New Milton, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.703219, 50.734549], [-1.631356, 50.734549], [-1.631356, 50.772304], [-1.703219, 50.772304]]]), attributes={})
+
+1353274803818520576

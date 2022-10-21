@@ -1,0 +1,9 @@
+Bill Gates did not donate 1.75 billion dollars into combating Covid and working since last February to help develop a vaccine for yall to be acting like this. You WISH trump did even a quarter as much as him to combat Covid. https://t.co/FfgxXksFYh
+
+2021-01-24 03:27:25+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='9aa25269f04766ab', url='https://api.twitter.com/1.1/geo/id/9aa25269f04766ab.json', place_type='admin', name='Vermont', full_name='Vermont, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-73.437741, 42.726853], [-71.464604, 42.726853], [-71.464604, 45.01666], [-73.437741, 45.01666]]]), attributes={})
+
+1353182591642439680

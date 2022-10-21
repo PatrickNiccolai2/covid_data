@@ -1,0 +1,11 @@
+This is the real pandemic! We can't lockdown to stop the spread of mental health problems so what's the cure @BorisJohnson??? 
+
+ https://t.co/61bkfEOF4G via @MetroUK
+
+2021-01-24 13:18:40+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='07e9c7d1954fff64', url='https://api.twitter.com/1.1/geo/id/07e9c7d1954fff64.json', place_type='city', name='Sheffield', full_name='Sheffield, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.573648, 53.309898], [-1.325576, 53.309898], [-1.325576, 53.4564311], [-1.573648, 53.4564311]]]), attributes={})
+
+1353331383704428546

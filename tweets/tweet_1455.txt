@@ -1,0 +1,9 @@
+A Jesuit vaccinating Egyptian farmers 1950. #vaccines https://t.co/rvSW1jJtEk
+
+2021-01-23 22:03:56+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01d0cd182297354e', url='https://api.twitter.com/1.1/geo/id/01d0cd182297354e.json', place_type='admin', name='Cairo', full_name='Cairo, Egypt', country_code='EG', country='Egypt', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[31.2009591, 28.9638508], [31.9402534, 28.9638508], [31.9402534, 30.2286469], [31.2009591, 30.2286469]]]), attributes={})
+
+1353101183569850369

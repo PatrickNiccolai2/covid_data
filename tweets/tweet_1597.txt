@@ -1,0 +1,19 @@
+Hancock and Johnson 
+
+World beating success again!!?
+
+#needlessdeaths and needless suffering for the nation as a result of your negligence!?
+
+Over 4,000 Covid patients on ventilators for first time since pandemic began
+
+https://t.co/LdaokTeHof
+
+Sent via @updayUK
+
+2021-01-23 20:58:05+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3bc1b6cfd27ef7f6', url='https://api.twitter.com/1.1/geo/id/3bc1b6cfd27ef7f6.json', place_type='admin', name='East', full_name='East, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.745779800818049, 51.4482221321091], [1.76893599950184, 51.4482221321091], [1.76893599950184, 52.9926789576249], [-0.745779800818049, 52.9926789576249]]]), attributes={})
+
+1353084612294160384

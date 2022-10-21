@@ -1,0 +1,9 @@
+Pfizer will ship fewer vaccine vials after discovery of extra doses - Insider https://t.co/TsvXfrwuMr
+
+2021-01-23 18:54:52+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='67b98f17fdcf20be', url='https://api.twitter.com/1.1/geo/id/67b98f17fdcf20be.json', place_type='city', name='Boston', full_name='Boston, MA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-71.191421, 42.227797], [-70.986004, 42.227797], [-70.986004, 42.399542], [-71.191421, 42.399542]]]), attributes={})
+
+1353053604421259264

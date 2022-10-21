@@ -1,0 +1,10 @@
+US hospitals are running out of #COVID19 vaccines https://t.co/iywQ9aGBLV
+Without Federal coordination, local State jurisdictions simply do not have the resources or capacity to handle the complicated distribution effort. "It has manifested in a very tragic way" https://t.co/ToMgZpdVYw
+
+2021-01-23 23:36:48+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01e4b0c84959d430', url='https://api.twitter.com/1.1/geo/id/01e4b0c84959d430.json', place_type='city', name='Canberra', full_name='Canberra, Australian Capital Territory', country_code='AU', country='Australia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[148.9959216, -35.480260417], [149.263643456, -35.480260417], [149.263643456, -35.147699163], [148.9959216, -35.147699163]]]), attributes={})
+
+1353124557058531328

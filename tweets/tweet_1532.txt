@@ -1,0 +1,9 @@
+@MiaFarrow Was that small pox perhaps. I remember the Salk Polio vaccines, but that had to be early/ mid 50’s because I was in school
+
+2021-01-23 21:27:32+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='e06ed4324b139bf2', url='https://api.twitter.com/1.1/geo/id/e06ed4324b139bf2.json', place_type='city', name='Cedar Rapids', full_name='Cedar Rapids, IA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-91.7745785, 41.886245], [-91.59113, 41.886245], [-91.59113, 42.0668109], [-91.7745785, 42.0668109]]]), attributes={})
+
+1353092024715649024

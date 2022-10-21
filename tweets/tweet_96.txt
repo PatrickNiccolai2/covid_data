@@ -1,0 +1,12 @@
+@Erudite4Unity Clearly its not just vaccines we are short of in Scotland...
+Seems to be a shortage of toothpaste in her house ...
+What a mess that women is .
+A tatty wee ned .🙈🙈🙈🙈🙈
+
+2021-01-24 12:27:55+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='62a2a7f86cd9a5b4', url='https://api.twitter.com/1.1/geo/id/62a2a7f86cd9a5b4.json', place_type='city', name='Dundee', full_name='Dundee, Scotland', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.07452, 56.451371], [-2.8355701, 56.451371], [-2.8355701, 56.502533], [-3.07452, 56.502533]]]), attributes={})
+
+1353318612346527744

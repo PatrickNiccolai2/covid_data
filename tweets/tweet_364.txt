@@ -1,0 +1,9 @@
+@MarkHookham @tomhfh Main constraint right now seems to be supply of vaccine. If we vaccinate a 35 yr old teacher that is a more vulnerable person who does not get vaccinated.
+
+2021-01-24 09:52:37+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4393349f368f67a1', url='https://api.twitter.com/1.1/geo/id/4393349f368f67a1.json', place_type='city', name='Lambeth', full_name='Lambeth, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.15191, 51.410792], [-0.078902, 51.410792], [-0.078902, 51.509887], [-0.15191, 51.509887]]]), attributes={})
+
+1353279530266451968

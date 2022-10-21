@@ -1,0 +1,9 @@
+@pharohscat Only wealthy snowbirds and @GovRonDeSantis donors seem to be able to get the vaccine in Florida
+
+2021-01-24 05:55:46+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0121b92345f0e2b4', url='https://api.twitter.com/1.1/geo/id/0121b92345f0e2b4.json', place_type='city', name='Miami Beach', full_name='Miami Beach, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.147162, 25.7613083], [-80.1187628, 25.7613083], [-80.1187628, 25.872623], [-80.147162, 25.872623]]]), attributes={})
+
+1353219924378976256

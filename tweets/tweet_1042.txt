@@ -1,0 +1,9 @@
+@KrogerNews I never got a confirmation for my Covid Vaccine ?? @kroger
+
+2021-01-24 01:16:05+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='11cdb607ab2f17bb', url='https://api.twitter.com/1.1/geo/id/11cdb607ab2f17bb.json', place_type='city', name='New Rochelle', full_name='New Rochelle, NY', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-73.807197, 40.881294], [-73.755414, 40.881294], [-73.755414, 40.988329], [-73.807197, 40.988329]]]), attributes={})
+
+1353149542779260928

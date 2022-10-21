@@ -1,0 +1,9 @@
+@MoHFW_INDIA @ICMRDELHI @PMOIndia @drharshvardhan @AshwiniKChoubey @PIB_India @mygovindia @COVIDNewsByMIB @CovidIndiaSeva Corona injection 💉 ♥ ❤ Vaccines is needed to every country. https://t.co/oH3ddaJSeP
+
+2021-01-24 04:57:30+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='70957ac3123b3249', url='https://api.twitter.com/1.1/geo/id/70957ac3123b3249.json', place_type='city', name='Kolkata', full_name='Kolkata, India', country_code='IN', country='India', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[88.094457, 22.269493], [88.610027, 22.269493], [88.610027, 22.955918], [88.094457, 22.955918]]]), attributes={})
+
+1353205261419175937

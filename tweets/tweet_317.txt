@@ -1,0 +1,9 @@
+One-shot COVID-19 vaccine may give Johnson &amp; Johnson an edge https://t.co/FzUTqm11dZ via @nypost
+
+2021-01-24 10:11:39+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='84229b03659050aa', url='https://api.twitter.com/1.1/geo/id/84229b03659050aa.json', place_type='city', name='Virginia Beach', full_name='Virginia Beach, VA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-76.22808, 36.672684], [-75.9118121, 36.672684], [-75.9118121, 36.932399], [-76.22808, 36.932399]]]), attributes={})
+
+1353284318702030848

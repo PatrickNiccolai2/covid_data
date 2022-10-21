@@ -1,0 +1,9 @@
+Hazle Drugs Is proud to be providing the COVID Vaccine to our community! https://t.co/AGm8Ah89Au https://t.co/22QBj1giCT
+
+2021-01-23 21:20:36+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='faee3fa23549dd70', url='https://api.twitter.com/1.1/geo/id/faee3fa23549dd70.json', place_type='city', name='Hazleton', full_name='Hazleton, PA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-75.996312, 40.927795], [-75.946021, 40.927795], [-75.946021, 40.974988], [-75.996312, 40.974988]]]), attributes={})
+
+1353090279969009664

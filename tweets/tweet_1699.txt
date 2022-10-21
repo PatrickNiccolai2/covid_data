@@ -1,0 +1,20 @@
+The administration of vaccines
+
+Is the most important action
+The president &amp; his team 
+Should focus on right now
+
+Job #1
+
+Everything else will result
+On how fast
+The population gets inoculated 
+#CovidVaccine #Covid_19 #USA #WSJ #health #economy https://t.co/gBj74oAhBW
+
+2021-01-23 20:19:25+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01c06bfa28feceb4', url='https://api.twitter.com/1.1/geo/id/01c06bfa28feceb4.json', place_type='city', name='Marysville', full_name='Marysville, WA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.220382, 48.0199614], [-122.108673, 48.0199614], [-122.108673, 48.157553], [-122.220382, 48.157553]]]), attributes={})
+
+1353074881957486593

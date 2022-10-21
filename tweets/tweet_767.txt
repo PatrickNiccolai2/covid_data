@@ -1,0 +1,9 @@
+Stupidity about vaccines is going to force this pandemic to last months longer than necessary.
+
+2021-01-24 04:35:16+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00d4bfeb72515895', url='https://api.twitter.com/1.1/geo/id/00d4bfeb72515895.json', place_type='city', name='Fairwood', full_name='Fairwood, WA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.2128342, 47.4300912], [-122.108701, 47.4300912], [-122.108701, 47.4711582], [-122.2128342, 47.4711582]]]), attributes={})
+
+1353199668352618497

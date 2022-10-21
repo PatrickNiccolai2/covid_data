@@ -1,0 +1,9 @@
+The imam townhall has begun and it’s great to see our imams and spiritual leaders join doctors to discuss the COVID19 vaccine . @cmcovidtf https://t.co/YvP3rs19bS
+
+2021-01-24 01:07:18+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='25bfadc376e8c616', url='https://api.twitter.com/1.1/geo/id/25bfadc376e8c616.json', place_type='city', name='Caledon', full_name='Caledon, Ontario', country_code='CA', country='Canada', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.144179, 43.67488], [-79.694858, 43.67488], [-79.694858, 43.989746], [-80.144179, 43.989746]]]), attributes={})
+
+1353147331500249088

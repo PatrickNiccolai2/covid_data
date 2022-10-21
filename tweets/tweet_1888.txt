@@ -1,0 +1,9 @@
+I better get the vaccine before August https://t.co/8UttOfdHzY
+
+2021-01-23 19:04:35+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01c0c09c49434aec', url='https://api.twitter.com/1.1/geo/id/01c0c09c49434aec.json', place_type='city', name='Choctaw', full_name='Choctaw, OK', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-97.2944447, 35.421084], [-97.219763, 35.421084], [-97.219763, 35.514812], [-97.2944447, 35.514812]]]), attributes={})
+
+1353056050727903235

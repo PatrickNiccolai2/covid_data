@@ -1,0 +1,9 @@
+“The VA should be reserved for people with greater need and greater resources than we have,” @USMC veteran Robert McKean said. “But I don’t want a kidney transplant, I want the #COVID19 vaccine.” https://t.co/XFs0rpImzN
+
+2021-01-23 21:42:19+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7f6bf29133462d29', url='https://api.twitter.com/1.1/geo/id/7f6bf29133462d29.json', place_type='city', name='Fruitville', full_name='Fruitville, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-82.4976169, 27.3084494], [-82.440429, 27.3084494], [-82.440429, 27.357842], [-82.4976169, 27.357842]]]), attributes={})
+
+1353095746229317633

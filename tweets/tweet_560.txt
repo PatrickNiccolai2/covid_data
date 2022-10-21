@@ -1,0 +1,26 @@
+#ForTheMany🌈
+
+My open🇬🇧#LetterToAmerica2021:
+
+Dear🇺🇲@JoeBiden @POTUS @VP @washingtonpost @CNN @MSNBC @NPR @nprpolitics @ABC y'all,
+
+⬇️Pay-attention!
+
+☠️#Covid_19's a vasculotropic virus.
+
+Vaccines CAN'T stop transmission!
+
+😷xAdi
+💖#AllWeNeedIsLove🌈
+
+#Twitter☑️
+#USA🙌
+#trending https://t.co/ucHPzLtHEX
+
+2021-01-24 08:08:34+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='109728d206d45000', url='https://api.twitter.com/1.1/geo/id/109728d206d45000.json', place_type='poi', name='Highbury Fields', full_name='Highbury Fields', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.1024384971242398, 51.54974968261988], [-0.1024384971242398, 51.54974968261988], [-0.1024384971242398, 51.54974968261988], [-0.1024384971242398, 51.54974968261988]]]), attributes={})
+
+1353253345683791872

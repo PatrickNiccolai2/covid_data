@@ -1,0 +1,10 @@
+@ZahraNomadic @Gobannimo Is the place Bustaan Radaa? 
+My auntie who lives there had the vaccine yesterday, my mother in law also had the vaccine. When I had my vaccine I put out a clip to rebel against misinformation. To be honest as a community we are often suspicious of medication and health services.
+
+2021-01-24 09:23:46+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='08be9e4ebe3d037d', url='https://api.twitter.com/1.1/geo/id/08be9e4ebe3d037d.json', place_type='city', name='Poplar', full_name='Poplar, London', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.080028, 51.48432], [0.009989, 51.48432], [0.009989, 51.545341], [-0.080028, 51.545341]]]), attributes={})
+
+1353272270505058308

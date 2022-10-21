@@ -1,0 +1,9 @@
+To anyone that still doesn't understand how they developed the Covid Vaccine. Read this silly but very informative thread. 😂. I bookmarked it. https://t.co/EWJinbxuHp
+
+2021-01-23 19:37:30+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='a0583a9994e6bf1b', url='https://api.twitter.com/1.1/geo/id/a0583a9994e6bf1b.json', place_type='country', name='Malawi', full_name='Malawi', country_code='MW', country='Malawi', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[32.6718934, -17.1276504], [35.92038, -17.1276504], [35.92038, -9.3670837], [32.6718934, -9.3670837]]]), attributes={})
+
+1353064331684929536

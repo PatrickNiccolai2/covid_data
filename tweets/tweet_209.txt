@@ -1,0 +1,9 @@
+@christopherhope How about also commemorating some people who achieved things more recently in science and technology? The vaccine researchers, for example. Let's take the focus off killing people and hope for a peaceful country for once. Our young are not the cannon fodder of the world.
+
+2021-01-24 11:18:47+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7f15dd80ac78ef40', url='https://api.twitter.com/1.1/geo/id/7f15dd80ac78ef40.json', place_type='city', name='Bristol', full_name='Bristol, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.659936, 51.399367], [-2.510844, 51.399367], [-2.510844, 51.516387], [-2.659936, 51.516387]]]), attributes={})
+
+1353301215468253184

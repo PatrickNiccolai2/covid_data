@@ -1,0 +1,10 @@
+The audacious cheek of these thieves. They stole the public money meant for the covid programme and now they're asking businesses to help pay for the vaccine:
+Ramaphosa’s leaked ANC lekgotla address hints loan needed for vaccine rollout https://t.co/I6l0yjaV4b via @ewnreporter
+
+2021-01-24 07:42:52+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='5046555ed78b0fa9', url='https://api.twitter.com/1.1/geo/id/5046555ed78b0fa9.json', place_type='city', name='Stanford', full_name='Stanford, South Africa', country_code='ZA', country='South Africa', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[19.4444547, -34.4575586], [19.4667104, -34.4575586], [19.4667104, -34.4311524], [19.4444547, -34.4311524]]]), attributes={})
+
+1353246876213112833

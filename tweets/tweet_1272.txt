@@ -1,0 +1,9 @@
+@spiderkemp @RobertKennedyJr By that logic. Why vaccine any of them then. Better yet why all the hysteria over covid. Since the majority of covid deaths are elderly. You win the dumbass tweet of the day award
+
+2021-01-23 23:20:22+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='45f85361dc8cd523', url='https://api.twitter.com/1.1/geo/id/45f85361dc8cd523.json', place_type='city', name='Shark River Hills', full_name='Shark River Hills, NJ', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-74.058114, 40.184771], [-74.038336, 40.184771], [-74.038336, 40.2062821], [-74.058114, 40.2062821]]]), attributes={})
+
+1353120417989472256

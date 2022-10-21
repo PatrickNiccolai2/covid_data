@@ -1,0 +1,9 @@
+Mañana si Dios quiere me aplican la segunda dosis Pfizer contra #Covid19
+
+2021-01-24 00:27:16+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='83c92e4c719062c3', url='https://api.twitter.com/1.1/geo/id/83c92e4c719062c3.json', place_type='city', name='Piedras Negras', full_name='Piedras Negras, Coahuila de Zaragoza', country_code='MX', country='Mexico', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-100.769389, 28.6078134], [-100.44482, 28.6078134], [-100.44482, 28.9417249], [-100.769389, 28.9417249]]]), attributes={})
+
+1353137256081420288

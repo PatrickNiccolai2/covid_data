@@ -1,0 +1,9 @@
+I read that it’s recommended for you not to drink any alcohol for two weeks after getting the covid vaccine...well, lol I barely want to get out of bed or do anything at all so that doesn’t really seem like it will be a problem now
+
+2021-01-23 23:19:24+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00c44eeb126d2fcd', url='https://api.twitter.com/1.1/geo/id/00c44eeb126d2fcd.json', place_type='city', name='Round Rock', full_name='Round Rock, TX', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-97.755394, 30.4684424], [-97.59007, 30.4684424], [-97.59007, 30.5702392], [-97.755394, 30.5702392]]]), attributes={})
+
+1353120177710366723

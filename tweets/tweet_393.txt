@@ -1,0 +1,9 @@
+Each of the 27 countries in the EU would be better off out of the EU....its time to break FREE and have there own money,laws , control there own borders and give there own people the vaccine for covid the Oxford vaccine ,the 27 countries should set there people free from the EU https://t.co/MKPu6nu7A1
+
+2021-01-24 09:37:23+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='1aca7d8a9c3faae1', url='https://api.twitter.com/1.1/geo/id/1aca7d8a9c3faae1.json', place_type='city', name='Blackpool', full_name='Blackpool, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.0569682, 53.80665], [-3.00721, 53.80665], [-3.00721, 53.8757277], [-3.0569682, 53.8757277]]]), attributes={})
+
+1353275695443693568

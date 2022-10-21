@@ -1,0 +1,9 @@
+@GovRonDeSantis @ludy730 How is Florida getting vaccines and NYS is not?
+
+2021-01-24 03:09:49+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0086451d11cadd9f', url='https://api.twitter.com/1.1/geo/id/0086451d11cadd9f.json', place_type='city', name='Travers Corners', full_name='Travers Corners, NY', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-73.773921, 43.095818], [-73.712317, 43.095818], [-73.712317, 43.1895451], [-73.773921, 43.1895451]]]), attributes={})
+
+1353178161983479808

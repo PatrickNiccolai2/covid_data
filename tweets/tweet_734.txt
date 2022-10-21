@@ -1,0 +1,9 @@
+Remember I am legend where everyone took the vaccine &amp; it all kinda went south 😱 well I’m just saying I may hold back for a bit first 😂😂#vaccine #Covid19UK
+
+2021-01-24 05:10:27+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='573ede7f6c450804', url='https://api.twitter.com/1.1/geo/id/573ede7f6c450804.json', place_type='city', name='Brighton', full_name='Brighton, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.173706, 50.80835], [-0.0870057, 50.80835], [-0.0870057, 50.872314], [-0.173706, 50.872314]]]), attributes={})
+
+1353208522700414977

@@ -1,0 +1,9 @@
+@twaddoups @PalimpsestMan @dcexaminer @JoeBiden The Defense Production Act won’t increase the number of vaccine Einstein! That act can only tell Pfizer and Moderna  to give all supplies to the government BEFORE commercial businesses. THAT IS WHAT THEY BEEN DOING WITH OUT THE ORDER.
+
+2021-01-24 11:29:54+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6af99a29bfae42a2', url='https://api.twitter.com/1.1/geo/id/6af99a29bfae42a2.json', place_type='city', name='Downers Grove', full_name='Downers Grove, IL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-88.0966885, 41.744098], [-87.9833145, 41.744098], [-87.9833145, 41.8390701], [-88.0966885, 41.8390701]]]), attributes={})
+
+1353304011730989057

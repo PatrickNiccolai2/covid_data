@@ -1,0 +1,9 @@
+@HelpMeDurdana Seriously matlab ek nuclear power wait ker Rahi hai k log tarse khaa k muft vaccine dein!
+
+2021-01-24 08:16:20+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='00685eca27fbd26b', url='https://api.twitter.com/1.1/geo/id/00685eca27fbd26b.json', place_type='city', name='Islamabad', full_name='Islamabad, Pakistan', country_code='PK', country='Pakistan', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[73.022194, 33.662724], [73.131447, 33.662724], [73.131447, 33.762138], [73.022194, 33.762138]]]), attributes={})
+
+1353255298966945792

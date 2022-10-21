@@ -1,0 +1,9 @@
+IMHO: Opening the vaccine up to more groups is appropriate but it seems we should have  vaccination sites that prioritize or only see those over 70 so they don't have to compete with other groups or wait in lines.
+
+2021-01-23 21:31:12+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='37bcd9d2fe172622', url='https://api.twitter.com/1.1/geo/id/37bcd9d2fe172622.json', place_type='city', name='Mount Pleasant', full_name='Mount Pleasant, SC', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-79.922434, 32.766578], [-79.75221, 32.766578], [-79.75221, 32.929315], [-79.922434, 32.929315]]]), attributes={})
+
+1353092947449966598

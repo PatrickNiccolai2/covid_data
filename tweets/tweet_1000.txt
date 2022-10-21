@@ -1,0 +1,9 @@
+@amatwyshyn @ChristopherBudd @CarpeDiemCyber This idea will be a TON of fun trying and failing to accomplish!   💕👍. Hurry up vaccines, there’s fun to he had!!
+
+2021-01-24 01:47:37+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7291a25672e0d4b1', url='https://api.twitter.com/1.1/geo/id/7291a25672e0d4b1.json', place_type='city', name='Redmond', full_name='Redmond, WA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-122.1649, 47.626845], [-121.958642, 47.626845], [-121.958642, 47.73078], [-122.1649, 47.73078]]]), attributes={})
+
+1353157478108721156

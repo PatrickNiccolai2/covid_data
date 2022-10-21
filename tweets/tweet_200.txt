@@ -1,0 +1,9 @@
+She did mention 400 used but also 380 people but not sure if that means 20k had two vaccines or 20k wasted https://t.co/BrFu6ye81x
+
+2021-01-24 11:29:13+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='334bced13237af86', url='https://api.twitter.com/1.1/geo/id/334bced13237af86.json', place_type='city', name='Dalgety Bay', full_name='Dalgety Bay, Scotland', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.3795758, 56.026678], [-3.3324678, 56.026678], [-3.3324678, 56.048264], [-3.3795758, 56.048264]]]), attributes={})
+
+1353303839974240261

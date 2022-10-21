@@ -1,0 +1,9 @@
+If you get lemon in your water when you go to a restaurant you don’t need to be worried about what’s in the vaccine.
+
+2021-01-23 18:54:32+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='78775f08fd153aed', url='https://api.twitter.com/1.1/geo/id/78775f08fd153aed.json', place_type='city', name='St Cloud', full_name='St Cloud, MN', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-94.2601662, 45.471059], [-94.1096612, 45.471059], [-94.1096612, 45.590382], [-94.2601662, 45.590382]]]), attributes={})
+
+1353053522103840770

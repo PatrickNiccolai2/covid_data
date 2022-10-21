@@ -1,0 +1,9 @@
+Everyone should have these vaccine, clinics, hospitals, cvs, costco, everyone https://t.co/kiwk0LoIu1
+
+2021-01-24 00:54:49+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='119a13e394cab98e', url='https://api.twitter.com/1.1/geo/id/119a13e394cab98e.json', place_type='city', name='Lake Mary', full_name='Lake Mary, FL', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-81.3734329, 28.726142], [-81.291154, 28.726142], [-81.291154, 28.7888312], [-81.3734329, 28.7888312]]]), attributes={})
+
+1353144189559693312

@@ -1,0 +1,10 @@
+@drmivhaelegan @afbranco Or how we  were told vaccines couldn't be mixed but now suddenly they can be mixed, or that the man that opposed busing to end segregation &amp; was friends w/Robert Byrd who was in the KKK actually cares about all those African Americans that voted for him
+https://t.co/zAn9W75lRU
+
+2021-01-24 00:07:07+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='6ac2e48ec4892d20', url='https://api.twitter.com/1.1/geo/id/6ac2e48ec4892d20.json', place_type='city', name='Cornelius', full_name='Cornelius, NC', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-80.946496, 35.445762], [-80.842478, 35.445762], [-80.842478, 35.507042], [-80.946496, 35.507042]]]), attributes={})
+
+1353132184094330880

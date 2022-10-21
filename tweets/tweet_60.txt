@@ -1,0 +1,10 @@
+So we’ve had 10 months of on off lockdowns, face masks, vaccines &amp; everything else we we are told it could now to be September until restrictions might be lifted a little, yet in New Zealand with no vaccine they are just going about their lives as normal?
+Something doesn’t add up https://t.co/76rbQjgZgs
+
+2021-01-24 12:48:04+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='71c5606d33bd0013', url='https://api.twitter.com/1.1/geo/id/71c5606d33bd0013.json', place_type='city', name='Hucknall', full_name='Hucknall, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.241259, 53.011249], [-1.1832885, 53.011249], [-1.1832885, 53.050768], [-1.241259, 53.050768]]]), attributes={})
+
+1353323683046154245

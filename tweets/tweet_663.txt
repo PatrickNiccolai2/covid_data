@@ -1,0 +1,9 @@
+Both Government. Kasi isla sa WPS ang bayad sa vaccines eh nasa contract yun. 🙊 https://t.co/WPgU13YY1t
+
+2021-01-24 06:23:42+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='d029ddcdc4fc44b6', url='https://api.twitter.com/1.1/geo/id/d029ddcdc4fc44b6.json', place_type='country', name='Macau', full_name='Macau', country_code='MO', country='Macau', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[113.5270823, 22.105364], [113.604595, 22.105364], [113.604595, 22.218223], [113.5270823, 22.218223]]]), attributes={})
+
+1353226953059274752

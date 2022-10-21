@@ -1,0 +1,9 @@
+@Gamecock0912 The solutions are don’t go places that aren’t necessary (grocery stores etc) we would have gotten vaccines out quicker if that dumb ass ordered more when we had the chance....
+
+2021-01-23 21:47:47+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='319ee7b36c9149da', url='https://api.twitter.com/1.1/geo/id/319ee7b36c9149da.json', place_type='city', name='Arlington', full_name='Arlington, VA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-77.172219, 38.827378], [-77.031779, 38.827378], [-77.031779, 38.934311], [-77.172219, 38.934311]]]), attributes={})
+
+1353097122355306499

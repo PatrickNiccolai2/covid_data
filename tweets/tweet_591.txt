@@ -1,0 +1,9 @@
+Russian vaccine Sputnik V in #Pakistan would cost double the rates than it is available in India. #Covid_19 #COVIDVaccination https://t.co/UqhOaTd2IM
+
+2021-01-24 07:41:33+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='01aadce76841e2c5', url='https://api.twitter.com/1.1/geo/id/01aadce76841e2c5.json', place_type='city', name='Karachi', full_name='Karachi, Pakistan', country_code='PK', country='Pakistan', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[66.95121, 24.802239], [67.133179, 24.802239], [67.133179, 25.007912], [66.95121, 25.007912]]]), attributes={})
+
+1353246545051869185

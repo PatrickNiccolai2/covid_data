@@ -1,0 +1,9 @@
+Governo Federal não comprou a vacina da Pfizer pq a empresa ia ganhar muito dinheiro vendendo vacina pra o país com o terceiro maior número de infectados por covid. E que concentra 10% das mortes no mundo, mesmo tendo só 2% da população mundial.
+
+2021-01-24 00:48:04+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='23d81de6fe7594cb', url='https://api.twitter.com/1.1/geo/id/23d81de6fe7594cb.json', place_type='city', name='Goiânia', full_name='Goiânia, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-49.4448532, -16.8318709], [-49.077745, -16.8318709], [-49.077745, -16.453694], [-49.4448532, -16.453694]]]), attributes={})
+
+1353142491332153345

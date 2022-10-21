@@ -1,0 +1,9 @@
+So sad that #Israel cannot share and help in our #global pandemic. How can they sleep at night.  @borisjohnson  sort this, global integrity is at stake. https://t.co/FWxxmq35fp
+
+2021-01-24 09:56:17+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2fc6bcfdd209a02d', url='https://api.twitter.com/1.1/geo/id/2fc6bcfdd209a02d.json', place_type='city', name='Old Windsor', full_name='Old Windsor, South East', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.597707, 51.4433498], [-0.545973, 51.4433498], [-0.545973, 51.474143], [-0.597707, 51.474143]]]), attributes={})
+
+1353280454628093960

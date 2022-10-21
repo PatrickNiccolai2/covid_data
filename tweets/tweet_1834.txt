@@ -1,0 +1,12 @@
+Yahoo News: A Texas doctor has been charged with stealing 9 doses of the COVID-19 vaccine 'for friends and family'.
+https://t.co/ndazXBrchA
+
+via @GoogleNews
+
+2021-01-23 19:23:58+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3b98b02fba3f9753', url='https://api.twitter.com/1.1/geo/id/3b98b02fba3f9753.json', place_type='admin', name='North Carolina', full_name='North Carolina, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-84.3219475, 33.752879], [-75.40012, 33.752879], [-75.40012, 36.588118], [-84.3219475, 36.588118]]]), attributes={})
+
+1353060926308511749

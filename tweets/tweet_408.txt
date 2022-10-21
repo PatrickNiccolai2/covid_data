@@ -1,0 +1,12 @@
+Sputnik Brasil: Biden afirma que COVID-19 poderá matar 'mais de 600.000' pessoas nos EUA.
+https://t.co/P8MJm3Eevy
+
+via @GoogleNews
+
+2021-01-24 09:30:14+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='8c41f5a68627e1f2', url='https://api.twitter.com/1.1/geo/id/8c41f5a68627e1f2.json', place_type='city', name='Catanduva', full_name='Catanduva, Brasil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-49.091642, -21.254128], [-48.81843, -21.254128], [-48.81843, -21.006193], [-49.091642, -21.006193]]]), attributes={})
+
+1353273897093787649

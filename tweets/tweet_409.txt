@@ -1,0 +1,9 @@
+We don’t want to undermine our lockdown by suggesting those with vaccines are free to go back to normal.... so stay at home  #theandrewmarrshow
+
+2021-01-24 09:28:13+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3ddb10d62383799a', url='https://api.twitter.com/1.1/geo/id/3ddb10d62383799a.json', place_type='city', name='Bedford', full_name='Bedford, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.51552, 52.1048731], [-0.4032125, 52.1048731], [-0.4032125, 52.1700739], [-0.51552, 52.1700739]]]), attributes={})
+
+1353273392057769985

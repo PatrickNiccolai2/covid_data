@@ -1,0 +1,9 @@
+A lovely thorough report about attitudes from my kin... really interesting read @1928institute #bame #covid19 #vaccines https://t.co/kCDBVMH7d1
+
+2021-01-24 08:57:15+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='13a10e76c020c13b', url='https://api.twitter.com/1.1/geo/id/13a10e76c020c13b.json', place_type='city', name='Stone', full_name='Stone, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-0.876287, 51.7981958], [-0.8428017, 51.7981958], [-0.8428017, 51.80798], [-0.876287, 51.80798]]]), attributes={})
+
+1353265595438030853

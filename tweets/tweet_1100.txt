@@ -1,0 +1,9 @@
+Pfizer will now ship fewer COVID-19 vaccine vials to the US after scientists discovered extra doses in them https://t.co/kdyFbua0Xi
+
+2021-01-24 00:37:32+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='21fafa3ac3a26744', url='https://api.twitter.com/1.1/geo/id/21fafa3ac3a26744.json', place_type='city', name='Twin Falls', full_name='Twin Falls, ID', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-114.509204, 42.516101], [-114.421106, 42.516101], [-114.421106, 42.606409], [-114.509204, 42.606409]]]), attributes={})
+
+1353139839714136065

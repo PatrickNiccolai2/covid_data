@@ -1,0 +1,9 @@
+2nd Covid Vaccine should be 21 /28 Days NOT 12 Weeks. Challenge U​.​K. Government! petition​.​parliament​.​uk/petitions/566116 - Sign the Petition! https://t.co/8Cb2cS394r via @UKChange
+
+2021-01-23 19:53:35+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='25e42f578cccf4a8', url='https://api.twitter.com/1.1/geo/id/25e42f578cccf4a8.json', place_type='city', name='Ynysmaerdy', full_name='Ynysmaerdy, Wales', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.3982313, 51.5485934], [-3.3786833, 51.5485934], [-3.3786833, 51.5560352], [-3.3982313, 51.5560352]]]), attributes={})
+
+1353068380048134144

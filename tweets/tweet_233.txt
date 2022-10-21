@@ -1,0 +1,9 @@
+@janh1 Also if it is “awash with money” then why are we “gifting” the vaccine to them and not to some poor country ?
+
+2021-01-24 11:07:25+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='189817caf6977373', url='https://api.twitter.com/1.1/geo/id/189817caf6977373.json', place_type='city', name='Taunton', full_name='Taunton, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-3.148037, 50.98599], [-3.0601283, 50.98599], [-3.0601283, 51.040527], [-3.148037, 51.040527]]]), attributes={})
+
+1353298353417842688

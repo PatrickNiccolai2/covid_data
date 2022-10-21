@@ -1,0 +1,9 @@
+@piersmorgan when everything goes wrong the government say they are following the science. They have stretched out the second dose of vaccine to twelve weeks when the manufacturer says 21 days. They say they have dater up to 42 days . Why are they not following the science now .
+
+2021-01-24 10:31:28+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='06cb7db38dd5f950', url='https://api.twitter.com/1.1/geo/id/06cb7db38dd5f950.json', place_type='city', name='Worcester', full_name='Worcester, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.2605573, 52.1631433], [-2.163183, 52.1631433], [-2.163183, 52.226693], [-2.2605573, 52.226693]]]), attributes={})
+
+1353289305775603713

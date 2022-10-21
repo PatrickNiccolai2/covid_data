@@ -1,0 +1,9 @@
+I work in wellness so I was able to get vaccine #1 today. Got it at 2:40pm. So far there’s arm soreness, fatigue, and slight chest tightness. Nothing too bad. Gonna eat some hot food and chill. #CovidVaccine #COVID19 https://t.co/gsiBecwVMy
+
+2021-01-23 23:15:28+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='d3c4d514e13810f3', url='https://api.twitter.com/1.1/geo/id/d3c4d514e13810f3.json', place_type='city', name='North Bethesda', full_name='North Bethesda, MD', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-77.155886, 39.0126343], [-77.084619, 39.0126343], [-77.084619, 39.0743035], [-77.155886, 39.0743035]]]), attributes={})
+
+1353119187015782401

@@ -1,0 +1,9 @@
+Thank you to the @RoyalNavy Medical Personnel delivering COVID-19 vaccines in Taunton this morning. @AdmTonyRadakin @WO1MickTurnbull
+
+2021-01-24 10:13:45+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='44f7f7a66a85a1fb', url='https://api.twitter.com/1.1/geo/id/44f7f7a66a85a1fb.json', place_type='city', name='Stoke Saint Gregory', full_name='Stoke Saint Gregory, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-2.9514682, 51.0335836], [-2.9153362, 51.0335836], [-2.9153362, 51.0497304], [-2.9514682, 51.0497304]]]), attributes={})
+
+1353284849419907074

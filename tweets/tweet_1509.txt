@@ -1,0 +1,9 @@
+Day 1 post vaccine shot 1-my arm is sore at injection site. That is all. #science #CovidVaccine #Moderna
+
+2021-01-23 21:38:07+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='b075d78174642ce2', url='https://api.twitter.com/1.1/geo/id/b075d78174642ce2.json', place_type='city', name='Palm Desert', full_name='Palm Desert, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-116.421818, 33.670765], [-116.300776, 33.670765], [-116.300776, 33.810312], [-116.421818, 33.810312]]]), attributes={})
+
+1353094688069144576

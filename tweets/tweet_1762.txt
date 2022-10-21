@@ -1,0 +1,17 @@
+#BOOM 🎉
+
+1300 vaccines ✅
+Fantastic medical students ✅
+Amazing volunteers ✅
+A wonderful donation of #cakes ✅
+Teamwork ✅
+
+#COVIDVaccination #NHS💙 #northtyneside @TyneHealth @NTyneCCG @NTCouncilTeam @NTynesideVODA @rcgp @NHSEngland @UniofNewcastle @NewcastleMedSch https://t.co/WwqRSyu2Cn
+
+2021-01-23 19:46:51+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='07d9e41061488000', url='https://api.twitter.com/1.1/geo/id/07d9e41061488000.json', place_type='poi', name='The parks sports centre', full_name='The parks sports centre', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.4555168151855469, 55.00154588756258], [-1.4555168151855469, 55.00154588756258], [-1.4555168151855469, 55.00154588756258], [-1.4555168151855469, 55.00154588756258]]]), attributes={})
+
+1353066687721922561

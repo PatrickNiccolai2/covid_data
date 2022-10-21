@@ -1,0 +1,9 @@
+Still annoyed by the Liverpool doc on @BBCBreakfast accusing elderly people of being selfish for wanting a 2nd vaccine dose instead of sharing with ‘their brothers and sisters’. What are they supposed to do? Ignore what their GP tells them?
+
+2021-01-24 09:47:20+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='38d67cacb385e69d', url='https://api.twitter.com/1.1/geo/id/38d67cacb385e69d.json', place_type='city', name='Leicester', full_name='Leicester, England', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-1.215135, 52.580667], [-1.046205, 52.580667], [-1.046205, 52.67186], [-1.215135, 52.67186]]]), attributes={})
+
+1353278201162817537

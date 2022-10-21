@@ -1,0 +1,9 @@
+If you know what that tastes like, don't worry about what's in the vaccine... https://t.co/isqO4xlK3I
+
+2021-01-23 20:30:01+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='4ead8537112abb01', url='https://api.twitter.com/1.1/geo/id/4ead8537112abb01.json', place_type='city', name='Desert Hot Springs', full_name='Desert Hot Springs, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-116.57552, 33.917616], [-116.457506, 33.917616], [-116.457506, 33.991559], [-116.57552, 33.991559]]]), attributes={})
+
+1353077550809931778

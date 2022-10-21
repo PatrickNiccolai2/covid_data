@@ -1,0 +1,9 @@
+@MollyJongFast I signed up on the LA COUNTY WEBSITE! I have an appointment Tuesday for the Moderna vaccine
+
+2021-01-23 19:59:54+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3b77caf94bfc81fe', url='https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json', place_type='city', name='Los Angeles', full_name='Los Angeles, CA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-118.668404, 33.704538], [-118.155409, 33.704538], [-118.155409, 34.337041], [-118.668404, 34.337041]]]), attributes={})
+
+1353069971237085184

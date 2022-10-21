@@ -1,0 +1,9 @@
+I don't believe Bill Gates created Covid19 but I sincerely hope that his involvement with the vaccine was just monetary. That man created Windows Vista and Windows 8. Can't trust him to get shit right.
+
+2021-01-24 00:32:54+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='0e587c59401d0a27', url='https://api.twitter.com/1.1/geo/id/0e587c59401d0a27.json', place_type='city', name='Pretoria', full_name='Pretoria, South Africa', country_code='ZA', country='South Africa', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[27.9483035, -25.9157727], [28.4198285, -25.9157727], [28.4198285, -25.5894376], [27.9483035, -25.5894376]]]), attributes={})
+
+1353138672753897473

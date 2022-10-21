@@ -1,0 +1,9 @@
+I thought the Governors were in charge of distribution and getting the vaccine in the arms of American citizens they knew it was coming why the screwups,some states really have a problem maybe the should follow Florida https://t.co/wYzmapYXV1
+
+2021-01-24 00:46:18+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2112fba34d5d99cb', url='https://api.twitter.com/1.1/geo/id/2112fba34d5d99cb.json', place_type='city', name='New Concord', full_name='New Concord, OH', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-81.7612642, 39.9808416], [-81.6990154, 39.9808416], [-81.6990154, 40.006252], [-81.7612642, 40.006252]]]), attributes={})
+
+1353142047423799302

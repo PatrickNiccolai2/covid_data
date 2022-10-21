@@ -1,0 +1,9 @@
+conspiracy theorists make no sense it is physically impossible to fit a tracker inside someone yet alone a covid-19 vaccine you're telling me someone thinks the government has nano tech with an unlimited amount of battery that also connects to 5g Where's the consumer version?
+
+2021-01-24 11:41:59+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='53e060d6652640f4', url='https://api.twitter.com/1.1/geo/id/53e060d6652640f4.json', place_type='city', name='Gothenburg', full_name='Gothenburg, Sweden', country_code='SE', country='Sweden', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[11.226313, 57.496298], [12.2417273, 57.496298], [12.2417273, 57.8659142], [11.226313, 57.8659142]]]), attributes={})
+
+1353307055344521216

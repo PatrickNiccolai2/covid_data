@@ -1,0 +1,9 @@
+@Aiims1742 But Vaccine is not the manna from sky! It needs AI, Database, Drones, Robots,, Doctors as Volunteers, Military Elicopters etc🌟 another dimension of thinking that the politicians refuse to know! (Apart the ennesima FAQ: WHO PAYS?😱)
+
+2021-01-23 19:35:35+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='3b18bc168701faee', url='https://api.twitter.com/1.1/geo/id/3b18bc168701faee.json', place_type='city', name='Nettuno', full_name='Nettuno, Lazio', country_code='IT', country='Italy', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[12.6180039, 41.4084135], [12.7777683, 41.4084135], [12.7777683, 41.5397433], [12.6180039, 41.5397433]]]), attributes={})
+
+1353063852301115392

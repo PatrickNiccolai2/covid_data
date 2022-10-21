@@ -1,0 +1,9 @@
+I love my birth state and city, but I need y’all to get the COVID-19 vaccine before y’all decide to have big parties like this..... listen to the mayor and go get tested. https://t.co/ZP3IbqpaKh
+
+2021-01-23 19:30:32+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='7142eb97ae21e839', url='https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json', place_type='admin', name='Georgia', full_name='Georgia, USA', country_code='US', country='United States', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[-85.605166, 30.355644], [-80.742567, 30.355644], [-80.742567, 35.000771], [-85.605166, 35.000771]]]), attributes={})
+
+1353062582387568645

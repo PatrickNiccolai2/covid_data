@@ -1,0 +1,9 @@
+Kenneth Branagh to play #BorisJohnson in TV drama about #Covid crisis https://t.co/of8v2oeMvt
+
+2021-01-24 09:25:11+00:00
+
+None
+
+Place(_api=<tweepy.api.API object at 0x7faf006c1af0>, id='2e2a04d501143fa5', url='https://api.twitter.com/1.1/geo/id/2e2a04d501143fa5.json', place_type='city', name='Saffron Walden', full_name='Saffron Walden, East', country_code='GB', country='United Kingdom', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x7faf006c1af0>, type='Polygon', coordinates=[[[0.228622, 52.00733], [0.266267, 52.00733], [0.266267, 52.0343322], [0.228622, 52.0343322]]]), attributes={})
+
+1353272627603898368
