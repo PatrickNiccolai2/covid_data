@@ -1,17 +1,13 @@
 # covid_data
 
-Data from: https://ourworldindata.org/coronavirus and https://www.unicef.org/supply/covid-19-market-dashboard 
+old_data contains data from: https://ourworldindata.org/coronavirus and https://www.unicef.org/supply/covid-19-market-dashboard, which we currently aren't using but may incorporate in the future. 
 
 Tweets from: https://github.com/rabindralamsal/MegaGeoCOV
 
-`deliveries_by_month.csv` has data on vaccine deliveries by month for every month since December 2020. It separates deliveries by COVAX vs. other donations. It does not separated the deliveries by country. 
+shuffled_tweets.zip contains downloaded tweets including tweet text, the time and location the tweet was posted, and the tweet id.
 
-`owid-covid-data.csv` is our main dataset. It contains time series data by day for all countries in the world. Their are many covid stats included, as well as general data about the countries.
+tweets_with_sent.zip contains the same tweets but with BERTsent sentiment analysis applied and added to the tweet file.
 
-`vaccine_deliveries.csv` has data by country on the total vaccines received. The data is separated by deliveries from COVAX vs. other sources. It only contains total deliveries, not deliveries by month.
+tweet_downloader_4.py is the script to read in the tweet ids from the dataset and then use the twitter API to get those tweets.
 
-`vaccine_donatations.csv` has data by country for the total vaccines that country donated. It does not have donations to COVAX vs. other donations. 
-
-`vaccine_sentiment.csv` has data from surveys given to unvaccinated people on whether or not they would get vaccinated. It only has data for a limited amount of countries. 
-
-`deliveries_by_country_by_month.csv` has data on vaccine deliveries, both COVAX and non-COVAX, separated by country and by month.
+bertsent.py is the script to read in the tweets we have downloaded and then apply BERTsent and save the results.
